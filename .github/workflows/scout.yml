@@ -1,0 +1,60 @@
+name: Depop to eBay scout
+
+on:
+  schedule:
+    # Times are UTC. These are 8:17am, 11:17am, 3:17pm and 8:17pm Pacific (standard time, Nov to Mar).
+    - cron: "17 16,19,23,4 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Test only: print finds in the log instead of sending to Discord"
+        type: boolean
+        default: false
+
+concurrency:
+  group: depop-scout
+  cancel-in-progress: false
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install Scrapling
+        run: pip install -r requirements.txt
+
+      - name: Cache the stealth browser
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: browsers-${{ hashFiles('requirements.txt') }}
+
+      - name: Install the stealth browser (used only if Depop or eBay block plain requests)
+        run: scrapling install || echo "browser install failed; plain requests will still be used"
+
+      - name: Load memory from the last run
+        uses: actions/cache/restore@v4
+        with:
+          path: state
+          key: scout-state-${{ github.run_id }}
+          restore-keys: scout-state-
+
+      - name: Run the scout
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+        run: python scout.py
+
+      - name: Save memory for the next run
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: state
+          key: scout-state-${{ github.run_id }}
