@@ -1,0 +1,87 @@
+{
+ "meta": {
+  "cursor": "abc",
+  "hasMore": true
+ },
+ "products": [
+  {
+   "id": 101,
+   "slug": "seller1-patagonia-synchilla-fleece-snap-t-9f2a",
+   "price": {
+    "amount": 15.0,
+    "currency": "USD"
+   },
+   "totalPrice": {
+    "amount": 16.75
+   },
+   "brand": "Patagonia",
+   "sizes": [
+    {
+     "name": "M"
+    }
+   ],
+   "condition": "Used - Good",
+   "status": "ONSALE",
+   "sellerUsername": "seller1",
+   "pictureUrls": [
+    "https://media-photos.depop.com/r1/101/P0_0.jpg",
+    "https://media-photos.depop.com/r1/101/P0_1.jpg",
+    "https://media-photos.depop.com/r1/101/P0_2.jpg",
+    "https://media-photos.depop.com/r1/101/P0_3.jpg",
+    "https://media-photos.depop.com/r1/101/P0_4.jpg",
+    "https://media-photos.depop.com/r1/101/P0_5.jpg"
+   ],
+   "description": "Vintage Patagonia Synchilla Snap-T fleece pullover\nGreat condition"
+  },
+  {
+   "id": 102,
+   "slug": "seller2-patagonia-synchilla-fleece-1b2c",
+   "price": {
+    "amount": 60.0,
+    "currency": "USD"
+   },
+   "brand": "Patagonia",
+   "pictureUrls": [
+    "https://media-photos.depop.com/r1/102/P0.jpg"
+   ],
+   "description": "Patagonia Synchilla fleece jacket",
+   "status": "ONSALE"
+  },
+  {
+   "id": 103,
+   "slug": "seller3-patagonia-fleece-lot-of-3-aa11",
+   "price": {
+    "amount": 30.0,
+    "currency": "USD"
+   },
+   "brand": "Patagonia",
+   "pictureUrls": [],
+   "description": "Lot of 3 fleece jackets",
+   "status": "ONSALE"
+  },
+  {
+   "id": 104,
+   "slug": "seller4-patagonia-synchilla-sold-77aa",
+   "price": {
+    "amount": 18.0,
+    "currency": "USD"
+   },
+   "brand": "Patagonia",
+   "pictureUrls": [],
+   "description": "Patagonia Synchilla",
+   "isSold": true
+  },
+  {
+   "id": 105,
+   "slug": "seller5-patagonia-synchilla-vest-55bb",
+   "price": {
+    "amount": 45.0,
+    "currency": "USD"
+   },
+   "brand": "Patagonia",
+   "pictureUrls": [],
+   "description": "Patagonia Synchilla vest",
+   "status": "ONSALE"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "products": [
+  {
+   "id": 201,
+   "slug": "shopx-carhartt-detroit-jacket-blanket-lined-0f30",
+   "price": {
+    "priceAmount": "35.00",
+    "currencyName": "USD",
+    "nationalShippingCost": "8.99"
+   },
+   "brand": {
+    "name": "Carhartt"
+   },
+   "size": {
+    "name": "L"
+   },
+   "status": "ONSALE",
+   "preview": {
+    "150": "https://media-photos.depop.com/b0/201/P1_150.jpg",
+    "640": "https://media-photos.depop.com/b0/201/P1_640.jpg"
+   },
+   "pictures": [
+    {
+     "formats": {
+      "P0": {
+       "url": "https://media-photos.depop.com/b0/201/P0.jpg"
+      },
+      "P5": {
+       "url": "https://media-photos.depop.com/b0/201/P5.jpg"
+      }
+     }
+    },
+    {
+     "formats": {
+      "P0": {
+       "url": "https://media-photos.depop.com/b0/202/P0.jpg"
+      }
+     }
+    }
+   ],
+   "description": "Carhartt Detroit jacket blanket lined"
+  },
+  {
+   "id": 202,
+   "slug": "shopy-carhartt-jacket-cents-1a1a",
+   "pricing": {
+    "original_price": {
+     "amount": 4200
+    }
+   },
+   "brand": "Carhartt",
+   "description": "Carhartt jacket",
+   "status": "ONSALE"
+  }
+ ]
+}

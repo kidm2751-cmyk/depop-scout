@@ -1,0 +1,317 @@
+# Depop searches, one per line. The scout rotates through all of them (about 75 per run, 4 runs a day).
+# Lines starting with # are ignored. Brand + item works best, because eBay buyers search that way.
+# Left out on purpose: luxury brands that are counterfeited a lot (Louis Vuitton, Gucci, Chrome Hearts, Bape, etc).
+
+# ---- Outdoor and fleece ----
+Patagonia Synchilla fleece
+Patagonia Better Sweater
+Patagonia Retro-X fleece
+Patagonia Nano Puff jacket
+Patagonia Baggies shorts
+Patagonia fleece vest
+Patagonia Snap-T pullover
+Patagonia Down Sweater
+The North Face Nuptse 700
+The North Face Denali fleece
+The North Face puffer jacket
+The North Face vintage jacket
+The North Face Steep Tech
+Arcteryx Atom jacket
+Arcteryx Beta jacket
+Arcteryx fleece
+Columbia vintage fleece
+Columbia Bugaboo jacket
+Marmot vintage jacket
+Eddie Bauer vintage jacket
+LL Bean Norwegian sweater
+LL Bean Bean boots
+LL Bean vintage flannel
+LL Bean barn jacket
+Woolrich wool jacket
+Pendleton wool shirt
+Pendleton board shirt
+Filson jacket
+Filson tin cloth
+Barbour waxed jacket
+Barbour Bedale
+Fjallraven Kanken
+Helly Hansen vintage jacket
+Mountain Hardwear jacket
+REI vintage fleece
+# ---- Workwear ----
+Carhartt Detroit jacket
+Carhartt double knee pants
+Carhartt chore coat
+Carhartt active jacket
+Carhartt vintage jacket
+Carhartt carpenter pants
+Carhartt hoodie vintage
+Carhartt bib overalls
+Dickies 874 pants
+Dickies Eisenhower jacket
+Ben Davis jacket
+Red Kap work shirt
+Wrangler Cowboy Cut jeans
+Wrangler western shirt pearl snap
+Key overalls vintage
+OshKosh vintage overalls
+# ---- Denim ----
+Levis 501 vintage
+Levis 501 made in USA
+Levis 505 vintage
+Levis 550 vintage
+Levis orange tab
+Levis big E
+Levis trucker jacket
+Levis silver tab
+Levis 569 baggy
+Lee Storm Rider jacket
+Lee vintage jeans
+JNCO jeans
+Evisu jeans
+True Religion jeans
+Diesel vintage jeans
+Guess vintage jeans
+Tommy Hilfiger vintage jeans
+Polo Ralph Lauren jeans vintage
+Calvin Klein vintage jeans
+# ---- Vintage sports and team ----
+Starter jacket NFL
+Starter jacket NBA
+Starter pullover jacket
+NFL vintage sweatshirt
+NBA vintage jersey
+Champion NBA jersey
+Nutmeg Mills sweatshirt
+Salem Sportswear shirt
+Logo 7 vintage
+Chalk Line jacket
+Jeff Hamilton jacket
+NASCAR vintage jacket
+NASCAR vintage tee
+Mitchell and Ness jersey
+Russell Athletic vintage
+vintage college crewneck
+vintage NHL jersey CCM
+vintage MLB jersey
+vintage NFL jersey Reebok
+vintage soccer jersey
+Umbro vintage jersey
+Adidas vintage soccer jersey
+Nike vintage soccer jersey
+Kappa vintage track jacket
+Champion reverse weave
+Champion vintage hoodie
+# ---- Nike / Adidas / sportswear ----
+Nike vintage center swoosh
+Nike ACG jacket
+Nike ACG fleece
+Nike vintage windbreaker
+Nike Tech fleece
+Nike vintage hoodie
+Nike Team sweatshirt
+Adidas vintage trefoil
+Adidas Firebird track jacket
+Adidas vintage track pants
+Adidas vintage windbreaker
+Puma vintage jacket
+Fila vintage jacket
+Reebok vintage jacket
+Ellesse vintage
+Sergio Tacchini track jacket
+Fred Perry track jacket
+Under Armour storm hoodie
+# ---- Graphic and band tees ----
+vintage band tee
+vintage Harley Davidson shirt
+Harley Davidson jacket
+vintage Disney shirt
+vintage Looney Tunes shirt
+Grateful Dead shirt
+Metallica vintage shirt
+Nirvana shirt vintage
+rap tee vintage
+Hard Rock Cafe vintage
+vintage Marvel shirt
+anime shirt vintage
+single stitch tee
+Liquid Blue shirt
+Stussy vintage
+vintage Nintendo shirt
+vintage cartoon shirt
+vintage tour shirt
+vintage movie shirt
+vintage beer shirt
+# ---- Ralph Lauren / preppy ----
+Polo Ralph Lauren cable knit sweater
+Polo Bear sweater
+Polo Sport vintage
+RRL Ralph Lauren
+Polo Ralph Lauren vintage jacket
+Polo Ralph Lauren oxford shirt
+Polo Ralph Lauren rugby shirt
+Polo Ralph Lauren quarter zip
+Ralph Lauren hi tech
+Tommy Hilfiger vintage jacket
+Tommy Hilfiger vintage shirt
+Nautica vintage jacket
+Nautica Competition
+Lacoste vintage
+Brooks Brothers sweater
+J Crew vintage
+Gant vintage
+Vineyard Vines quarter zip
+# ---- Y2K and womenswear ----
+Juicy Couture tracksuit
+Juicy Couture velour
+Ed Hardy shirt
+Von Dutch hat
+Baby Phat
+Apple Bottoms jeans
+Coogi sweater
+Free People sweater
+Free People dress
+Anthropologie dress
+Reformation dress
+Brandy Melville
+Lululemon Define jacket
+Lululemon Align leggings
+Lululemon Scuba hoodie
+Aritzia Super Puff
+Aritzia Babaton
+Skims
+Alo Yoga
+Athleta
+Vuori joggers
+Abercrombie vintage
+Hollister vintage
+American Eagle vintage
+Betsey Johnson vintage
+Sezane
+Doen dress
+Free People Movement
+# ---- Shoes and boots ----
+Dr Martens 1460
+Dr Martens Jadon
+Dr Martens Adrian loafer
+Birkenstock Boston clog
+Birkenstock Arizona
+UGG Tasman
+UGG Ultra Mini
+Blundstone boots
+Red Wing boots
+Red Wing Iron Ranger
+Danner boots
+Frye boots
+Timberland vintage boots
+Clarks Wallabees
+New Balance 990
+New Balance 993
+New Balance 550
+New Balance 2002R
+Asics Gel Kayano 14
+Asics Gel NYC
+Salomon XT-6
+Nike Air Max 90
+Nike Air Max 95
+Nike Dunk Low
+Nike Cortez
+Adidas Samba
+Adidas Gazelle
+Adidas Campus
+Converse Chuck 70
+Vans Old Skool
+Onitsuka Tiger Mexico 66
+Sorel boots
+Hunter boots
+Tony Lama boots
+Lucchese boots
+Justin boots
+Ariat boots
+# ---- Bags and accessories ----
+vintage Coach bag
+Coach Tabby bag
+Dooney and Bourke vintage
+Longchamp Le Pliage
+Kate Spade bag
+Vera Bradley retired pattern
+Fossil vintage bag
+Tory Burch bag
+Jansport vintage backpack
+Casio G-Shock
+Seiko vintage watch
+Timex vintage watch
+Oakley vintage sunglasses
+Oakley Juliet
+vintage snapback hat
+vintage trucker hat
+Carhartt beanie
+Patagonia hat
+Pendleton blanket
+# ---- Electronics, cameras, games ----
+Canon PowerShot digital camera
+Sony Cybershot digital camera
+Nikon Coolpix camera
+Olympus film camera
+Canon AE-1
+Minolta film camera
+Polaroid camera vintage
+Fujifilm Instax
+iPod classic
+iPod nano
+Nintendo DS
+Nintendo 3DS
+Game Boy Advance
+Game Boy Color
+Nintendo Wii
+PlayStation 2
+Sony Walkman
+Sony Discman
+vintage boombox
+Tamagotchi
+# ---- Toys and collectibles ----
+American Girl doll
+Polly Pocket vintage
+vintage Barbie
+Care Bears vintage
+Sanrio vintage
+Hello Kitty vintage
+Disney vintage plush
+Furby
+Beanie Babies retired
+Littlest Pet Shop
+My Little Pony vintage
+Bratz doll
+Monster High doll
+vintage Lego
+Hot Wheels Redline
+Star Wars vintage figure
+vintage Transformers
+Teenage Mutant Ninja Turtles vintage
+# ---- More brands people search on eBay ----
+Stone Island
+CP Company
+Burton snowboard jacket
+Quiksilver vintage
+Billabong vintage
+Volcom vintage
+Hurley vintage
+Oakley vintage jacket
+Columbia PFG shirt
+Huk shirt
+Simms fishing
+Orvis shirt
+Bass Pro vintage hat
+John Deere vintage hat
+Caterpillar vintage hat
+Pepsi vintage shirt
+Coca Cola vintage shirt
+Budweiser vintage jacket
+Marlboro vintage
+Camel vintage shirt
+Disney World vintage sweatshirt
+Hard Rock vintage jacket
+Route 66 vintage
+Yellowstone vintage shirt
+national park vintage shirt
+vintage souvenir sweatshirt
