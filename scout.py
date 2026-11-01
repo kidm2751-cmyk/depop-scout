@@ -120,6 +120,7 @@ class Net:
         self.dead = set()        # Depop search methods that are refused this run (skipped after that)
         self.fails = {}          # method -> refusals in a row
         self.how = ""            # which method found the last search's listings
+        self.host_refusals = {}  # site -> plain requests refused in a row
 
     def _pause(self, host: str):
         lo, hi = S.DELAY_SECONDS
@@ -142,16 +143,25 @@ class Net:
         """headers given = send exactly those (e.g. Depop app headers); otherwise Scrapling makes browser-like ones."""
         from scrapling.fetchers import Fetcher
         host = urllib.parse.urlparse(url).netloc
+        if self.host_refusals.get(host, 0) >= 3:
+            return None   # this site keeps refusing plain requests this run: callers use the browser instead
         self._pause(host)
         self.requests += 1
         h = dict(headers or {})
         if accept_json and "Accept" not in h:
             h["Accept"] = "application/json, text/plain, */*"
         try:
-            return Fetcher.get(url, params=params, impersonate="chrome", stealthy_headers=not headers, timeout=30, retries=2, headers=h or None)
+            r = Fetcher.get(url, params=params, impersonate="chrome", stealthy_headers=not headers, timeout=30, retries=2, headers=h or None)
         except Exception as e:  # network error
             log("  request failed:", url[:90], type(e).__name__)
             return None
+        if getattr(r, "status", 0) in (401, 403, 429):
+            self.host_refusals[host] = self.host_refusals.get(host, 0) + 1
+            if self.host_refusals[host] == 3:
+                log(f"  ({host} refuses plain requests from here: using the browser for it from now on)")
+        elif getattr(r, "status", 0) == 200:
+            self.host_refusals[host] = 0
+        return r
 
     def browser(self, url: str, record_pattern: str | None = None, wait_selector: str | None = None):
         """Load a page in Scrapling's stealth browser. Returns (page, [recorded JSON responses]).
@@ -819,9 +829,20 @@ def run() -> dict:
     net = Net()
     stats = {"keywords": len(batch), "depop_found": 0, "new": 0, "ebay_checked": 0, "no_comps": 0, "not_profitable": 0, "alerts": 0, "sold_out": 0}
     pending = []
+    t0 = now()
+    budget = S.RUN_MINUTES * 60
+
+    def mins():
+        return (now() - t0) / 60
+
     log(f"Searching {len(batch)} keywords (from #{start + 1})")
     try:
         for n, kw in enumerate(batch):
+            if now() - t0 > budget * S.SEARCH_SHARE_OF_TIME:
+                stats["keywords"] = n
+                st["cursor"] = (start + n) % len(kws)   # the rest are searched first next run
+                log(f"Search time used up after {n} keywords ({mins():.0f} min); the rest are searched next run.")
+                break
             if n >= S.STOP_AFTER_EMPTY_SEARCHES and stats["depop_found"] == 0:
                 stats["stopped_early"] = n
                 log(f"Depop returned nothing for the first {n} searches, so this run stops here instead of wasting time.")
@@ -845,13 +866,24 @@ def run() -> dict:
             if fresh:
                 med = percentile([i["price"] for i in items if not i["sold"]] or [1], 0.5)
                 fresh.sort(key=lambda i: i["price"] / med - (0.1 if i["brand"] else 0))
-            for it in fresh[:S.CANDIDATES_PER_KEYWORD]:
-                pending.append((kw, it))
+            for rank, it in enumerate(fresh[:S.CANDIDATES_PER_KEYWORD]):
+                pending.append((rank, it["price"] / med, kw, it))
             stats["new"] += len(fresh)
             log(f"  {kw}: {len(items)} listings, {len(fresh)} new" + (f" (via {net.how})" if items else ""))
 
+        save_state(st)
+        # every keyword's best bargain first, then the second-best of each, and so on (so late keywords get checked too)
+        pending.sort(key=lambda x: (x[0], x[1]))
+        todo = pending[:S.MAX_EBAY_CHECKS_PER_RUN]
+        log(f"Checking {len(todo)} of {len(pending)} candidates on eBay ({mins():.0f} min so far)")
         alerts_sent = 0
-        for kw, it in pending[:S.MAX_EBAY_CHECKS_PER_RUN]:
+        for i, (_, _, kw, it) in enumerate(todo):
+            if now() - t0 > budget:
+                stats["out_of_time"] = len(todo) - i
+                log(f"Time limit reached; {len(todo) - i} candidates left for another run.")
+                break
+            if i and i % 5 == 0:
+                save_state(st)   # so a cut-off run still remembers its work
             it = depop_details(net, it)
             if it["sold"]:
                 stats["sold_out"] += 1
@@ -862,6 +894,7 @@ def run() -> dict:
             stats["ebay_checked"] += 1
             ev = evaluate(it, comps, q)
             if not ev:
+                log(f"  {it['title'][:50]}: not enough eBay matches for '{q}' ({len(comps.get('sold', []))} sold, {len(comps.get('active', []))} active listings read)")
                 stats["no_comps"] += 1
                 st["seen"][it["id"]] = {"v": "fail", "t": now(), "p": it["price"]}
                 continue
@@ -877,6 +910,7 @@ def run() -> dict:
     finally:
         net.close()
         stats["requests"] = net.requests
+        stats["minutes"] = round(mins(), 1)
         stats["blocked"] = dict(net.blocked)
         save_state(st)
 
