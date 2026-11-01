@@ -44,6 +44,8 @@ SEND_RUN_SUMMARY = True
 # ---- Politeness / memory ----
 DELAY_SECONDS = (1.5, 3.5)       # random pause between requests to the same site
 USE_BROWSER_FALLBACK = True      # if plain requests get blocked, load the page in Scrapling's stealth browser
+BROWSER_TIMEOUT_SECONDS = 25     # longest the browser waits for a page
+STOP_AFTER_EMPTY_SEARCHES = 4    # if the first this-many Depop searches all find nothing, stop the run (Depop is blocking)
 REMEMBER_ALERTED_DAYS = 30       # don't re-alert the same listing for this long (unless the price drops)
 REMEMBER_CHECKED_DAYS = 3        # listings that didn't qualify are re-checked after this long
 EBAY_COMP_CACHE_HOURS = 48       # reuse eBay price lookups for the same search this long

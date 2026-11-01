@@ -116,6 +116,10 @@ class Net:
         self._session = None
         self.requests = 0
         self.blocked = {"depop": 0, "ebay": 0}
+        self.last_requests = []
+        self.dead = set()        # Depop search methods that are refused this run (skipped after that)
+        self.fails = {}          # method -> refusals in a row
+        self.how = ""            # which method found the last search's listings
 
     def _pause(self, host: str):
         lo, hi = S.DELAY_SECONDS
@@ -134,20 +138,25 @@ class Net:
         body = (getattr(resp, "html_content", "") or "")[:4000].lower()
         return any(s in body for s in ("captcha", "cf-chl", "challenge-platform", "access denied", "pardon our interruption", "verify you are a human"))
 
-    def get(self, url: str, params: dict | None = None, accept_json: bool = False):
+    def get(self, url: str, params: dict | None = None, accept_json: bool = False, headers: dict | None = None):
+        """headers given = send exactly those (e.g. Depop app headers); otherwise Scrapling makes browser-like ones."""
         from scrapling.fetchers import Fetcher
         host = urllib.parse.urlparse(url).netloc
         self._pause(host)
         self.requests += 1
-        headers = {"Accept": "application/json, text/plain, */*"} if accept_json else None
+        h = dict(headers or {})
+        if accept_json and "Accept" not in h:
+            h["Accept"] = "application/json, text/plain, */*"
         try:
-            return Fetcher.get(url, params=params, impersonate="chrome", stealthy_headers=True, timeout=30, retries=2, headers=headers)
+            return Fetcher.get(url, params=params, impersonate="chrome", stealthy_headers=not headers, timeout=30, retries=2, headers=h or None)
         except Exception as e:  # network error
             log("  request failed:", url[:90], type(e).__name__)
             return None
 
-    def browser(self, url: str, record_pattern: str | None = None):
-        """Load a page in Scrapling's stealth browser. Returns (page, [recorded JSON responses])."""
+    def browser(self, url: str, record_pattern: str | None = None, wait_selector: str | None = None):
+        """Load a page in Scrapling's stealth browser. Returns (page, [recorded JSON responses]).
+        Also keeps the list of every request the page made in self.last_requests (for the debug files)."""
+        self.last_requests = []
         if not S.USE_BROWSER_FALLBACK:
             return None, []
         from scrapling.fetchers import StealthySession
@@ -156,13 +165,19 @@ class Net:
         self.requests += 1
         try:
             if self._session is None:
-                self._session = StealthySession(headless=True, solve_cloudflare=True, block_ads=True, record_requests=True, network_idle=True, timeout=60000)
+                # network_idle is OFF on purpose: pages full of trackers never go idle, which cost ~2 minutes per page
+                self._session = StealthySession(headless=True, solve_cloudflare=True, block_ads=True, record_requests=True,
+                                                network_idle=False, timeout=S.BROWSER_TIMEOUT_SECONDS * 1000)
                 self._session.__enter__()
             self._session.network.clear()
-            page = self._session.fetch(url)
+            kw = {"wait": 1500}
+            if wait_selector:
+                kw["wait_selector"] = wait_selector
+            page = self._session.fetch(url, **kw)
             found = []
-            if record_pattern:
-                for r in self._session.network.search(url_pattern=record_pattern, limit=None):
+            for r in self._session.network.search(limit=None):
+                self.last_requests.append(f"{getattr(r, 'status', '?')} {getattr(r, 'method', '')} {r.url}")
+                if record_pattern and re.search(record_pattern, r.url) and getattr(r, "status", 0) == 200:
                     try:
                         found.append(r.json())
                     except Exception:
@@ -202,11 +217,34 @@ def page_json(resp):
 
 
 # ============================================================ Depop
+DEPOP_APP_HEADERS = {   # how Depop's iPhone app identifies itself
+    "User-Agent": "Depop/3.100.0 (com.depop.depop; iOS 17.5; iPhone14,5)",
+    "Accept": "application/json",
+    "Accept-Language": "en-US,en;q=0.9",
+    "X-Depop-Client": "ios",
+    "X-Depop-Client-Version": "3.100.0",
+    "X-Depop-Client-Platform": "ios",
+}
+# (name, url, headers, style of parameters). v3 was dropped: Depop answers 410 (retired).
 DEPOP_SEARCH_APIS = [
-    "https://webapi.depop.com/presentation/api/v1/search/products/",
-    "https://webapi.depop.com/api/v3/search/products/",
-    "https://webapi.depop.com/api/v2/search/products/",
+    ("web-api", "https://webapi.depop.com/presentation/api/v1/search/products/", None, "web"),
+    ("app-api", "https://webapi.depop.com/api/v2/search/products/", DEPOP_APP_HEADERS, "app"),
 ]
+
+DEBUG_DIR = ROOT / "debug"
+_debug_done = set()
+
+
+def debug_save(name: str, content: str) -> None:
+    """Save the first example of each page type, so a blocked run can be diagnosed (uploaded with the run)."""
+    if name in _debug_done or not content:
+        return
+    _debug_done.add(name)
+    try:
+        DEBUG_DIR.mkdir(parents=True, exist_ok=True)
+        (DEBUG_DIR / name).write_text(str(content)[:3_000_000])
+    except Exception:
+        pass
 
 
 def walk(obj):
@@ -341,23 +379,150 @@ def json_blobs_from_html(html: str) -> list:
     return blobs
 
 
+def rsc_text(html: str) -> str:
+    """Newer Next.js pages hide their data in self.__next_f.push([1,"..."]) chunks; join them into one text."""
+    chunks = []
+    for m in re.finditer(r'self\.__next_f\.push\(\[\s*\d+\s*,\s*("(?:[^"\\]|\\.)*")\s*\]\)', html or "", re.S):
+        try:
+            chunks.append(json.loads(m.group(1)))
+        except Exception:
+            pass
+    return "".join(chunks)
+
+
+def objects_with_slug(text: str, cap: int = 400) -> list[dict]:
+    """Pull JSON objects that contain a "slug" out of any text (RSC data, inline scripts)."""
+    out, dec, starts = [], json.JSONDecoder(), set()
+    for m in re.finditer(r'"slug"\s*:\s*"', text or ""):
+        if len(out) >= cap:
+            break
+        pos, j = m.start(), m.start()
+        for _ in range(8):   # try the nearest few "{" before the slug until one encloses it
+            j = text.rfind("{", 0, j)
+            if j < 0 or j in starts:
+                break
+            try:
+                obj, end = dec.raw_decode(text, j)
+            except ValueError:
+                continue
+            if end > pos and isinstance(obj, dict):
+                starts.add(j)
+                out.append(obj)
+                break
+    return out
+
+
+def products_from_page(html: str) -> list[dict]:
+    """Listings from a Depop page's embedded data: __NEXT_DATA__ / JSON-LD, then Next.js RSC data, then the visible cards."""
+    prods = []
+    for blob in json_blobs_from_html(html):
+        prods += products_from_json(blob)
+    if not prods:
+        prods = products_from_json(objects_with_slug(rsc_text(html)) + objects_with_slug(html))
+    if not prods:
+        prods = products_from_dom(html)
+    seen, out = set(), []
+    for p in prods:
+        if p["slug"] not in seen:
+            seen.add(p["slug"])
+            out.append(p)
+    return out
+
+
+def products_from_dom(html: str) -> list[dict]:
+    """Last resort: read the product cards a person sees (link, price, photo). The listing page fills in the rest."""
+    if not html or "/products/" not in html:
+        return []
+    from scrapling.parser import Selector
+    doc = Selector(html)
+
+    def slugs_in(node):
+        return {m.group(1) for h in node.css('a[href*="/products/"]::attr(href)').getall()
+                for m in [re.search(r"/products/([A-Za-z0-9][A-Za-z0-9_-]+)", h)] if m}
+
+    out, seen = [], set()
+    for a in doc.css('a[href*="/products/"]'):
+        m = re.search(r"/products/([A-Za-z0-9][A-Za-z0-9_-]+)", a.attrib.get("href", ""))
+        if not m or m.group(1) in seen:
+            continue
+        slug, node, prices, text = m.group(1), a, [], ""
+        for _ in range(4):   # price may sit next to the link; climb while the box holds only this one listing
+            text = " ".join(t.strip() for t in node.css("::text").getall() if t.strip())
+            prices = [p for p in (to_price(x) for x in re.findall(r"(?:US)?\$\s?\d[\d,]*(?:\.\d{2})?", text)) if p]
+            if prices:
+                break
+            parent = node.parent
+            if parent is None or len(slugs_in(parent)) > 1:
+                break
+            node = parent
+        if not prices:
+            continue
+        seen.add(slug)
+        imgs = [u for u in node.css("img::attr(src)").getall() if "depop" in u and u.startswith("http")]
+        p = normalize_depop({"slug": slug, "price": float(min(prices)), "pictureUrls": imgs[:1],
+                             "sold": bool(re.search(r"\bsold\b", text, re.I))})
+        if p:
+            out.append(p)
+    return out
+
+
 def depop_search(net: Net, query: str) -> list[dict]:
-    params = {"what": query, "country": "us", "currency": "USD", "items_per_page": S.DEPOP_RESULTS_PER_KEYWORD, "itemsPerPage": S.DEPOP_RESULTS_PER_KEYWORD}
-    for api in DEPOP_SEARCH_APIS:
-        r = net.get(api, params=params, accept_json=True)
-        if r is not None and getattr(r, "status", 0) == 200:
-            prods = products_from_json(page_json(r))
-            if prods:
-                return prods
-    # fallback: the normal search page in the stealth browser, reading the data the page itself loads
+    """Tries, in order: Depop's web data feed, its app data feed, the plain search page, then the stealth browser.
+    A method Depop keeps refusing is skipped for the rest of the run, so blocked runs stay fast."""
+    web = {"what": query, "country": "us", "currency": "USD", "items_per_page": S.DEPOP_RESULTS_PER_KEYWORD, "itemsPerPage": S.DEPOP_RESULTS_PER_KEYWORD}
+    app = {"what": query, "limit": S.DEPOP_RESULTS_PER_KEYWORD, "offset": 0, "country": "us", "currency": "USD"}
+
+    def refused(name, status):
+        net.fails[name] = net.fails.get(name, 0) + 1
+        if status in (404, 410) or net.fails[name] >= 3:
+            if name not in net.dead:
+                log(f"  (Depop refuses '{name}' from here: skipping it for the rest of this run)")
+            net.dead.add(name)
+
+    for name, url, headers, style in DEPOP_SEARCH_APIS:
+        if name in net.dead:
+            continue
+        r = net.get(url, params=web if style == "web" else app, accept_json=True, headers=headers)
+        status = getattr(r, "status", 0) if r is not None else 0
+        debug_save(f"depop_{name}.txt", f"HTTP {status}\n{page_text(r)[:5000]}")
+        prods = products_from_json(page_json(r)) if status == 200 else []
+        if prods:
+            net.fails[name] = 0
+            net.how = name
+            return prods
+        refused(name, status)
+
+    page_url = f"https://www.depop.com/search/?q={urllib.parse.quote(query)}"
+    if "search-page" not in net.dead:
+        r = net.get(page_url)
+        html = page_text(r) if r is not None and not Net._blocked(r) else ""
+        debug_save("depop_search_page_plain.html", page_text(r))
+        prods = products_from_page(html)
+        if prods:
+            net.fails["search-page"] = 0
+            net.how = "search-page"
+            return prods
+        refused("search-page", getattr(r, "status", 0) if r is not None else 0)
+
     net.blocked["depop"] += 1
-    page, recorded = net.browser(f"https://www.depop.com/search/?q={urllib.parse.quote(query)}", record_pattern=r"search/products")
+    if "browser" in net.dead:
+        net.how = "none"
+        return []
+    page, recorded = net.browser(page_url, record_pattern=r"webapi\.depop\.com|/api/|search", wait_selector='a[href*="/products/"]')
+    html = page_text(page)
+    debug_save("depop_search_page_browser.html", html)
+    debug_save("depop_browser_requests.txt", "\n".join(net.last_requests))
     prods = []
     for blob in recorded:
         prods += products_from_json(blob)
-    if not prods and page is not None:
-        for blob in json_blobs_from_html(page_text(page)):
-            prods += products_from_json(blob)
+    if not prods:
+        prods = products_from_page(html)
+    if prods:
+        net.fails["browser"] = 0
+        net.how = "browser"
+    else:
+        refused("browser", 0)
+        net.how = "none"
     return prods
 
 
@@ -365,13 +530,19 @@ def depop_details(net: Net, item: dict) -> dict:
     """Open the listing page for all photos, shipping, size and condition."""
     r = net.get(item["url"])
     html = page_text(r) if r is not None and not Net._blocked(r) else ""
-    if not html:
-        page, _ = net.browser(item["url"])
+    debug_save("depop_listing_plain.html", page_text(r))
+    blobs = json_blobs_from_html(html)
+    if html and not any(d.get("slug") == item["slug"] for b in blobs for d in walk(b)):
+        blobs += objects_with_slug(rsc_text(html))
+    if not any(d.get("slug") == item["slug"] or str(d.get("@type", "")).lower() == "product" for b in blobs for d in walk(b)):
+        page, _ = net.browser(item["url"], wait_selector='img[src*="depop"]')
         html = page_text(page)
+        debug_save("depop_listing_browser.html", html)
+        blobs = json_blobs_from_html(html) + objects_with_slug(rsc_text(html))
     if not html:
         return item
     best = None
-    for blob in json_blobs_from_html(html):
+    for blob in blobs:
         for d in walk(blob):
             if d.get("slug") == item["slug"]:
                 p = normalize_depop(d)
@@ -450,10 +621,12 @@ def ebay_comps(net: Net, st: dict, query: str, condition: str) -> dict:
         url = ebay_url(query, condition, kind == "sold")
         r = net.get(url)
         html = page_text(r) if r is not None and not Net._blocked(r) else ""
+        debug_save(f"ebay_{kind}_plain.html", page_text(r))
         if not html or "s-item" not in html and "s-card" not in html:
             net.blocked["ebay"] += 1
-            page, _ = net.browser(url)
+            page, _ = net.browser(url, wait_selector="li.s-item, li.s-card")
             html = page_text(page)
+            debug_save(f"ebay_{kind}_browser.html", html)
         items = parse_ebay_results(html) if html else []
         if kind == "sold":
             items = [i for i in items if i["sold"]] or []
@@ -648,7 +821,13 @@ def run() -> dict:
     pending = []
     log(f"Searching {len(batch)} keywords (from #{start + 1})")
     try:
-        for kw in batch:
+        for n, kw in enumerate(batch):
+            if n >= S.STOP_AFTER_EMPTY_SEARCHES and stats["depop_found"] == 0:
+                stats["stopped_early"] = n
+                log(f"Depop returned nothing for the first {n} searches, so this run stops here instead of wasting time.")
+                st["cursor"] = start   # nothing was really searched: retry the same keywords next run
+                stats["keywords"] = n
+                break
             items = depop_search(net, kw)
             stats["depop_found"] += len(items)
             fresh = []
@@ -669,7 +848,7 @@ def run() -> dict:
             for it in fresh[:S.CANDIDATES_PER_KEYWORD]:
                 pending.append((kw, it))
             stats["new"] += len(fresh)
-            log(f"  {kw}: {len(items)} listings, {len(fresh)} new")
+            log(f"  {kw}: {len(items)} listings, {len(fresh)} new" + (f" (via {net.how})" if items else ""))
 
         alerts_sent = 0
         for kw, it in pending[:S.MAX_EBAY_CHECKS_PER_RUN]:
@@ -704,7 +883,10 @@ def run() -> dict:
     if S.SEND_RUN_SUMMARY:
         lines = [f"📋 **Depop → eBay scout**: {stats['keywords']} searches, {stats['depop_found']} Depop listings, {stats['new']} new, {stats['ebay_checked']} checked on eBay → **{stats['alerts']} find{'s' if stats['alerts'] != 1 else ''}**.",
                  f"Not enough eBay matches: {stats['no_comps']} • below your ${S.MIN_PROFIT:.0f} / {S.MIN_ROI_PCT}% target: {stats['not_profitable']} • already sold: {stats['sold_out']}. Next run starts at keyword #{st['cursor'] + 1} of {len(kws)}."]
-        if stats["depop_found"] == 0:
+        if stats.get("stopped_early"):
+            lines.append(f"⚠️ Depop returned nothing for the first {stats['stopped_early']} searches, so this run stopped early. Depop is likely blocking GitHub's servers. "
+                         "Download the **debug** file from this run's Summary page on GitHub and send it to Claude.")
+        elif stats["depop_found"] == 0:
             lines.append("⚠️ Depop returned nothing this run. It may be blocking GitHub's servers. If this repeats, the scout may need to run from your own PC or through a proxy.")
         elif stats["blocked"]["ebay"] > stats["ebay_checked"] * 0.5 and stats["ebay_checked"]:
             lines.append("⚠️ eBay blocked many lookups this run, so fewer items could be priced.")
