@@ -3,8 +3,9 @@ name: Depop to eBay scout
 on:
   schedule:
     # Times are UTC. These are 8:17am, 11:17am, 3:17pm and 8:17pm Pacific (standard time, Nov to Mar).
+    # From March to November (daylight time) they run one hour later. GitHub can start scheduled runs a few minutes late.
     - cron: "17 16,19,23,4 * * *"
-  workflow_dispatch:
+  workflow_dispatch:          # lets you press "Run workflow" any time
     inputs:
       dry_run:
         description: "Test only: print finds in the log instead of sending to Discord"
@@ -12,7 +13,7 @@ on:
         default: false
 
 concurrency:
-  group: depop-scout
+  group: depop-scout          # never two runs at once
   cancel-in-progress: false
 
 jobs:
@@ -58,3 +59,12 @@ jobs:
         with:
           path: state
           key: scout-state-${{ github.run_id }}
+
+      - name: Save debug files (download "debug" from this run's Summary page)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug
+          path: debug/
+          if-no-files-found: ignore
+          retention-days: 7
