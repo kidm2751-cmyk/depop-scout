@@ -483,19 +483,19 @@
  "depop:uiroin98-new-balance-2002r-black-sneakers-18f5": {
   "brand": "New Balance",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-07T18:08:08Z",
-  "condition": null,
+  "checkedAt": "2026-11-07T21:10:57Z",
+  "condition": "Used",
   "inStock": true,
   "key": "depop:uiroin98-new-balance-2002r-black-sneakers-18f5",
-  "max": 12.41,
+  "max": 8.81,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/364429884/5140711202_72eec897ee6449db92b65346197e13a8/P0.jpg",
   "platform": "depop",
   "price": 8.0,
-  "seller": null,
+  "seller": "uirbin98",
   "shipping": 8.0,
   "shippingKnown": false,
-  "size": null,
+  "size": "US 9.5",
   "slug": "uiroin98-new-balance-2002r-black-sneakers-18f5",
   "sold": false,
   "status": "ok",
@@ -503,7 +503,7 @@
   "title": "New Balance 2002R black sneakers #newbalance #running",
   "totalCost": 18.32,
   "url": "https://www.depop.com/products/uiroin98-new-balance-2002r-black-sneakers-18f5/",
-  "verdict": "TOO HIGH: 18.32 total is over your max 12.41"
+  "verdict": "TOO HIGH: 18.32 total is over your max 8.81"
  },
  "depop:v_rguyen23-pleasures-black-t-shirt-new-without-05ec": {
   "brand": "Pleasures Now",
