@@ -1,0 +1,16 @@
+{
+ "ok": false,
+ "requestId": "test1",
+ "finishedAt": "2026-11-07T05:39:12Z",
+ "checked": 1,
+ "items": [
+  {
+   "asin": "B09BNGBLQK",
+   "url": "https://www.amazon.com/dp/B09BNGBLQK",
+   "checkedAt": "2026-11-07T05:39:12Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "No product page for this ASIN (wrong ASIN, or the listing was removed)."
+  }
+ ]
+}
