@@ -545,6 +545,77 @@ def depop_search(net: Net, query: str) -> list[dict]:
     return prods
 
 
+CONDITION_NAMES = {"brand_new": "Brand new", "new": "Brand new", "new_with_tags": "Brand new", "like_new": "Like new", "used_like_new": "Like new",
+                   "used_excellent": "Used - Excellent", "excellent": "Used - Excellent", "used_good": "Used - Good", "good": "Used - Good",
+                   "used_fair": "Used - Fair", "fair": "Used - Fair", "newcondition": "Brand new", "usedcondition": "Used"}
+SIZE_RE = r"(XXXS|XXS|XS|XXXL|XXL|XL|S|M|L|One size|OS|US \d{1,2}(?:\.5)?|UK \d{1,2}(?:\.5)?|EU \d{2}(?:\.5)?|W\d{2}(?:\s*L\d{2})?|\d{1,2}(?:\.5)?)"
+
+
+def nice_condition(v: str) -> str:
+    v = str(v or "").strip()
+    key = re.sub(r"[^a-z]+", "_", v.lower()).strip("_").replace("https_schema_org_", "")
+    return CONDITION_NAMES.get(key, v if len(v) <= 30 else "")
+
+
+def page_details(html: str, slug: str) -> dict:
+    """Backup ways to read size, condition, brand and seller from a Depop listing page, for when its data
+    isn't in the shape the scout expects: the page's product data (JSON-LD), key/value pairs in its scripts
+    (nearest to this listing first), then the text a person sees ("Size M", "Condition Used - Good")."""
+    out = {}
+    if not html:
+        return out
+    for blob in json_blobs_from_html(html):
+        for d in walk(blob):
+            if str(d.get("@type", "")).lower() != "product":
+                continue
+            offers = d.get("offers") or {}
+            if isinstance(offers, list):
+                offers = offers[0] if offers else {}
+            cond = d.get("itemCondition") or offers.get("itemCondition")
+            if cond:
+                out.setdefault("condition", nice_condition(str(cond).rsplit("/", 1)[-1]))
+            b = d.get("brand")
+            b = b.get("name") if isinstance(b, dict) else b
+            if b:
+                out.setdefault("brand", str(b))
+            seller = offers.get("seller")
+            seller = seller.get("name") if isinstance(seller, dict) else seller
+            if seller:
+                out.setdefault("seller", str(seller))
+            if d.get("size"):
+                out.setdefault("size", str(d["size"]))
+    text = rsc_text(html) + "\n" + html
+    i = text.lower().find(slug.lower())
+    zone = text[max(0, i - 4000): i + 15000] if i >= 0 else text   # this listing's data sits near its slug
+    pats = {
+        "condition": r'"condition"\s*:\s*(?:\{[^{}]*?"(?:name|slug|id|title)"\s*:\s*)?"([A-Za-z_ -]{3,30})"',
+        "size": r'"(?:sizeName|size_name|size)"\s*:\s*(?:\{[^{}]*?"name"\s*:\s*)?"([^"<>]{1,20})"|"sizes"\s*:\s*\[\s*\{[^{}]*?"name"\s*:\s*"([^"<>]{1,20})"',
+        "brand": r'"(?:brandName|brand_name)"\s*:\s*"([^"<>]{1,40})"|"brand"\s*:\s*\{[^{}]*?"name"\s*:\s*"([^"<>]{1,40})"',
+        "seller": r'"(?:sellerUsername|seller_username)"\s*:\s*"([A-Za-z0-9_.]{2,30})"|"seller"\s*:\s*\{[^{}]*?"username"\s*:\s*"([A-Za-z0-9_.]{2,30})"',
+    }
+    for k, pat in pats.items():
+        if k in out:
+            continue
+        for src in (zone, text):
+            m = re.search(pat, src)
+            if m:
+                v = next(g for g in m.groups() if g)
+                out[k] = nice_condition(v) if k == "condition" else v.strip()
+                break
+    visible = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", re.sub(r"<script.*?</script>|<style.*?</style>", " ", html, flags=re.S | re.I)))
+    if "condition" not in out:
+        m = re.search(r"\bCondition\s*:?\s*(Brand new|Like new|Used\s*-\s*(?:Excellent|Good|Fair)|Excellent condition|Good condition|Fair condition|New with tags|New without tags)", visible, re.I)
+        if m:
+            out["condition"] = nice_condition(m.group(1).replace(" condition", ""))
+    if "size" not in out:
+        m = re.search(r"\bSize\s*:?\s*" + SIZE_RE + r"(?=\s|$|,|\.)", visible)
+        if m:
+            out["size"] = m.group(1)
+    if "seller" not in out and "-" in slug:
+        out["seller"] = slug.split("-")[0]     # Depop links start with the seller's username
+    return {k: v for k, v in out.items() if v}
+
+
 def depop_details(net: Net, item: dict) -> dict:
     """Open the listing page for all photos, shipping, size and condition."""
     r = net.get(item["url"])
@@ -580,7 +651,7 @@ def depop_details(net: Net, item: dict) -> dict:
     if best:
         if len(best["photos"]) > len(item["photos"]):
             item["photos"] = best["photos"]
-        for k in ("size", "condition", "description", "brand"):
+        for k in ("size", "condition", "description", "brand", "seller"):
             if best.get(k) and not item.get(k):
                 item[k] = best[k]
         if best.get("ship") is not None:
@@ -588,6 +659,11 @@ def depop_details(net: Net, item: dict) -> dict:
         if best.get("total"):
             item["total"] = best["total"]
         item["sold"] = item["sold"] or best["sold"]
+    for k, v in page_details(html, item["slug"]).items():   # fill whatever is still missing
+        if not item.get(k):
+            item[k] = v
+    if not item.get("seller") and "-" in item["slug"]:
+        item["seller"] = item["slug"].split("-")[0]
     return item
 
 

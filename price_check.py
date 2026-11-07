@@ -166,6 +166,9 @@ def parse_depop(html: str, slug: str) -> dict:
             if str(d.get("@type", "")).lower() == "product" and ld is None:
                 ld = d
     out = dict(best) if best else {}
+    for k, v in D.page_details(html, slug).items():   # size / condition / brand / seller backups
+        if not out.get(k):
+            out[k] = v
     if ld:
         offers = ld.get("offers") or {}
         if isinstance(offers, list):
