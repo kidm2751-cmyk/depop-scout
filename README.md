@@ -6,7 +6,7 @@ It runs on **GitHub Actions** (free, on a schedule, with your PC off) using the 
 
 ## How it works
 
-1. **Searches Depop** for 75 of your 300 keywords per run (4 runs a day, so all 300 daily). It reads public listings only, never logged in, pausing 1.5 to 3.5 seconds between requests.
+1. **Searches Depop** with 5,000 keywords in 5 daily blocks of 1,000: each day it searches a new block, 250 per run over 4 runs, and starts over after Day 5. It reads public listings only, never logged in.
 2. **Picks the bargains:** for each search, the 3 cheapest listings compared to the rest of the results (skipping lots, replicas, kids' items and sold items).
 3. **Opens each listing** for all its photos, the Depop shipping price, size and condition.
 4. **Prices it on eBay:** searches eBay the way a buyer would (brand plus item). It uses **sold** prices when eBay shows them, otherwise active prices lowered by 12%, and takes a conservative 35th-percentile price from at least 3 matching listings.
@@ -22,7 +22,7 @@ It runs on **GitHub Actions** (free, on a schedule, with your PC off) using the 
 
 **2. Create a repository:**
 - Click **+** at the top right, then **New repository**.
-- Name it `depop-scout` and choose **Private**. On the free plan, private repos get 2,000 Actions minutes a month, and this uses roughly 1,200 to 1,800.
+- Name it `depop-scout`. Choose **Public**: public repos get unlimited free Actions minutes, and 4 runs a day of about 90 minutes is far more than the 2,000 a month private repos get. Your Discord webhook stays hidden either way (it's a secret).
 - Click **Create repository**.
 
 **3. Upload the files:**
@@ -41,14 +41,14 @@ It runs on **GitHub Actions** (free, on a schedule, with your PC off) using the 
 - Open the **Actions** tab. If GitHub asks, click to enable workflows.
 - Click **Depop to eBay scout → Run workflow**.
 - Optional: tick "Test only" to see the finds in the log without sending them to Discord.
-- A run takes about 10 to 15 minutes. Click into the run to watch the log; each keyword shows how many listings it found.
+- A run takes about 60 to 90 minutes. Click into the run to watch the log; each keyword shows how many listings it found.
 
 After that it runs on its own at about 8am, 11am, 3pm and 8pm Pacific.
 
 ## Changing things
 
 - **Thresholds, fees, postage, number of photos:** edit `settings.py` on GitHub (open the file, click the pencil icon, then **Commit**).
-- **Keywords:** edit `keywords.txt`, one search per line.
+- **Keywords:** edit `keywords.txt`, one search per line. The blocks are simply every 1,000 lines in order, so adding or removing lines is fine.
 
 ## If something goes wrong
 
@@ -62,3 +62,25 @@ After that it runs on its own at about 8am, 11am, 3pm and 8pm Pacific.
 - **Buy first, then list.** Depop items are one of a kind, and eBay requires you to have the item.
 - **Check before buying:** open "eBay sold prices" on each alert, and look at the photos for flaws. Prices are estimates from comparable listings, not guarantees.
 - **Fees** were checked in October 2026: Depop's US buyer fee is up to 5% + $1, and eBay's is 13.6% + $0.40 for most clothing. Check your category on eBay's fee page if you sell something unusual.
+
+---
+
+# Amazon → eBay Deal Scout (replaces the n8n Deal Scout)
+
+Lives in the same repo and runs on its own schedule (about 7:47am, 10:47am, 2:47pm and 7:47pm Pacific).
+
+**What it does each run:**
+1. Searches Amazon for 250 of today's 1,000 keywords (`amazon_keywords.txt` has 5,000; a new 1,000 each day, repeating after Day 5). Only items between $3 and your $45 max.
+2. Reads every result's deals: % off Amazon's typical or list price, coupons, Limited time / Lightning deals, Amazon's "lowest price in 30 days", and its own price history (lowest in 30, 90 and 365 days as the history builds up). It also reads demand: "bought in past month", ratings and best-seller rank.
+3. Drops knockoffs (brand searches must show the brand), sponsored results, low ratings and your old skip list.
+4. Checks the strongest deals and highest demand first, prices them on eBay (sold listings first) and works out profit after Amazon tax and eBay fees.
+5. Sends each find as one Discord message with up to 8 photos:
+   - 🟢 **BUY**: $3+ profit and 10%+ return, priced from eBay sold listings
+   - 🟡 **MAYBE**: thinner profit, or priced from active listings only
+   - 🔥 **DEAL**: a big deal on a high-demand item that eBay couldn't price; check it yourself
+
+A deal is a bonus, not a requirement: profitable items at regular price are sent too.
+
+**Setup:** add a second repository secret named `AMAZON_WEBHOOK_URL` with the Discord webhook for your Amazon channel (Settings → Secrets and variables → Actions). If it's missing, it uses `DISCORD_WEBHOOK_URL`. Then Actions → **Amazon deal scout** → Run workflow.
+
+**Settings:** `amazon_settings.py` (max price, profit targets, fees, what counts as a deal).
