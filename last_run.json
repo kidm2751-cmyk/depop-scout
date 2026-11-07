@@ -1,7 +1,7 @@
 {
  "ok": true,
- "requestId": "chk-20261107-090904",
- "finishedAt": "2026-11-07T09:10:57Z",
+ "requestId": "chk-20261107-091023",
+ "finishedAt": "2026-11-07T09:12:00Z",
  "checked": 1,
  "items": [
   {
@@ -9,25 +9,25 @@
    "slug": "deadheadthrifto-brown-leather-vintage-90s-taras-ab38",
    "key": "depop:deadheadthrifto-brown-leather-vintage-90s-taras-ab38",
    "url": "https://www.depop.com/products/deadheadthrifto-brown-leather-vintage-90s-taras-ab38/",
-   "checkedAt": "2026-11-07T09:10:33Z",
+   "checkedAt": "2026-11-07T09:11:36Z",
    "ok": true,
    "status": "ok",
    "sold": false,
    "inStock": true,
    "title": "Brown leather Vintage 90s Taras Bulbas Mephisto...",
    "brand": "Danner",
-   "price": 23.19,
+   "price": 25.05,
    "shipping": 6.0,
    "shippingKnown": false,
-   "buyerFee": 2.16,
-   "tax": 2.47,
-   "totalCost": 33.82,
+   "buyerFee": 2.25,
+   "tax": 2.66,
+   "totalCost": 35.96,
    "size": null,
    "condition": null,
    "seller": null,
    "photo": "https://media-photos.depop.com/b1/31694584/4991830035_cac3cdac0881461682afb907b6f97ba3/P0.jpg",
    "max": 41.19,
-   "verdict": "OK: 33.82 total is at or under your max 41.19"
+   "verdict": "OK: 35.96 total is at or under your max 41.19"
   }
  ]
 }
