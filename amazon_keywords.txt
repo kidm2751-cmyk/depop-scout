@@ -2,14 +2,15 @@
 # then moves to the next block the next day, and starts over after Day 5.
 # Lines starting with # are ignored. Add or remove lines freely: the blocks are simply every 1,000 lines in order.
 # Left out on purpose: Pokemon and trading cards, and the items on your old Deal Scout skip list.
+# About 506 LEGO searches (about 101 a day), aimed at sets you can buy for $45 or less.
 
 # ================= Day 1 =================
 desk fan
 Colorado Avalanche hoodie
 YETI Rambler 20 oz
-LEGO Creator 3 in 1 house
 Jurassic Park backpack
 Plano tackle box
+LEGO Friends ice cream
 body mist
 Casio keyboard
 toaster
@@ -20,9 +21,8 @@ Mitchell and Ness jersey
 Makita fan
 Hobonichi cover
 Tower 28 lip
-LEGO Porsche 911
-broom and dustpan
 Rachael Ray Cucina
+LEGO Creator 3 in 1 owl
 Charlotte Hornets blanket
 WWE Elite figure
 Yellowstone figure
@@ -31,9 +31,9 @@ Temptations cat treats
 carbon monoxide detector
 Monopoly Disney
 Vera Bradley wristlet
-ukulele case
 Miami Marlins blanket
 Bose speaker
+LEGO Jurassic World breakout
 Elvis Presley vinyl
 dog bowl
 bodyboard
@@ -45,18 +45,19 @@ Funko Pop Kingdom Hearts
 white elephant gifts
 Baltimore Orioles hoodie
 Hori controller
+LEGO Marvel BrickHeadz
 Nikon binoculars
 Mazda CX-5 accessories
 robot toy
 Galaxy Z Fold 7 case
 Michigan Wolverines hoodie
-47 Brand MVP
 Meguiars Gold Class
 Swingline stapler
 Philips Sonicare toothbrush
 hot air brush
 JBL Tune headphones
 Spin Master toys
+LEGO Minecraft panda
 Frozen plush
 cookie cutters
 Washington Commanders hat
@@ -67,6 +68,7 @@ Fenty Beauty Gloss Bomb
 Hot Wheels Subaru WRX
 headlamp
 Etude tint
+LEGO Super Mario character pack
 Christopher Radko ornament
 Reeses
 Oral-B iO
@@ -76,8 +78,9 @@ humidifier for bedroom
 Kirby plush
 Fitbit Inspire
 Dallas Stars hoodie
-gaming headset
+LEGO City pizza delivery
 Titleist golf balls
+LEGO Harry Potter BrickHeadz
 salt and pepper grinder
 Amazon Basics pee pads
 Owala FreeSip
@@ -88,6 +91,7 @@ Boye crochet hooks
 Kansas City Chiefs hoodie
 Etch A Sketch
 TriggerPoint foam roller
+LEGO Technic race car
 Funko Pop WWE
 Blokus
 vitamin c serum
@@ -99,6 +103,7 @@ dog boots
 OXO garlic press
 Timex Ironman
 Tyler Childers vinyl
+LEGO Disney advent calendar
 Barbie Signature
 heatless curls
 Rare Beauty Soft Pinch
@@ -109,9 +114,9 @@ Hot Wheels Tesla
 dog nail clippers
 Solo Stove Bonfire stand
 Maybelline concealer
+LEGO Speed Champions Porsche
 Mossy Oak camo
 Philadelphia Flyers blanket
-sunrise alarm clock
 Goodr sunglasses
 Kwikset smart lock
 Final Fantasy VII Rebirth
@@ -121,10 +126,10 @@ INIU power bank
 SpongeBob plush
 self cleaning litter box
 New England Patriots blanket
+LEGO Speed Champions Chevrolet Corvette
 doormat indoor
 Shark Navigator
 Corsair mouse
-sneaker cleaner
 FootJoy socks
 Pittsburgh Penguins blanket
 Hot Wheels collector
@@ -133,17 +138,18 @@ Pet Gear stroller
 Funko Pop Friday the 13th
 Vaseline lip therapy
 GMC Sierra floor mats
+LEGO Advent Calendar Harry Potter
 umbrella windproof
-iPhone 16 case
+LEGO City food truck
 Oklahoma City Thunder hat
 HP mouse
 Gillette Fusion5
 Hydrogen water bottle
 mascara
 Franklin Sports baseball glove
-LEGO Chrysanthemum
 Battleship
 Funko Pop Halloween
+LEGO Chrysanthemum
 insulated tumbler
 Seattle Mariners hoodie
 Loop Experience
@@ -155,17 +161,18 @@ Graco Pack n Play sheet
 Tangle Teezer brush
 Meinl cajon
 facial steamer
+LEGO Marvel Captain America
 Notre Dame hat
 Optimum Nutrition creatine
 Joby GorillaPod
 Nike Victori One slides
-cargo pants
 National Geographic crystal growing kit
 Disney Store plush
 Vegas Golden Knights hat
 My Chemical Romance vinyl
 lunch box adults
 Yankee Candle tumbler candle
+LEGO Technic F1 car
 vase
 New York Rangers hoodie
 switch case
@@ -177,6 +184,7 @@ CRZ Yoga Butterluxe
 Husky Liners floor liners
 Canon Selphy paper
 Simple Modern Trek
+LEGO Harry Potter Hogwarts castle
 Tampa Bay Buccaneers blanket
 Slip scrunchies
 Premier Protein shake
@@ -187,20 +195,19 @@ Hot Wheels Pixar Cars
 Chicago White Sox blanket
 Diablo IV
 bookends
-hooded towel baby
-LEGO Animal Crossing set
+LEGO Botanicals wildflowers
 UGG Tasman
 Some By Mi toner
 Christmas gift bags
 Celsius variety pack
 Labubu figure
-simplehuman soap dispenser
 spice rack organizer
 Houston Texans hoodie
 Bose SoundLink Micro
 Chess set magnetic
-painters tape
+LEGO City bus
 Xbox rechargeable battery
+LEGO DC Batman mech
 Hot Wheels Treasure Hunt
 Sol de Janeiro Bum Bum cream
 Houston Rockets hat
@@ -212,6 +219,7 @@ Shimano Stradic
 Fanatics jersey
 Ring battery
 cold plunge
+LEGO Friends pet shop
 seat covers car
 Evans drumheads
 Post-it notes
@@ -222,9 +230,9 @@ Marvel Legends X-Men
 Mophie power bank
 Ford F-150 floor mats
 Simple Modern water bottle
+LEGO Dots desk organizer
 Cleveland Cavaliers hoodie
 Jujutsu Kaisen backpack
-LEGO Tiny Plants
 sun hat
 iPhone 14 screen protector
 Easton batting gloves
@@ -234,6 +242,7 @@ vacuum storage bags
 Detroit Tigers t shirt
 croquet set
 Frontline Plus
+LEGO X-wing
 Furby
 shower speaker
 Fellow kettle
@@ -244,17 +253,19 @@ Apple AirTag holder
 Stanley tape measure
 Black Diamond trekking poles
 hamster cage
+LEGO Botanicals roses
 Siser HTV
-curtain rods
+LEGO City garage
 New York Knicks hat
 Learning Resources toys
 Oral-B brush heads
 Ghost protein
 Loungefly Disney
 protein powder
-washable rug
+LEGO City fishing boat
 Scrabble
 Pittsburgh Pirates hoodie
+LEGO Animal Crossing Nook
 Cooling comforter
 Callaway Chrome Soft
 weighted blanket
@@ -263,9 +274,9 @@ Mario Party Superstars
 Hot Wheels Nissan Silvia
 Sanrio Hello Kitty plush
 Solo Stove lid
-magic eraser
 Iowa Hawkeyes t shirt
 Owlet
+LEGO Star Wars starship
 Squishmallows Valentines
 body pillow
 Tommy Hilfiger belt
@@ -274,10 +285,10 @@ Hola ukulele
 Venum gloves
 Minnesota Wild hat
 Elizabeth Arden Red Door
-cornhole set
 handheld shower head
 Vivo monitor mount
 Hot Wheels Pop Culture
+LEGO Lord of the Rings Hobbit
 KitchenAid hand mixer
 Wyze Cam v4
 Milwaukee Brewers hat
@@ -285,11 +296,11 @@ watercolor paint set
 Attack on Titan plush
 West Paw dog toy
 PlayStation 5 controller
-shoe cleaner
 Tame Impala vinyl
 Hayabusa boxing gloves
 St Louis Cardinals hoodie
 ZeroWater pitcher
+LEGO Creator 3 in 1 car
 Zuru X-Shot
 sand toys
 The Pink Stuff
@@ -299,8 +310,8 @@ Crest toothpaste
 Detroit Pistons hoodie
 bikini
 Lexar SD card
-LEGO Bugatti
 Nike Pro shorts
+LEGO Star Wars microfighter
 Klein Tools wire strippers
 neon sign
 YETI mug
@@ -312,6 +323,7 @@ Sizzix dies
 Chess set travel
 gifts for teens
 Galaxy S25 case
+LEGO City race car
 Squishmallows Connor the cow
 Detroit Red Wings blanket
 crib sheets
@@ -322,36 +334,34 @@ picnic blanket
 Simple Modern tumbler
 Anker wireless charger
 Maybelline Fit Me
+LEGO Friends Autumn
 Micro Kickboard scooter
 Lululemon yoga mat
-bralette
 Dr Browns bottles
 Miami Hurricanes t shirt
 Funko Pop The Boys
-matcha whisk set
 TC Electronic pedal
 Rabbitgoo harness
 New York Islanders t shirt
 Made In pan
 Jellycat
 stationery set
+LEGO minifigures display case
 Jockey underwear
 Moen shower head
 Forza Horizon 5
-LEGO Architecture skyline
 Coleman lantern
 projector screen
 wool dryer balls
 Recollections
 Skagen watch
 Milwaukee Bucks t shirt
-LEGO Cherry Blossoms
 Funko Pop Rick and Morty
 K18 hair mask
+LEGO City construction
 wallet women
 Vornado fan
 Tennessee Titans t shirt
-LEGO Ideas set
 blackout curtains
 Bob Marley vinyl
 KastKing fishing line
@@ -359,33 +369,32 @@ Fortnite backpack
 gel pens
 New York Yankees hat
 JBL speaker
+LEGO Star Wars X-wing microfighter
 slushie machine
 AeroPress coffee maker
 PowerA charging
 dog gate
-LEGO Super Mario Mario Kart set
 Spirograph
 Nike Club fleece
 Milwaukee drill bits
 Montreal Canadiens blanket
 Calvin Klein cologne
-party favors
 Ozark Trail chair
 Jellycat Bashful bunny medium
+LEGO Wednesday set
 Oura Ring sizing kit
 Staedtler Pigment Liner
 journal
 KitchenAid utensils
 Las Vegas Raiders t shirt
-LEGO DC set
 roller skates
-LEGO Eiffel Tower
 Blink Mini
 Love to Dream swaddle
 patio furniture cover
 Midwest Life Stages
+LEGO City police chase
 St Louis Cardinals hat
-body wash
+LEGO City hospital
 Snell golf balls
 Totoro figure
 Rubbermaid Commercial trash can
@@ -394,8 +403,8 @@ Ardell lashes
 Hyundai Tucson accessories
 Dallas Mavericks hoodie
 gift bags
-LEGO Sonic set
 Lululemon belt bag
+LEGO Harry Potter Knight Bus
 Tesla Model 3 accessories
 belt bag
 Galaxy A16 MagSafe case
@@ -405,8 +414,8 @@ Amazon Kindle case
 Gregory daypack
 Febreze air freshener
 hair straightener
-zester
 Bostitch stapler
+LEGO Star Wars set
 Zelda Tears of the Kingdom
 Detroit Red Wings hoodie
 Fisher-Price Little People
@@ -418,30 +427,30 @@ toothbrush holder
 Funko Pop Metallica
 Kitsch satin pillowcase
 Clemson Tigers t shirt
+LEGO Marvel mech
 STX lacrosse
-LEGO Frozen Ice Castle
 King of Tokyo
 blue light glasses
 OtterBox Samsung case
 Funko Pop television
-area rug
 Golden State Warriors hat
 massage gun
 Richardson 112 hat
 Black Diamond headlamp
 Sterilite drawers
 Funko Pop SpongeBob
+LEGO Wicked Elphaba
 Arm and Hammer cat litter
 epoxy resin
 Arizona Cardinals blanket
 Celestron binoculars
 Glorious mouse
 The Ordinary hyaluronic acid
-LEGO Minecraft set
 workbench
 Heelys
 Nintendo Switch 2 game
 Innisfree cleanser
+LEGO Botanicals daffodils
 Christmas tree skirt
 Jelly Belly
 Netgear WiFi extender
@@ -449,10 +458,11 @@ Seattle Seahawks hat
 magsafe wallet
 Anchor Hocking glass containers
 Pop Mart Molly
-immersion blender
+LEGO City fire station small
 Belkin BoostCharge
-music stand
+LEGO City police station small
 kids makeup
+LEGO Disney Ariel
 Adidas Adilette slides
 Michigan State Spartans t shirt
 Step2 toys
@@ -460,10 +470,10 @@ bottle sterilizer
 T-fal cookware set
 Under Armour hoodie
 Chemical Guys microfiber towels
-LEGO Bonsai Tree
 Duke Blue Devils hat
 Etekcity food scale
 Funko Pop Parks and Recreation
+LEGO Minecraft mushroom house
 photo album
 Apple Magic Mouse
 Birkenstock cleaner kit
@@ -471,12 +481,11 @@ cat carrier
 Hot Wheels Fast and Furious
 Post-it flags
 New York Jets blanket
-paper plates heavy duty
 Wahl Peanut
-baby wipes
 Uno Show Em No Mercy
 Sanrio backpack
 Los Angeles Rams t shirt
+LEGO Speed Champions Toyota Supra
 Hyundai Tucson floor mats
 Queen vinyl
 baby toys
@@ -487,6 +496,7 @@ NexGard
 Spalding basketball
 Listerine mouthwash
 potty training seat
+LEGO Disney Encanto
 Houston Rockets hoodie
 Galaxy S24 Ultra MagSafe case
 Contigo water bottle
@@ -498,19 +508,19 @@ face moisturizer
 Star Wars figure
 Buffalo Sabres hoodie
 self watering planter
+LEGO Friends horse
 McFarlane Toys DC Multiverse
 Nike socks
-LEGO Darth Vader helmet
 Igloo water jug
 Red Heart Super Saver
 Bedsure sheets
 New York Islanders hoodie
-tongue scraper
 Samsung EVO micro SD
 Friends TV show plush
 Britney Spears Fantasy perfume
 two way radio
 microphone stand
+LEGO Art set
 Kansas Jayhawks t shirt
 vacuum sealer bags
 Marvel Legends Spider-Man
@@ -521,6 +531,7 @@ Logitech webcam
 Cincinnati Reds t shirt
 gifts for men
 Studio Ghibli plush
+LEGO Disney Belle
 47 Brand Clean Up hat
 DeWalt work light
 Kingston SSD
@@ -531,35 +542,33 @@ Denver Nuggets hat
 Contigo kids water bottle
 Ticket to Ride board game
 e.l.f. putty primer
-baby lotion
 Brother tape
+LEGO DC Wonder Woman
 Patagonia Black Hole duffel
-muffin pan
 Greenies Pill Pockets
 Jellycat octopus
 Memphis Grizzlies t shirt
-kettlebell
 Hot Wheels Zamac
 Fleetwood Mac vinyl
 Squishmallows Fuzzamallows
 Lodge pan scraper
 under desk treadmill
 Govee smart bulbs
+LEGO Advent Calendar City
 Texas Longhorns hat
 Callaway ERC
-led strip lights
 Squishmallows Harry Potter
 Tumi tag
 Chemical Guys Mr Pink
 Arizona Diamondbacks hat
 Metroid Prime Remastered
 La Roche-Posay Anthelios sunscreen
-baseball bat
-electric toothbrush
+LEGO City space station
+LEGO City lunar base
 Nike backpack
+LEGO Super Mario Toad
 Bruder truck
 Honeywell heater
-dental floss
 Seattle Seahawks blanket
 Honda Civic sun shade
 Ticonderoga pencils
@@ -568,9 +577,9 @@ Jetboil stove
 AirPods Pro 2 case
 Anua serum
 Lemax village
+LEGO Creator 3 in 1 Dragon
 Monster Energy variety
 Chainsaw Man backpack
-toilet paper holder
 Electro-Harmonix pedal
 Mueller French press
 Notre Dame hoodie
@@ -580,19 +589,19 @@ Galaxy A16 screen protector
 battery candles
 Olaplex set
 bottle warmer
-LEGO Sorting Hat
+LEGO minifigures series
 San Antonio Spurs blanket
 Sailor Moon figure
 Wilson Evolution basketball
 Ruffwear collar
-loose leaf tea infuser
+LEGO Friends Aliya
 BaBylissPRO clippers
 Amazon Echo Show 5
 CRZ Yoga leggings
 Milwaukee bit set
-LEGO Creator 3 in 1 set
 Qwirkle
 Detroit Red Wings t shirt
+LEGO Botanicals Christmas wreath
 alcohol markers
 wall calendar
 Pilot Precise V5
@@ -603,6 +612,7 @@ yogurt maker
 OXO Good Grips
 Nintendo Switch controller
 Maisto RC car
+LEGO Creator 3 in 1 space shuttle
 CeraVe cleanser
 laptop stand
 Silk sleep mask
@@ -614,57 +624,53 @@ Inside Out figure
 Scentsy wax
 Tampa Bay Rays blanket
 acrylic paint set
+LEGO Minecraft Alex
 Carters pajamas
 Gaiam yoga mat
 Sonic the Hedgehog plush
 Mejuri
 Schlage deadbolt
-LEGO Plum Blossom
 cat litter box
 under cabinet lighting
 Ohio State Buckeyes hoodie
 Living Proof dry shampoo
-led face mask
 Epson ink
+LEGO alarm clock
 Hello Kitty plush
 KitchenAid pasta attachment
 studio monitors
 Brother embroidery thread
 NBA 2K26
-LEGO Fortnite set
 Berkley PowerBait
 Texas Rangers hoodie
 thermal carafe
 Purina Fancy Feast
 comforter set
 Memphis Grizzlies hoodie
+LEGO Gabbys Dollhouse set
 OXO cutting board
 Funko Pop Lilo and Stitch
 hot tub accessories
 Yahtzee
 Vibration plate
-portable charger
-LEGO Gabbys Dollhouse set
 Anker Soundcore earbuds
 Katadyn water filter
 North Carolina Tar Heels t shirt
 Under Armour shorts
 AquaDance shower head
+LEGO Jurassic World small set
 passport holder
 SmartyPants vitamins
 Jeep Grand Cherokee sun shade
-iRobot Roomba filters
-level
 Minnesota Vikings hat
 Batman figure
-LEGO AT-AT
 Thames and Kosmos kit
 Copic markers
-hand sanitizer
 iPhone 15 case
 Everlast punching bag
-snorkel set
+LEGO Friends Leo
 New Orleans Saints hat
+LEGO Speed Champions BMW
 rain boots
 Anker Nano charger
 Hozier vinyl
@@ -676,6 +682,7 @@ Native deodorant
 Kansas Jayhawks hoodie
 Minecraft figures
 Meta Quest strap
+LEGO Creator 3 in 1 shark
 coat rack
 Igloo BMX
 New Balance socks
@@ -686,6 +693,7 @@ Dyson Airwrap attachment
 gel nail kit
 soccer goal
 TropiClean shampoo
+LEGO Sorting Hat
 Kidrobot
 Ring solar panel
 Fender guitar strap
@@ -697,10 +705,10 @@ Christmas inflatable
 Bang energy
 Cricut EasyPress
 travel adapter
+LEGO City tow truck
 Teva Hurricane
 Physicians Formula Butter bronzer
 Stasher bags
-LEGO Winter Village
 Springbok puzzle
 Houston Rockets blanket
 pour over coffee maker
@@ -708,7 +716,7 @@ Labubu backpack
 Super Smash Bros Ultimate
 Squishmallows clip
 sauna blanket
-mandoline slicer
+LEGO City Garbage Truck
 Washington Capitals t shirt
 JLab earbuds
 Swiffer Sweeper refills
@@ -719,7 +727,8 @@ beach chair
 Boston Bruins hoodie
 Loungefly Stitch
 Nerf Minecraft blaster
-nail gun
+LEGO Friends Paisley
+LEGO Super Mario Luigi
 Paul Mitchell shampoo
 Stanley Quencher 40 oz
 Athletics baseball blanket
@@ -728,22 +737,21 @@ Bentgo lunch box
 ladder
 Anker charging station
 Teva sandals
-drawer organizer
 Munchkin cup
 throw blanket
+LEGO Mini Orchid
 Drake vinyl
 Kuromi plush
 New York Rangers blanket
-LEGO Botanical flowers
 Kaytee food
 Toyota RAV4 sun shade
-surge protector
 Hot Wheels Mitsubishi Lancer Evolution
 Chemex coffee maker
 Wisconsin Badgers t shirt
 diapers
 Kate Spade earrings
 Spyderco knife
+LEGO Creator 3 in 1 set
 Vicks VapoPad
 Engel cooler
 Funko Pop NBA LeBron James
@@ -753,9 +761,9 @@ Marvel Legends figure
 Baseus charger
 iPhone 17 Pro Max case
 Baltimore Ravens t shirt
-mug rack
 Keurig water filter
 Dungeons and Dragons dice
+LEGO City Fire Truck
 tow strap
 Keychron K2
 Elgato Stream Deck
@@ -766,11 +774,11 @@ Igloo cooler
 Funko Pop Mandalorian
 Hot Wheels Ultimate Garage
 RC truck
+LEGO BrickHeadz Lord of the Rings
 Ricola
 Stanley lunch box
 Miami Heat hoodie
 ESR iPhone case
-drying rack clothes
 kitchen shears
 New Era 9Forty
 WD-40 spray
@@ -778,7 +786,7 @@ Zelda Breath of the Wild
 Edmonton Oilers t shirt
 The Nightmare Before Christmas plush
 Bridgestone Tour B
-LEGO Ferrari Daytona
+LEGO Ideas set
 shower curtain
 Ertl tractor
 Hydro Flask tumbler
@@ -789,6 +797,7 @@ Ubbi bags
 Herman Miller footrest
 air fryer accessories
 Philips Hue light strip
+LEGO Minecraft axolotl
 Curve cologne
 Minnie Mouse backpack
 Nerf blaster
@@ -800,6 +809,7 @@ Blackstone spatula set
 nail polish kids
 Bar Keepers Friend
 beach bag
+LEGO BrickHeadz Harry Potter
 Philadelphia 76ers hoodie
 Manta sleep mask
 Fenix headlamp
@@ -810,30 +820,31 @@ Cocomelon toys
 Scrub Daddy Scrub Mommy
 Catan Seafarers
 WD hard drive
+LEGO Disney Rapunzel
 Crocs Crush clog
 Colorado Avalanche hat
 bike pump
 AG1
-floor pillow
 Romand lip
 Department 56 village
 Prime energy drink
-LEGO Game Boy
 eyeliner
 Chicago Cubs hoodie
 Avery dividers
 Wicked figure
+LEGO Technic excavator
 LeapFrog learning
 Subaru Outback accessories
 Philips Norelco trimmer
 graduation gifts
 Bogs kids boots
 Orlando Magic blanket
-silicone baking mat
+LEGO Friends Nova
 Belkin charger
 Texas A&M Aggies hat
 rice cooker
 Dr Teals foaming bath
+LEGO Ninjago spinjitzu
 Ray-Ban cleaning kit
 Doctor Who figure
 waffle maker
@@ -844,7 +855,7 @@ Streamlight flashlight
 Spider-Man toys
 Yoto mini
 Meta Quest case
-toiletry bag
+LEGO City ice cream truck
 Hoka Ora recovery slide
 Arizona Diamondbacks t shirt
 Nike headband
@@ -856,34 +867,30 @@ Melissa and Doug wooden toys
 Loungefly Nightmare Before Christmas
 Miami Dolphins t shirt
 Traveler's Company notebook
-dryer sheets
-LEGO Advent Calendar Friends
+LEGO City delivery truck
 Eminem vinyl
-bocce ball set
 Pelican cooler
 tricycle
 Olly sleep
 Buffalo Sabres t shirt
 Splendor
 Starbucks tumbler
-tissues
-LEGO Technic truck
 Sony MDR-7506
 Super Mario backpack
 Calvin Klein underwear
+LEGO Technic car
 Bosch wiper blades
 Philadelphia Flyers hat
 UGREEN cable
-measuring spoons set
 Rogue jump rope
 Revlon One-Step Volumizer Plus
-tool set
 Philadelphia Phillies hoodie
 Le Creuset mug
 golf bag
 Funko Pop Stranger Things
 Encanto figure
 gag gifts
+LEGO City dump truck
 Benefit brow pencil
 Uni-ball One
 Los Angeles Rams hoodie
@@ -894,31 +901,31 @@ OtterBox iPhone case
 Zwilling kitchen shears
 dress up clothes
 Houston Rockets t shirt
+LEGO Marvel Venom
 Funko Pop anime
 Matchbox Land Rover
 Marvel plush
 Nike Tech fleece
 Toyota accessories
-pill organizer
 bottle opener
 Boston Celtics hat
 UPPAbaby cup holder
-paper towel holder
 Lasko fan
 Sally Hansen Miracle Gel
 Thermacell refills
+LEGO Harry Potter set
 Tesla Model 3 sun shade
 Matchbox 20 pack
 Insignia cable
-usb c hub
 Naruto backpack
 San Diego Padres blanket
 DJI Osmo Pocket 3 accessories
 Nintendo Switch Zelda
 Zebra Mildliner
-apron
+LEGO Friends horse trailer
 Monopoly Deal
 Michigan State Spartans hat
+LEGO pen
 Wusthof sharpener
 Chappell Roan vinyl
 Super Mario Odyssey
@@ -929,34 +936,32 @@ Galaxy S25 MagSafe case
 Little Tikes toys
 DJ controller
 Loungefly Marvel
+LEGO Succulents
 Chicago Blackhawks hat
-laundry detergent sheets
 Emergen-C
 Dickies beanie
 Stanley utility knife
 Sony speaker
 Nespresso OriginalLine capsules
 toddler pillow
-LEGO Up House
 LSU Tigers t shirt
 Outward Hound puzzle toy
 Carhartt work gloves
-LEGO Super Mario expansion set
 foot peel mask
+LEGO Friends camper
 Round Lab cleanser
 Easter decorations
 Werthers
 Yellowstone plush
-wall shelf
 Vegas Golden Knights t shirt
 booster seat
 Stanley thermos
 Brother P-Touch label maker
 TP-Link router
 paint brushes
+LEGO Jurassic World T-rex
 Grove Collaborative
 Wet n Wild palette
-LEGO Technic set
 Florida Gators hat
 Goal Zero lantern
 Moana backpack
@@ -966,6 +971,7 @@ Frog Tape
 Frida Baby NoseFrida
 Remington shaver
 Cleveland Cavaliers t shirt
+LEGO City advent calendar
 balaclava
 porch swing
 Spikeball set
@@ -974,24 +980,21 @@ Los Angeles Dodgers hoodie
 Funko Pop Grogu
 Thorlo socks
 Belkin MagSafe stand
-LEGO Batmobile
 Ticket to Ride Europe
-odor eliminator
 Brita filter
 Dove body wash
+LEGO Formula 1 set
 Los Angeles Chargers t shirt
 Fujifilm Instax Mini 12
-toilet paper
 Funko Pop NBA
 Adele vinyl
-violin rosin
 Minecraft backpack
-gift wrap
-baseball glove
+LEGO Friends mobile salon
 Petsafe ScoopFree
 The North Face Borealis backpack
 Chicago White Sox hoodie
 Dawn dish soap
+LEGO Harry Potter Hogwarts moment
 iPad 10th generation case
 Philips Hue bulb
 dog playpen
@@ -1002,10 +1005,11 @@ SteelSeries mouse pad
 Grand Theft Auto V
 Arizona Cardinals hoodie
 Hot Wheels Track Builder
-stroller organizer
-Bath and Body Works body mist
 
 # ================= Day 2 =================
+stroller organizer
+LEGO Sonic set
+Bath and Body Works body mist
 Taylor Swift backpack
 Swiffer WetJet
 Sawyer insect repellent
@@ -1015,6 +1019,7 @@ golf cart accessories
 baseball cap
 iPhone 17 Pro screen protector
 Kokuyo Campus notebook
+LEGO Dreamzzz set
 FIFINE microphone
 Hot Wheels Monster Trucks 4 pack
 Philadelphia Phillies blanket
@@ -1026,6 +1031,7 @@ Herschel backpack
 Yeti Roadie
 swim trunks
 Detroit Pistons blanket
+LEGO Ninjago Jay
 Kiss press on nails
 Samsonite carry on
 DeWalt socket set
@@ -1033,10 +1039,10 @@ M2 Machines
 heated blanket
 Melissa and Doug
 Monopoly Star Wars
-night light
 Los Angeles Dodgers hat
 Cocomelon backpack
 Farberware knife set
+LEGO BrickHeadz Wednesday
 Fujifilm Instax Mini film
 screwdriver set
 UGG Fluff Yeah
@@ -1048,6 +1054,7 @@ Boss tuner pedal
 Logitech Lift mouse
 sunglasses case
 OXO measuring cups
+LEGO Christmas tree
 Wednesday Addams plush
 Beabadoobee vinyl
 Nars blush
@@ -1056,12 +1063,11 @@ compression sleeve
 canisters
 Perform Better mini bands
 Bose earbuds
-LEGO Space Shuttle
 Patagonia trucker hat
 Dremel rotary tool
 Atlanta Hawks t shirt
+LEGO Duplo Town
 kids desk
-LEGO Disney princess
 Victorinox knife
 Attack on Titan figure
 alarm clock
@@ -1070,7 +1076,8 @@ Banila Co Clean It Zero
 Gemmy inflatable
 Ghirardelli
 Stanley IceFlow 30 oz
-giant teddy bear
+LEGO Technic Jeep
+LEGO Xtra accessories
 Call of Duty Black Ops 6
 Selkirk pickleball paddle
 Degree deodorant
@@ -1082,6 +1089,7 @@ Hario coffee grinder
 Logitech MX Master
 knee brace
 Funko Pop Golden Girls
+LEGO Minecraft house
 Knit Picks
 UPPAbaby accessories
 Chevy Silverado floor mats
@@ -1092,6 +1100,7 @@ Taboo
 toner
 Roblox toys
 Travelpro
+LEGO Speed Champions Formula 1 car
 Scosche MagicMount
 Wilton cake pan
 Zesty Paws supplements
@@ -1103,16 +1112,18 @@ Moroccanoil treatment
 Spigen Galaxy case
 cocktail kit
 sous vide
+LEGO Santa
 Vancouver Canucks hoodie
 iPhone 17 case
 Wham-O Slip N Slide
 Franklin Sports pickleball paddle
 Fellow Carter mug
 ice pack
-metronome
+LEGO Technic Land Rover small
 Squid Game figure
 Meta Quest 3 strap
 USC Trojans hoodie
+LEGO DC Joker
 Sharpie highlighters
 walkie talkies for kids
 Notorious BIG vinyl
@@ -1124,22 +1135,21 @@ Disney Stitch backpack
 wall decals
 Amika dry shampoo
 Gaiam yoga block
+LEGO Duplo train
 Tommy Hilfiger wallet
 Meguiars Ultimate Compound
 resistance bands
 Funko Pop Futurama
 Miami Dolphins hoodie
-dash cam
+LEGO Technic NASA
 Scrub Daddy PowerPaste
 Calico Critters family
-silk scrunchies
 Los Angeles Rams hat
-LEGO Minecraft Nether
 Polar heart rate monitor
 Amazon Blink camera
+LEGO Minecraft End
 Kirby backpack
 Diaper Genie refills
-steamer for clothes
 magazine rack
 Purina Pro Plan
 Liquitex acrylic paint
@@ -1148,8 +1158,7 @@ Azul
 Green Bay Packers blanket
 Mario Kart World
 Weber thermometer
-toilet seat
-LEGO Botanical orchid
+LEGO BrickHeadz Stitch
 Brumate Era
 Los Angeles Rams blanket
 meal prep containers
@@ -1161,9 +1170,9 @@ Nintendo Switch Animal Crossing
 Roku Streaming Stick
 baby doll
 Bath and Body Works wallflower
+LEGO Friends cafe
 San Jose Sharks hoodie
 Hot Wheels City set
-springform pan
 t shirts men
 Elixir guitar strings
 Tarte Shape Tape
@@ -1171,10 +1180,10 @@ Doctor Who backpack
 GMC Sierra accessories
 Bushnell binoculars
 Portland Trail Blazers blanket
-monitor stand
+LEGO Technic loader
+LEGO Plum Blossom
 Owala kids bottle
 Olfa rotary cutter
-LEGO Technic Ford Raptor
 Pink Floyd vinyl
 shorts men
 Sanrio Kuromi
@@ -1184,7 +1193,7 @@ gua sha
 Wednesday Addams backpack
 Levis belt
 Milwaukee hand tools
-pool chemicals
+LEGO Classic creative suitcase
 Sea to Summit dry bag
 Cincinnati Bengals blanket
 Yeti Rambler 26 oz
@@ -1195,6 +1204,7 @@ Essie Gel Couture
 Rocco and Roxie stain remover
 Hot Wheels Character Cars
 Torriden cream
+LEGO Super Mario Yoshi
 Fourth of July decorations
 Jolly Rancher
 pliers set
@@ -1206,11 +1216,11 @@ The Mind card game
 dry shampoo
 Columbia boots
 OxiClean stain remover
+LEGO Star Wars advent calendar
 Brooklyn Nets hoodie
 phone case
 tv stand
 Spellbinders dies
-LEGO Creator Expert car
 pizza stone
 Dallas Cowboys blanket
 Barbie plush
@@ -1218,17 +1228,18 @@ TheraBreath mouthwash
 Matchbox Superfast
 Fruit of the Loom t shirts
 Kreg pocket hole jig
+LEGO Star Wars R2-D2
 Philips Norelco OneBlade
-switch games
+LEGO Technic Volvo
 Super Mario Bros Wonder
 MSR water filter
 Kodak printer
 Indianapolis Colts hat
-LEGO Speed Champions McLaren
-jeans men
+LEGO Star Wars Luke Skywalker
 guitar cable
 Meta Ray-Ban case
 nightstand
+LEGO Creator 3 in 1 parrot
 stylus pen
 Lord of the Rings backpack
 Anaheim Ducks hat
@@ -1240,6 +1251,7 @@ Disney Princess dress up
 Laneige lip sleeping mask
 New York Jets hat
 Omnigrid ruler
+LEGO Bluey house
 Clairo vinyl
 SanDisk portable SSD
 hammer
@@ -1250,18 +1262,19 @@ dog car seat cover
 Florida Panthers hat
 Wrangler Cowboy Cut
 Buck knife
+LEGO BrickHeadz Christmas
 ice cream maker
 Onix pickleball paddle
-LEGO Jurassic World dinosaur
 digital photo frame
 Crocs kids clogs
 Subaru Outback sun shade
 Matchbox Toyota Land Cruiser
 Tennessee Titans hoodie
 What Do You Meme game
-fire blanket
+LEGO Star Wars snowspeeder
 Thermos Funtainer
 Dragon Ball Z figure
+LEGO DC Batcave
 OtterBox Defender
 Aquaphor healing ointment
 Calgary Flames t shirt
@@ -1272,6 +1285,7 @@ Nike Calm slides
 extension cord reel
 Tim Holtz Distress Oxide
 dried flowers
+LEGO Bluey set
 Kansas City Chiefs t shirt
 Hoover carpet cleaner
 Hug Me plush
@@ -1282,8 +1296,8 @@ CRKT knife
 Anker MagSafe power bank
 Minnesota Twins hoodie
 Fisher-Price baby toys
-banner
 Black Diamond carabiner
+LEGO Botanicals poinsettia
 Nutrafol
 drum practice pad
 USA Pan muffin pan
@@ -1293,10 +1307,9 @@ Toronto Blue Jays t shirt
 Just Dance 2025
 adirondack chair
 Chuckit ball launcher
-sheet masks
-LEGO Lucky Bamboo
 Transformers Legacy
 Tennessee Volunteers t shirt
+LEGO Duplo my first
 door lock smart
 The North Face beanie
 Joseph Joseph utensils
@@ -1307,6 +1320,7 @@ Bubble skincare
 Funko Pop My Hero Academia
 baby gate
 Duke Blue Devils t shirt
+LEGO minifigures Looney Tunes
 LOreal True Match
 Pandora charm bracelet clasp
 Dremel accessory kit
@@ -1318,30 +1332,30 @@ fruit bowl
 Dawn Powerwash
 PlayStation 5 charging station
 North Carolina Tar Heels hoodie
+LEGO Botanicals cherry blossoms
 Wilson tennis balls
 drone with camera
 Beauty of Joseon glow serum
 Easter eggs
 Takis
 Lord of the Rings figure
-iPad keyboard case
+LEGO Star Wars Y-wing microfighter
 glass food storage containers
 Baltimore Ravens blanket
-LEGO Star Wars minifigures
 snow boots
+LEGO City skate park
 Conair curling iron
 NYX lip liner
 Sacramento Kings hoodie
 Rapala scale
 Encanto backpack
 bike helmet
-LEGO Titanic
 Elmers glue sticks
 bean bag chair
-dutch oven
-LEGO Star Wars starship
+LEGO Star Wars A-wing
 Kentucky Wildcats hat
 Toyota Tacoma sun shade
+LEGO Marvel set
 Levis trucker jacket
 Gorilla glue
 Anker power bank
@@ -1352,20 +1366,19 @@ Yamaha recorder
 vegetable chopper
 Penn Battle reel
 Smiski
+LEGO Speed Champions McLaren
 UCLA Bruins hat
 ps5 games
 GI Joe Classified
 Garden of Life protein
 Owala water bottle
-kids backpack
 Cleveland Browns blanket
 cake decorating kit
 Apple Watch screen protector
-foot spa
 Funko Pop Kiss
 Galaxy Z Fold 7 MagSafe case
 Bushnell trail camera
-Lego Star Wars Skywalker Saga
+LEGO Friends bakery
 Chris Stapleton vinyl
 Cincinnati Bengals hoodie
 Pandemic
@@ -1376,22 +1389,20 @@ Swiffer Duster
 Nike gym bag
 Nike Everyday socks
 Weathertech cup holder
-LEGO Pac-Man
 Minnesota Twins blanket
+LEGO BrickHeadz Disney
 neck massager
 COSRX pimple patches
 Pop Mart Hirono
-portable projector
-baby monitor
 Govee lights
 Carhartt beanie
 Ecobee sensor
 Phoenix Suns hoodie
-LEGO Wicked set
 Utopia Bedding pillows
 bird bath
 Athletics baseball hat
-open ear headphones
+LEGO Ninjago Zane
+LEGO Star Wars AT-AT microfighter
 Funko Pop Chainsaw Man
 Kong Wobbler
 Amiibo
@@ -1401,8 +1412,8 @@ AeroPress Go
 Hot Wheels Skate fingerboard
 Prismacolor colored pencils
 Milwaukee Brewers blanket
-pan organizer
 Kiss lashes
+LEGO Creator 3 in 1 cat
 Kodak Ektar H35
 Dunlop picks
 garden gloves
@@ -1413,19 +1424,19 @@ Funko Pop House of the Dragon
 beach umbrella
 Nordic Ware bundt pan
 Radio Flyer tricycle
-LEGO Bouquet of Roses
+LEGO City police car
 Patagonia hat
 microscope for kids
 Dallas Cowboys t shirt
 Singer Heavy Duty
 generator
 White Mountain puzzle 1000
-cookie scoop
 Apple Watch charger
 Funko Pop Top Gun
 CeraVe lotion
 Arizona Wildcats hat
 Lasko heater
+LEGO Dots set
 welcome mat
 Mazda CX-5 sun shade
 Crayola washable markers
@@ -1436,10 +1447,9 @@ Lion Brand Hometown
 baby bath tub
 San Francisco 49ers hat
 Bagsmart toiletry bag
+LEGO Super Mario Bowser Jr
 Klein Tools pliers
-Lego Fortnite
 Dragon Ball Z backpack
-earrings
 Method cleaner
 Anua cleansing oil
 Christmas advent calendar
@@ -1447,57 +1457,55 @@ Swedish Fish
 Detroit Tigers hoodie
 Jada Toys Fast and Furious
 Garmin charger
-puck lights
+LEGO Star Wars Grogu buildable
 Aqueon aquarium kit
+LEGO Ninjago Cole
 remote control car
 Chaco Z1
 Maybelline mascara
 universal remote
 Chicago Cubs hat
 iPhone 17 Pro Max screen protector
-LEGO Lotus Flowers
 Mickey Mouse plush
 Ninja air fryer
-beach towel
 Nerf Ultra
 Charlotte Tilbury Flawless Filter
 Milwaukee Brewers t shirt
+LEGO Botanical orchid
 record player
 Louisville Slugger bat
 Donner guitar pedal
 Lion Brand yarn
 JBL Flip 6
-bar tools
+LEGO Harry Potter Fluffy
 Vera Bradley crossbody
 GE light bulbs
 survival kit
 Oregon Ducks t shirt
+LEGO Orchid
 Nordic Ware sheet pan
 Squishmallows Marvel
 La Roche-Posay Cicaplast
-LEGO Dots bracelet
 Razer headset
-cold brew coffee maker
 Cleveland Guardians hat
 Ceaco puzzle
 Crocs Baya
 lip balm
 Revlon hair dryer brush
 Jurassic Park figure
-reMarkable Marker tips
 Pittsburgh Steelers hat
+LEGO Marvel Avengers
 packing cubes
 Paw Patrol toys
 MAM pacifier
-tongs
 loom kit
 The Weeknd vinyl
-LEGO Tetris
 Las Vegas Raiders hat
 Catit fountain
 Big Agnes sleeping pad
 Fiskars cutting mat
 Vicks humidifier
+LEGO Speed Champions 2025
 Cuisinart coffee grinder
 Beats Studio Buds
 work light
@@ -1509,6 +1517,7 @@ Texas A&M Aggies t shirt
 garage organizer
 Seiko watch
 silk pillowcase
+LEGO City Police Station
 pitching machine
 Weber grill cover
 Minnesota Timberwolves t shirt
@@ -1519,6 +1528,7 @@ SpongeBob backpack
 house slippers
 Funko Pop games
 Glow Recipe watermelon toner
+LEGO Minecraft illager
 Washington Nationals hat
 car phone holder
 guitar case
@@ -1530,8 +1540,8 @@ Abu Garcia reel
 Washington Commanders t shirt
 Winnie the Pooh backpack
 Zella leggings
+LEGO Botanical bonsai
 Gerber knife
-olive oil sprayer
 Squishmallows 16 inch
 handheld vacuum
 Hot Wheels Audi
@@ -1542,42 +1552,41 @@ travel mug
 Fiesta dinnerware
 Pixel 9 MagSafe case
 Theragun attachments
+LEGO Speed Champions Nissan Skyline
 Funko Pop Jujutsu Kaisen Gojo
 Kelty camp chair
-outlet extender
 Athletics baseball hoodie
 Ruffwear harness
 Chicco stroller
 Timex Expedition
 Funko Pop Star Wars
 sports bra
-spatula set
 Weber chimney starter
 HyperX Cloud
+LEGO Sonic Tails
 Dallas Cowboys hoodie
 Led Zeppelin vinyl
 hyaluronic acid
 Squishmallows Fifi the fox
 Singer needles
 Amazon Basics yoga mat
-LEGO Indiana Jones set
 Levis jeans
 Armor All wipes
 dog collar
 Charlotte Hornets hat
-e.l.f. Power Grip primer
 Soundcore headphones
+LEGO City Stuntz
 Lodge griddle
 ironing board
 Medicube Age-R
 Valentines Day cards
 Red Bull variety
 Denver Broncos t shirt
-LEGO Mercedes F1
 drop cloth
 Funko Pop Taylor Swift
 popcorn bowls
 Scrub Daddy
+LEGO Botanicals plants
 Greenlight diecast
 PowerPro braided line
 pegboard
@@ -1589,6 +1598,7 @@ EA Sports FC 26
 Polaroid Go camera
 Jacksonville Jaguars blanket
 Ravensburger Labyrinth
+LEGO Lotus Flowers
 Squishmallows Hans the hedgehog
 Laneige Water Bank
 Power Wheels
@@ -1598,25 +1608,23 @@ RTIC cooler
 Kendra Scott necklace
 Milwaukee Shockwave bits
 Brooklinen sheets
-pickleball balls
 Hertzko slicker brush
 Detroit Pistons t shirt
+LEGO City police
 pimple patches
 Toyota 4Runner accessories
 walking pad
 Under Armour backpack
 Looney Tunes figure
 Chicago Bulls hat
-LEGO Harry Potter set
 Brother label maker
-paper plates
 Dash mini waffle maker
 Rogue chalk
 Hot Wheels Volkswagen Beetle
+LEGO Duplo Peppa Pig
 Laneige lip glowy balm
 Chicago Blackhawks t shirt
 Philips Hue Play
-dog treats
 chef knife
 Morgan Wallen vinyl
 Squishmallows Wendy the frog
@@ -1625,22 +1633,21 @@ laser level
 Minnesota Vikings blanket
 Corelle dinnerware set
 Cricut tools
+LEGO magnets
 Oakley Frogskins
 Rain-X wiper blades
 Under Armour compression shirt
-cat bed
 Crucial RAM
 Pixel 9 case
 Cincinnati Reds hat
-highlighters
 Xbox Series X game
 Bob Ross figure
 Little Tikes playhouse
 Zarbees honey
+LEGO Star Wars Boba Fett
 Bissell carpet cleaner solution
 whiskey stones
 Arizona Cardinals t shirt
-splatter screen
 Balega socks
 Ernie Ball guitar strings
 pulse oximeter
@@ -1649,8 +1656,8 @@ Furhaven dog bed
 Chicago Cubs t shirt
 Skullcandy earbuds
 Funko Pop Disney Villains
+LEGO Duplo zoo
 niacinamide
-LEGO Friends house
 Air Wick plug in
 Hot Wheels VW Bus
 Sunrise alarm
@@ -1660,6 +1667,7 @@ Gildan hoodie
 DeWalt tape measure
 Seattle Kraken blanket
 Wilson basketball
+LEGO Technic off-roader
 Tony Hawk Pro Skater 1 2
 LOreal mascara
 bread knife
@@ -1671,30 +1679,30 @@ New York Rangers hat
 T-fal frying pan
 glue gun
 Ulanzi tripod
-meat thermometer digital
+LEGO Jurassic World dinosaur
 Texas Rangers hat
 Crocs Classic Clog
 camping stove
 Ninja Foodi accessories
-LEGO Dreamzzz set
 Funko Pop Demon Slayer Tanjiro
 Michigan State Spartans hoodie
 Frank Ocean vinyl
-colander
 Fairlife protein shake
 face wash
 Tesla Model 3 floor mats
 Kate Spade card holder
+LEGO Minecraft village
 DeWalt screwdriver set
 Post-it Super Sticky
 Rode microphone
 Los Angeles Clippers hoodie
-neck gaiter
+LEGO Harry Potter Great Hall small
 Sawyer Products permethrin
 Steam Deck OLED case
 Matchbox Porsche
 Round Lab toner
 Home Accents Holiday skeleton
+LEGO Star Wars Death Star
 Japanese Kit Kat
 Libbey glasses
 Roblox figures
@@ -1705,8 +1713,8 @@ New York Yankees blanket
 Catan board game
 Novation Launchkey
 canvas panels
-coasters
 Caraway bakeware
+LEGO Marvel keychain
 C4 energy drink
 Joola pickleball paddle
 Calgary Flames hat
@@ -1717,6 +1725,7 @@ Funko Pop Minecraft
 Razer Kishi
 punch needle kit
 iPhone 15 Pro Max screen protector
+LEGO Technic set
 Green Bay Packers t shirt
 Nike NFL jersey
 Petzl headlamp
@@ -1728,8 +1737,8 @@ TaylorMade TP5
 Hot Wheels Mega Garage
 Looney Tunes plush
 USC Trojans hat
+LEGO Star Wars Stormtrooper
 grill mat
-under sink organizer
 Tile 4 pack
 Brumate Hopsulator
 Eos lip balm
@@ -1739,7 +1748,7 @@ Detroit Lions hoodie
 Luigis Mansion 3
 T3 flat iron
 tower fan
-LEGO Ninjago dragon
+LEGO Technic Mack truck
 Wednesday Addams figure
 Sea to Summit sleeping bag liner
 Boston Bruins t shirt
@@ -1751,10 +1760,10 @@ shoe horn
 Blackstone griddle cover
 Florida Gators hoodie
 JBL earbuds
+LEGO Creator 3 in 1 unicorn
 Adidas Tiro pants
 Brightech string lights
 Winsor and Newton watercolor
-LEGO Avatar set
 Clinique moisturizer
 Funko Pop Deadpool
 window alarm
@@ -1763,18 +1772,18 @@ EcoFlow accessories
 Atlanta Falcons hat
 ring light
 Crosley record player
+LEGO Botanicals succulents
 Lodge cast iron skillet
 dog sweater
 New York Knicks t shirt
-LEGO Duplo number train
 Blue Yeti stand
 bookshelf
 Funko Pop Hocus Pocus
 Cable Matters HDMI
-LEGO Advent Calendar Star Wars
-personalized gifts
+LEGO Harry Potter Herbology
 Chaco sandals
 Subaru Outback floor mats
+LEGO Speed Champions Ford Mustang
 Philadelphia Eagles hoodie
 OXO POP containers
 Bobbi Brown
@@ -1783,24 +1792,22 @@ Adidas socks
 James Avery
 Viair compressor
 Calico Critters set
-gifts for mom
 Cross pen
 Seattle Seahawks hoodie
 Jurassic Park plush
+LEGO Botanicals bonsai
 Garmin HRM
-napkins
 DJI Mini accessories
 flameless candles
 Instant Pot accessories
 Meta Quest accessories
 Houston Texans hat
 mouse wireless
-LEGO storage
 Wellness treats
 Bluey figure
 Plackers flossers
+LEGO Friends set
 Ottawa Senators blanket
-bath towels set
 iPhone 16 Pro Max case
 Hydro Flask lunch bag
 Contigo travel mug
@@ -1809,11 +1816,10 @@ magnetic tiles
 Kindle Paperwhite
 Bon Iver vinyl
 Toronto Blue Jays hoodie
-LEGO Mini Orchid
 Throw Throw Burrito
 Kasa smart plug
-LEGO Jurassic World set
-growler
+LEGO Botanical Collection
+LEGO Harry Potter Potions class
 yoga blocks
 Adidas track pants
 Milwaukee M12 battery
@@ -1823,25 +1829,22 @@ Purito sunscreen
 Christmas village
 Haribo
 Miami Hurricanes hoodie
-hydroponics growing system
+LEGO Dots jewelry box
 Oral-B floss
 Fender Squier
 Coleman camp stove
 Redken Acidic Bonding
-bows
-LEGO Marvel set
 Kansas Jayhawks hat
 Animal Crossing figure
 pasta maker
 OtterBox Symmetry
 OXO can opener
-rolling pin
 Pittsburgh Pirates hat
 creatine
+LEGO Classic medium box
 Philips Avent pacifier
 Rawlings baseball glove
 Peppa Pig toys
-running belt
 Michigan Wolverines t shirt
 Funko Pop Darth Vader
 Dickies work shirt
@@ -1849,10 +1852,9 @@ Astroai tire inflator
 Drunk Elephant bronzing drops
 Calphalon cookware
 OPI nail polish
-pool noodles
 Hot glue gun
+LEGO Speed Champions Ferrari
 Seresto collar
-LEGO X-wing
 Skullcandy headphones
 Charlotte Hornets hoodie
 Babolat tennis racket
@@ -1861,48 +1863,43 @@ swim goggles
 Our Generation accessories
 Honda CR-V floor mats
 Harry Potter figure
-emergency radio
 Dash egg cooker
+LEGO Harry Potter Whomping Willow
 Boston Celtics blanket
 jewelry box
 Wingspan
 Cleveland Browns hoodie
 Gaiam balance ball
 Nintendo amiibo Smash
-LEGO Star Wars battle pack
 It Cosmetics CC cream
-planters indoor
 Nirvana vinyl
 ZAGG screen protector
 Hello Kitty figure
 Hydro Flask water bottle
+LEGO polybag
 Eagle Creek packing cubes
 Rain-X glass treatment
 hearing protection
-silicone utensils
 Boston Red Sox hat
 guitar wall hanger
 Happy Planner stickers
 Princess Peach Showtime
-dog coat
 Brooklinen
-LEGO Botanical bouquet
 Oofos recovery sandals
 Carolina Panthers hoodie
+LEGO Disney Lilo
 Hamilton Beach breakfast sandwich maker
 storage shelves
 Wicked plush
-LEGO Pretty Pink Flower Bouquet
-iPhone 15 Pro Max MagSafe case
 Kodak film
 Smiggle
 door mat outdoor
 Bath and Body Works lotion
 Los Angeles Angels blanket
-golf towel
 Puppia harness
 Batman figures
 shaving cream
+LEGO Lucky Bamboo
 Bushnell rangefinder accessories
 Brita pitcher
 Arizona Wildcats t shirt
@@ -1912,8 +1909,8 @@ Baleaf shorts
 Leatherman Free P4
 Oklahoma City Thunder blanket
 Tombow Dual Brush pens
-beer glasses
 Kodak camera
+LEGO Friends bedroom
 Transformers Studio Series
 Hario kettle
 electrolyte powder
@@ -1925,10 +1922,9 @@ quesadilla maker
 Operation game
 Hydro Flask 32 oz
 socket set
+LEGO Gabbys Dollhouse cat
 Gonzaga t shirt
-LEGO Advent Calendar Marvel
 crochet kit beginner
-LEGO Ninjago mech
 Amazon Basics hangers
 Wyze smart plug
 Demon Slayer backpack
@@ -1938,10 +1934,10 @@ sunshade windshield
 Atlanta Braves hat
 Herschel wallet
 Vantrue dash cam
+LEGO Technic truck
 Arturia MiniLab
 birthday decorations
 Lancome mascara
-measuring cups
 Missha BB cream
 Kurt Adler nutcracker
 Ferrero Rocher
@@ -1949,6 +1945,7 @@ Tim Holtz stamps
 Barbie Cutie Reveal
 Kia Telluride sun shade
 Glade plug ins
+LEGO Creator 3 in 1 butterfly
 Dallas Stars t shirt
 wifi extender
 Lilo and Stitch figure
@@ -1960,23 +1957,21 @@ screen protector
 Crash Bandicoot
 reMarkable case
 Baltimore Ravens hoodie
+LEGO Botanicals lavender
 Slip silk pillowcase
 cooler with wheels
 Melissa and Doug puzzle
 Squishmallows
 Washington Nationals blanket
-utensil organizer
 My Hero Academia plush
 play kitchen
 Briogeo hair mask
 Pride Sports golf tees
-LEGO Red Bull F1
 Nike Heritage86 hat
+LEGO Speed Champions Aston Martin
 Ryobi drill bits
-mouthwash
 New Orleans Pelicans hoodie
 Pyrex glass containers
-LEGO minifigures series
 Sony camera accessories
 Avery labels
 picture frames set
@@ -1985,10 +1980,9 @@ iPhone 16 Pro screen protector
 Toy Story backpack
 Minnesota Wild hoodie
 backpack men
+LEGO Harry Potter Hagrid
 Liforme yoga mat
-pie dish
 Bentgo salad container
-sunset lamp
 Kiss imPRESS
 Hot Wheels 50 pack
 Tampa Bay Lightning blanket
@@ -1997,6 +1991,7 @@ One Piece backpack
 Ulanzi light
 Calgary Flames blanket
 Black Sabbath vinyl
+LEGO Sonic Knuckles
 Rode NT-USB
 stocking stuffers
 Worlds Best cat litter
@@ -2006,14 +2001,14 @@ Heated throw
 Wrangler jeans
 GE smart switch
 Squishmallows 12 inch
-
-# ================= Day 3 =================
-smart light bulbs
 Los Angeles Lakers hoodie
 turntable organizer
+LEGO Valentines set
 Uplift desk accessories
 Hot Wheels Ford Bronco
 Batman plush
+
+# ================= Day 3 =================
 Philips Avent Natural bottle
 mirror full length
 Axe body spray
@@ -2022,19 +2017,18 @@ KitchenAid measuring cups
 Samsung Galaxy Buds
 Everlast hand wraps
 closet organizer
+LEGO Technic dune buggy
 Transformers Rise of the Beasts
 Orlando Magic hoodie
-air freshener
 Bluey backpack
 Need for Speed
-pot lid organizer
 Dunkin ground coffee
 Logitech G Pro
-spin mop
 Toyota Tacoma floor mats
 Winnipeg Jets hoodie
 Coleman tent
 Pomegranate puzzle
+LEGO Disney Moana
 Funko Pop Disney
 Fruit of the Loom boxers
 Duck tape
@@ -2046,11 +2040,9 @@ Weighted stuffed animal
 Detroit Lions hat
 Rocketbook Fusion
 pre workout
+LEGO Tiny Plants
 Dunkin K-Cups
-dish brush
-LEGO Friends cafe
 San Francisco 49ers hoodie
-LEGO Technic Monster Jam
 Lululemon The Mat 5mm
 tumbler with straw
 Nutramax Proviable
@@ -2059,6 +2051,7 @@ Funko Pop Pixar
 TP-Link Deco
 Bodum French press
 Oklahoma Sooners hoodie
+LEGO Marvel Hulk
 action figures
 Shure SM58
 Lattafa perfume
@@ -2070,6 +2063,7 @@ Craftsman wrench set
 Primos call
 Washington Nationals hoodie
 iPhone 16 screen protector
+LEGO Disney Frozen
 Anua toner
 Hallmark Keepsake ornament
 Feastables MrBeast
@@ -2080,7 +2074,7 @@ YETI cooler
 hockey stick
 Bernat Blanket yarn
 Kansas City Chiefs hat
-throw pillows
+LEGO Classic space
 Texas Instruments TI-84 Plus
 Hot Wheels Monster Trucks
 Apple Watch Ultra band
@@ -2092,10 +2086,9 @@ Squishmallows Jack the black cat
 PUR pitcher
 card holder
 Hot Wheels Fast and Furious Premium
+LEGO Disney Up
 Phase 10
 Dallas Cowboys hat
-LEGO Technic motorcycle
-hair mask
 pool vacuum
 Costa sunglasses
 Leviton switch
@@ -2105,17 +2098,18 @@ PUR filter
 sandbox
 Sailor Moon backpack
 Alabama Crimson Tide hoodie
+LEGO Star Wars TIE Fighter microfighter
 Splatoon 3
 Halti head collar
 Winsor and Newton Cotman
 tire inflator portable
 Neutrogena sunscreen
-LEGO Star Wars helmet
 Logitech presenter
 Texas Rangers t shirt
 pressure cooker accessories
 Traeger grill cover
 Amazon Basics kettlebell
+LEGO Star Wars Yoda
 Funko Pop Halo
 charcuterie board
 pet hair vacuum
@@ -2127,23 +2121,22 @@ reeds clarinet
 Funko Pop Demon Slayer
 laptop sleeve
 The Beatles vinyl
+LEGO Technic helicopter
 Carolina Hurricanes hat
 Lysol wipes
 Evenflo car seat
 Vera Bradley ID case
 DeWalt 20V battery
-LEGO Wildflower Bouquet
 hand warmers
 Clean Skin Club towels
 Garfield backpack
 Black Diamond chalk bag
 Washington Commanders blanket
+LEGO Fortnite llama
 fountain pen
-LEGO DC Batman
 Loops and Threads yarn
 fridge organizer
 Amazon Basics keyboard
-ear protection
 YETI Rambler
 Toronto Raptors hoodie
 Rummikub
@@ -2151,6 +2144,7 @@ Care Bears figure
 bouncer
 Titleist Tour Soft
 Cincinnati Reds blanket
+LEGO Creator 3 in 1 bunny
 Care Bears plush
 Purina Friskies
 polymer clay
@@ -2161,6 +2155,7 @@ Anker Prime
 polo shirts
 Duracell AAA
 cookie jar
+LEGO Formula 1 car
 Gymshark leggings
 Stanley toolbox
 Anaheim Ducks t shirt
@@ -2168,12 +2163,11 @@ Labubu plush
 Helinox chair
 sleeping pad
 Hot Wheels Retro Entertainment
-LEGO City Police Station
 New Orleans Pelicans t shirt
 DYMO LabelManager
 Pyrex set
-exercise bike
 Silent Hill 2 remake
+LEGO Botanicals lucky bamboo
 Scooby Doo plush
 kids lunch box
 Etekcity bathroom scale
@@ -2185,9 +2179,10 @@ tennis balls
 LOL Surprise OMG
 dog poop bags
 Breville milk jug
+LEGO Speed Champions Mercedes
 Phoenix Suns hat
 JanSport SuperBreak
-webcam
+LEGO Harry Potter Ministry of Magic
 Razer keyboard
 Gorillaz vinyl
 Roblox plush
@@ -2195,6 +2190,7 @@ Gildan t shirts
 Tesla floor mats
 serum
 Mixsoon bean essence
+LEGO Speed Champions Fast and Furious
 Balsam Hill ornaments
 Kinder Bueno
 Vancouver Canucks hat
@@ -2206,18 +2202,18 @@ watch box
 Panasonic Eneloop
 Galison puzzle
 NYX Butter Gloss
+LEGO Duplo Spidey
 Moleskine notebook
-cheese board
 Pawfect Pets pee pads
 UCLA Bruins hoodie
 Honda Civic floor mats
 can opener electric
 Snoopy plush
-LEGO Advent Calendar Harry Potter
 Schleich horse
 incense
 Philadelphia Flyers t shirt
 Pure Enrichment heating pad
+LEGO Disney Wish
 Head pickleball paddle
 wireless charger
 Boston Red Sox hoodie
@@ -2229,31 +2225,30 @@ DeWalt battery
 NYX setting spray
 egg cooker
 Hot Wheels carrying case
+LEGO Disney Snow White
 Brita Elite filter
-steam mop
 Philadelphia Eagles t shirt
 Shock Doctor mouthguard
 BIC pens
-ice maker countertop
+LEGO Marvel Miles Morales
 Our Place Always Pan
 Cocomelon plush
 North Carolina Tar Heels hat
 guitar humidifier
 Oral-B electric toothbrush
-scrunchies
 Fisher-Price Laugh and Learn
+LEGO Duplo farm
 Beats Solo Buds
 iPhone 15 Pro Max case
 Bentgo Kids
 Yeti Hopper
 Cleveland Guardians hoodie
-staple gun
 skimboard
 Moroccanoil shampoo
-LEGO Bowser
 Assassins Creed Shadows
 Funko Pop Teenage Mutant Ninja Turtles
-bucket hat
+LEGO Marvel Spider-Man vs Venom
+LEGO City bulldozer
 Wu-Tang Clan vinyl
 Kong Wild Knots
 Microplane grater
@@ -2262,22 +2257,21 @@ Saxx boxer briefs
 Schlage lock
 Spider-Man web shooter
 Uno All Wild
-teeth whitening kit
 Panasonic hair dryer
 Daiwa reel
 Ottawa Senators hat
+LEGO Harry Potter advent calendar
 sink caddy
 Arteza paint
 Squishmallows Star Wars
-to go containers
 ThermoWorks Thermapen
 Steam Deck case
 retirement gifts
-LEGO keychain
 Dr Teals Epsom salt
 Atlanta Falcons t shirt
 GoPro Hero 13 accessories
 anklet
+LEGO Duplo Disney
 Hydrow
 Seattle Kraken hat
 Funko Pop Fallout
@@ -2287,25 +2281,23 @@ Instant Pot steamer basket
 Spin Master games
 Kate Spade wristlet
 Knipex Cobra
-string lights outdoor
-LEGO Orchid
 Dallas Stars hat
 softball glove
+LEGO Minecraft Steve
 Chevy Silverado accessories
 phone stand
 Nike football gloves
 Vaseline intensive care
 Barbie figure
-mDesign storage bins
 New Jersey Devils blanket
 Behringer mixer
 Mod Podge
 espresso tamper
 Playmobil set
+LEGO book with minifigure
 UGREEN hub
 Dr Browns pacifier
 Kaytee bedding
-velvet hangers
 San Jose Sharks hat
 Instant Pot sealing ring
 doll stroller
@@ -2314,8 +2306,8 @@ Squishmallows Pokeball
 curtain lights
 Unstable Unicorns
 Labubu
+LEGO Ninjago ninja car
 Kansas City Royals hat
-LEGO Icons car
 Whitney Houston vinyl
 car cover
 Longchamp pouch
@@ -2324,9 +2316,9 @@ Dove deodorant
 Numbuzin serum
 Halloween animatronic
 Poppi soda
-shoe rack
 Sims 4 PS5
 iPad screen protector
+LEGO Animal Crossing Isabelle
 Denver Nuggets hoodie
 Keurig descaling solution
 Taylor Swift figure
@@ -2337,6 +2329,7 @@ Matchbox Collectors
 Sharpie permanent markers
 Moto G case
 San Francisco Giants hat
+LEGO Harry Potter Hedwig
 hot pot
 ethernet cable
 Traeger rub
@@ -2348,6 +2341,7 @@ LG soundbar remote
 Keen Newport
 Polly Pocket compact
 gaming keyboard
+LEGO Wicked Glinda
 Nintendo Switch Mario Kart 8
 San Antonio Spurs hat
 Amazon Basics luggage
@@ -2358,6 +2352,7 @@ Pure Enrichment humidifier
 outdoor projector
 Greenies dental treats
 The Nightmare Before Christmas backpack
+LEGO minifigures Disney
 Arizona Diamondbacks blanket
 work gloves
 turntable needle
@@ -2369,6 +2364,7 @@ dry bag
 Casio calculator
 Theragun Mini
 Seattle Mariners t shirt
+LEGO Dreamzzz Mateo
 simplehuman dish rack
 Hot Wheels Ford Mustang
 Monopoly Cheaters edition
@@ -2378,8 +2374,8 @@ Barbie Extra
 Minnesota Twins t shirt
 tablet stand
 Wilson volleyball
-ladder toss
 Toyota 4Runner floor mats
+LEGO Friends beauty salon
 Miles Davis vinyl
 Starbucks Nespresso pods
 Fanatics hat
@@ -2388,13 +2384,13 @@ bidet attachment
 Los Angeles Lakers hat
 TP-Link Kasa smart plug
 Sonic plush
-weed puller
+LEGO Marvel X-Men
 Funko Pop Naruto
 Sol de Janeiro Cheirosa
+LEGO City holiday set
 Sony WH-1000XM5 case
 Carolina Panthers hat
 Osprey hydration pack
-car trash can
 Pilot G2 pens
 Keurig K-Cup holder
 MLB The Show 25
@@ -2402,11 +2398,9 @@ football
 baby carrier
 Carolina Panthers blanket
 Studio Ghibli figure
-LEGO Minecraft house
-leaf blower cordless
 Netgear router
+LEGO BrickHeadz Marvel
 Zesty Paws probiotic
-LEGO Mario Piranha Plant
 Texas A&M Aggies hoodie
 OXO containers
 Shimano fishing reel
@@ -2416,18 +2410,19 @@ Klein Tools voltage tester
 Ouai hair oil
 tent 4 person
 Squishmallows Archie the axolotl
+LEGO Harry Potter Quidditch
 Memphis Grizzlies blanket
 Kyser capo
 Funko Pop Disney Stitch
 iPhone 15 screen protector
 Huggies Little Snugglers
-swim cap
 scalp massager
 Conair InfinitiPRO
 Trouble game
 Roku Express
 Muck Boot boots
 Anaheim Ducks hoodie
+LEGO City set
 Cricut vinyl
 Razer mouse
 back massager
@@ -2438,9 +2433,9 @@ lip gloss
 Ottawa Senators hoodie
 Orgain protein powder
 Stanley IceFlow
+LEGO Speed Champions Lamborghini
 sunscreen
 Smith and Wesson knife
-produce saver
 Florida Gators t shirt
 The Smiths vinyl
 Dagne Dover
@@ -2448,11 +2443,9 @@ Gearwrench wrench set
 Peripera Ink Velvet
 Thanksgiving decorations
 Ghost energy
-knee pads work
 Neewer ring light
 Kuromi backpack
-LEGO Monster Truck
-LEGO Duplo set
+LEGO Bluey Beach
 Mellanni sheets
 sled
 Chicago Bulls hoodie
@@ -2463,9 +2456,9 @@ Bernat Baby Blanket yarn
 Burts Bees gift set
 Toronto Maple Leafs t shirt
 Loungefly Sanrio
+LEGO Christmas set
 Nerf darts refill
 tool set kids
-baking sheet
 Jeep Wrangler floor mats
 Hot Tools curling iron
 Casio A168
@@ -2475,32 +2468,30 @@ gloves touchscreen
 Mario Kart 8 Deluxe
 Bridgestone golf balls
 chicken coop
+LEGO Marvel advent calendar
 Fossil wallet
 Irwin clamps
 Funko Pop Final Fantasy
 Washington Nationals t shirt
-guitar capo
-LEGO Super Mario starter course
+LEGO Marvel Guardians of the Galaxy
 Fjallraven Kanken
 Braun shaver
 Cobble Hill puzzle
-resin kit
 Maybelline Lash Sensational
 mixing bowls
 Cleveland Browns hat
-knitting kit
+LEGO Duplo police
 Smartish wallet case
-LEGO Creator 3 in 1 Dragon
 Feetures socks
 Silhouette vinyl
 The Office plush
 Snap Circuits kit
-magnetic wristband
 Black and Decker drill
 Winnipeg Jets t shirt
-safe box
+LEGO Marvel Ant-Man
 Baltimore Orioles blanket
-calligraphy set
+LEGO Minecraft Warden
+LEGO small set
 Versace Pour Homme
 Lululemon Everywhere belt bag
 Amazon Fire TV Stick
@@ -2512,19 +2503,18 @@ iPhone 17 MagSafe case
 Peloton heart rate monitor
 Kwikset door lever
 Gund plush
+LEGO Harry Potter key chain
 Woobles kit
 Logitech combo
 Luke Combs vinyl
-pressure washer accessories
 Boston Celtics hoodie
-binoculars
 Baltimore Ravens hat
 Conair hair dryer
-teething toys
 Gund Pusheen
 Looney Tunes backpack
 Grovemade desk shelf
 Birkenstock Arizona
+LEGO City helicopter
 Hot Wheels Mainline 2026
 Philips Hue smart plug
 fabric shaver
@@ -2536,6 +2526,7 @@ Ravensburger Gravitrax
 Method soap
 Pampers Swaddlers
 Squishmallows Disney
+LEGO City fire rescue
 PreSonus AudioBox
 New Orleans Saints t shirt
 Yellowstone backpack
@@ -2546,22 +2537,22 @@ FootJoy golf glove
 Overcooked 2
 tape measure
 Oregon Ducks hat
+LEGO Technic bulldozer
 Switch 2 case
 Timex Weekender
 Hatch Restore
 Hyundai Tucson sun shade
 mini basketball hoop
 horse treats
-LEGO advent calendar
 Toy Story plush
 Chicago Blackhawks hoodie
 The Ordinary niacinamide
 Singer sewing machine
 Coleman propane
+LEGO Speed Champions Dodge Challenger
 nonstick pan
 Blue Buffalo Wilderness
 Wisconsin Badgers hat
-blood pressure monitor
 Mrs Meyers soap
 Razor scooter
 Hot Wheels BMW M3
@@ -2570,6 +2561,7 @@ Duracell AA batteries
 license plate frame
 Peripera lip tint
 Christmas wrapping paper
+LEGO Botanicals tulips
 Oreo limited edition
 Mitchell and Ness snapback
 Meguiars car wax
@@ -2580,18 +2572,19 @@ Alo Yoga mat
 wax warmer
 Swiffer WetJet pads
 Nature Made vitamins
+LEGO Minecraft Creeper
 Pittsburgh Pirates blanket
 hydration pack
 Sanrio My Melody
 Paw Patrol backpack
 Touchland hand sanitizer
-plastic cups
 Xbox controller
 Parker Jotter
 New York Jets t shirt
 Abu Garcia Black Max
 Apple USB C charger
 Sorry board game
+LEGO Icons flowers
 Black and Decker dustbuster
 crossbody bag
 food storage bags
@@ -2602,31 +2595,30 @@ MXR pedal
 Cleveland Guardians t shirt
 Fortnite plush
 cat scratcher
+LEGO Wednesday Thing
 Neutrogena makeup wipes
 Pit Viper sunglasses
 Kilz primer
-kids bike
 Coleman cooler
 Victorinox paring knife
 New York Knicks blanket
-LEGO Typewriter
 Rabbit Hole Hay
 Wyze camera
 neck pillow
 Funko Pop exclusive
 Jellycat Bag charm
+LEGO Disney Stitch
 Detroit Lions t shirt
-ab roller
 storage baskets
 Fallout 4
 Zwilling knife
 Cricut Explore 3
-kids tablet
 Ugly Stik fishing rod
 Miami Dolphins blanket
 Nanoleaf
 Batiste dry shampoo
 Squishmallows Stackables
+LEGO Disney princess
 running vest
 Jellycat sushi
 Amazon Ring doorbell
@@ -2637,9 +2629,8 @@ Coast flashlight
 Philips Sonicare brush heads
 Mitski vinyl
 Honda CR-V sun shade
-juicer
 Vans socks
-primer
+LEGO Wicked set
 Green Bay Packers hoodie
 Paw Patrol plush
 Star Wars plush
@@ -2651,6 +2642,7 @@ Colorado Rockies blanket
 Covergirl mascara
 Canon ink
 steering wheel cover
+LEGO City camper van
 Clover Wonder Clips
 Yumbox
 Osprey Daylite
@@ -2661,6 +2653,7 @@ Arkansas Razorbacks hat
 Funko Pop The Office
 coat hooks
 Petstages cat toy
+LEGO City ambulance
 HexClad pan
 trampoline
 Barbie Dreamhouse
@@ -2668,25 +2661,22 @@ Carhartt WIP beanie
 Craftsman ratchet
 Chicago Bulls t shirt
 Corsair keyboard
-thank you cards
-LEGO Creator Expert building
 Hey Dude Wendy
 GoPro accessories
 Vital Proteins collagen peptides
 Funko Pop MLB Shohei Ohtani
+LEGO Art small
 Pittsburgh Penguins t shirt
-towel warmer
 Dash rapid egg cooker
-camping cookware
 propane fire pit
 Brooklyn Nets t shirt
 iPhone 14 MagSafe case
 Cricut Joy Xtra
 Jellycat Bashful bunny
 perfume women
-LEGO Succulents
 Frabill ice fishing
 Care Bears backpack
+LEGO Halloween set
 Waterpik tips
 Toronto Blue Jays blanket
 TP-Link Tapo camera
@@ -2698,9 +2688,9 @@ Liquid Death
 Hero Cosmetics Mighty Patch
 Calvin Klein bralette
 Adams Polishes
+LEGO Advent Calendar Star Wars
 dog water bottle
 Kanye West vinyl
-LEGO Ninjago set
 New York Islanders hat
 Cricut EasyPress mini
 Here to Slay card game
@@ -2709,31 +2699,31 @@ Squishmallows Hello Kitty
 Tactacam Reveal
 wipe warmer
 Air Wick refills
+LEGO Bonsai Tree
 Portland Trail Blazers hat
 water bottle with time marker
 Wild One harness
 Nanobebe bottles
 Brother P-Touch tape
-LEGO Art set
 retro game console
 Hal Leonard guitar method
 AmazonBasics paper shredder
 Kansas City Royals blanket
 T3 curling iron
 Attack on Titan backpack
+LEGO Dots bag tag
 The Ordinary set
 Patagonia socks
 bento box
 Ford Mustang floor mats
 ice packs for lunch box
 Vancouver Canucks t shirt
-LEGO Advent Calendar City
-oven cleaner
 Amazon Essentials joggers
 iOttie car mount
 Jurassic World dinosaur toys
 Cuisinart hand blender
 Chipolo
+LEGO keychain
 pet camera
 Funko Pop Monsters Inc
 Golden State Warriors blanket
@@ -2744,7 +2734,7 @@ Tampa Bay Buccaneers t shirt
 Polo cologne
 Funko Pop Spider-Man
 mesh wifi
-disc golf set
+LEGO Yoshi
 Dreo heater
 8BitDo controller
 Funko Pop NFL Patrick Mahomes
@@ -2753,11 +2743,10 @@ body lotion
 Atlanta Hawks blanket
 Peloton shoes
 SanDisk micro SD
-ergonomic mouse
 Exploding Kittens card game
-LEGO Harry Potter Hogwarts
 Lululemon socks
 Leatherman Skeletool
+LEGO Millennium Falcon microfighter
 Toronto Blue Jays hat
 Ninja blender cups
 Greenies feline
@@ -2768,30 +2757,30 @@ Halo Infinite
 Hot Wheels Bugatti
 Armaf Club de Nuit
 mixology set
-marble run
+LEGO Harry Potter keychain
 Buffalo Bills hat
 Bombas socks
 Burts Bees Baby pajamas
 iPhone Air screen protector
 Eufy camera
 Funko Pop Harry Potter
-heated vest
 Victorinox Swiss Army knife
 Focusrite Scarlett
 Indiana Pacers blanket
 Kirby figure
 Ninja Creami
+LEGO AT-AT
 weather radio
 Sizzix Big Shot
 Bombas ankle socks
 New England Patriots hat
-grout cleaner
 Meater thermometer
 Funko Pop Ad Icons
 insulated lunch bag
 Covergirl foundation
 Telfar
 Tekton socket set
+LEGO Botanicals mini orchid
 hummingbird feeder
 Chainsaw Man figure
 Govee floor lamp
@@ -2803,11 +2792,11 @@ Washington Capitals hoodie
 thermometer
 Melissa and Doug Water Wow
 Hot Wheels Mario Kart car
+LEGO Speed Champions Koenigsegg
 Godzilla figure
-drill bit set
+LEGO Minecraft Zombie
 Jeep Wrangler accessories
 Ohio State Buckeyes hat
-parchment paper
 Tetra filter
 Scotch thermal laminator
 Sol de Janeiro perfume mist
@@ -2815,8 +2804,8 @@ Sushi Go Party
 Timex watch
 foot massager
 Scrub Daddy sponges
+LEGO Botanical bouquet
 CAP Barbell dumbbells
-LEGO City police
 Gabby Dollhouse
 Pittsburgh Pirates t shirt
 fire extinguisher
@@ -2826,19 +2815,19 @@ Skittles
 Herschel Pop Quiz
 Milwaukee tape measure
 Inside Out plush
+LEGO Icons small
 Taylor Swift vinyl
 Hori Split Pad
-paint by numbers
 Stride Rite
 Florida State Seminoles t shirt
 Dreo fan
-dog shampoo
-LEGO Harry Potter Hogsmeade
-mini projector
+LEGO Minecraft Enderman
+LEGO Minecraft llama
 TaylorMade golf balls
 Amazon Basics HDMI cable
 Beyerdynamic headphones
 Texas Longhorns t shirt
+LEGO Sonic Shadow
 La Roche-Posay Effaclar
 necklace
 Sonic figure
@@ -2848,8 +2837,8 @@ BaBylissPRO trimmer
 Pentel GraphGear 1000
 Las Vegas Raiders blanket
 Matchbox Jeep
-LEGO City set
 heat gun
+LEGO Advent Calendar Marvel
 Bogs boots
 Peppa Pig figure
 Kansas City Royals hoodie
@@ -2857,26 +2846,26 @@ Michael Kors watch band
 Scotch laminating sheets
 wall art
 JBL Charge
-face mask
+LEGO Minecraft trail ruins
 Roborock
 Amazon Basics towels
 iPhone 13 case
+LEGO advent calendar
 e.l.f. Halo Glow
 hammock stand
 Arm and Hammer baking soda
 Gabbys Dollhouse plush
 Boston Celtics t shirt
 Sawyer Squeeze water filter
-bug zapper
 Snoopy figure
 Sagrada
 Indiana Pacers hoodie
 CamelBak Eddy
 shop vac
+LEGO minifigures Harry Potter
 ESR screen protector
 decorative bowl
 Avery binders
-LEGO Disney castle
 hoodie
 Colorado Avalanche t shirt
 Columbia hat
@@ -2884,6 +2873,7 @@ Teenage Mutant Ninja Turtles backpack
 Optimum Nutrition Gold Standard whey
 candles birthday
 Hot Wheels Toyota Supra
+LEGO Minecraft farm
 Longchamp Le Pliage
 Irwin Vise-Grip
 Ubbi diaper pail
@@ -2895,6 +2885,7 @@ Matchbox Moving Parts
 Positive Grid Spark
 Tineco
 Epson EcoTank ink
+LEGO Friends vet clinic
 Ford Mustang accessories
 Baltimore Orioles t shirt
 building block set
@@ -2905,6 +2896,7 @@ Hamilton Beach slow cooker
 seed starter kit
 Florida Panthers hoodie
 Nintendo Switch 2 case
+LEGO Harry Potter Diagon Alley
 Melissa and Doug sticker pad
 Charlotte Tilbury Pillow Talk
 dishwasher pods
@@ -2916,41 +2908,42 @@ Pop Mart Labubu
 iron
 Yankee Candle wax melts
 Crocs slides
+LEGO Lord of the Rings Rivendell small
 Ring Stick Up Cam
 Herschel hip pack
 Lutron dimmer
 lacrosse stick
 backup camera
-LEGO Architecture set
 Buffalo Bills hoodie
 Hot Wheels Mainline 2025
 Codenames Pictures
-car vacuum
+LEGO Super Mario Daisy
 Mercer Culinary chef knife
+LEGO City space rover
 Funko Pop Dragon Ball Goku
 Edmonton Oilers blanket
 Nature's Bounty biotin
 Bearpaw boots
 tie dye kit
 Magna-Tiles
-LEGO Marvel Spider-Man
 Baseus power bank
 under bed storage
 Los Angeles Kings hat
 Pilot Metropolitan
-ramekins
 Cascade Platinum pods
+LEGO Super Mario Peach
 clay kit
 Spider-Man figure
 Frida Baby Windi
 Skin1004 sunscreen
 Easter basket
 Toblerone
-iPhone Air case
+LEGO Super Mario Wario
 Tampa Bay Rays hat
 Coleman sleeping bag
 Dickies shorts
 NOCO Genius
+LEGO Technic motorcycle
 cover up
 Hot Wheels Mario Kart
 Minecraft soundtrack vinyl
@@ -2961,8 +2954,7 @@ Florida Panthers blanket
 Gillette Venus
 Belkin cable
 Jellycat croissant
-robot vacuum
-hand mixer
+LEGO minifigures pack
 Nature's Miracle enzyme cleaner
 Stance socks
 Hot Wheels Honda Civic
@@ -2974,6 +2966,7 @@ swaddle
 Caron Cakes
 Nebraska Cornhuskers hat
 Insta360 accessories
+LEGO Jurassic World Blue
 Warmies plush
 Rocketbook notebook
 Old Spice deodorant
@@ -2984,9 +2977,8 @@ Breyer horse
 Dungeons and Dragons Players Handbook
 Vortex binoculars
 Chicago Bulls blanket
+Lego flowers
 Kia Telluride floor mats
-ice skates
-canvas wall art
 Shark handheld vacuum
 Steam Deck dock
 Hogwarts Legacy
@@ -2997,6 +2989,7 @@ Squishmallows 20 inch
 candle making kit
 Sorel boots
 SanDisk Ultra
+LEGO Wednesday Enid
 Waterpik cordless flosser
 Toronto Maple Leafs blanket
 Revlon ColorStay
@@ -3005,12 +2998,9 @@ Chicco KeyFit base
 Marvel backpack
 Hot Wheels Twin Mill
 Cricut mat
-food coloring
 Los Angeles Chargers hat
 pizza peel
-
-# ================= Day 4 =================
-LEGO Star Wars set
+LEGO Minecraft ruined portal
 Hanes socks
 Leatherman Wave
 Massage gun mini
@@ -3019,9 +3009,12 @@ UGG Scuffette
 BarkBox
 electric blanket
 saxophone reeds
+
+# ================= Day 4 =================
 Ghost band vinyl
 San Diego Padres t shirt
 Philips Hue starter kit
+LEGO Ninjago Kai
 Batman backpack
 streaming stick
 LSU Tigers hat
@@ -3033,6 +3026,7 @@ coffee station organizer
 LifeStraw Go bottle
 tool box
 New Orleans Pelicans blanket
+LEGO City police motorcycle
 Loungefly mini backpack
 iPhone 17 Pro MagSafe case
 Ravensburger puzzle 1000
@@ -3043,19 +3037,19 @@ National Geographic science kit
 Le Creuset spatula
 Indianapolis Colts t shirt
 crab trap
+LEGO Star Wars AT-ST
 Champion reverse weave
 Command strips
-LEGO Speed Champions 2025
 The North Face base camp duffel
 CeraVe Hydrating cleanser
 wall clock
 Sonny Angel
-stand mixer accessories
 Los Angeles Dodgers t shirt
 Cozy Earth
 Majorette cars
 pull up bar
 Gillette razor
+LEGO Icons set
 Nashville Predators blanket
 Kindle cover
 Super Mario Party Jamboree
@@ -3066,6 +3060,7 @@ Doctor Who plush
 Outward Hound Hide a Squirrel
 PlayStation 5 game
 train set
+LEGO Jurassic World raptor
 Arizona Diamondbacks hoodie
 Hatch night light
 Ram 1500 accessories
@@ -3075,9 +3070,9 @@ Dr Jart Cicapair
 Christmas Elf on the Shelf
 Godiva
 putting green
-e.l.f. lip oil
 trading figures
 pop filter
+LEGO Dots picture frame
 Tory Burch card case
 Knipex pliers
 Penn State hat
@@ -3088,22 +3083,22 @@ One Piece figure
 DJI Osmo Mobile
 Nespresso Vertuo pods
 Jada Toys diecast
+LEGO Advent Calendar Friends
 sleeping bag
 Hot Wheels Car Culture 2 pack
 Arkansas Razorbacks t shirt
 foam roller
 Caraway pan
 Dungeons and Dragons starter set
-loaf pan
 Miami Marlins t shirt
 Funko Pop Venom
 Titleist golf glove
 Renpho eye massager
-patio umbrella
 O-Cedar EasyWring mop
+LEGO Classic baseplate
 Crayola markers
 Apple Watch case
-wooden puzzle
+LEGO Super Mario Goomba
 Five Star binder
 Colorado Avalanche blanket
 Lululemon scrunchies
@@ -3112,18 +3107,18 @@ cologne men
 Zelda plush
 Chicago Bears t shirt
 Microplane zester
+LEGO Pretty Pink Flower Bouquet
 Callaway Supersoft
 lip oil
 Barbie Dreamtopia
 disposable utensils
 Arm and Hammer toothpaste
 Indiana Pacers hat
-e.l.f. Camo concealer
 STEM toys
 Graco stroller
 Energizer AA batteries
 Pixel 10 Pro screen protector
-LEGO Minecraft Creeper
+LEGO Minecraft Nether
 Funko Pop Beetlejuice
 skin care set
 USA Pan loaf pan
@@ -3135,6 +3130,7 @@ ring
 Audio-Technica turntable
 Clover sewing
 Monster Hunter Wilds
+LEGO gift set
 Tennessee Titans hat
 frisbee
 diaper bag backpack
@@ -3145,6 +3141,7 @@ Zelda figure
 Ring chime
 Blink-182 vinyl
 claw clips
+LEGO Friends house
 Mighty Patch pimple patches
 LOL Surprise dolls
 Logitech G502
@@ -3154,21 +3151,20 @@ Pictionary
 car seat organizer
 Oklahoma City Thunder hoodie
 Shark FlexStyle
-bath bombs
+LEGO Super Mario Boo
 Funko Pop Back to the Future
+LEGO Disney Minnie
 Toyota RAV4 floor mats
 Nerf Rival
-peeler
 toe warmers
 Jackery solar panel
 Sacramento Kings t shirt
 Wyze lock
-LEGO City Garbage Truck
 Frisco dog bed
 Sharpie S-Gel pens
-earmuffs
 Real Techniques brushes
 Shark robot vacuum
+LEGO Star Wars Darth Vader
 Turtle Beach Stealth
 Levis 501
 Milwaukee Fastback knife
@@ -3180,6 +3176,7 @@ Joola table tennis
 Carters onesies
 pool float
 Cincinnati Bengals hat
+LEGO Fortnite Peely
 trinket tray
 Victorinox Fibrox chef knife
 Kingston flash drive
@@ -3187,10 +3184,11 @@ nail kit
 Spy x Family backpack
 New Jersey Devils t shirt
 Orbeez
-cat litter mat
+LEGO Super Mario Shy Guy
 LMNT electrolytes
 Bushnell golf GPS
 Audio-Technica AT2020
+LEGO Marvel Spider-Man
 Nalgene water bottle
 knee pads
 Penn State hoodie
@@ -3201,11 +3199,10 @@ Fiskars paper trimmer
 Funko Pop Rocky
 Levis 505
 Weathertech floor mats
+LEGO Creator 3 in 1 fox
 backpack women
-cupcake liners
 Gabbys Dollhouse figures
 Apple Pencil tips
-LEGO Duplo Town
 Cascadia
 Carolina Hurricanes t shirt
 Studio Ghibli soundtrack vinyl
@@ -3214,6 +3211,7 @@ posture corrector
 Kirby and the Forgotten Land
 Calphalon pan
 Peloton weights
+LEGO Classic creative bricks
 Pixel 10 Pro MagSafe case
 joggers
 Miami Marlins hat
@@ -3224,6 +3222,7 @@ Crayola crayons
 garden kneeler
 Tampa Bay Rays t shirt
 Duracell coin battery
+LEGO Hedwig
 wine glasses
 Levoit air purifier
 Razer mouse pad
@@ -3232,10 +3231,10 @@ Columbia fleece
 Jellycat avocado
 Jacksonville Jaguars hat
 Flexispot monitor arm
-bike lock
 Hot Wheels 20 pack
 Hanes boxer briefs
 Chemical Guys VSS
+LEGO BrickHeadz Halloween
 Crocs Jibbitz
 coding robot
 OGX shampoo
@@ -3246,10 +3245,10 @@ Battle Sports mouthguard
 bed skirt
 Matchbox Volkswagen
 ESR iPad case
+LEGO Harry Potter Hogsmeade
 Kawaii blind box
 snow cone machine
 Ember Mug 2
-LEGO Formula 1 car
 Tennessee Volunteers hoodie
 body scrub
 Lysol spray
@@ -3258,6 +3257,7 @@ selfie stick
 Detroit Pistons hat
 Kirkland golf balls
 Exploding Kittens party pack
+LEGO Creator 3 in 1 animals
 xbox games
 Squishmallows Cam the cat
 CeraVe sunscreen
@@ -3267,9 +3267,9 @@ MeUndies
 Craftsman tool set
 Sony WH-CH520
 Florida State Seminoles hat
-iRobot Roomba brushes
 smart thermostat
 soccer ball
+LEGO Botanicals pretty pink bouquet
 Nutramax Cosequin
 Harry Styles vinyl
 reptile tank
@@ -3280,20 +3280,19 @@ Pusheen plush
 guinea pig cage
 Henckels shears
 Sonic X Shadow Generations
+LEGO Super Mario starter course
 Washington Commanders hoodie
-LEGO City Fire Truck
 tea kettle
 The Inkey List
 Keurig K-Mini
 Casio F91W
-tapestry
-drawing tablet
 Auburn Tigers hoodie
 Gabbys Dollhouse figure
 Squishmallows Halloween
 Deuter backpack
 Wet Brush detangler
 Aden and Anais burp cloths
+LEGO Minecraft cave
 Muji pens
 nail drill
 Amazon Essentials hoodie
@@ -3304,17 +3303,19 @@ calculator scientific
 PlayStation 5 headset
 Fortnite figure
 UGREEN charger
+LEGO Icons car
 Funko Pop NFL
 bracelet
 Los Angeles Kings t shirt
 Spalding NBA basketball
 Rare Beauty lip oil
 Le Creuset oil mister
-outdoor rug
+LEGO Disney Mulan
 wind chimes
 cello rosin
 Buffalo Games puzzle
 Kentucky Wildcats t shirt
+LEGO Marvel Deadpool
 Blue Buffalo treats
 extension cord
 My Hero Academia figure
@@ -3323,9 +3324,9 @@ OXO kitchen tools
 Beauty of Joseon eye serum
 Christmas lights
 Lindt
-LEGO Iron Man helmet
 Apple Pencil Pro
 Stealth Cam trail camera
+LEGO Speed Champions 2 pack
 jewelry making kit
 Houston Astros blanket
 Neewer tripod
@@ -3337,6 +3338,7 @@ slow feeder dog bowl
 Nautica Voyage
 butter dish
 Amy Winehouse vinyl
+LEGO Speed Champions F1
 Houston Texans blanket
 Minecraft figure
 Tamagotchi original
@@ -3344,11 +3346,11 @@ Traeger pellets
 multimeter
 Cutters football gloves
 New England Patriots hoodie
-cycling gloves
 Blink Outdoor
 dog bed
 YETI tumbler
 Ohio State Buckeyes t shirt
+LEGO Animal Crossing Kapp'n
 Barbie fashion pack
 Grinch figure
 Fjallraven Kanken mini
@@ -3359,11 +3361,10 @@ Mortal Kombat 1
 Mikasa volleyball
 Miami Dolphins hat
 Cabeau travel pillow
+LEGO Classic Large Creative Brick Box
 Fix-a-Flat
 Moleskine planner
 toothbrush heads
-Lego flowers
-LEGO TIE Fighter
 Pottery Barn kids
 Disney Stitch plush
 balance bike
@@ -3372,10 +3373,10 @@ SanDisk SD card
 Duke Blue Devils hoodie
 Jackson Galaxy
 Codenames Duet
-princess dress
+LEGO Creator 3 in 1 Space
 guitar stand
 Smartwool socks
-ice bucket
+LEGO Disney Aladdin
 Dallas Mavericks hat
 paddle board
 Dyson filter
@@ -3383,23 +3384,22 @@ Gelish gel polish
 Fisher-Price Imaginext
 Toy Story figure
 Logitech Pebble mouse
-electric razor
+LEGO Architecture small
 Los Angeles Kings hoodie
 Pixel 9 screen protector
 Apple AirTag 4 pack
-sleep sack
+LEGO Disney Lightning McQueen
 Vice golf balls
 Oakley Holbrook
 Gorilla wood glue
 Zebra F-301
 Bath and Body Works 3 wick candle
 Iowa Hawkeyes hoodie
-art set kids
 Barbie Fashionistas
+LEGO Indiana Jones set
 Godzilla backpack
 Steely Dan vinyl
-kitchen trash can
-hanging closet organizer
+LEGO Disney Inside Out
 Body pillow U shaped
 New York Islanders blanket
 Jo Malone cologne
@@ -3407,6 +3407,7 @@ Hot Wheels Super Treasure Hunt
 Fit Simplify resistance bands
 GreenPan frying pan
 wagon
+LEGO Duplo animals
 Apple AirPods case
 Tomica car set
 San Francisco 49ers t shirt
@@ -3414,11 +3415,11 @@ Animal Crossing backpack
 WaterWipes
 silicone molds resin
 Ford Mustang sun shade
-hair ties
 Montreal Canadiens hat
 corner shelf
 Chuckit Ultra Ball
 Corelle plates
+LEGO Classic creative houses
 Jerzees sweatpants
 Ryobi cordless tool
 Cascade Mountain Tech trekking poles
@@ -3430,8 +3431,8 @@ Snoopy backpack
 Monopoly classic
 Carolina Panthers t shirt
 Bose SoundLink Flex
+LEGO City stunt bike
 Spyro Reignited
-sticky notes
 Audio-Technica ATH-M50x
 Bissell Little Green
 Minnesota Wild blanket
@@ -3439,11 +3440,9 @@ cleaning caddy
 Adidas soccer ball
 Nerf Fortnite
 Red light therapy
-ladle
 Loungefly Harry Potter
-kitchen towels
-LEGO Bluey Beach
 Los Angeles Clippers hat
+LEGO Technic small car
 travel makeup bag
 Romand Juicy Lasting Tint
 Valentines Day gifts
@@ -3455,17 +3454,18 @@ Milwaukee Brewers hoodie
 fishing lures
 Wrangler Authentics
 DeWalt drill bits
+LEGO Architecture skyline
 Rubiks cube
 Wilson softball glove
 Faber-Castell Pitt pens
 Totoro plush
-diamond painting kit
 Tupac vinyl
 Oklahoma City Thunder t shirt
 picnic basket
 YETI can cooler
 Nintendo Switch game
 magnetic knife strip
+LEGO City fire helicopter
 Baby Alive doll
 Casetify iPhone case
 Huggies Pull-Ups
@@ -3477,6 +3477,7 @@ Friends TV show figure
 CeraVe moisturizing cream
 iPhone 17 screen protector
 KitchenAid bowl
+LEGO Marvel Iron Man
 telescope
 Colorado Rockies hoodie
 Hooded blanket
@@ -3484,11 +3485,11 @@ Hot Wheels DeLorean
 Carcassonne
 RC helicopter
 Hot Wheels Team Transport
-herb keeper
 Gorjana necklace
 Klein Tools screwdriver
 Star Trek backpack
 Alabama Crimson Tide hat
+LEGO Duplo alphabet
 Head racket
 Lamy Safari fountain pen
 underwear women
@@ -3499,19 +3500,19 @@ fishing rod combo
 Gonzaga hat
 Aquaphor lip repair
 Barbie doll
-storage bins with lids
+LEGO Ninjago set
 Star Trek figure
 Toyota RAV4 accessories
 Donkey Kong Country Returns HD
 Wilson football
 Colorado Rockies hat
 OXO salad spinner
-pastry brush
 playhouse
 Fossil watch band
 high chair
 Buffalo Sabres blanket
 Mattel WWE championship belt
+LEGO lunch box
 Jujutsu Kaisen plush
 Coach card case
 3M Command strips
@@ -3522,8 +3523,8 @@ Drunk Elephant serum
 Lion Brand Wool-Ease
 Patagonia Black Hole backpack
 Midwest dog crate
+LEGO BrickHeadz Star Wars
 Philadelphia Phillies t shirt
-LEGO Mandalorian helmet
 Lana Del Rey vinyl
 arcade machine mini
 outdoor speaker
@@ -3534,33 +3535,31 @@ Denver Nuggets blanket
 Fossil watch
 Funko Pop Disney 100
 Pyrex measuring cup
+LEGO Botanicals sunflowers
 play food
 Hydro Flask cooler
 Dixit
 Colorado Rockies t shirt
-ice roller
 Logitech keyboard
 Tonies Toniebox
 Ghost pre-workout
 The Office backpack
 Kitsch hair clips
 Columbus Blue Jackets blanket
-heated gloves
+LEGO Star Wars speeder bike
 Bose Sleepbuds
 Lamicall phone stand
-blender portable
 JLab headphones
 electronic drum set accessories
 Pentel Sign pen
 Manduka eKO
-lip stain
 Jacksonville Jaguars t shirt
 Ninja Crispi
 Crayola Inspiration Art Case
 mouse pad large
 IRIS USA drawers
+LEGO Lunar New Year
 Funko Pop Wednesday
-LEGO Ford Mustang
 Moto G MagSafe case
 Tampa Bay Lightning hat
 scooter electric
@@ -3571,17 +3570,18 @@ corkscrew
 Furminator deShedding tool
 WD portable drive
 Funko Pop Dragon Ball
+LEGO Duplo fire station
 Atlanta Hawks hoodie
 Beauty of Joseon sunscreen
 Christmas nutcracker
 Olipop
 Instant Pot lid
-sunglasses polarized
 Animal Crossing plush
 Minecraft Nintendo Switch
 Coach keychain
 Milwaukee multi tool
 Chicago Bears blanket
+LEGO Minecraft set
 helmet kids
 Dritz sewing
 Under Armour football gloves
@@ -3593,31 +3593,30 @@ vinyl records storage
 Sunbeam heating pad
 Atlanta Falcons hoodie
 Olaplex No 5
+LEGO Christmas ornament
 Five Nights at Freddys figure
 Belkin surge protector
-sprinkles
 Monopoly Bid
 balloon arch kit
 Logitech MX Master 3S
 New York Mets blanket
 pruning shears
 Birkenstock Boston
-LEGO Lamborghini
 Squishmallows 24 inch
 Thermos Stainless King
+LEGO Botanicals lotus
 camping hammock
 Funko Pop Sonic
 Philadelphia Phillies hat
 Bagsmart packing cubes
 Feit Electric LED bulbs
-step stool
 Promark drumsticks
 WD SSD
 Milani baked bronzer
 lunch bags
 Buffalo Sabres hat
 Copic Ciao
-LEGO Disney Stitch
+LEGO BrickHeadz Hello Kitty
 Farberware cookware
 cleansing balm
 Warrior lacrosse
@@ -3628,7 +3627,7 @@ water guns
 Los Angeles Lakers blanket
 pizza oven accessories
 Revlon One-Step volumizer
-LEGO Creator 3 in 1 animals
+LEGO Duplo dinosaur
 Dallas Mavericks blanket
 Anker charger
 Titleist AVX
@@ -3639,13 +3638,11 @@ Funko Pop Elvis
 Burts Bees lip balm
 heating pad
 Los Angeles Chargers hoodie
-LEGO Sunflowers
 Patagonia P-6 hat
+LEGO Classic brick box
 Klein Tools tool bag
 Pampers Cruisers
 Henckels steak knives
-LEGO City train
-charcoal chimney
 DYMO LetraTag
 Boggle
 Minnesota Vikings t shirt
@@ -3654,18 +3651,18 @@ Pikmin 4
 Grayl GeoPress
 iPhone 16 Pro Max MagSafe case
 Garfield figure
+LEGO Harry Potter Buckbeak
 lava lamp
 Texas Instruments TI-84 Plus CE
 whiskey glasses
 Auburn Tigers hat
-trash bags
 Sunbeam heated blanket
 Secret deodorant
-LEGO Lord of the Rings set
 coffee mugs set
 Seattle Kraken t shirt
 Squishmallows Malcolm the mushroom
 Lowrance fish finder accessories
+LEGO watch
 setting spray
 Snark tuner
 Kurgo car seat cover
@@ -3677,10 +3674,10 @@ Craftsman socket set
 Honda CR-V accessories
 Cleveland Cavaliers hat
 Disney Stitch toys
+LEGO Wildflower Bouquet
 tree swing
 movie night kit
 Pentel EnerGel
-LEGO Stitch
 gifts for dad
 Squishmallows Lola the unicorn
 Realtree hat
@@ -3688,9 +3685,8 @@ Toronto Raptors blanket
 Garden of Life probiotics
 Amazon Basics sheets
 baby books
-LEGO Formula 1 set
+LEGO Star Wars Mandalorian
 Minnesota Wild t shirt
-kitchen scale
 Eufy robot vacuum
 Funko Pop Haunted Mansion
 Isntree toner
@@ -3701,17 +3697,18 @@ Oofos slides
 Tampa Bay Rays hoodie
 ladder shelf
 Braun epilator
+LEGO Duplo Bluey
 Xbox headset
 Baby Bjorn carrier
 Skip-Bo
 makeup organizer
-LEGO Speed Champions Ferrari
 Loop earplugs
 Turtle Wax Hybrid Solutions
 Body Armor
 Clemson Tigers hoodie
 hiking backpack
 Funko Pop Thundercats
+LEGO Mario Piranha Plant
 Calico Critters
 Tim Holtz Distress ink
 Laufey vinyl
@@ -3722,8 +3719,8 @@ pottery wheel kids
 Utah Jazz hoodie
 Mini GT diecast
 Hot Wheels Corvette
-changing pad
 table lamp
+LEGO minifigures Marvel
 Zukes treats
 Resident Evil 4 remake
 Columbus Blue Jackets hoodie
@@ -3735,18 +3732,19 @@ Clinique Happy
 Rapala lures
 key holder for wall
 Hot Wheels Action loop
+LEGO Technic Ferrari small
 Oregon Ducks hoodie
 Brother printer ink
 Ridge wallet
 August smart lock
-iPhone 13 MagSafe case
+LEGO Disney Elsa
 planner 2027
 Jellycat Smudge
 Beckham Hotel Collection pillows
 Florida Panthers t shirt
 oil dispenser
+LEGO Marvel Spidey and His Amazing Friends
 Cricut Joy
-pet odor eliminator
 Amazon Basics dumbbells
 Star Wars Black Series helmet
 Electric heated mattress pad
@@ -3757,9 +3755,9 @@ TCL Roku remote
 Funko Pop Naruto Kakashi
 Honeywell air purifier filter
 science kit
+LEGO Lord of the Rings set
 Aden and Anais swaddle
 Tesla Model Y sun shade
-LEGO Sonic Green Hill Zone
 Toronto Maple Leafs hat
 Cards Against Humanity expansion
 first aid kit
@@ -3768,8 +3766,9 @@ ALPS Mountaineering chair
 spice jars
 Champion sweatpants
 Gearwrench ratchet
+LEGO F1 Academy
 Nashville Predators t shirt
-splash pad
+LEGO Disney Anna
 Andis clippers
 Pop Mart Crybaby
 Kong Extreme
@@ -3779,6 +3778,7 @@ Radiohead vinyl
 Fellowes shredder
 New York Mets hat
 The Ordinary retinol
+LEGO TIE Fighter
 Magic Mixies
 Logitech speakers
 TaylorMade golf glove
@@ -3789,6 +3789,7 @@ Funko Pop Transformers
 mattress topper
 badminton set
 Ninja Woodfire
+LEGO Minecraft pig house
 Orange Crush amp
 grill brush
 Yoto player
@@ -3796,34 +3797,34 @@ Charlotte Hornets t shirt
 Cable Matters adapter
 Coleman air mattress
 Street Fighter 6
-baby bottles
+LEGO Disney Tiana
 YETI bottle
 Champion hoodie
 Makita battery
-LEGO Spider-Man car
+LEGO Technic Porsche small
 Essence Lash Princess
 Funko Pop Game of Thrones
 Seattle Mariners hat
 garlic press
 Funko Pop Batman
 X-Acto pencil sharpener
-tissue box cover
 griddle accessories
 Boston Red Sox t shirt
 Mrs Meyers cleaner
 KastKing pliers
 fashion doll
+LEGO minifigures Star Wars
 Guess Who
 Tile Pro
 Naruto plush
 Herschel Little America
 Iowa Hawkeyes hat
-mop
 Klairs vitamin C serum
 Halloween costume
 Lunchly
 Bluey figures
 Dr Elseys cat litter
+LEGO Cherry Blossoms
 CeraVe eye cream
 Galaxy S24 Ultra case
 Wilton cookie cutters
@@ -3835,7 +3836,7 @@ runner rug
 Michael Kors wallet
 Leatherman multitool
 Funko Pop Indiana Jones
-paper towels
+LEGO Star Wars battle pack
 Amazon Fire TV Stick 4K
 Detroit Red Wings hat
 Frozen Elsa doll
@@ -3846,6 +3847,7 @@ Erin Condren planner
 Fiesta mug
 earbuds wireless
 Houston Astros t shirt
+LEGO Creator 3 in 1 Cottage
 Battle Sports football gloves
 Ram 1500 floor mats
 Mickey Mouse backpack
@@ -3856,8 +3858,8 @@ compost bin
 Play-Doh set
 Cleveland Guardians blanket
 Peets coffee
-car air freshener
 Anker car charger
+LEGO Duplo set
 SteelSeries mouse
 Funko Pop X-Men
 LifeStraw water filter
@@ -3867,24 +3869,22 @@ back brace
 Brooklyn Nets blanket
 MagSafe charger
 McFarlane Toys WWE
-water bottle insulated
+LEGO Creator 3 in 1 retro camera
+LEGO DC Batman
 Ziploc containers
 Madden 26
 Michigan Wolverines hat
 Love Letter
 Dr Squatch soap
 Apple Barrel acrylic paint
-plastic wrap
 TropiClean Fresh Breath
-breast pump
 Lovevery
 Jujutsu Kaisen figure
 Casio G-Shock
 Molten basketball
-LEGO Dried Flower Centerpiece
+LEGO Star Wars BrickHeadz
 Denver Broncos hat
 dish drying rack
-LEGO Dots set
 Stanley Quencher
 model car kit
 Kentucky Wildcats hoodie
@@ -3894,6 +3894,7 @@ Fruit of the Loom underwear
 Rove dash cam
 MSR stove
 Renpho massage gun
+LEGO minifigures Spider-Man
 golf training aids
 Johnny Lightning diecast
 Alabama Crimson Tide t shirt
@@ -3904,19 +3905,19 @@ Linkin Park vinyl
 shaker bottle
 Zebra Sarasa
 Washington Wizards blanket
+LEGO Technic Monster Jam
 Dyson V8
 Funko Pop Scream
 Boss pedal
-greeting cards
 Hario V60
 BioLite headlamp
 Schleich animals
-iPhone 15 MagSafe case
 St Louis Blues blanket
-cooling pillow
+LEGO Creator 3 in 1 tiger
 food processor
 Amazon Echo Pop
 Airborne
+LEGO Friends treehouse
 Matchbox Fire truck
 air fryer liners
 Cocomelon figure
@@ -3927,19 +3928,19 @@ Nike Dri-FIT shirt
 Rockler
 Jellycat Amuseables
 bed sheets queen
+LEGO Duplo number train
 Apples to Apples
 Merrell Moab 3
 Tennessee Volunteers hat
-bubble bath
 Nissan Rogue floor mats
 Boppy pillow
 Paper Mate mechanical pencils
 Minnie Mouse figure
 automatic pet feeder
 Invicta watch
-patio heater
 Ninja Creami pints
 Nintendo amiibo Mario
+LEGO Technic tractor
 Denver Broncos hoodie
 Polly Pocket set
 LOreal Lash Paradise
@@ -3950,6 +3951,7 @@ Air purifier for bedroom
 Innisfree sunscreen
 Halloween candy bowl
 Pocky
+LEGO City excavator
 Washington Wizards t shirt
 superhero costume
 Funko Pop Mortal Kombat
@@ -3959,21 +3961,21 @@ soldering iron
 Wisconsin Badgers hoodie
 Carhartt watch hat
 Govee outdoor lights
-LEGO Corvette
 Amazon Basics USB cable
 Darn Tough hiking socks
-fairy lights
-fishing tackle box
+LEGO Dried Flower Centerpiece
+LEGO Creator 3 in 1 bird
+LEGO Creator 3 in 1 airplane
 St Louis Blues t shirt
 OPI Nail Envy
 Prince vinyl
 Barbie backpack
 Bentgo kids lunch box
-drain cleaner
 valve oil
 Sharpie markers
 Bunch O Balloons
 compression socks
+LEGO Seasonal set
 Seattle Kraken hoodie
 Amazon Basics dog crate
 Leatherman Signal
@@ -3982,9 +3984,9 @@ Kasa light switch
 Thermos water bottle
 Funko Pop Lord of the Rings
 New Orleans Pelicans hat
-bundt pan
 eeBoo puzzle
 Owala FreeSip 40 oz
+LEGO Disney Toy Story
 oven mitts
 Play-Doh 36 pack
 Russell Athletic sweatpants
@@ -3996,10 +3998,10 @@ Bass Pro Shops tackle
 Skechers kids light up
 Utopia Bedding comforter
 Build a Bear Stitch
-squirt guns
+LEGO Dots bracelet
+LEGO Creator 3 in 1 helicopter
 Hot Wheels Ferrari
 Utah Hockey Club blanket
-LEGO Marvel Avengers
 Blink camera
 Golden acrylic paint
 iPhone 17 Pro case
@@ -4007,22 +4009,23 @@ security camera
 citrus juicer
 Sacramento Kings hat
 pet hair remover
+LEGO Harry Potter Dobby
 Franklin Sports football
-Thermos food jar
-Harry Potter backpack
 
 # ================= Day 5 =================
+Thermos food jar
+Harry Potter backpack
 Calvin Klein perfume
-sketchbook
-LEGO Wednesday set
+LEGO Creator 3 in 1 flowers
 Orlando Magic t shirt
 Batman Arkham Trilogy
 PowerA controller
 Ford Bronco sun shade
 Carhartt hoodie
 Channellock pliers
+LEGO Star Wars Ahsoka
 baby swing
-iPad Pencil
+LEGO Duplo construction
 Tonies
 Stanley Adventure
 Pittsburgh Steelers t shirt
@@ -4031,25 +4034,23 @@ recycling bin
 Burts Bees dog shampoo
 setting powder
 Disney Stitch figure
+LEGO Speed Champions Pagani
 MIDI keyboard
 Stevie Wonder vinyl
 Swimways pool toys
-reusable straws
+LEGO Duplo ice cream
 BIC lighters
 Georgia Bulldogs hoodie
 Ouai shampoo
 Bedsure pillows
-controller charger
-LEGO Millennium Falcon microfighter
 Mysterium
 PopSockets phone grip
 Coleman propane lantern
+LEGO DC Batmobile
 Dragon Ball Z plush
 Miami Marlins hoodie
-tablecloth
 Stomp Rocket
 floor lamp
-laundry pods
 Portland Trail Blazers t shirt
 Philips Norelco shaver
 Bumbo seat
@@ -4057,6 +4058,7 @@ Comfort Colors t shirt
 Ring Car Cam
 desk organizer
 Kuromi figure
+LEGO Creator Expert car
 Converse Chuck Taylor
 Texas Longhorns hoodie
 Crayola colored pencils
@@ -4067,6 +4069,7 @@ Anker USB C cable
 Amazon Basics monitor arm
 Solo Stove Mesa
 bird feeder
+LEGO Friends Heartlake City
 Utah Hockey Club hat
 panini press
 Naruto figure
@@ -4078,19 +4081,18 @@ Sanrio Cinnamoroll
 CAP Barbell kettlebell
 Catit Senses
 Minnesota Timberwolves blanket
-LEGO Creator 3 in 1 Space
+LEGO Botanical succulents
 cast iron skillet
 Anchor Hocking trifle bowl
 iPad case
 Comfort Colors sweatshirt
 Garmin dash cam
 C4 pre-workout
-wooden train set
 New Orleans Saints hoodie
 Hello Kitty backpack
 kalimba
 Schleich dinosaur
-iPhone 13 screen protector
+LEGO Creator 3 in 1 house
 Darn Tough socks
 soft cooler
 motion sensor night light
@@ -4102,6 +4104,7 @@ Everdell
 die cast cars
 Pilot FriXion
 PlayStation 5 cooling stand
+LEGO Duplo brick box
 Laneige lip mask
 San Diego Padres hat
 Totoro backpack
@@ -4113,6 +4116,7 @@ Goal Zero power bank
 Celsius energy drink
 Barefoot Dreams blanket
 3D puzzle
+LEGO DC set
 JanSport backpack
 Cleveland Browns t shirt
 k cup holder
@@ -4123,6 +4127,7 @@ Roblox figure
 Hot Wheels Porsche 911
 Barbie Chelsea
 Los Angeles Chargers blanket
+LEGO Bouquet of Roses
 slime kit
 Rubbermaid laundry basket
 LG TV remote
@@ -4134,8 +4139,8 @@ Ducky keyboard
 Olaplex No 4
 impact driver
 Scooby Doo figure
+LEGO Star Wars Grogu
 Play-Doh Kitchen Creations
-pancake griddle
 Braun IPL
 Vancouver Canucks blanket
 tv wall mount
@@ -4145,6 +4150,7 @@ reading glasses
 HP keyboard
 Cincinnati Bengals t shirt
 Tommy John underwear
+LEGO City airplane
 Feit Electric string lights
 Taylor Swift plush
 Blue Yeti
@@ -4156,9 +4162,9 @@ Chicago Bears hat
 Olaplex No 7
 crewneck sweatshirt
 Moultrie trail camera
+LEGO Classic ocean
 serving tray
 Rihanna vinyl
-LEGO Friends Heartlake City
 fanny pack
 Uni-ball Jetstream
 Florida State Seminoles hoodie
@@ -4167,6 +4173,7 @@ Spider-Man mask
 Zojirushi travel mug
 Samsung charger
 WWE 2K25
+LEGO Star Wars clone troopers
 makeup bag
 Halo SleepSack
 Orlando Magic hat
@@ -4175,15 +4182,14 @@ wall mounted bike rack
 Tree Hub sugar scrub
 Baggu crescent bag
 Grinch plush
-paring knife
 simplehuman liners
 Tetra fish food
 iPhone Air MagSafe case
+LEGO Ninjago mech
 NOCO battery charger
 Tonies figures
 Owlet sock
 SteelSeries headset
-lash extensions kit
 Boston Bruins hat
 Crucial SSD
 doctor kit kids
@@ -4191,32 +4197,32 @@ Las Vegas Raiders hoodie
 Injinji socks
 scrapbook
 Wilton decorating kit
+LEGO Disney Pixar
 Ford Bronco floor mats
 Minecraft plush
 Five Nights at Freddys backpack
 Paper Mate Flair
 Atlanta Braves blanket
-embroidery kit
 Hot Wheels McLaren
 Medicube collagen mask
 Christmas pajamas family
 Alani Nu energy
-fire pit
 Hypervolt
+Lego Fortnite
 sound machine
 Carolina Hurricanes hoodie
 Crocs lined clog
 Beats earbuds
 Buffalo Games puzzle 1000
 mDesign organizer
-LEGO Classic brick box
 Fender tuner
 Lilo and Stitch backpack
 kids table and chairs
 Free People headband
 DeWalt flashlight
+LEGO Monkie Kid set
 Denver Nuggets t shirt
-fitness tracker
+LEGO Duplo space
 Kindle Scribe case
 bread maker
 Gillette blades
@@ -4225,10 +4231,10 @@ console table
 Bauer skate guards
 Portland Trail Blazers hoodie
 Bitzee
+LEGO City farm tractor
 Teenage Mutant Ninja Turtles figure
 Glamnetic press on nails
 Fitbit charger
-microphone wireless
 Elmers slime glue
 Burts Bees Baby sleepers
 Chuckit balls
@@ -4236,7 +4242,8 @@ Jacksonville Jaguars hoodie
 stain remover
 Bissell vacuum
 VTech KidiZoom camera
-sewing kit
+LEGO Duplo vet
+LEGO Ideas small
 Hot Wheels Batmobile
 Bowflex SelectTech dumbbells
 Sonic backpack
@@ -4247,6 +4254,7 @@ Benchmade knife
 steak knives
 file organizer
 Tozo earbuds
+Lego Botanicals
 Philadelphia 76ers blanket
 Simple Modern kids bottle
 Nature Made vitamin D3
@@ -4258,20 +4266,19 @@ dog leash
 Diamond painting
 Seattle Mariners blanket
 Elgato light
+LEGO Friends swimming pool
 Crayola Super Tips
-jewelry cleaner
 Hues and Cues
 Keurig reusable filter
 vacuum sealer
 Anaheim Ducks blanket
-iPhone 16 Pro Max screen protector
 Beats Pill
-LEGO Botanical succulents
 aquarium decorations
 Akai MPK Mini
 Gabbys Dollhouse backpack
 Osprey Hikelite
 Juicy Couture perfume
+LEGO City police helicopter
 Gildan Heavy Blend
 Moen faucet
 popsicle molds
@@ -4282,12 +4289,11 @@ cat water fountain
 Mazda CX-5 floor mats
 Tetra aquarium
 Minecraft toys
+LEGO Dots pencil holder
 New York Yankees t shirt
 Funko Pop One Piece Luffy
 John Coltrane vinyl
-index cards
 Skip Hop diaper bag
-fake flowers
 Strike King lures
 Google Pixel case
 watering can
@@ -4295,8 +4301,8 @@ Lodge Dutch oven
 Cricut cutting mat
 Los Angeles Clippers blanket
 Backbone One
+LEGO Ninjago dragon
 Beautyblender
-watch band
 Mattel WWE figures
 Teenage Mutant Ninja Turtles plush
 Miami Heat blanket
@@ -4306,6 +4312,7 @@ Blenders sunglasses
 Michelin tire inflator
 Zojirushi rice cooker
 Amazon Fire tablet case
+LEGO Disney Mickey
 Minnesota Vikings hoodie
 lip liner
 can cooler
@@ -4317,6 +4324,7 @@ St Louis Cardinals t shirt
 Hot Wheels Dodge Challenger
 Monopoly Ultimate Banking
 Wusthof paring knife
+LEGO Star Wars key chain
 Sally Hansen nail polish
 Rawlings baseballs
 duvet cover
@@ -4327,24 +4335,23 @@ Pop Tarts limited
 Atlanta Braves t shirt
 power bank
 Picasso Tiles
+LEGO City monster truck
 record cleaning kit
 Amazon Basics batteries
 Jellycat highland cow
 fondue set
 Kurgo harness
-hair oil
 Blackstone griddle accessories
 Vegas Golden Knights hoodie
 Astro A50 accessories
 Bellroy wallet
 Tekton wrench set
 Penn tennis balls
+LEGO BrickHeadz Sonic
 inline skates
 Logitech mouse
-LEGO Technic car
 Chicago Blackhawks blanket
 CeraVe retinol serum
-plant stand
 Comotomo bottle
 Squishmallows Easter
 Umbra picture frame
@@ -4352,19 +4359,18 @@ Mac Miller vinyl
 Texas Instruments TI-30XS
 yoga pants
 Pittsburgh Penguins hoodie
+LEGO Marvel Groot
 batting tee
 Jetboil Flash
-iPhone 17 Pro Max MagSafe case
-diffuser essential oil
 Clover Amour crochet hooks
 Funko Pop Simpsons
-LEGO Boba Fett helmet
 Loungefly Star Wars
 New York Giants blanket
 ceiling fan remote
 Sterilite storage bins
 Nissan Rogue accessories
 Cetaphil moisturizer
+LEGO Avatar set
 eye patches
 Russell Athletic Dri-Power
 Michelin wiper blades
@@ -4375,33 +4381,31 @@ Jellycat plush
 handheld game console
 HP Sprocket
 Ravensburger kids puzzle
-side table
+LEGO Jurassic World Triceratops
+LEGO BrickHeadz Spider-Man
 Funko Pop Five Nights at Freddys
 Starbucks coffee beans
 New Orleans Saints blanket
 noise cancelling headphones
 Ruffwear jacket
-hdmi cable
 Texas Rangers blanket
 Coleman camping chair
-LEGO Bluey set
-vinyl record sleeves
 Prismacolor Premier
 Donkey Kong Bananza
 YETI lunch box
+LEGO Animal Crossing set
 My Hero Academia backpack
 GoPro battery
 baby blanket
 Mielle rosemary oil
 Washington Capitals blanket
 sandwich maker
-ribbon
-LEGO Botanical Collection
 Baggu standard bag
 Gerber multitool
 McFarlane Toys figure
 Osprey daypack
 Pampers Pure
+LEGO Minecraft bee house
 hat rack
 Nashville Predators hoodie
 Barefoot Dreams CozyChic
@@ -4412,6 +4416,7 @@ Toronto Raptors hat
 SZA vinyl
 Xbox Elite controller
 sprinkler
+LEGO City rescue boat
 Paulas Choice BHA exfoliant
 Jurassic World Dominion figures
 beer koozie
@@ -4423,6 +4428,7 @@ Gonzaga hoodie
 Sharpie ultra fine
 candles
 party supplies
+LEGO Creator 3 in 1 castle
 New England Patriots t shirt
 Ravensburger puzzle 500
 Funko Pop Bitty Pop
@@ -4434,18 +4440,18 @@ wax seal kit
 Kong Wild Knots bear
 Garmin Forerunner band
 Jellycat Bartholomew Bear
+LEGO Speed Champions car
 New York Knicks hoodie
 Hot Wheels Datsun 510
 cocktail shaker set
 Old Spice body wash
-cooling rack
 Galaxy S25 screen protector
 highlighter makeup
 Lite Brite
 Chicago White Sox hat
 Libbey wine glasses
 Yamaha keyboard
-lip mask
+LEGO Super Mario Donkey Kong
 Marvel figure
 Skin1004 centella ampoule
 Halloween decorations
@@ -4457,6 +4463,7 @@ Leuchtturm1917 notebook
 Ford Bronco accessories
 Kansas City Royals t shirt
 beard trimmer
+LEGO Spider-Man car
 Rachael Ray cookware
 LeapFrog toys
 Ergobaby carrier
@@ -4467,24 +4474,22 @@ It Takes Two
 Georgia Bulldogs hat
 Michael Kors wristlet
 Waterpik shower head
+LEGO Botanicals dried flower centerpiece
 Funko Pop Fortnite
-white noise machine
+LEGO Jurassic World Stegosaurus
 Franklin Sports MLB
 Utah Hockey Club t shirt
 Apple Watch band
-soap making kit
 Hamilton Beach toaster
-LEGO Botanical bonsai
 Lorde vinyl
-LEGO Yoshi
 dog toys
 Chicago Bears hoodie
 Winnie the Pooh figure
 drinking glasses
+LEGO Harry Potter Expecto Patronum
 Bissell pet stain
 The North Face Jester backpack
 Uni-ball Signo
-soap dispenser automatic
 Rasasi perfume
 Root board game
 Bed Head flat iron
@@ -4492,21 +4497,20 @@ Winnipeg Jets hat
 Nerf Elite 2.0
 Paint by sticker
 shadow box
+LEGO Friends advent calendar
 SanDisk flash drive
 Kendra Scott earrings
 Command hooks
 Chainsaw Man plush
-charging station
 Georgia Bulldogs t shirt
 HyperX headset
 Titleist Pro V1
 Black and Decker handheld vacuum
-cat tree
-LEGO Icons flowers
-golf net
+LEGO Jurassic World Dilophosaurus
+LEGO Speed Champions Ferrari F40
 Montreal Canadiens hoodie
+LEGO Marvel Thor
 trumpet mouthpiece
-deodorant
 Pureology shampoo
 Squid Game plush
 Lexar micro SD
@@ -4515,9 +4519,9 @@ Pittsburgh Steelers hoodie
 Hatch Rest
 Huanuo monitor arm
 Rawlings batting gloves
-LEGO Stormtrooper helmet
 Fisher-Price baby gym
 Zuru Rainbocorns
+LEGO Fortnite set
 video doorbell
 Nebraska Cornhuskers hoodie
 Funko Pop Breaking Bad
@@ -4528,6 +4532,7 @@ accent chair
 Wearable blanket
 Umbra shower caddy
 Galaxy Z Fold 7 screen protector
+LEGO Botanicals flower bouquet
 Phoenix Suns t shirt
 swing set accessories
 Rare Beauty blush
@@ -4539,18 +4544,18 @@ Echoes of Wisdom
 skateboard
 Tyler the Creator vinyl
 Jeep Grand Cherokee accessories
+LEGO City fire station
 Calgary Flames hoodie
 Squishmallows Maui the pineapple
 Sequence board game
-binder clips
 Shark FlexStyle attachment
 shot glasses
 Seattle Seahawks t shirt
 Woobles
 Hatchimals
-tissue paper
 Patagonia beanie
 Samsung T7 SSD
+LEGO Brick Sketches
 mosquito trap
 Spider-Man plush
 Liquid IV hydration multiplier
@@ -4562,17 +4567,18 @@ Henckels knife set
 sprinkler for kids
 Nerf N Series
 Atlanta Falcons blanket
+LEGO Botanical flowers
 Rawlings catchers gear
 grow light
 violin strings
 Nintendo Switch OLED case
-strainer
 Sanrio figure
 Waterpik water flosser
 smart plug
 New York Mets t shirt
 UGREEN power bank
 Numbuzin toner pads
+LEGO Star Wars minifigures
 Christmas stockings
 Hot Cheetos
 Nintendo Switch 2 accessories
@@ -4584,6 +4590,7 @@ Rhodia notepad
 Carhartt gloves
 Athletics baseball t shirt
 winter hat
+Lego Star Wars Skywalker Saga
 Litter Robot accessories
 Peppa Pig plush
 Shout Color Catcher
@@ -4591,23 +4598,22 @@ Apple AirTag luggage tag
 Yale smart lock
 ski goggles
 Indianapolis Colts hoodie
-egg holder
 Bluey plush
 Apple AirTag
-dress shirts
-LEGO Polaroid camera
+LEGO Speed Champions McLaren Senna
 Bananagrams
+LEGO Ninjago Lloyd
 Z-Man lures
 Miami Heat hat
 Mueller vegetable chopper
 Frozen backpack
-pacifier clips
+LEGO Speed Champions Mercedes AMG
 Daft Punk vinyl
 Victorias Secret body mist
 Sol de Janeiro Cheirosa 62
-lego compatible
 Matchbox cars
 Oklahoma Sooners hat
+LEGO Super Mario Mario Kart set
 Sonic Frontiers
 Keychron keyboard
 desk lamp
@@ -4619,6 +4625,7 @@ Moana figure
 Philadelphia Eagles hat
 Pixel 10 Pro case
 roadside emergency kit
+LEGO Creator 3 in 1 deer
 Loop Quiet
 Makita drill bits
 Funko Pop Christmas
@@ -4629,6 +4636,7 @@ Its a 10 leave in
 Vic Firth drumsticks
 Mrs Meyers Clean Day hand soap
 Roblox backpack
+LEGO Architecture set
 Head tennis balls
 salt lamp
 Utah Jazz hat
@@ -4636,14 +4644,13 @@ golf tees
 Milk-Bone treats
 Nike Elite socks
 Google Nest Mini
-LEGO Hedwig
-bike light
+LEGO Speed Champions Audi
 Radio Flyer wagon
 LSU Tigers hoodie
 Wahl clippers
+LEGO BrickHeadz pets
 kayak paddle
 Ranger Distress ink
-Lego Botanicals
 Scooby Doo backpack
 Srixon golf balls
 phone tripod
@@ -4651,9 +4658,8 @@ Ariana Grande perfume
 Tennessee Titans blanket
 Champion t shirt
 Wagner paint sprayer
-LEGO Friends set
 Chess set wooden
-blind box
+LEGO Creator 3 in 1 dinosaur
 Energizer AAA
 dehydrator
 Ninja Slushi
@@ -4665,6 +4671,7 @@ Nemo pillow
 Johnny Cash vinyl
 snow tube
 Transformers Bumblebee
+LEGO Sonic speed sphere
 New York Jets hoodie
 Dyson attachment
 memory box
@@ -4676,18 +4683,18 @@ iPad stylus
 Brother sewing machine
 sweatpants
 rocking chair
+LEGO BrickHeadz Minecraft
 Everlast boxing gloves
-LEGO Speed Champions car
 Animal Crossing New Horizons
 Coach wristlet
 Leatherman Rebar
-smoker box
 Polaroid Now
 KitchenAid mixing bowl
 Boston Red Sox blanket
 Nutramax Dasuquin
 Hohner harmonica
-longboard
+LEGO Speed Champions Lotus
+LEGO Technic Lamborghini small
 Pop Mart Dimoo
 Minnesota Twins hat
 Skip Hop activity center
@@ -4697,10 +4704,9 @@ Funko Pop Rocks
 Davidoff Cool Water
 Insignia TV remote
 Honeywell fan
-cake pan
-pool cleaner
 Isntree sunscreen
 Halloween Spirit animatronic
+LEGO Star Wars buildable figure
 Hi-Chew
 Buffalo Bills t shirt
 Spy x Family plush
@@ -4709,23 +4715,21 @@ air purifier
 Hot Wheels Mario Kart track set
 Oracal 651 vinyl
 Arizona Wildcats hoodie
-LEGO Duplo train
 Toyota Tacoma accessories
 TheraBand resistance bands
+LEGO Botanicals chrysanthemum
 CamelBak water bottle
-leather conditioner
+LEGO Speed Champions Batmobile
 Oakley sunglasses case
 Bosch drill bits
-LEGO Christmas set
 Eufy scale
 keyboard wireless
 Miami Hurricanes hat
 Method body wash
 Star Trek plush
-whisk
 PS5 Slim cover
 crib mobile
-LEGO Icons set
+LEGO Super Mario expansion set
 Chefman air fryer
 New Jersey Devils hat
 CCM hockey stick
@@ -4734,14 +4738,13 @@ instant read thermometer
 Spider-Man backpack
 Frisco cat tree
 Nintendo Switch Pro Controller
-laundry hamper
 Toronto Raptors t shirt
 Fitbit band
 ThermoWorks ThermoPop
+LEGO Creator 3 in 1 dog
 Batman toys
 Fiskars scissors
 curling iron
-wooden spoons
 Billie Eilish perfume
 Houston Astros hoodie
 Crocs Echo Clog
@@ -4749,12 +4752,10 @@ Martin guitar strings
 Hanes t shirts
 Lutron Caseta
 makeup brushes
+LEGO Classic bricks and wheels
 Funko Pop Jurassic Park
 Baby Bjorn bouncer
 Tampa Bay Lightning hoodie
-flashlight rechargeable
-simplehuman trash can
-LEGO City fire station
 Hot Wheels Nissan Skyline
 Paper Mario Thousand Year Door
 Seagate external hard drive
@@ -4763,6 +4764,7 @@ Spiderwire braided line
 Little Tikes
 Auburn Tigers t shirt
 Uno Attack
+LEGO Ninjago motorcycle
 bar cart
 fire starter
 Funko Pop Disney Princess
@@ -4770,36 +4772,33 @@ Olaplex No 3
 Bodum Chambord
 Tonka truck
 Phoenix Suns blanket
-headbands
 Liquitex Basics
-upholstery cleaner
 Ozark Trail tent
 Amazon Essentials t shirt
+LEGO storage
 Olight flashlight
 TP-Link WiFi extender
 Milwaukee Bucks hat
 Jellycat Amuseables cake
 Ball canning
-lint roller
 Star Wars Black Series figure
-ottoman storage
 API test kit
 Vegas Golden Knights blanket
 smoke detector
 Ariana Grande Cloud
 Phoebe Bridgers vinyl
+LEGO Creator Expert building
 Manduka yoga mat
 Galaxy A16 case
 mystery box toys
-LEGO Classic Large Creative Brick Box
 Lilo and Stitch plush
 Notre Dame t shirt
 Hydro Flask kids bottle
 Honda Civic accessories
 Soundcore speaker
 Build a Bear plush
-toilet brush
 DualSense Edge
+LEGO City minifigures
 Houston Astros hat
 Latin Percussion shaker
 Faber-Castell Polychromos
@@ -4811,6 +4810,7 @@ Berkley fishing line
 Vera Bradley backpack
 Clorox toilet cleaner
 SpongeBob figure
+LEGO Marvel Black Panther
 milk frother
 San Diego Padres hoodie
 Nature Made fish oil
@@ -4822,6 +4822,7 @@ OtterBox Commuter
 Philadelphia Eagles blanket
 salad spinner
 Nespresso descaling kit
+LEGO Jurassic World set
 Garfield plush
 Round Lab sunscreen
 Thanksgiving table runner
@@ -4832,6 +4833,7 @@ essential oils set
 champagne flutes
 Stardew Valley physical
 Detroit Tigers hat
+LEGO City train
 Matchbox Ford F-150
 shower head filter
 Petsafe gentle leader
@@ -4843,6 +4845,7 @@ Echo Dot kids
 Shokz headphones
 Alex and Ani bracelet
 Stanley FatMax
+LEGO storage head
 Sanrio plush
 earplugs
 Franklin Sports NFL
@@ -4853,6 +4856,7 @@ popcorn maker
 Downy Unstopables
 bluetooth speaker
 Kendrick Lamar vinyl
+LEGO Creator 3 in 1 robot
 San Francisco Giants t shirt
 Grinch backpack
 Sonic the Hedgehog figures
@@ -4861,10 +4865,10 @@ Sea to Summit pillow
 Spigen iPhone case
 The Ordinary peeling solution
 Philadelphia Flyers hoodie
-electric kettle gooseneck
 DAddario guitar strings
 Pyrex baking dish
 Fisher-Price rock n play
+LEGO Creator 3 in 1 pirate ship
 X-Acto knife
 fish tank
 Bob Ross plush
@@ -4873,26 +4877,25 @@ DeWalt tool bag
 Atlanta Braves hoodie
 wine rack
 VTech watch
-LEGO McLaren F1
 Dutch Blitz
 Callaway golf balls
+LEGO DC Superman
 gaming mouse
 Nanit
 Rubbermaid Easy Find Lids
 Fujifilm Instax camera
 Oklahoma Sooners t shirt
 iPhone 16 Pro case
-makeup sponge
 Nissan Rogue sun shade
 Maybelline Sky High mascara
 Funko Pop Fast and Furious
 Churu cat treats
 wrench set
+LEGO Super Mario Mario Kart
 Hot Wheels Monster Trucks arena
 Ottawa Senators t shirt
 Bauer hockey stick
 water flosser
-aluminum foil
 Kitsch scrunchies
 Corsair headset
 Memphis Grizzlies hat
@@ -4900,6 +4903,7 @@ hair clips
 Mickey Mouse figure
 Citizen watch
 Paper Mate InkJoy
+LEGO Easter set
 Disney Princess doll
 Red Dead Redemption 2
 Trtl travel pillow
@@ -4909,13 +4913,11 @@ Green Bay Packers hat
 Shimano Sienna
 Dr Squatch deodorant
 Philips Norelco blades
-picture hanging kit
-LEGO Hogwarts Express
 Carolina Hurricanes blanket
+LEGO Sunflowers
 Godzilla plush
 crepe maker
 Brumate tumbler
-ice cube trays silicone
 Bburago diecast
 Tool band vinyl
 HP ink
@@ -4924,18 +4926,18 @@ knife sharpener
 Nashville Predators hat
 Thermacell mosquito repeller
 Kala ukulele
+LEGO Stitch
 Baby Einstein toy
 memory foam pillow
 Monopoly Junior
 Demon Slayer plush
 La Roche-Posay Toleriane
-LEGO Speed Champions Porsche
 New York Yankees hoodie
 Fellowes laminator
-potting soil
 Lee jeans
 Loctite
 Nespresso frother
+LEGO Botanicals plum blossom
 beeswax wraps
 Nature's Miracle stain remover
 Otterbox Venture cooler
@@ -4943,15 +4945,14 @@ brow gel
 Columbus Blue Jackets t shirt
 JBL Clip 5
 Harry Potter plush
-carpet cleaner
 Swimways float
 Milwaukee Bucks blanket
 Joseph Joseph cutting boards
 Biodance collagen mask
+LEGO Super Mario Piranha Plant
 Halloween fog machine
 Prime Hydration
 tote bag
-LEGO Creator 3 in 1 Cottage
 Sensodyne toothpaste
 Barefoot Dreams
 Skechers Go Walk
@@ -4959,6 +4960,7 @@ lanyard
 Atlanta Hawks hat
 pantry organizer
 Super Mario plush
+LEGO F1 driver
 Crayola coloring book
 Garmin bike mount
 camping chair
@@ -4968,12 +4970,11 @@ Hanes EcoSmart hoodie
 Bosch laser measure
 Los Angeles Angels hat
 iPhone 16 Pro MagSafe case
-scratch art
 Ram 1500 sun shade
 KastKing fishing reel
+LEGO Marvel Doctor Strange
 Nintendo amiibo Zelda
 Milwaukee Bucks hoodie
-blush
 Wicked backpack
 Yoto cards
 Starfield
@@ -4983,6 +4984,7 @@ peel and stick wallpaper
 gaming chair
 Green Day vinyl
 Anker hub
+LEGO Star Wars keychain
 Kansas City Chiefs blanket
 Victrola record player
 Under Armour Hustle backpack
@@ -4993,22 +4995,21 @@ Molten volleyball
 Funko Pop GI Joe
 Squishmallows 8 inch
 New York Rangers t shirt
+LEGO Disney Cinderella
 Tide detergent
 beard oil
-LEGO Ideas Tree House
 Ring light with stand
 Mead composition notebook
 Calvin Klein wallet
 Delta shower head
-microfiber cloths
 St Louis Blues hoodie
 LOreal Elvive
-woven baskets
+LEGO Speed Champions Bugatti
 Casio watch
 retinol
+LEGO Marvel Wolverine
 Garmin golf
 Funko Pop Guardians of the Galaxy
-LEGO Classic creative bricks
 Philips Sonicare travel case
 Utah Hockey Club hoodie
 wine aerator
