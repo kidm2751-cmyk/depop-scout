@@ -40,6 +40,7 @@ PRICE_PERCENTILE = 0.35          # 0.35 = a conservative price (35th percentile 
 # ---- Discord ----
 MAX_PHOTOS = 8                   # Depop photos per alert (main + 7), as galleries in one message
 MAX_ALERTS_PER_RUN = 40
+SEND_UNPRICED = True             # also send listings eBay couldn't price ("TO LIST"), with the eBay price you'd need for MIN_PROFIT
 DISCORD_PACE_SECONDS = 0.8
 SEND_RUN_SUMMARY = True
 

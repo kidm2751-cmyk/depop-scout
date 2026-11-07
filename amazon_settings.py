@@ -47,6 +47,7 @@ PRICE_PERCENTILE = 0.35          # conservative eBay price (35th percentile of m
 ACTIVE_PRICE_HAIRCUT_PCT = 10    # when only active eBay listings are available, lower them this much
 SEND_DEAL_WATCH = True           # also send big deals with high demand that eBay couldn't price (marked "check eBay yourself")
 MAX_DEAL_WATCH_PER_RUN = 15
+SEND_UNPRICED = True             # also send items eBay couldn't price ("TO LIST"), with the eBay price you'd need for MIN_PROFIT
 MAX_ALERTS_PER_RUN = 60
 
 # ---- Time and memory ----

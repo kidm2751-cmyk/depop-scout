@@ -346,6 +346,7 @@ def score(it: dict) -> float:
     s += 8 * math.log10(1 + (it.get("bought") or 0))          # 100 bought = +16, 1K = +24
     s += 3 * math.log10(1 + (it.get("reviews") or 0))
     s += 4 if it.get("tag") else 0
+    s += 10 if it.get("branded") else 0                       # brand searches price on eBay far more often than no-name items
     return round(s, 1)
 
 
@@ -503,11 +504,24 @@ def tier(it: dict, ev: dict) -> str | None:
         return None
     if A.SEND_DEAL_WATCH and it.get("branded") and is_big_deal(it) and (it.get("bought") or 0) >= A.HIGH_DEMAND_BOUGHT:
         return "DEAL"   # only from brand searches: no-name items with big "% off" are rarely real deals
+    if getattr(A, "SEND_UNPRICED", True):
+        return "LIST"   # eBay couldn't price it: send it anyway with the price you'd need to list at
     return None
 
 
+def price_needed(cost: float, profit: float) -> float:
+    """The eBay price that leaves `profit` after every fee (solves price - fees(price) - cost = profit)."""
+    rate = (1 + A.EBAY_BUYER_TAX_PCT / 100) * (A.EBAY_FEE_PCT + A.EBAY_AD_RATE_PCT) / 100
+    fixed = A.SHIP_TO_EBAY_BUYER + A.PACKAGING_COST
+    L = (cost + profit + fixed + A.EBAY_ORDER_FEE) / (1 - rate)
+    if L <= 10:
+        L = (cost + profit + fixed + A.EBAY_ORDER_FEE_SMALL) / (1 - rate)
+    return round(L, 2)
+
+
 # ============================================================ Discord
-TIER_STYLE = {"BUY": ("🟢 BUY", 0x22C55E), "MAYBE": ("🟡 MAYBE", 0xEAB308), "DEAL": ("🔥 DEAL: check eBay yourself", 0xF97316)}
+TIER_STYLE = {"BUY": ("🟢 BUY", 0x22C55E), "MAYBE": ("🟡 MAYBE", 0xEAB308), "DEAL": ("🔥 DEAL: check eBay yourself", 0xF97316),
+              "LIST": ("📋 TO LIST: no eBay price found", 0x64748B)}
 
 
 def alert(it: dict, ev: dict, kind: str, keyword: str, query: str) -> bool:
@@ -532,7 +546,10 @@ def alert(it: dict, ev: dict, kind: str, keyword: str, query: str) -> bool:
             {"name": "📦 Cheapest eBay matches", "value": ("\n".join(f"• [{money(x['total'])}]({x['url']}) {x['title'][:60]}" for x in ev["examples"] if x.get("url")) or "—")[:1000], "inline": False},
         ]
     else:
-        fields.append({"name": "❓ eBay", "value": "Couldn't find enough matching eBay listings to price this. Big deal + high demand, so check sold prices yourself.", "inline": False})
+        why = "Big deal + high demand, so it's worth checking." if kind == "DEAL" else "Check what it sells for before you list it."
+        fields.append({"name": "❓ eBay", "value": f"Couldn't find enough matching eBay listings to price this. {why}", "inline": False})
+        fields.append({"name": "💲 List on eBay at", "value": f"**{money(price_needed(ev['cost'], A.MIN_PROFIT))}+** for {money(A.MIN_PROFIT)} profit\n"
+                                                             f"break-even {money(price_needed(ev['cost'], 0))}", "inline": True})
     fields += [
         {"name": "📈 Demand", "value": demand_line(it), "inline": False},
         {"name": "Links", "value": f"[Buy on Amazon]({it['url']})  •  [eBay sold]({sold_url})  •  [eBay active]({active_url})  •  "
@@ -577,7 +594,8 @@ class AmazonNet:
 
 
 def search_url(kw: str) -> str:
-    return f"{AMAZON}/s?" + urllib.parse.urlencode({"k": kw, "rh": f"p_36:{int(A.MIN_AMAZON_PRICE * 100)}-{int(A.MAX_AMAZON_PRICE * 100)}"})
+    lo, hi = int(A.MIN_AMAZON_PRICE), int(math.ceil(A.MAX_AMAZON_PRICE))
+    return f"{AMAZON}/s?" + urllib.parse.urlencode({"k": kw, "rh": f"p_36:{lo * 100}-{hi * 100}", "low-price": lo, "high-price": hi})
 
 
 # ============================================================ main run
@@ -588,7 +606,7 @@ def run() -> dict:
     rot, block, start, batch, days = todays_batch(kws, st)
     net = D.Net()
     amz = AmazonNet(net)
-    stats = {"keywords": len(batch), "listings": 0, "deals": 0, "checked": 0, "buy": 0, "maybe": 0, "deal_watch": 0, "no_comps": 0, "not_profitable": 0, "unavailable": 0}
+    stats = {"keywords": len(batch), "listings": 0, "deals": 0, "checked": 0, "buy": 0, "maybe": 0, "deal_watch": 0, "to_list": 0, "no_comps": 0, "not_profitable": 0, "unavailable": 0}
     t0, budget = now(), A.RUN_MINUTES * 60
     mins = lambda: (now() - t0) / 60  # noqa: E731
     pending = []
@@ -622,7 +640,8 @@ def run() -> dict:
                         continue
                 if deal_lines(it):
                     stats["deals"] += 1
-                it["score"], it["keyword"], it["branded"] = score(it), kw, bool(lock)
+                it["keyword"], it["branded"] = kw, bool(lock)
+                it["score"] = score(it)
                 picks.append(it)
             picks.sort(key=lambda x: -x["score"])
             for rank, it in enumerate(picks[:A.CANDIDATES_PER_KEYWORD]):
@@ -665,11 +684,11 @@ def run() -> dict:
             else:
                 log(f"  {it['title'][:50]}: not enough eBay matches for '{q}' ({ev['n_sold']} sold, {ev['n_active']} active read)" + (" -> deal watch" if kind else ""))
             if kind == "DEAL" and deal_sent >= A.MAX_DEAL_WATCH_PER_RUN:
-                kind = None
+                kind = "LIST" if getattr(A, "SEND_UNPRICED", True) else None
             if kind and sent < A.MAX_ALERTS_PER_RUN and alert(it, ev, kind, it["keyword"], q):
                 sent += 1
                 deal_sent += kind == "DEAL"
-                stats[{"BUY": "buy", "MAYBE": "maybe", "DEAL": "deal_watch"}[kind]] += 1
+                stats[{"BUY": "buy", "MAYBE": "maybe", "DEAL": "deal_watch", "LIST": "to_list"}[kind]] += 1
                 st["seen"][it["asin"]] = {"v": "alert", "t": now(), "p": it["price"]}
                 continue
             stats["no_comps" if not ev["ok"] else "not_profitable"] += 1
@@ -680,7 +699,7 @@ def run() -> dict:
         save_state(st)
 
     lines = [f"🛒 **Amazon scout**: {stats['keywords']} searches, {stats['listings']} listings, {stats['deals']} with a deal, {stats['checked']} checked on eBay → "
-             f"**{stats['buy']} BUY**, {stats['maybe']} maybe, {stats['deal_watch']} deal watch.",
+             f"**{stats['buy']} BUY**, {stats['maybe']} maybe, {stats['deal_watch']} deal watch, {stats['to_list']} to list (no eBay price).",
              f"Not enough eBay matches: {stats['no_comps']} • below target: {stats['not_profitable']} • unavailable: {stats['unavailable']}. "
              + D.rotation_note(rot, block, days).replace("keyword #", "Amazon keyword #")]
     if stats.get("stopped_early"):

@@ -833,6 +833,52 @@ def alert(item: dict, ev: dict, keyword: str, query: str) -> bool:
     return discord({"embeds": [main] + gallery(item["url"], item["photos"], color), "_plain": plain})
 
 
+def price_needed(item: dict, cost_total: float, profit: float) -> float:
+    """The eBay price that leaves `profit` after eBay fees, ads, postage and packaging."""
+    lo, hi = 1.0, 5000.0
+    for _ in range(60):
+        mid = (lo + hi) / 2
+        if mid - ebay_side(mid, item)["total"] - cost_total < profit:
+            lo = mid
+        else:
+            hi = mid
+    return round(hi, 2)
+
+
+def alert_unpriced(item: dict, keyword: str, query: str) -> bool:
+    """eBay couldn't price it: send it anyway, with the eBay price you'd need to list at."""
+    c = depop_cost(item)
+    color = 0x64748B
+    sold_url = "https://www.ebay.com/sch/i.html?" + urllib.parse.urlencode({"_nkw": query, "LH_Sold": "1", "LH_Complete": "1"})
+    active_url = "https://www.ebay.com/sch/i.html?" + urllib.parse.urlencode({"_nkw": query})
+    target = price_needed(item, c["total"], S.MIN_PROFIT)
+    even = price_needed(item, c["total"], 0)
+    checks = []
+    if not c["ship_known"]:
+        checks.append("Depop shipping not shown: estimated " + money(c["ship"]))
+    if not c["fee_exact"]:
+        checks.append("Depop buyer fee estimated at 5% + $1 (check at checkout)")
+    if not item["size"]:
+        checks.append("size not listed: ask the seller")
+    title_draft = " ".join(x for x in [item["brand"], " ".join(words(item["title"])[:8]).title(), ("Size " + item["size"]) if item["size"] else "", "New" if condition_of(item) == "new" else "Pre-owned"] if x)[:80]
+    fields = [
+        {"name": "❓ eBay", "value": "Couldn't find enough matching eBay listings to price this. Check what it sells for before you buy.", "inline": False},
+        {"name": "🛍️ You pay on Depop", "value": f"**{money(c['total'])}**\nitem {money(c['item'])} + fee {money(c['fee'])}\n+ ship {money(c['ship'])} + tax {money(c['tax'])}", "inline": True},
+        {"name": "💲 List on eBay at", "value": f"**{money(target)}+** for {money(S.MIN_PROFIT)} profit\nbreak-even {money(even)}", "inline": True},
+        {"name": "📏 Details", "value": f"Size: {item['size'] or '?'} • Condition: {item['condition'] or '?'} • Seller: {item['seller'] or '?'}", "inline": False},
+    ]
+    if checks:
+        fields.append({"name": "❓ Check before buying", "value": "\n".join("• " + x for x in checks)[:1000], "inline": False})
+    fields.append({"name": "🏷️ eBay title draft", "value": f"`{title_draft}`", "inline": False})
+    fields.append({"name": "Links", "value": f"[Buy on Depop]({item['url']})  •  [eBay sold prices]({sold_url})  •  [eBay active]({active_url})", "inline": False})
+    main = {"title": f"📋 TO LIST: {item['brand'] + ': ' if item['brand'] else ''}{item['title']}"[:240], "url": item["url"], "color": color, "fields": fields,
+            "footer": {"text": f"Search: {keyword}"}}
+    if item["photos"]:
+        main["image"] = {"url": item["photos"][0]}
+    plain = f"TO LIST | {item['title']} | Depop {money(c['total'])} total | list at {money(target)}+ | {item['url']}"
+    return discord({"embeds": [main] + gallery(item["url"], item["photos"], color), "_plain": plain})
+
+
 # ============================================================ main run
 def is_junk(item: dict) -> bool:
     t = item["title"] + " " + item["description"][:300]
@@ -878,7 +924,7 @@ def run() -> dict:
     kws = [l.strip() for l in (ROOT / "keywords.txt").read_text().splitlines() if l.strip() and not l.strip().startswith("#")]
     rot, block, start, batch, days = todays_batch(kws, st)
     net = Net()
-    stats = {"keywords": len(batch), "depop_found": 0, "new": 0, "ebay_checked": 0, "no_comps": 0, "not_profitable": 0, "alerts": 0, "sold_out": 0}
+    stats = {"keywords": len(batch), "depop_found": 0, "new": 0, "ebay_checked": 0, "no_comps": 0, "not_profitable": 0, "alerts": 0, "sold_out": 0, "to_list": 0}
     pending = []
     t0 = now()
     budget = S.RUN_MINUTES * 60
@@ -947,7 +993,12 @@ def run() -> dict:
             if not ev:
                 log(f"  {it['title'][:50]}: not enough eBay matches for '{q}' ({len(comps.get('sold', []))} sold, {len(comps.get('active', []))} active listings read)")
                 stats["no_comps"] += 1
-                st["seen"][it["id"]] = {"v": "fail", "t": now(), "p": it["price"]}
+                if getattr(S, "SEND_UNPRICED", True) and alerts_sent < S.MAX_ALERTS_PER_RUN and alert_unpriced(it, kw, q):
+                    alerts_sent += 1
+                    stats["to_list"] += 1
+                    st["seen"][it["id"]] = {"v": "alert", "t": now(), "p": it["price"]}
+                else:
+                    st["seen"][it["id"]] = {"v": "fail", "t": now(), "p": it["price"]}
                 continue
             log(f"  {it['title'][:50]}: Depop {money(ev['cost']['total'])} -> eBay {money(ev['list'])} = {money(ev['profit'])} ({ev['basis']}, {ev['n']})")
             if ev["profit"] >= S.MIN_PROFIT and ev["roi"] >= S.MIN_ROI_PCT and alerts_sent < S.MAX_ALERTS_PER_RUN:
@@ -957,7 +1008,7 @@ def run() -> dict:
                 continue
             stats["not_profitable"] += 1
             st["seen"][it["id"]] = {"v": "fail", "t": now(), "p": it["price"]}
-        stats["alerts"] = alerts_sent
+        stats["alerts"] = alerts_sent - stats["to_list"]
     finally:
         net.close()
         stats["requests"] = net.requests
@@ -966,7 +1017,7 @@ def run() -> dict:
         save_state(st)
 
     if S.SEND_RUN_SUMMARY:
-        lines = [f"📋 **Depop → eBay scout**: {stats['keywords']} searches, {stats['depop_found']} Depop listings, {stats['new']} new, {stats['ebay_checked']} checked on eBay → **{stats['alerts']} find{'s' if stats['alerts'] != 1 else ''}**.",
+        lines = [f"📋 **Depop → eBay scout**: {stats['keywords']} searches, {stats['depop_found']} Depop listings, {stats['new']} new, {stats['ebay_checked']} checked on eBay → **{stats['alerts']} find{'s' if stats['alerts'] != 1 else ''}** + {stats['to_list']} to list (no eBay price).",
                  f"Not enough eBay matches: {stats['no_comps']} • below your ${S.MIN_PROFIT:.0f} / {S.MIN_ROI_PCT}% target: {stats['not_profitable']} • already sold: {stats['sold_out']}. " + rotation_note(rot, block, days)]
         if stats.get("stopped_early"):
             lines.append(f"⚠️ Depop returned nothing for the first {stats['stopped_early']} searches, so this run stopped early. Depop is likely blocking GitHub's servers. "
