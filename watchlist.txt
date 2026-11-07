@@ -1,0 +1,6 @@
+# Amazon watchlist: checked every hour. One item per line:
+#   ASIN (or Amazon link)   your max buy price (optional)   a note (optional)
+# Discord gets a message when the price goes over your max, the item goes out of stock or comes back,
+# or the price moves 5% or more since the last check.
+# Example (remove the # to use it):
+# B09BNGBLQK 32.50 LEGO police station, listed on eBay at 54.99
