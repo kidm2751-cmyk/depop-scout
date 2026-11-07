@@ -1,1 +1,28 @@
-{}
+{
+ "B00T0C9XRK": {
+  "asin": "B00T0C9XRK",
+  "boughtPastMonth": 100000,
+  "brand": "Essence Cosmetics",
+  "checkedAt": "2026-11-07T05:40:53Z",
+  "coupon": null,
+  "deal": null,
+  "inStock": true,
+  "listPrice": null,
+  "listPriceKind": null,
+  "lowestIn30Days": false,
+  "max": 45.0,
+  "ok": true,
+  "pctOff": 0.0,
+  "photo": "https://m.media-amazon.com/images/I/61H8Gy0K13L._SL1500_.jpg",
+  "price": 4.97,
+  "priceAfterCoupon": null,
+  "rating": 4.3,
+  "reviews": null,
+  "seller": "essence cosmetics",
+  "soldByAmazon": false,
+  "status": "ok",
+  "title": "essence Lash Princess False Lash Effect Mascara, Black (Pack of 1)",
+  "url": "https://www.amazon.com/dp/B00T0C9XRK",
+  "verdict": "OK: 4.97 is at or under your max 45.00"
+ }
+}
