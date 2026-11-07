@@ -105,11 +105,11 @@
  "depop:fem7elling-vintage-y2k-bench-barbour-style-2e16": {
   "brand": "Bench",
   "buyerFee": 2.16,
-  "checkedAt": "2026-11-07T06:44:52Z",
+  "checkedAt": "2026-11-07T09:12:54Z",
   "condition": null,
   "inStock": true,
   "key": "depop:fem7elling-vintage-y2k-bench-barbour-style-2e16",
-  "max": 45.0,
+  "max": 31.12,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/34580530/5139513713_5fa1da5064ff42b29a717867a46e1457/P0.jpg",
   "platform": "depop",
@@ -125,7 +125,7 @@
   "title": "Vintage Y2K Bench Barbour style waxed faux leather...",
   "totalCost": 33.76,
   "url": "https://www.depop.com/products/fem7elling-vintage-y2k-bench-barbour-style-2e16/",
-  "verdict": "OK: 33.76 total is at or under your max 45.00"
+  "verdict": "TOO HIGH: 33.76 total is over your max 31.12"
  },
  "depop:uiroin98-new-balance-2002r-black-sneakers-18f5": {
   "brand": "New Balance",
