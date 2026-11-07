@@ -1,10 +1,10 @@
-name: Amazon price check
+name: Price check (Amazon + Depop)
 
 on:
   workflow_dispatch:            # your agent (or you) starts this with a list of ASINs
     inputs:
       asins:
-        description: "ASINs or Amazon links, comma or space separated (up to 200)"
+        description: "ASINs, Amazon links and/or Depop links, comma or space separated (up to 200)"
         required: false
         default: ""
       max:
@@ -20,7 +20,7 @@ on:
         type: boolean
         default: false
   schedule:
-    - cron: "23 * * * *"        # every hour: re-check watchlist.txt
+    - cron: "23 * * * *"        # every hour: re-check watchlist.txt (Amazon and Depop)
 
 permissions:
   contents: write               # lets the run save results to the "prices" branch
