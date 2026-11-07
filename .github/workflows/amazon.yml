@@ -1,0 +1,71 @@
+name: Amazon deal scout
+
+on:
+  schedule:
+    # Times are UTC. These are 7:47am, 10:47am, 2:47pm and 7:47pm Pacific (standard time, Nov to Mar).
+    # From March to November (daylight time) they run one hour later. GitHub can start scheduled runs a few minutes late.
+    - cron: "47 15,18,22,3 * * *"
+  workflow_dispatch:          # lets you press "Run workflow" any time
+    inputs:
+      dry_run:
+        description: "Test only: print finds in the log instead of sending to Discord"
+        type: boolean
+        default: false
+
+concurrency:
+  group: amazon-scout         # never two Amazon runs at once (it can run alongside the Depop scout)
+  cancel-in-progress: false
+
+jobs:
+  amazon:
+    runs-on: ubuntu-latest
+    timeout-minutes: 110
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install Scrapling
+        run: pip install -r requirements.txt
+
+      - name: Cache the stealth browser
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: browsers-${{ hashFiles('requirements.txt') }}
+
+      - name: Install the stealth browser (used when Amazon or eBay block plain requests)
+        run: scrapling install || echo "browser install failed; plain requests will still be used"
+
+      - name: Load memory and price history from the last run
+        uses: actions/cache/restore@v4
+        with:
+          path: state_amazon
+          key: amazon-state-${{ github.run_id }}
+          restore-keys: amazon-state-
+
+      - name: Run the Amazon scout
+        env:
+          AMAZON_WEBHOOK_URL: ${{ secrets.AMAZON_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+        run: python amazon_scout.py
+
+      - name: Save memory and price history for the next run
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: state_amazon
+          key: amazon-state-${{ github.run_id }}
+
+      - name: Save debug files (download "debug-amazon" from this run's Summary page)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-amazon
+          path: debug_amazon/
+          if-no-files-found: ignore
+          retention-days: 7
