@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-20261107-211826",
+ "finishedAt": "2026-11-07T21:19:06Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0GVGWNDMX",
+   "key": "B0GVGWNDMX",
+   "url": "https://www.amazon.com/dp/B0GVGWNDMX",
+   "checkedAt": "2026-11-07T21:19:06Z",
+   "ok": true,
+   "status": "ok",
+   "title": "AT-A-GLANCE 2027 Wall Calendar, Monthly, 15.5\" x 22.75\" Planner, Ruled Daily Blocks (PM32827), White",
+   "brand": "AT-A-GLANCE",
+   "price": 10.99,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 20.95,
+   "listPriceKind": "typical",
+   "pctOff": 47.5,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "not shown",
+   "soldByAmazon": null,
+   "boughtPastMonth": 4000,
+   "rating": 4.8,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/81sR9c-PQ3L._AC_SL1500_.jpg",
+   "max": 12.55,
+   "verdict": "OK: 10.99 is at or under your max 12.55"
+  }
+ ]
+}
