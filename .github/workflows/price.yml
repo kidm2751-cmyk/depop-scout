@@ -1,0 +1,97 @@
+name: Amazon price check
+
+on:
+  workflow_dispatch:            # your agent (or you) starts this with a list of ASINs
+    inputs:
+      asins:
+        description: "ASINs or Amazon links, comma or space separated (up to 200)"
+        required: false
+        default: ""
+      max:
+        description: "Your max buy price to compare against (optional; default 45)"
+        required: false
+        default: ""
+      request_id:
+        description: "Any id; the answer is saved as requests/<id>.json on the prices branch"
+        required: false
+        default: ""
+      notify:
+        description: "Also post the results to Discord"
+        type: boolean
+        default: false
+  schedule:
+    - cron: "23 * * * *"        # every hour: re-check watchlist.txt
+
+permissions:
+  contents: write               # lets the run save results to the "prices" branch
+
+concurrency:
+  group: price-check            # one at a time, so results never overwrite each other
+  cancel-in-progress: false
+
+jobs:
+  price:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Skip the hourly run when the watchlist is empty
+        id: gate
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] && ! grep -qiE '^[[:space:]]*[^#[:space:]]' watchlist.txt 2>/dev/null; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"; echo "Watchlist is empty, nothing to check."
+          fi
+
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.skip != 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install Scrapling
+        if: steps.gate.outputs.skip != 'true'
+        run: pip install -r requirements.txt
+
+      - name: Cache the stealth browser
+        if: steps.gate.outputs.skip != 'true'
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: browsers-${{ hashFiles('requirements.txt') }}
+
+      - name: Install the stealth browser (used only if Amazon blocks plain requests)
+        if: steps.gate.outputs.skip != 'true'
+        run: scrapling install || echo "browser install failed; plain requests will still be used"
+
+      - name: Open the prices branch
+        if: steps.gate.outputs.skip != 'true'
+        run: |
+          git config user.name "price-check-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git fetch --depth=1 origin prices 2>/dev/null; then
+            git worktree add -B prices prices_out FETCH_HEAD
+          else
+            git worktree add --orphan -b prices prices_out
+          fi
+
+      - name: Check prices
+        if: steps.gate.outputs.skip != 'true'
+        env:
+          ASINS: ${{ github.event.inputs.asins }}
+          MAX_PRICE: ${{ github.event.inputs.max }}
+          REQUEST_ID: ${{ github.event.inputs.request_id || github.run_id }}
+          NOTIFY: ${{ github.event.inputs.notify }}
+          WATCH: ${{ github.event_name == 'schedule' && 'true' || '' }}
+          PRICES_DIR: prices_out
+          AMAZON_WEBHOOK_URL: ${{ secrets.AMAZON_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python price_check.py
+
+      - name: Save results to the prices branch
+        if: always() && steps.gate.outputs.skip != 'true'
+        run: |
+          cd prices_out
+          git add -A
+          git commit -q -m "Prices $(date -u +%Y-%m-%dT%H:%M:%SZ)" || { echo "nothing new"; exit 0; }
+          git push -q origin prices
