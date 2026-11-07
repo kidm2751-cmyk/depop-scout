@@ -101,5 +101,30 @@
   "totalCost": 33.82,
   "url": "https://www.depop.com/products/deadheadthrifto-brown-leather-vintage-90s-taras-ab38/",
   "verdict": "OK: 33.82 total is at or under your max 41.19"
+ },
+ "depop:uiroin98-new-balance-2002r-black-sneakers-18f5": {
+  "brand": "New Balance",
+  "buyerFee": 1.46,
+  "checkedAt": "2026-11-07T06:10:06Z",
+  "condition": null,
+  "inStock": true,
+  "key": "depop:uiroin98-new-balance-2002r-black-sneakers-18f5",
+  "max": 12.41,
+  "ok": true,
+  "photo": "https://media-photos.depop.com/r1/364429884/5140711202_72eec897ee6449db92b65346197e13a8/P0.jpg",
+  "platform": "depop",
+  "price": 9.1,
+  "seller": null,
+  "shipping": 8.0,
+  "shippingKnown": false,
+  "size": null,
+  "slug": "uiroin98-new-balance-2002r-black-sneakers-18f5",
+  "sold": false,
+  "status": "ok",
+  "tax": 1.03,
+  "title": "New Balance 2002R black sneakers #newbalance #running",
+  "totalCost": 19.58,
+  "url": "https://www.depop.com/products/uiroin98-new-balance-2002r-black-sneakers-18f5/",
+  "verdict": "TOO HIGH: 19.58 total is over your max 12.41"
  }
 }
