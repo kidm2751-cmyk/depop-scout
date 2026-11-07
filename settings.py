@@ -4,10 +4,12 @@
 # =====================================================================
 
 # ---- What to search ----
-KEYWORDS_PER_RUN = 75            # keywords.txt has 300; 75 per run x 4 runs a day = all 300 daily
+KEYWORDS_PER_DAY = 1000          # keywords.txt has 5,000 = 5 daily blocks of 1,000; a new block each day, repeating after Day 5
+KEYWORDS_PER_RUN = 250           # 250 per run x 4 runs a day = today's whole block
+TIMEZONE = "America/Los_Angeles" # decides when a new day (and a new block) starts
 DEPOP_RESULTS_PER_KEYWORD = 24   # Depop listings read per search
 CANDIDATES_PER_KEYWORD = 3       # best-priced listings per search that get an eBay check
-MAX_EBAY_CHECKS_PER_RUN = 30     # listings checked on eBay per run: every keyword's best bargain first
+MAX_EBAY_CHECKS_PER_RUN = 40     # listings checked on eBay per run: the biggest bargains across all 250 searches first
 MIN_DEPOP_PRICE = 8.00
 MAX_DEPOP_PRICE = 150.00
 SKIP_WORDS = ["lot", "bundle", "mystery", "rep", "replica", "inspired", "dupe", "custom", "handmade", "kids", "toddler", "infant"]  # whole words only
@@ -46,8 +48,8 @@ DELAY_SECONDS = (1.5, 3.5)       # random pause between requests to the same sit
 USE_BROWSER_FALLBACK = True      # if plain requests get blocked, load the page in Scrapling's stealth browser
 BROWSER_TIMEOUT_SECONDS = 25     # longest the browser waits for a page
 STOP_AFTER_EMPTY_SEARCHES = 4    # if the first this-many Depop searches all find nothing, stop the run (Depop is blocking)
-RUN_MINUTES = 38                 # the scout wraps up by this point (GitHub's limit is set to 55 in scout.yml)
-SEARCH_SHARE_OF_TIME = 0.45      # at most this share of the time goes to Depop searches; the rest to eBay checks
+RUN_MINUTES = 85                 # the scout wraps up by this point (GitHub's limit is set to 110 in scout.yml)
+SEARCH_SHARE_OF_TIME = 0.62      # at most this share of the time goes to Depop searches (~53 min); the rest to eBay checks
 REMEMBER_ALERTED_DAYS = 30       # don't re-alert the same listing for this long (unless the price drops)
 REMEMBER_CHECKED_DAYS = 3        # listings that didn't qualify are re-checked after this long
 EBAY_COMP_CACHE_HOURS = 48       # reuse eBay price lookups for the same search this long

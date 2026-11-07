@@ -180,7 +180,7 @@ class Net:
                                                 network_idle=False, timeout=S.BROWSER_TIMEOUT_SECONDS * 1000)
                 self._session.__enter__()
             self._session.network.clear()
-            kw = {"wait": 1500}
+            kw = {"wait": 1000}
             if wait_selector:
                 kw["wait_selector"] = wait_selector
             page = self._session.fetch(url, **kw)
@@ -820,12 +820,44 @@ def is_junk(item: dict) -> bool:
     return any(has_word(t, w) for w in S.SKIP_WORDS)
 
 
+def local_today() -> str:
+    """Today's date where you are (settings.TIMEZONE), so all of a day's runs share one keyword block."""
+    try:
+        from datetime import datetime
+        from zoneinfo import ZoneInfo
+        return datetime.now(ZoneInfo(S.TIMEZONE)).strftime("%Y-%m-%d")
+    except Exception:
+        return time.strftime("%Y-%m-%d", time.gmtime(now() - 8 * 3600))
+
+
+def todays_batch(kws: list[str], st: dict):
+    """keywords.txt is split into blocks of KEYWORDS_PER_DAY. Each new day moves to the next block (wrapping after the last);
+    each run takes the next KEYWORDS_PER_RUN of today's block, continuing where the previous run stopped."""
+    per_day = max(1, min(S.KEYWORDS_PER_DAY, len(kws)))
+    days = max(1, -(-len(kws) // per_day))
+    rot = st.setdefault("rotation", {})
+    today = local_today()
+    if rot.get("date") != today:
+        day = (rot["day"] + 1) % days if isinstance(rot.get("day"), int) else 0
+        rot.update(date=today, day=day, pos=0)
+    rot["day"] %= days
+    block = kws[rot["day"] * per_day:(rot["day"] + 1) * per_day]
+    start = rot["pos"] % len(block)
+    batch = (block + block)[start:start + min(S.KEYWORDS_PER_RUN, len(block))]
+    rot["pos"] = start + len(batch)
+    return rot, block, start, batch, days
+
+
+def rotation_note(rot: dict, block: list, days: int) -> str:
+    if rot["pos"] >= len(block):
+        return f"Day {rot['day'] + 1} of {days}: all {len(block)} of today's keywords are done. Tomorrow starts Day {(rot['day'] + 1) % days + 1}."
+    return f"Day {rot['day'] + 1} of {days}: next run starts at keyword #{rot['pos'] + 1} of today's {len(block)}."
+
+
 def run() -> dict:
     st = load_state()
     kws = [l.strip() for l in (ROOT / "keywords.txt").read_text().splitlines() if l.strip() and not l.strip().startswith("#")]
-    start = st["cursor"] % len(kws)
-    batch = (kws + kws)[start:start + min(S.KEYWORDS_PER_RUN, len(kws))]
-    st["cursor"] = (start + len(batch)) % len(kws)
+    rot, block, start, batch, days = todays_batch(kws, st)
     net = Net()
     stats = {"keywords": len(batch), "depop_found": 0, "new": 0, "ebay_checked": 0, "no_comps": 0, "not_profitable": 0, "alerts": 0, "sold_out": 0}
     pending = []
@@ -835,18 +867,18 @@ def run() -> dict:
     def mins():
         return (now() - t0) / 60
 
-    log(f"Searching {len(batch)} keywords (from #{start + 1})")
+    log(f"Day {rot['day'] + 1} of {days}: searching keywords {start + 1}-{start + len(batch)} of today's {len(block)}")
     try:
         for n, kw in enumerate(batch):
             if now() - t0 > budget * S.SEARCH_SHARE_OF_TIME:
                 stats["keywords"] = n
-                st["cursor"] = (start + n) % len(kws)   # the rest are searched first next run
+                rot["pos"] = start + n   # the rest are searched first next run
                 log(f"Search time used up after {n} keywords ({mins():.0f} min); the rest are searched next run.")
                 break
             if n >= S.STOP_AFTER_EMPTY_SEARCHES and stats["depop_found"] == 0:
                 stats["stopped_early"] = n
                 log(f"Depop returned nothing for the first {n} searches, so this run stops here instead of wasting time.")
-                st["cursor"] = start   # nothing was really searched: retry the same keywords next run
+                rot["pos"] = start   # nothing was really searched: retry the same keywords next run
                 stats["keywords"] = n
                 break
             items = depop_search(net, kw)
@@ -916,7 +948,7 @@ def run() -> dict:
 
     if S.SEND_RUN_SUMMARY:
         lines = [f"📋 **Depop → eBay scout**: {stats['keywords']} searches, {stats['depop_found']} Depop listings, {stats['new']} new, {stats['ebay_checked']} checked on eBay → **{stats['alerts']} find{'s' if stats['alerts'] != 1 else ''}**.",
-                 f"Not enough eBay matches: {stats['no_comps']} • below your ${S.MIN_PROFIT:.0f} / {S.MIN_ROI_PCT}% target: {stats['not_profitable']} • already sold: {stats['sold_out']}. Next run starts at keyword #{st['cursor'] + 1} of {len(kws)}."]
+                 f"Not enough eBay matches: {stats['no_comps']} • below your ${S.MIN_PROFIT:.0f} / {S.MIN_ROI_PCT}% target: {stats['not_profitable']} • already sold: {stats['sold_out']}. " + rotation_note(rot, block, days)]
         if stats.get("stopped_early"):
             lines.append(f"⚠️ Depop returned nothing for the first {stats['stopped_early']} searches, so this run stopped early. Depop is likely blocking GitHub's servers. "
                          "Download the **debug** file from this run's Summary page on GitHub and send it to Claude.")
