@@ -276,8 +276,15 @@ def effective_price(it: dict) -> float:
 
 
 def pct_off(it: dict) -> float:
+    """% below Amazon's typical price, or below the list price. Sellers can type in any "List" price, so a list-price
+    discount bigger than MAX_LIST_PCT_OFF is treated as fake and ignored ("87% off $123" lip gloss)."""
     t = it.get("typical")
-    return round((1 - it["price"] / t) * 100, 1) if t and t > it["price"] else 0.0
+    if not t or t <= it["price"]:
+        return 0.0
+    pct = round((1 - it["price"] / t) * 100, 1)
+    if it.get("typical_kind", "list") != "typical" and pct > getattr(A, "MAX_LIST_PCT_OFF", 60):
+        return 0.0
+    return pct
 
 
 def deal_lines(it: dict) -> list[str]:
@@ -320,9 +327,13 @@ def demand_line(it: dict) -> str:
 
 
 def is_big_deal(it: dict) -> bool:
+    """Deals Amazon itself backs (typical-price drops, deal badges, coupons, 30-day lows) or the scout's own 90/365-day lows.
+    A big drop from a seller's own "List" price only counts when Amazon also flags it."""
     hi = it.get("hist_info") or {}
-    return (pct_off(it) >= A.BIG_PCT_OFF or (it.get("coupon_pct") or 0) >= A.BIG_COUPON_PCT or bool(it.get("badge"))
-            or hi.get("low_window") in (90, 365))
+    po, typical = pct_off(it), it.get("typical_kind") == "typical"
+    return ((po >= A.BIG_PCT_OFF and (typical or it.get("badge") or it.get("low30")))
+            or (it.get("coupon_pct") or 0) >= A.BIG_COUPON_PCT or bool(it.get("badge"))
+            or (it.get("low30") and po >= 25) or hi.get("low_window") in (90, 365))
 
 
 def score(it: dict) -> float:
@@ -339,36 +350,50 @@ def score(it: dict) -> float:
 
 
 # ============================================================ brand lock (knockoff filter)
-COMMON_FIRST = {"hot", "new", "the", "le", "dr", "mr", "mrs", "la", "de", "st", "san", "los", "las", "old", "big", "little", "bath", "burts",
-                "nature", "natures", "home", "black", "pop", "green", "blue", "red", "white", "royal", "tim", "super", "star", "mario", "five",
-                "golden", "general", "first", "all", "one", "my", "our", "simple", "magic", "true", "living", "real", "rare", "glow", "summer",
-                "beauty", "kansas", "tampa", "green", "las", "north", "south", "west", "east", "san", "los"}
+def norm(t: str) -> str:
+    return re.sub(r"['’.]", "", str(t).lower()).replace("-", " ")
 
 
-def brand_lock(keyword: str) -> str:
-    """Brand searches start with a capital letter ("LEGO City police"); generic ones don't ("air fryer liners")."""
-    w = keyword.split()
-    if not w or not w[0][:1].isupper():
-        return ""
-    if w[0].lower() in COMMON_FIRST and len(w) > 1:
-        return f"{w[0]} {w[1]}"
-    return w[0]
+def brand_lock(keyword: str) -> list[str]:
+    """Brand searches start with capital letters ("Chicago White Sox blanket", "LEGO City police"); generic ones don't
+    ("air fryer liners"). Every leading capitalised word (up to 3) must appear in the listing, so a Chicago BEARS blanket
+    doesn't pass for a White Sox search and plain Hot Wheels cars don't pass for "Hot Wheels Pixar Cars"."""
+    lock = []
+    for w in keyword.split():
+        if not w[:1].isupper() or len(lock) == 3:
+            break
+        lock.append(norm(w))
+    return lock
 
 
-def passes_lock(it: dict, lock: str) -> bool:
+def passes_lock(it: dict, lock) -> bool:
     if not lock:
         return True
-    t = f"{it.get('brand', '')} {it['title']}".lower().replace("-", " ").replace("’", "'")
-    return has_word(t, lock.lower().replace("-", " "))
+    if isinstance(lock, str):
+        lock = [norm(w) for w in lock.split()]
+    t = norm(f"{it.get('brand', '')} {it['title']}")
+    return all(has_word(t, w) for w in lock)
 
 
-def is_junk(it: dict) -> bool:
+PET_WORDS = {"dog", "dogs", "cat", "cats", "pet", "pets", "puppy", "kitten"}
+APPAREL_WORDS = {"hoodie", "shirt", "hat", "blanket", "jersey", "sweater", "jacket", "costume", "pajamas", "socks", "backpack", "beanie", "collar"}
+CARD_WORDS = ["topps", "panini prizm", "panini select", "donruss", "upper deck", "hobby box", "blaster box", "trading card", "trading cards", "card pack", "booster box", "play booster", "magic the gathering"]
+
+
+def is_junk(it: dict, keyword: str = "") -> bool:
     t = it["title"].lower()
-    return any((has_word(t, w) if " " not in w else w in t) for w in A.SKIP_WORDS)
+    if any((has_word(t, w) if " " not in w else w in t) for w in A.SKIP_WORDS + CARD_WORDS):
+        return True
+    if norm(t).startswith(("replacement", "compatible", "for ")):
+        return True   # third-party parts and accessories made "for" the brand
+    kw = set(D.words(keyword))
+    if kw & APPAREL_WORDS and not (kw & PET_WORDS) and set(D.words(t)) & PET_WORDS:
+        return True   # a dog hoodie for a "Houston Texans hoodie" search
+    return False
 
 
 # ============================================================ eBay matching and money
-STOP = set("""a an and or the of for with to in on by from at as is it this that your you our new 2023 2024 2025 2026 2027 kids kid boys girls adults adult
+STOP = set("""a an and or the of for with to in on by from at as is it this that your you our 2023 2024 2025 2026 2027 kids kid boys girls adults adult
 men mens women womens toddlers toddler baby ages age years year old gift gifts idea ideas birthday christmas holiday perfect great best premium upgraded
 original official authentic genuine quality durable portable lightweight heavy duty easy use home office travel outdoor indoor""".split())
 BAD_EBAY = ["lot", "lots", "used", "broken", "parts", "for parts", "empty box", "box only", "no box", "read", "damaged", "incomplete", "custom", "replica",
@@ -457,7 +482,10 @@ def evaluate(it: dict, comps: dict, query: str) -> dict:
         e = ebay_costs(L)
         profit = round(L - e["total"] - cost, 2)
         spread = percentile(kept, 0.75) / max(0.01, percentile(kept, 0.25))
-        conf = "High" if basis == "sold" and len(kept) >= 5 and spread <= 1.6 else "Medium" if basis == "sold" else "Low"
+        if basis == "sold":
+            conf = "High" if len(kept) >= 5 and spread <= 1.6 else "Medium"
+        else:   # eBay hides sold prices from the scout, so many active listings at similar prices is the next best thing
+            conf = "Medium" if len(kept) >= 8 and spread <= 1.6 else "Low"
         res.update(ok=True, basis=basis, n=len(kept), low=kept[0], median=round(percentile(kept, 0.5), 2), list=L, ebay=e,
                    profit=profit, roi=round(profit / cost * 100, 1) if cost else 0, conf=conf,
                    examples=sorted(m, key=lambda c: c["total"])[:3])
@@ -473,8 +501,8 @@ def tier(it: dict, ev: dict) -> str | None:
         if ev["profit"] >= A.MAYBE_MIN_PROFIT:
             return "MAYBE"
         return None
-    if A.SEND_DEAL_WATCH and is_big_deal(it) and (it.get("bought") or 0) >= A.HIGH_DEMAND_BOUGHT:
-        return "DEAL"
+    if A.SEND_DEAL_WATCH and it.get("branded") and is_big_deal(it) and (it.get("bought") or 0) >= A.HIGH_DEMAND_BOUGHT:
+        return "DEAL"   # only from brand searches: no-name items with big "% off" are rarely real deals
     return None
 
 
@@ -583,7 +611,7 @@ def run() -> dict:
                 if not (A.MIN_AMAZON_PRICE <= it["price"] <= A.MAX_AMAZON_PRICE):
                     continue
                 it["hist_info"] = remember_price(st, it["asin"], it["price"])
-                if (A.SKIP_SPONSORED and it["sponsored"]) or is_junk(it) or not passes_lock(it, lock) or it.get("unavailable"):
+                if (A.SKIP_SPONSORED and it["sponsored"]) or is_junk(it, kw) or not passes_lock(it, lock) or it.get("unavailable"):
                     continue
                 if it.get("rating") and it["rating"] < A.MIN_RATING:
                     continue
@@ -594,7 +622,7 @@ def run() -> dict:
                         continue
                 if deal_lines(it):
                     stats["deals"] += 1
-                it["score"], it["keyword"] = score(it), kw
+                it["score"], it["keyword"], it["branded"] = score(it), kw, bool(lock)
                 picks.append(it)
             picks.sort(key=lambda x: -x["score"])
             for rank, it in enumerate(picks[:A.CANDIDATES_PER_KEYWORD]):

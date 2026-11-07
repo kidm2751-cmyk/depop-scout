@@ -47,6 +47,7 @@ SEND_RUN_SUMMARY = True
 DELAY_SECONDS = (1.5, 3.5)       # random pause between requests to the same site
 USE_BROWSER_FALLBACK = True      # if plain requests get blocked, load the page in Scrapling's stealth browser
 BROWSER_TIMEOUT_SECONDS = 25     # longest the browser waits for a page
+BROWSER_WAIT_SECONDS = 12        # longest it waits for search results to appear on a loaded page
 STOP_AFTER_EMPTY_SEARCHES = 4    # if the first this-many Depop searches all find nothing, stop the run (Depop is blocking)
 RUN_MINUTES = 85                 # the scout wraps up by this point (GitHub's limit is set to 110 in scout.yml)
 SEARCH_SHARE_OF_TIME = 0.62      # at most this share of the time goes to Depop searches (~53 min); the rest to eBay checks

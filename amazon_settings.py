@@ -22,6 +22,7 @@ SKIP_WORDS = ["compatible with", "compatible for", "replacement for", "not lego"
 MIN_PCT_OFF = 10                 # "X% off" counts from this much below Amazon's typical / list price
 BIG_PCT_OFF = 40                 # "big deal" level (ranks first, and can be sent even when eBay can't be priced)
 BIG_COUPON_PCT = 20
+MAX_LIST_PCT_OFF = 60            # sellers can type in any "List" price: a bigger "% off list" is treated as fake and ignored
 HIGH_DEMAND_BOUGHT = 100         # "100+ bought in past month" = high demand
 
 # ---- Your costs when you BUY on Amazon ----

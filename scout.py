@@ -182,7 +182,16 @@ class Net:
             self._session.network.clear()
             kw = {"wait": 1000}
             if wait_selector:
-                kw["wait_selector"] = wait_selector
+                # wait for the results, but never longer than BROWSER_WAIT_SECONDS (a page with no results or a
+                # sign-in wall used to cost a full 60 seconds)
+                ms = int(getattr(S, "BROWSER_WAIT_SECONDS", 12) * 1000)
+
+                def wait_for_results(page, sel=wait_selector, ms=ms):
+                    try:
+                        page.wait_for_selector(sel, timeout=ms)
+                    except Exception:
+                        pass
+                kw["page_action"] = wait_for_results
             page = self._session.fetch(url, **kw)
             found = []
             for r in self._session.network.search(limit=None):
@@ -627,7 +636,11 @@ def ebay_comps(net: Net, st: dict, query: str, condition: str) -> dict:
     if cached and now() - cached["t"] < S.EBAY_COMP_CACHE_HOURS * 3600:
         return cached
     res = {"t": now(), "sold": [], "active": []}
-    for kind in (["sold", "active"] if S.PREFER_SOLD else ["active"]):
+    # eBay sends logged-out visitors to a sign-in page for SOLD listings. After 2 misses in a run (and no hits),
+    # stop asking for sold prices and go straight to active listings.
+    sold_ok, sold_miss = getattr(net, "sold_ok", 0), getattr(net, "sold_miss", 0)
+    use_sold = S.PREFER_SOLD and not (sold_miss >= 2 and sold_ok == 0)
+    for kind in (["sold", "active"] if use_sold else ["active"]):
         url = ebay_url(query, condition, kind == "sold")
         r = net.get(url)
         html = page_text(r) if r is not None and not Net._blocked(r) else ""
@@ -640,6 +653,12 @@ def ebay_comps(net: Net, st: dict, query: str, condition: str) -> dict:
         items = parse_ebay_results(html) if html else []
         if kind == "sold":
             items = [i for i in items if i["sold"]] or []
+            if items:
+                net.sold_ok = sold_ok + 1
+            elif not html or "signin" in html[:20000].lower() or "s-item" not in html and "s-card" not in html:
+                net.sold_miss = sold_miss = sold_miss + 1
+                if sold_miss == 2 and not sold_ok:
+                    log("  (eBay hides sold prices from logged-out visitors here: using active listings for the rest of this run)")
         res[kind] = items
         if kind == "sold" and len(items) >= S.MIN_COMPS:
             break   # enough sold data: skip the active lookup
