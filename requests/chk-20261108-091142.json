@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-20261108-091142",
+ "finishedAt": "2026-11-08T09:12:17Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0HND7YK86",
+   "key": "B0HND7YK86",
+   "url": "https://www.amazon.com/dp/B0HND7YK86",
+   "checkedAt": "2026-11-08T09:12:17Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Dog Car Seat Cover for Back Seat, Hard Bottom Back Seat Extender for Dog",
+   "brand": "lufebut",
+   "price": 39.99,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 169.99,
+   "listPriceKind": "typical",
+   "pctOff": 76.5,
+   "lowestIn30Days": false,
+   "deal": "Limited time deal",
+   "inStock": true,
+   "seller": "US-SHENGHANG US-SHENGHANG Sold by US-SHENGHANG",
+   "soldByAmazon": false,
+   "boughtPastMonth": null,
+   "rating": 5.0,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/71tUD6rf2iL._AC_SL1500_.jpg",
+   "max": 43.89,
+   "verdict": "OK: 39.99 is at or under your max 43.89"
+  }
+ ]
+}
