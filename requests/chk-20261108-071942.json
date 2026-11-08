@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261108-071942",
+ "finishedAt": "2026-11-08T07:20:40Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "nanqsarchive-mens-vintage-90s-coogi-style-07dd",
+   "key": "depop:nanqsarchive-mens-vintage-90s-coogi-style-07dd",
+   "url": "https://www.depop.com/products/nanqsarchive-mens-vintage-90s-coogi-style-07dd/",
+   "checkedAt": "2026-11-08T07:20:15Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Men's Vintage 90s Coogi Style 3D Knit Multi Color...",
+   "brand": "COOGI",
+   "price": 13.6,
+   "shipping": 6.0,
+   "shippingKnown": false,
+   "buyerFee": 1.68,
+   "tax": 1.49,
+   "totalCost": 22.77,
+   "size": "S",
+   "condition": "Used",
+   "seller": "nanosarchive",
+   "photo": "https://media-photos.depop.com/b1/25249779/5133556020_be8356bd3bf64dc38476f0b64317583f/P0.jpg",
+   "max": 26.08,
+   "verdict": "OK: 22.77 total is at or under your max 26.08"
+  }
+ ]
+}
