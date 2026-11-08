@@ -3,7 +3,7 @@
   "asin": "B001GAOTUK",
   "boughtPastMonth": 900,
   "brand": "PILOT",
-  "checkedAt": "2026-11-08T01:32:41Z",
+  "checkedAt": "2026-11-08T06:15:07Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -13,10 +13,10 @@
   "lowestIn30Days": false,
   "max": 20.73,
   "ok": true,
-  "pctOff": 51.4,
+  "pctOff": 52.0,
   "photo": "https://m.media-amazon.com/images/I/71K7bQyaDJL._AC_SL1500_.jpg",
   "platform": "amazon",
-  "price": 13.35,
+  "price": 13.2,
   "priceAfterCoupon": null,
   "rating": 4.8,
   "reviews": null,
@@ -25,7 +25,7 @@
   "status": "ok",
   "title": "PILOT Precise V5 Stick Pens, Extra Fine Point 0.5mm, Red, 12-Pack",
   "url": "https://www.amazon.com/dp/B001GAOTUK",
-  "verdict": "OK: 13.35 is at or under your max 20.73"
+  "verdict": "OK: 13.20 is at or under your max 20.73"
  },
  "B00T0C9XRK": {
   "asin": "B00T0C9XRK",
