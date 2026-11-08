@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261108-201247",
+ "finishedAt": "2026-11-08T20:13:38Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "rocktiv77-walls-youth-camo-coveralls-size-586c",
+   "key": "depop:rocktiv77-walls-youth-camo-coveralls-size-586c",
+   "url": "https://www.depop.com/products/rocktiv77-walls-youth-camo-coveralls-size-586c/",
+   "checkedAt": "2026-11-08T20:13:13Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Walls Youth Camo Coveralls\nSize 16\nCotton, polyester...",
+   "brand": "Walls",
+   "price": 9.0,
+   "shipping": 6.0,
+   "shippingKnown": false,
+   "buyerFee": 1.45,
+   "tax": 1.02,
+   "totalCost": 17.47,
+   "size": "L",
+   "condition": "Used",
+   "seller": "rockriv77",
+   "photo": "https://media-photos.depop.com/r1/322354651/5145001217_133c455f067c4bb4afb2d22a119b58b7/P0.jpg",
+   "max": 26.05,
+   "verdict": "OK: 17.47 total is at or under your max 26.05"
+  }
+ ]
+}
