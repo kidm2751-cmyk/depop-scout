@@ -544,8 +544,8 @@
  },
  "depop:dripcheccthestore-nike-x-nocta-black-7676": {
   "brand": "NOCTA",
-  "buyerFee": 1.45,
-  "checkedAt": "2026-11-08T01:34:21Z",
+  "buyerFee": 1.51,
+  "checkedAt": "2026-11-08T04:16:12Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:dripcheccthestore-nike-x-nocta-black-7676",
@@ -553,7 +553,7 @@
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/308221789/5115453618_8c2dcc84d8574c00940742e02a3a3f74/P0.jpg",
   "platform": "depop",
-  "price": 9.0,
+  "price": 10.15,
   "seller": "dripcheckthestore",
   "shipping": 6.0,
   "shippingKnown": false,
@@ -561,11 +561,11 @@
   "slug": "dripcheccthestore-nike-x-nocta-black-7676",
   "sold": false,
   "status": "ok",
-  "tax": 1.02,
+  "tax": 1.14,
   "title": "\ud83d\udd25 Nike x NOCTA Black Balaclava \ud83d\udd25\n\nClean black design...",
-  "totalCost": 17.47,
+  "totalCost": 18.79,
   "url": "https://www.depop.com/products/dripcheccthestore-nike-x-nocta-black-7676/",
-  "verdict": "OK: 17.47 total is at or under your max 23.21"
+  "verdict": "OK: 18.79 total is at or under your max 23.21"
  },
  "depop:fem7elling-vintage-y2k-bench-barbour-style-2e16": {
   "brand": "Bench",
