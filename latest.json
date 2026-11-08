@@ -645,7 +645,7 @@
   "asin": "B0CTWHSSM8",
   "boughtPastMonth": 10000,
   "brand": "QUNREDA",
-  "checkedAt": "2026-11-08T08:20:27Z",
+  "checkedAt": "2026-11-08T12:34:09Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -653,7 +653,7 @@
   "listPrice": 39.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 25.49,
   "ok": true,
   "pctOff": 36.3,
   "photo": "https://m.media-amazon.com/images/I/81pa-dG26dL._AC_SL1500_.jpg",
@@ -667,7 +667,7 @@
   "status": "ok",
   "title": "QUNREDA Remote Control Car, RC Cars Toys for Kids Ages 6-12, 4WD Stunt Car with LED Lights & 360\u00b0 Flips, 2.4GHz, Upgraded USB-C Modular Batteries, 8-10 Year Old",
   "url": "https://www.amazon.com/dp/B0CTWHSSM8",
-  "verdict": "OK: 25.48 is at or under your max 45.00"
+  "verdict": "OK: 25.48 is at or under your max 25.49"
  },
  "B0CWZXTKQB": {
   "asin": "B0CWZXTKQB",
