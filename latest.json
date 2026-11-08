@@ -813,7 +813,7 @@
   "asin": "B0DR3ZFQC6",
   "boughtPastMonth": 2000,
   "brand": "Hot Wheels",
-  "checkedAt": "2026-11-08T08:21:13Z",
+  "checkedAt": "2026-11-08T12:51:48Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -821,7 +821,7 @@
   "listPrice": 54.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 34.99,
   "ok": true,
   "pctOff": 36.4,
   "photo": "https://m.media-amazon.com/images/I/81TTmTdIa2L._AC_SL1500_.jpg",
@@ -835,7 +835,7 @@
   "status": "ok",
   "title": "Hot Wheels Mega Loop Garage Track Set with Toy Car and Helicopter",
   "url": "https://www.amazon.com/dp/B0DR3ZFQC6",
-  "verdict": "OK: 34.99 is at or under your max 45.00"
+  "verdict": "OK: 34.99 is at or under your max 34.99"
  },
  "B0DRW7P7DS": {
   "asin": "B0DRW7P7DS",
