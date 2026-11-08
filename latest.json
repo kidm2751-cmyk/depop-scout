@@ -1762,8 +1762,8 @@
  },
  "depop:nanqsarchive-mens-vintage-90s-coogi-style-07dd": {
   "brand": "COOGI",
-  "buyerFee": 1.75,
-  "checkedAt": "2026-11-08T12:23:02Z",
+  "buyerFee": 1.68,
+  "checkedAt": "2026-11-08T15:22:20Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:nanqsarchive-mens-vintage-90s-coogi-style-07dd",
@@ -1771,7 +1771,7 @@
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/25249779/5133556020_be8356bd3bf64dc38476f0b64317583f/P0.jpg",
   "platform": "depop",
-  "price": 14.98,
+  "price": 13.6,
   "seller": "nanosarchive",
   "shipping": 6.0,
   "shippingKnown": false,
@@ -1779,11 +1779,11 @@
   "slug": "nanqsarchive-mens-vintage-90s-coogi-style-07dd",
   "sold": false,
   "status": "ok",
-  "tax": 1.63,
+  "tax": 1.49,
   "title": "Men's Vintage 90s Coogi Style 3D Knit Multi Color...",
-  "totalCost": 24.36,
+  "totalCost": 22.77,
   "url": "https://www.depop.com/products/nanqsarchive-mens-vintage-90s-coogi-style-07dd/",
-  "verdict": "OK: 24.36 total is at or under your max 26.08"
+  "verdict": "OK: 22.77 total is at or under your max 26.08"
  },
  "depop:seb_sellif-white-real-madrid-jersey-with-c949": {
   "brand": "Real Madrid",
