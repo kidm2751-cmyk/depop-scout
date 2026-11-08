@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261108-011957",
+ "finishedAt": "2026-11-08T01:20:51Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "berweara-nudie-jeans-straight-leg-gray-952e",
+   "key": "depop:berweara-nudie-jeans-straight-leg-gray-952e",
+   "url": "https://www.depop.com/products/berweara-nudie-jeans-straight-leg-gray-952e/",
+   "checkedAt": "2026-11-08T01:20:27Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Nudie Jeans straight leg gray denim jeans #nudie...",
+   "brand": "Nudie Jeans",
+   "price": 8.0,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 1.4,
+   "tax": 0.92,
+   "totalCost": 18.32,
+   "size": "S",
+   "condition": "Used",
+   "seller": "berwears",
+   "photo": "https://media-photos.depop.com/r1/352080002/5153274045_4089bb6a7a04418182c15ff78167a789/P0.jpg",
+   "max": 15.09,
+   "verdict": "TOO HIGH: 18.32 total is over your max 15.09"
+  }
+ ]
+}
