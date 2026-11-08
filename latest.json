@@ -1787,8 +1787,8 @@
  },
  "depop:seb_sellif-white-real-madrid-jersey-with-c949": {
   "brand": "Real Madrid",
-  "buyerFee": 1.56,
-  "checkedAt": "2026-11-08T09:19:47Z",
+  "buyerFee": 1.5,
+  "checkedAt": "2026-11-08T12:36:21Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:seb_sellif-white-real-madrid-jersey-with-c949",
@@ -1796,7 +1796,7 @@
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/441511115/4755223257_8cce36e0ccb547ea944e0399e756bb8e/P0.jpg",
   "platform": "depop",
-  "price": 11.2,
+  "price": 10.0,
   "seller": "seb_sellin",
   "shipping": 6.0,
   "shippingKnown": false,
@@ -1804,11 +1804,11 @@
   "slug": "seb_sellif-white-real-madrid-jersey-with-c949",
   "sold": false,
   "status": "ok",
-  "tax": 1.24,
+  "tax": 1.12,
   "title": "White Real Madrid jersey with gold stripes on...",
-  "totalCost": 20.0,
+  "totalCost": 18.62,
   "url": "https://www.depop.com/products/seb_sellif-white-real-madrid-jersey-with-c949/",
-  "verdict": "OK: 20.00 total is at or under your max 26.84"
+  "verdict": "OK: 18.62 total is at or under your max 26.84"
  },
  "depop:tjp1i_433-green-fruit-of-the-loom-de2e": {
   "brand": "Fruit of the Loom",
