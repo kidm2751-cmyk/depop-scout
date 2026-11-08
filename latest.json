@@ -309,7 +309,7 @@
   "asin": "B07VS46CXT",
   "boughtPastMonth": 500,
   "brand": "Play-Doh",
-  "checkedAt": "2026-11-08T08:20:13Z",
+  "checkedAt": "2026-11-08T12:25:51Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -317,7 +317,7 @@
   "listPrice": 21.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 9.99,
   "ok": true,
   "pctOff": 54.6,
   "photo": "https://m.media-amazon.com/images/I/716fEUJOIfL._AC_SL1500_.jpg",
@@ -331,7 +331,7 @@
   "status": "ok",
   "title": "Play-Doh Eggs 24-Pack, Dinosaur & Dragon Egg Hunt Toys, Modeling Compound for Birthday Gifts & Party Favors, Easter Basket Stuffers, Kids Ages 2 and Up (Amazon ",
   "url": "https://www.amazon.com/dp/B07VS46CXT",
-  "verdict": "OK: 9.99 is at or under your max 45.00"
+  "verdict": "OK: 9.99 is at or under your max 9.99"
  },
  "B07YSXX7SB": {
   "asin": "B07YSXX7SB",
