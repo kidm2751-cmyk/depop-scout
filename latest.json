@@ -365,7 +365,7 @@
   "asin": "B086H4FKD9",
   "boughtPastMonth": 7000,
   "brand": "Chuckit!",
-  "checkedAt": "2026-11-08T08:20:08Z",
+  "checkedAt": "2026-11-08T12:22:24Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -373,7 +373,7 @@
   "listPrice": 21.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 10.79,
   "ok": true,
   "pctOff": 50.9,
   "photo": "https://m.media-amazon.com/images/I/81hwG8pXWsL._AC_SL1500_.jpg",
@@ -387,7 +387,7 @@
   "status": "ok",
   "title": "Chuckit! Ultra and Rugged Dog Balls, High-Bounce Fetch, Medium, Set of 3",
   "url": "https://www.amazon.com/dp/B086H4FKD9",
-  "verdict": "OK: 10.79 is at or under your max 45.00"
+  "verdict": "OK: 10.79 is at or under your max 10.79"
  },
  "B08817H6HS": {
   "asin": "B08817H6HS",
