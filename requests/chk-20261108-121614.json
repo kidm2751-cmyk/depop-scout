@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261108-121614",
+ "finishedAt": "2026-11-08T12:18:03Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "tjp1i_433-green-fruit-of-the-loom-de2e",
+   "key": "depop:tjp1i_433-green-fruit-of-the-loom-de2e",
+   "url": "https://www.depop.com/products/tjp1i_433-green-fruit-of-the-loom-de2e/",
+   "checkedAt": "2026-11-08T12:17:39Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Green Fruit of the Loom men\u2019s XL t-shirt with yellow...",
+   "brand": "Fruit of the Loom",
+   "price": 9.0,
+   "shipping": 6.0,
+   "shippingKnown": false,
+   "buyerFee": 1.45,
+   "tax": 1.02,
+   "totalCost": 17.47,
+   "size": "XL",
+   "condition": "Used",
+   "seller": "tjp13_433",
+   "photo": "https://media-photos.depop.com/r1/256227176/5140443576_3d34cfd5cd224caba423449ca32568d5/P0.jpg",
+   "max": 12.14,
+   "verdict": "TOO HIGH: 17.47 total is over your max 12.14"
+  }
+ ]
+}
