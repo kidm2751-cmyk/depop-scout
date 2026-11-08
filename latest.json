@@ -1909,5 +1909,30 @@
   "totalCost": 16.32,
   "url": "https://www.depop.com/products/v_rguyen23-pleasures-black-t-shirt-new-without-05ec/",
   "verdict": "TOO HIGH: 16.32 total is over your max 11.09"
+ },
+ "depop:youdiversal-nike-jacket-navy-size-medium-7a0f": {
+  "brand": "Nike",
+  "buyerFee": 1.75,
+  "checkedAt": "2026-11-08T20:10:57Z",
+  "condition": "Used",
+  "inStock": true,
+  "key": "depop:youdiversal-nike-jacket-navy-size-medium-7a0f",
+  "max": 53.42,
+  "ok": true,
+  "photo": "https://media-photos.depop.com/r1/332114491/4658500559_3149d30ca9424afa9c83e8e1db4aeb09/P0.jpg",
+  "platform": "depop",
+  "price": 15.0,
+  "seller": "youniversal",
+  "shipping": 8.0,
+  "shippingKnown": false,
+  "size": "L",
+  "slug": "youdiversal-nike-jacket-navy-size-medium-7a0f",
+  "sold": false,
+  "status": "ok",
+  "tax": 1.63,
+  "title": "Nike Zip Up Jacket\nNavy &amp; black\nSize Medium\nSend...",
+  "totalCost": 26.38,
+  "url": "https://www.depop.com/products/youdiversal-nike-jacket-navy-size-medium-7a0f/",
+  "verdict": "OK: 26.38 total is at or under your max 53.42"
  }
 }
