@@ -3,7 +3,7 @@
   "asin": "B000ND5EVY",
   "boughtPastMonth": 1000,
   "brand": "Hunters Specialties",
-  "checkedAt": "2026-11-08T08:20:51Z",
+  "checkedAt": "2026-11-08T12:45:54Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -11,7 +11,7 @@
   "listPrice": 14.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 8.46,
   "ok": true,
   "pctOff": 43.6,
   "photo": "https://m.media-amazon.com/images/I/71IUmiP11kL._AC_SL1500_.jpg",
@@ -25,7 +25,7 @@
   "status": "ok",
   "title": "Hunters Specialties Long Lasting Cover Scent Wafers for Hunting - 3 Wafers Per Pack, 3 Safety Pins Included",
   "url": "https://www.amazon.com/dp/B000ND5EVY",
-  "verdict": "OK: 8.46 is at or under your max 45.00"
+  "verdict": "OK: 8.46 is at or under your max 8.46"
  },
  "B00112DTRC": {
   "asin": "B00112DTRC",
