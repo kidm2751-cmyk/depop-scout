@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261108-122345",
+ "finishedAt": "2026-11-08T12:25:08Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "cracks_collec8ion-duluth-trading-co-flex-firehose-a920",
+   "key": "depop:cracks_collec8ion-duluth-trading-co-flex-firehose-a920",
+   "url": "https://www.depop.com/products/cracks_collec8ion-duluth-trading-co-flex-firehose-a920/",
+   "checkedAt": "2026-11-08T12:24:44Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Duluth Trading Co. Flex Firehose brown cargo pants...",
+   "brand": "Duluth Trading Company",
+   "price": 14.09,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 1.7,
+   "tax": 1.54,
+   "totalCost": 25.33,
+   "size": "38\\",
+   "condition": "Used",
+   "seller": "cracks_collection",
+   "photo": "https://media-photos.depop.com/r1/447801350/5072495806_4bef3777c62841dbbcdcd3c63ae82354/P0.jpg",
+   "max": 32.42,
+   "verdict": "OK: 25.33 total is at or under your max 32.42"
+  }
+ ]
+}
