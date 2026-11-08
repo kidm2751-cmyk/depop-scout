@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261108-042701",
+ "finishedAt": "2026-11-08T04:27:55Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "adna-rei-co-op-650-down-vest-4ac1",
+   "key": "depop:adna-rei-co-op-650-down-vest-4ac1",
+   "url": "https://www.depop.com/products/adna-rei-co-op-650-down-vest-4ac1/",
+   "checkedAt": "2026-11-08T04:27:32Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "REI Co-op 650 Down Vest - women\u2019s puffer vest\nColor...",
+   "brand": "REI Co-op",
+   "price": 11.2,
+   "shipping": 12.0,
+   "shippingKnown": false,
+   "buyerFee": 1.56,
+   "tax": 1.24,
+   "totalCost": 26.0,
+   "size": "M",
+   "condition": "Used",
+   "seller": "adca",
+   "photo": "https://media-photos.depop.com/r1/453596105/5139832189_b94aaf39aad948198008497838b6a640/P0.jpg",
+   "max": 13.19,
+   "verdict": "TOO HIGH: 26.00 total is over your max 13.19"
+  }
+ ]
+}
