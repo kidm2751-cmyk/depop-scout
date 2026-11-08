@@ -1462,8 +1462,8 @@
  },
  "depop:deadheadthrifto-brown-leather-vintage-90s-taras-ab38": {
   "brand": "Danner",
-  "buyerFee": 2.1,
-  "checkedAt": "2026-11-08T12:09:53Z",
+  "buyerFee": 2.01,
+  "checkedAt": "2026-11-08T15:10:36Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:deadheadthrifto-brown-leather-vintage-90s-taras-ab38",
@@ -1471,7 +1471,7 @@
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/31694584/4991830035_cac3cdac0881461682afb907b6f97ba3/P0.jpg",
   "platform": "depop",
-  "price": 22.0,
+  "price": 20.29,
   "seller": "deadheadthrifts",
   "shipping": 6.0,
   "shippingKnown": false,
@@ -1479,11 +1479,11 @@
   "slug": "deadheadthrifto-brown-leather-vintage-90s-taras-ab38",
   "sold": false,
   "status": "ok",
-  "tax": 2.35,
+  "tax": 2.17,
   "title": "Brown leather Vintage 90s Taras Bulbas Mephisto...",
-  "totalCost": 32.45,
+  "totalCost": 30.48,
   "url": "https://www.depop.com/products/deadheadthrifto-brown-leather-vintage-90s-taras-ab38/",
-  "verdict": "OK: 32.45 total is at or under your max 41.19"
+  "verdict": "OK: 30.48 total is at or under your max 41.19"
  },
  "depop:dripcheccthestore-nike-x-nocta-black-7676": {
   "brand": "NOCTA",
