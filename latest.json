@@ -1312,8 +1312,8 @@
  },
  "depop:bb9jo_z0-ksubi-blue-denim-jacket-with-62f8": {
   "brand": "Ksubi",
-  "buyerFee": 1.67,
-  "checkedAt": "2026-11-08T12:43:15Z",
+  "buyerFee": 1.6,
+  "checkedAt": "2026-11-08T15:40:00Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:bb9jo_z0-ksubi-blue-denim-jacket-with-62f8",
@@ -1321,7 +1321,7 @@
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/274720915/5129825465_94e5179fdf5a476f9806c967e34a556a/P0.jpg",
   "platform": "depop",
-  "price": 13.3,
+  "price": 12.0,
   "seller": "bbgjo_z0",
   "shipping": 8.0,
   "shippingKnown": false,
@@ -1329,11 +1329,11 @@
   "slug": "bb9jo_z0-ksubi-blue-denim-jacket-with-62f8",
   "sold": false,
   "status": "ok",
-  "tax": 1.46,
+  "tax": 1.33,
   "title": "Ksubi blue denim jacket with faded patches, size XL...",
-  "totalCost": 24.42,
+  "totalCost": 22.93,
   "url": "https://www.depop.com/products/bb9jo_z0-ksubi-blue-denim-jacket-with-62f8/",
-  "verdict": "OK: 24.42 total is at or under your max 24.65"
+  "verdict": "OK: 22.93 total is at or under your max 24.65"
  },
  "depop:berweara-nudie-jeans-straight-leg-gray-952e": {
   "brand": "Nudie Jeans",
