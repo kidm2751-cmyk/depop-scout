@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-20261108-152058",
+ "finishedAt": "2026-11-08T15:21:55Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B09RZSQ34K",
+   "key": "B09RZSQ34K",
+   "url": "https://www.amazon.com/dp/B09RZSQ34K",
+   "checkedAt": "2026-11-08T15:21:54Z",
+   "ok": true,
+   "status": "ok",
+   "title": "STANLEY Screwdriver Set, 10 Piece, Cross-Tip & Slotted (STHT60799)",
+   "brand": "STANLEY",
+   "price": 17.6,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 27.5,
+   "listPriceKind": "typical",
+   "pctOff": 36.0,
+   "lowestIn30Days": true,
+   "deal": null,
+   "inStock": true,
+   "seller": "BEAUTYSENSE",
+   "soldByAmazon": false,
+   "boughtPastMonth": 50,
+   "rating": 4.4,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/61g9BskxADL._AC_SL1500_.jpg",
+   "max": 27.68,
+   "verdict": "OK: 17.60 is at or under your max 27.68"
+  }
+ ]
+}
