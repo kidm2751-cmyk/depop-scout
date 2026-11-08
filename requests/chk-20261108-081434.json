@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261108-081434",
+ "finishedAt": "2026-11-08T08:15:28Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "bb9jo_z0-ksubi-blue-denim-jacket-with-62f8",
+   "key": "depop:bb9jo_z0-ksubi-blue-denim-jacket-with-62f8",
+   "url": "https://www.depop.com/products/bb9jo_z0-ksubi-blue-denim-jacket-with-62f8/",
+   "checkedAt": "2026-11-08T08:15:03Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Ksubi blue denim jacket with faded patches, size XL...",
+   "brand": "Ksubi",
+   "price": 12.0,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 1.6,
+   "tax": 1.33,
+   "totalCost": 22.93,
+   "size": "XL",
+   "condition": "Used",
+   "seller": "bbgjo_z0",
+   "photo": "https://media-photos.depop.com/r1/274720915/5129825465_94e5179fdf5a476f9806c967e34a556a/P0.jpg",
+   "max": 24.65,
+   "verdict": "OK: 22.93 total is at or under your max 24.65"
+  }
+ ]
+}
