@@ -1009,7 +1009,7 @@
   "asin": "B0FMS7CRHX",
   "boughtPastMonth": 10000,
   "brand": "",
-  "checkedAt": "2026-11-08T08:21:10Z",
+  "checkedAt": "2026-11-08T12:53:56Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1017,7 +1017,7 @@
   "listPrice": 14.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 9.89,
   "ok": true,
   "pctOff": 34.0,
   "photo": "https://m.media-amazon.com/images/I/81lNVhQTwNL._AC_SL1500_.jpg",
@@ -1031,7 +1031,7 @@
   "status": "ok",
   "title": "LEGO Botanicals Daisies 11508",
   "url": "https://www.amazon.com/dp/B0FMS7CRHX",
-  "verdict": "OK: 9.89 is at or under your max 45.00"
+  "verdict": "OK: 9.89 is at or under your max 9.89"
  },
  "B0FMS9ST4S": {
   "asin": "B0FMS9ST4S",
