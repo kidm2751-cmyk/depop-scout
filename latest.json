@@ -1537,8 +1537,8 @@
  },
  "depop:florp19k1-nike-lebron-james-purple-2d0b": {
   "brand": "Nike",
-  "buyerFee": 1.46,
-  "checkedAt": "2026-11-08T09:16:00Z",
+  "buyerFee": 1.4,
+  "checkedAt": "2026-11-08T12:19:37Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:florp19k1-nike-lebron-james-purple-2d0b",
@@ -1546,7 +1546,7 @@
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/470123138/5141036392_ee7a910522d446e2b03a2dcbf017b723/P0.jpg",
   "platform": "depop",
-  "price": 9.1,
+  "price": 8.0,
   "seller": "florp1971",
   "shipping": 8.0,
   "shippingKnown": false,
@@ -1554,11 +1554,11 @@
   "slug": "florp19k1-nike-lebron-james-purple-2d0b",
   "sold": false,
   "status": "ok",
-  "tax": 1.03,
+  "tax": 0.92,
   "title": "Nike LeBron James purple &amp; burgundy hoodie with gold...",
-  "totalCost": 19.58,
+  "totalCost": 18.32,
   "url": "https://www.depop.com/products/florp19k1-nike-lebron-james-purple-2d0b/",
-  "verdict": "TOO HIGH: 19.58 total is over your max 15.09"
+  "verdict": "TOO HIGH: 18.32 total is over your max 15.09"
  },
  "depop:icfuldbemid-nike-reversible-new-york-jets-b93a": {
   "brand": "Nike",
