@@ -197,7 +197,7 @@
   "asin": "B00Y8MP5VA",
   "boughtPastMonth": 10000,
   "brand": "Garden of Life",
-  "checkedAt": "2026-11-08T08:20:30Z",
+  "checkedAt": "2026-11-08T12:35:50Z",
   "coupon": "10% off coupon",
   "deal": null,
   "inStock": true,
@@ -205,7 +205,7 @@
   "listPrice": 45.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 26.0,
   "ok": true,
   "pctOff": 37.2,
   "photo": "https://m.media-amazon.com/images/I/81CBZarl3xL._AC_SL1500_.jpg",
@@ -219,7 +219,7 @@
   "status": "ok",
   "title": "Garden of Life Dr Formulated Probiotics for Men, 50 Billion CFU, 30 Ct",
   "url": "https://www.amazon.com/dp/B00Y8MP5VA",
-  "verdict": "OK: 26.00 is at or under your max 45.00"
+  "verdict": "OK: 26.00 is at or under your max 26.00"
  },
  "B072QH418H": {
   "asin": "B072QH418H",
