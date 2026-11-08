@@ -1412,8 +1412,8 @@
  },
  "depop:cracks_collec8ion-duluth-trading-co-flex-firehose-a920": {
   "brand": "Duluth Trading Company",
-  "buyerFee": 1.7,
-  "checkedAt": "2026-11-08T12:24:44Z",
+  "buyerFee": 1.64,
+  "checkedAt": "2026-11-08T15:23:46Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:cracks_collec8ion-duluth-trading-co-flex-firehose-a920",
@@ -1421,7 +1421,7 @@
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/447801350/5072495806_4bef3777c62841dbbcdcd3c63ae82354/P0.jpg",
   "platform": "depop",
-  "price": 14.09,
+  "price": 12.75,
   "seller": "cracks_collection",
   "shipping": 8.0,
   "shippingKnown": false,
@@ -1429,11 +1429,11 @@
   "slug": "cracks_collec8ion-duluth-trading-co-flex-firehose-a920",
   "sold": false,
   "status": "ok",
-  "tax": 1.54,
+  "tax": 1.4,
   "title": "Duluth Trading Co. Flex Firehose brown cargo pants...",
-  "totalCost": 25.33,
+  "totalCost": 23.79,
   "url": "https://www.depop.com/products/cracks_collec8ion-duluth-trading-co-flex-firehose-a920/",
-  "verdict": "OK: 25.33 total is at or under your max 32.42"
+  "verdict": "OK: 23.79 total is at or under your max 32.42"
  },
  "depop:daenaclo2et-house-of-cb-blue-sequin-5193": {
   "brand": "House of CB",
