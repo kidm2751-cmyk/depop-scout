@@ -1862,8 +1862,8 @@
  },
  "depop:v_rguyen23-pleasures-black-t-shirt-new-without-05ec": {
   "brand": "Pleasures Now",
-  "buyerFee": 1.4,
-  "checkedAt": "2026-11-08T12:15:41Z",
+  "buyerFee": 1.46,
+  "checkedAt": "2026-11-08T15:16:31Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:v_rguyen23-pleasures-black-t-shirt-new-without-05ec",
@@ -1871,7 +1871,7 @@
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/345072715/4865193460_054c140be11c49078eeb88fe13042d0b/P0.jpg",
   "platform": "depop",
-  "price": 8.0,
+  "price": 9.1,
   "seller": "v_nguyen23",
   "shipping": 6.0,
   "shippingKnown": false,
@@ -1879,10 +1879,10 @@
   "slug": "v_rguyen23-pleasures-black-t-shirt-new-without-05ec",
   "sold": false,
   "status": "ok",
-  "tax": 0.92,
+  "tax": 1.03,
   "title": "Pleasures black t-shirt, new without tags, size L...",
-  "totalCost": 16.32,
+  "totalCost": 17.58,
   "url": "https://www.depop.com/products/v_rguyen23-pleasures-black-t-shirt-new-without-05ec/",
-  "verdict": "TOO HIGH: 16.32 total is over your max 11.09"
+  "verdict": "TOO HIGH: 17.58 total is over your max 11.09"
  }
 }
