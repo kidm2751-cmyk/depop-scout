@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-2208-B0FXRX6N7Y",
+ "finishedAt": "2026-11-08T06:18:02Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0FXRX6N7Y",
+   "key": "B0FXRX6N7Y",
+   "url": "https://www.amazon.com/dp/B0FXRX6N7Y",
+   "checkedAt": "2026-11-08T06:18:02Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Fire Pit Cover 32 x 32 x 24 Inch, Waterproof Windproof Black",
+   "brand": "TENTVIA",
+   "price": 10.49,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 20.99,
+   "listPriceKind": "list",
+   "pctOff": 50.0,
+   "lowestIn30Days": false,
+   "deal": "Limited time deal",
+   "inStock": true,
+   "seller": "TENTVIA TENTVIA Sold by TENTVIA",
+   "soldByAmazon": false,
+   "boughtPastMonth": 50,
+   "rating": 4.4,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/811tglkgO7L._AC_SL1500_.jpg",
+   "max": 10.49,
+   "verdict": "OK: 10.49 is at or under your max 10.49"
+  }
+ ]
+}
