@@ -1362,8 +1362,8 @@
  },
  "depop:canpbd137-ag-adriano-goldschmied-navy-denim-1f06": {
   "brand": "AG Jeans",
-  "buyerFee": 1.46,
-  "checkedAt": "2026-11-08T12:44:40Z",
+  "buyerFee": 1.4,
+  "checkedAt": "2026-11-08T15:41:23Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:canpbd137-ag-adriano-goldschmied-navy-denim-1f06",
@@ -1371,7 +1371,7 @@
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/486147400/5110200061_32c0a5ec03b042958a07e13b2368a382/P0.jpg",
   "platform": "depop",
-  "price": 9.1,
+  "price": 8.0,
   "seller": "canpb_137",
   "shipping": 8.0,
   "shippingKnown": false,
@@ -1379,11 +1379,11 @@
   "slug": "canpbd137-ag-adriano-goldschmied-navy-denim-1f06",
   "sold": false,
   "status": "ok",
-  "tax": 1.03,
+  "tax": 0.92,
   "title": "AG Adriano Goldschmied navy denim jacket #denim...",
-  "totalCost": 19.58,
+  "totalCost": 18.32,
   "url": "https://www.depop.com/products/canpbd137-ag-adriano-goldschmied-navy-denim-1f06/",
-  "verdict": "TOO HIGH: 19.58 total is over your max 16.10"
+  "verdict": "TOO HIGH: 18.32 total is over your max 16.10"
  },
  "depop:cocomnaps-apple-bottom-jeans-size-56-6a8e": {
   "brand": "Apple Bottoms",
