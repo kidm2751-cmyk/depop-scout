@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261108-042809",
+ "finishedAt": "2026-11-08T04:28:58Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "jorvangoods23-house-of-cb-clip-on-earrings-0e17",
+   "key": "depop:jorvangoods23-house-of-cb-clip-on-earrings-0e17",
+   "url": "https://www.depop.com/products/jorvangoods23-house-of-cb-clip-on-earrings-0e17/",
+   "checkedAt": "2026-11-08T04:28:33Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "House of CB clip-on earrings and bracelet set...",
+   "brand": "Other",
+   "price": 10.0,
+   "shipping": 6.0,
+   "shippingKnown": false,
+   "buyerFee": 1.5,
+   "tax": 1.12,
+   "totalCost": 18.62,
+   "size": "US 8",
+   "condition": "Used",
+   "seller": "jordangoods23",
+   "photo": "https://media-photos.depop.com/b1/227555339/5049256713_4157ea5fefcd45a594fe826c0280e9ee/P0.jpg",
+   "max": 13.99,
+   "verdict": "TOO HIGH: 18.62 total is over your max 13.99"
+  }
+ ]
+}
