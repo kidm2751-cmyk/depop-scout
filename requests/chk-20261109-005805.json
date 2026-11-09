@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-20261109-005805",
+ "finishedAt": "2026-11-09T00:58:38Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0CWZXTKQB",
+   "key": "B0CWZXTKQB",
+   "url": "https://www.amazon.com/dp/B0CWZXTKQB",
+   "checkedAt": "2026-11-09T00:58:38Z",
+   "ok": true,
+   "status": "out_of_stock",
+   "title": "Moko Case for 7\"/6.8\" Kindle Paperwhite 2026/2024/2021 & Kindle Colorsoft",
+   "brand": "MoKo",
+   "price": null,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": null,
+   "listPriceKind": null,
+   "pctOff": 0,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": false,
+   "seller": "not shown",
+   "soldByAmazon": null,
+   "boughtPastMonth": null,
+   "rating": 4.6,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/71K5SnZ1nUL._AC_SL1500_.jpg",
+   "max": 9.99,
+   "verdict": "OUT OF STOCK"
+  }
+ ]
+}
