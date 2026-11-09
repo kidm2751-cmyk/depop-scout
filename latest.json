@@ -2077,8 +2077,8 @@
  },
  "depop:seb_sellif-white-real-madrid-jersey-with-c949": {
   "brand": "Real Madrid",
-  "buyerFee": 1.5,
-  "checkedAt": "2026-11-09T01:10:00Z",
+  "buyerFee": 1.56,
+  "checkedAt": "2026-11-09T01:39:18Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:seb_sellif-white-real-madrid-jersey-with-c949",
@@ -2086,7 +2086,7 @@
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/441511115/4755223257_8cce36e0ccb547ea944e0399e756bb8e/P0.jpg",
   "platform": "depop",
-  "price": 10.0,
+  "price": 11.2,
   "seller": "seb_sellin",
   "shipping": 6.0,
   "shippingKnown": false,
@@ -2094,11 +2094,11 @@
   "slug": "seb_sellif-white-real-madrid-jersey-with-c949",
   "sold": false,
   "status": "ok",
-  "tax": 1.12,
+  "tax": 1.24,
   "title": "White Real Madrid jersey with gold stripes on...",
-  "totalCost": 18.62,
+  "totalCost": 20.0,
   "url": "https://www.depop.com/products/seb_sellif-white-real-madrid-jersey-with-c949/",
-  "verdict": "OK: 18.62 total is at or under your max 26.84"
+  "verdict": "OK: 20.00 total is at or under your max 26.84"
  },
  "depop:svwvn_242-rab-purple-blue-windbreaker-efc3": {
   "brand": "Rab",
