@@ -421,7 +421,7 @@
   "asin": "B08HB8JF5G",
   "boughtPastMonth": 1000,
   "brand": "JOYIN",
-  "checkedAt": "2026-11-09T01:03:22Z",
+  "checkedAt": "2026-11-09T06:35:10Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -431,10 +431,10 @@
   "lowestIn30Days": false,
   "max": 15.99,
   "ok": true,
-  "pctOff": 55.6,
+  "pctOff": 52.8,
   "photo": "https://m.media-amazon.com/images/I/91ndvz-t7oL._AC_SL1500_.jpg",
   "platform": "amazon",
-  "price": 15.99,
+  "price": 16.99,
   "priceAfterCoupon": null,
   "rating": 4.3,
   "reviews": null,
@@ -443,7 +443,7 @@
   "status": "ok",
   "title": "JOYIN Christmas 24 Days Countdown Advent Calendar with a Tabletop Wooden Christmas Tree and 28 Ornaments Snowman Santa Decorations for Boys, Girls and Kids Part",
   "url": "https://www.amazon.com/dp/B08HB8JF5G",
-  "verdict": "OK: 15.99 is at or under your max 15.99"
+  "verdict": "TOO HIGH: 16.99 is over your max 15.99"
  },
  "B098TQDLY6": {
   "asin": "B098TQDLY6",
