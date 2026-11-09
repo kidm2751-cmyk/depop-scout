@@ -1233,8 +1233,8 @@
   "asin": "B0G2TGZ867",
   "boughtPastMonth": 5000,
   "brand": "",
-  "checkedAt": "2026-11-09T12:43:15Z",
-  "coupon": null,
+  "checkedAt": "2026-11-09T18:36:28Z",
+  "coupon": "$3.45 off coupon",
   "deal": null,
   "inStock": true,
   "key": "B0G2TGZ867",
@@ -1247,7 +1247,7 @@
   "photo": "https://m.media-amazon.com/images/I/7155FCmT8vL._AC_SL1500_.jpg",
   "platform": "amazon",
   "price": 13.79,
-  "priceAfterCoupon": null,
+  "priceAfterCoupon": 10.34,
   "rating": 4.9,
   "reviews": null,
   "seller": "Darionindustries Inc",
@@ -1255,7 +1255,7 @@
   "status": "ok",
   "title": "Nerf Minecraft Diamond Pickaxe Dart Blaster, Pull Back Priming, Foam Head, 8 Nerf Elite Darts, Ages 8+",
   "url": "https://www.amazon.com/dp/B0G2TGZ867",
-  "verdict": "OK: 13.79 is at or under your max 13.79"
+  "verdict": "OK: 10.34 is at or under your max 13.79"
  },
  "B0G43VLL9L": {
   "asin": "B0G43VLL9L",
