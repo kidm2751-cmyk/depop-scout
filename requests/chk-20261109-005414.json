@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-20261109-005414",
+ "finishedAt": "2026-11-09T00:54:51Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0F8QTBGNP",
+   "key": "B0F8QTBGNP",
+   "url": "https://www.amazon.com/dp/B0F8QTBGNP",
+   "checkedAt": "2026-11-09T00:54:51Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Drone with Camera for Adults, 2K HD FPV Drones with Upgrade Altitude Hold, One-Key Take Off/Landing, Speed Adjustment, Headless Mode, 2 Batteries, Toys Gifts fo",
+   "brand": "Loiley",
+   "price": 39.98,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 66.98,
+   "listPriceKind": "list",
+   "pctOff": 40.3,
+   "lowestIn30Days": false,
+   "deal": "Limited time deal",
+   "inStock": true,
+   "seller": "Zhenhe cloud Zhenhe cloud Sold by Zhenhe cloud",
+   "soldByAmazon": false,
+   "boughtPastMonth": 2000,
+   "rating": 4.2,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/81a7QAIa0PL._AC_SL1500_.jpg",
+   "max": 39.99,
+   "verdict": "OK: 39.98 is at or under your max 39.99"
+  }
+ ]
+}
