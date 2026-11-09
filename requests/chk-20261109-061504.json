@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261109-061504",
+ "finishedAt": "2026-11-09T06:15:57Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "jzeoe-x-incubus-8-black-band-8cf4",
+   "key": "depop:jzeoe-x-incubus-8-black-band-8cf4",
+   "url": "https://www.depop.com/products/jzeoe-x-incubus-8-black-band-8cf4/",
+   "checkedAt": "2026-11-09T06:15:33Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "(x) Incubus 8 black band tee with white skulls...",
+   "brand": "Other",
+   "price": 13.3,
+   "shipping": 6.0,
+   "shippingKnown": false,
+   "buyerFee": 1.67,
+   "tax": 1.46,
+   "totalCost": 22.42,
+   "size": "3XL",
+   "condition": "Used",
+   "seller": "boezoeboes_closet",
+   "photo": "https://media-photos.depop.com/b1/400736366/5044135606_a15350e4a8b948d5941a2ded0a03649b/P0.jpg",
+   "max": 15.29,
+   "verdict": "TOO HIGH: 22.42 total is over your max 15.29"
+  }
+ ]
+}
