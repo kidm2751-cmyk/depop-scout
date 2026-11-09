@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-20261109-064648",
+ "finishedAt": "2026-11-09T06:47:27Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0DRW7P7DS",
+   "key": "B0DRW7P7DS",
+   "url": "https://www.amazon.com/dp/B0DRW7P7DS",
+   "checkedAt": "2026-11-09T06:47:27Z",
+   "ok": true,
+   "status": "ok",
+   "title": "LEGO Creator 3 in 1 Retro Telephone Kids Toy - Home Decor for Bedroom or Kids Room - Building Toy and Learning Playset for Girls & Boys, Ages 8+ - Gift Idea for",
+   "brand": "",
+   "price": 16.79,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 29.99,
+   "listPriceKind": "list",
+   "pctOff": 44.0,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "not shown",
+   "soldByAmazon": null,
+   "boughtPastMonth": 5000,
+   "rating": 4.9,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/71zJU8Ojb2L._AC_SL1500_.jpg",
+   "max": 16.79,
+   "verdict": "OK: 16.79 is at or under your max 16.79"
+  }
+ ]
+}
