@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-20261109-064438",
+ "finishedAt": "2026-11-09T06:45:11Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0DJ19Z5KM",
+   "key": "B0DJ19Z5KM",
+   "url": "https://www.amazon.com/dp/B0DJ19Z5KM",
+   "checkedAt": "2026-11-09T06:45:11Z",
+   "ok": true,
+   "status": "ok",
+   "title": "LEGO Classic Creative Food Friends Building Toy Set - Pretend Play Food for Kids, Boys and Girls, Ages 4+ - Learning and Educational Toy for Preschool - Gift Id",
+   "brand": "",
+   "price": 6.29,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 9.99,
+   "listPriceKind": "list",
+   "pctOff": 37.0,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "not shown",
+   "soldByAmazon": null,
+   "boughtPastMonth": 10000,
+   "rating": 4.8,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/81ohtuUw45L._AC_SL1500_.jpg",
+   "max": 6.29,
+   "verdict": "OK: 6.29 is at or under your max 6.29"
+  }
+ ]
+}
