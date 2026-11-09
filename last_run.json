@@ -1,20 +1,20 @@
 {
  "ok": true,
- "requestId": "chk-20261109-003353",
- "finishedAt": "2026-11-09T00:34:38Z",
+ "requestId": "chk-20261109-003500",
+ "finishedAt": "2026-11-09T00:35:44Z",
  "checked": 1,
  "items": [
   {
    "platform": "amazon",
-   "asin": "B001IAG7G2",
-   "key": "B001IAG7G2",
-   "url": "https://www.amazon.com/dp/B001IAG7G2",
-   "checkedAt": "2026-11-09T00:34:38Z",
+   "asin": "B0GVGWNDMX",
+   "key": "B0GVGWNDMX",
+   "url": "https://www.amazon.com/dp/B0GVGWNDMX",
+   "checkedAt": "2026-11-09T00:35:44Z",
    "ok": true,
    "status": "ok",
-   "title": "Aquaphor Advanced Therapy Healing Ointment, Value Pack, 2 X 0.35 OZ",
-   "brand": "Aquaphor",
-   "price": 6.97,
+   "title": "AT-A-GLANCE 2027 Wall Calendar, Monthly, 15.5\" x 22.75\" Planner, Ruled Daily Blocks (PM32827), White",
+   "brand": "AT-A-GLANCE",
+   "price": 20.2,
    "priceAfterCoupon": null,
    "coupon": null,
    "listPrice": null,
@@ -25,12 +25,12 @@
    "inStock": true,
    "seller": "not shown",
    "soldByAmazon": null,
-   "boughtPastMonth": 20000,
+   "boughtPastMonth": 4000,
    "rating": 4.8,
    "reviews": null,
-   "photo": "https://m.media-amazon.com/images/I/71jhBAMw1hL._SL1500_.jpg",
-   "max": 6.97,
-   "verdict": "OK: 6.97 is at or under your max 6.97"
+   "photo": "https://m.media-amazon.com/images/I/81sR9c-PQ3L._AC_SL1500_.jpg",
+   "max": 20.2,
+   "verdict": "OK: 20.20 is at or under your max 20.20"
   }
  ]
 }
