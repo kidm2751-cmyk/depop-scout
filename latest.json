@@ -115,7 +115,7 @@
   "asin": "B00251EHJW",
   "boughtPastMonth": 500,
   "brand": "",
-  "checkedAt": "2026-11-09T01:04:01Z",
+  "checkedAt": "2026-11-09T06:27:30Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -123,7 +123,7 @@
   "listPrice": 36.35,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 19.99,
+  "max": 20.0,
   "ok": true,
   "pctOff": 45.0,
   "photo": "https://m.media-amazon.com/images/I/81VOLU1rIyL._AC_SL1500_.jpg",
@@ -137,7 +137,7 @@
   "status": "ok",
   "title": "Prismacolor Premier Graphite Drawing Set, 18 Count",
   "url": "https://www.amazon.com/dp/B00251EHJW",
-  "verdict": "OK: 19.99 is at or under your max 19.99"
+  "verdict": "OK: 19.99 is at or under your max 20.00"
  },
  "B0060OUV5Y": {
   "asin": "B0060OUV5Y",
