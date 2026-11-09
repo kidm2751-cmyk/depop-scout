@@ -1,0 +1,108 @@
+{
+ "ok": false,
+ "requestId": "chk-20261109-231729",
+ "finishedAt": "2026-11-09T23:18:34Z",
+ "checked": 10,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f",
+   "key": "depop:karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f",
+   "url": "https://www.depop.com/products/karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f/",
+   "checkedAt": "2026-11-09T23:18:06Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "thatboydiesel-chicago-blackhawks-red-bomber-jacket-dc14",
+   "key": "depop:thatboydiesel-chicago-blackhawks-red-bomber-jacket-dc14",
+   "url": "https://www.depop.com/products/thatboydiesel-chicago-blackhawks-red-bomber-jacket-dc14/",
+   "checkedAt": "2026-11-09T23:18:09Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "gc_thrimt-levis-701-high-flare-jeans-407d",
+   "key": "depop:gc_thrimt-levis-701-high-flare-jeans-407d",
+   "url": "https://www.depop.com/products/gc_thrimt-levis-701-high-flare-jeans-407d/",
+   "checkedAt": "2026-11-09T23:18:13Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "heodasshype-anti-social-social-club-x-da28",
+   "key": "depop:heodasshype-anti-social-social-club-x-da28",
+   "url": "https://www.depop.com/products/heodasshype-anti-social-social-club-x-da28/",
+   "checkedAt": "2026-11-09T23:18:17Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "tjp1i_433-green-fruit-of-the-loom-de2e",
+   "key": "depop:tjp1i_433-green-fruit-of-the-loom-de2e",
+   "url": "https://www.depop.com/products/tjp1i_433-green-fruit-of-the-loom-de2e/",
+   "checkedAt": "2026-11-09T23:18:20Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "krs15paige-pearl-jam-2022-tour-tee-6fdb",
+   "key": "depop:krs15paige-pearl-jam-2022-tour-tee-6fdb",
+   "url": "https://www.depop.com/products/krs15paige-pearl-jam-2022-tour-tee-6fdb/",
+   "checkedAt": "2026-11-09T23:18:23Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "berweara-nudie-jeans-straight-leg-gray-952e",
+   "key": "depop:berweara-nudie-jeans-straight-leg-gray-952e",
+   "url": "https://www.depop.com/products/berweara-nudie-jeans-straight-leg-gray-952e/",
+   "checkedAt": "2026-11-09T23:18:25Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "cocomnaps-apple-bottom-jeans-size-56-6a8e",
+   "key": "depop:cocomnaps-apple-bottom-jeans-size-56-6a8e",
+   "url": "https://www.depop.com/products/cocomnaps-apple-bottom-jeans-size-56-6a8e/",
+   "checkedAt": "2026-11-09T23:18:27Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "dylwn_arg-grey-ben-davis-short-sleeve-fbc8",
+   "key": "depop:dylwn_arg-grey-ben-davis-short-sleeve-fbc8",
+   "url": "https://www.depop.com/products/dylwn_arg-grey-ben-davis-short-sleeve-fbc8/",
+   "checkedAt": "2026-11-09T23:18:29Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "dinguo627-kith-classics-gray-workout-hoodie-a162",
+   "key": "depop:dinguo627-kith-classics-gray-workout-hoodie-a162",
+   "url": "https://www.depop.com/products/dinguo627-kith-classics-gray-workout-hoodie-a162/",
+   "checkedAt": "2026-11-09T23:18:32Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  }
+ ]
+}
