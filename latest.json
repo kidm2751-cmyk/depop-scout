@@ -337,7 +337,7 @@
   "asin": "B07YSXX7SB",
   "boughtPastMonth": 6000,
   "brand": "Pro Grade",
-  "checkedAt": "2026-11-09T08:13:57Z",
+  "checkedAt": "2026-11-09T12:47:38Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -345,7 +345,7 @@
   "listPrice": 24.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 16.98,
+  "max": 17.79,
   "ok": true,
   "pctOff": 28.8,
   "photo": "https://m.media-amazon.com/images/I/51KZD1b3+KL._AC_SL1000_.jpg",
@@ -359,7 +359,7 @@
   "status": "ok",
   "title": "Pro Grade Paint Roller Kit, Paint Brushes, 4\" & 9\" Roller Covers for Walls",
   "url": "https://www.amazon.com/dp/B07YSXX7SB",
-  "verdict": "TOO HIGH: 17.79 is over your max 16.98"
+  "verdict": "OK: 17.79 is at or under your max 17.79"
  },
  "B086H4FKD9": {
   "asin": "B086H4FKD9",
