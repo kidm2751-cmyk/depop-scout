@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-20261109-125753",
+ "finishedAt": "2026-11-09T12:58:26Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0G5PHH8B3",
+   "key": "B0G5PHH8B3",
+   "url": "https://www.amazon.com/dp/B0G5PHH8B3",
+   "checkedAt": "2026-11-09T12:58:26Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Lunch Box Kids Girls Boys,Bento Box Adult,Toddler Lunch Containers for School,Leakproof Snack Containers with 6 Compartments,Sauce Container,10 Food Picks and 4",
+   "brand": "Amathley",
+   "price": 4.99,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 9.99,
+   "listPriceKind": "typical",
+   "pctOff": 50.1,
+   "lowestIn30Days": false,
+   "deal": "Limited time deal",
+   "inStock": true,
+   "seller": "Amathley Amathley Sold by Amathley",
+   "soldByAmazon": false,
+   "boughtPastMonth": 200,
+   "rating": 4.6,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/71lVFLVQjKL._AC_SL1500_.jpg",
+   "max": 7.68,
+   "verdict": "OK: 4.99 is at or under your max 7.68"
+  }
+ ]
+}
