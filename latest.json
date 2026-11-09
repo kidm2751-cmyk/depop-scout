@@ -1177,7 +1177,7 @@
   "asin": "B0FSTKZ226",
   "boughtPastMonth": 10000,
   "brand": "",
-  "checkedAt": "2026-11-09T13:00:42Z",
+  "checkedAt": "2026-11-09T18:34:07Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1185,12 +1185,12 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 8.52,
+  "max": 8.53,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/71OvOm4G-rL._AC_SL1500_.jpg",
   "platform": "amazon",
-  "price": 8.53,
+  "price": 8.45,
   "priceAfterCoupon": null,
   "rating": 4.8,
   "reviews": null,
@@ -1199,7 +1199,7 @@
   "status": "ok",
   "title": "Scotch Heavy Duty Shipping Packing Tape, Clear, Packing Tape for Moving Boxes and Packaging Supplies, 1.88 in. x 22.2 yd., 2 Roll Dispensers, Moving Supplies",
   "url": "https://www.amazon.com/dp/B0FSTKZ226",
-  "verdict": "TOO HIGH: 8.53 is over your max 8.52"
+  "verdict": "OK: 8.45 is at or under your max 8.53"
  },
  "B0FXRX6N7Y": {
   "asin": "B0FXRX6N7Y",
