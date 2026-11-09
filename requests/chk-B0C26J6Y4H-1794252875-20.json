@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-B0C26J6Y4H-1794252875-20",
+ "finishedAt": "2026-11-09T19:35:12Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0C26J6Y4H",
+   "key": "B0C26J6Y4H",
+   "url": "https://www.amazon.com/dp/B0C26J6Y4H",
+   "checkedAt": "2026-11-09T19:35:12Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Funko Pop! Animation Naruto Shippuden: Jiraiya Sage Mode (Toad) Sanin Special Edition Multicolor Exclusive Vinyl Figure #1381",
+   "brand": "Funko",
+   "price": 16.95,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": null,
+   "listPriceKind": null,
+   "pctOff": 0.0,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "Toystop Toystop Sold by Toystop",
+   "soldByAmazon": false,
+   "boughtPastMonth": 50,
+   "rating": 4.8,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/81Qat1J5RtL._AC_SL1500_.jpg",
+   "max": 8.4,
+   "verdict": "TOO HIGH: 16.95 is over your max 8.40"
+  }
+ ]
+}

@@ -1,20 +1,20 @@
 {
  "ok": true,
- "requestId": "chk-B076621ZGC-1794252830-19",
- "finishedAt": "2026-11-09T19:34:31Z",
+ "requestId": "chk-B0C26J6Y4H-1794252875-20",
+ "finishedAt": "2026-11-09T19:35:12Z",
  "checked": 1,
  "items": [
   {
    "platform": "amazon",
-   "asin": "B076621ZGC",
-   "key": "B076621ZGC",
-   "url": "https://www.amazon.com/dp/B076621ZGC",
-   "checkedAt": "2026-11-09T19:34:31Z",
+   "asin": "B0C26J6Y4H",
+   "key": "B0C26J6Y4H",
+   "url": "https://www.amazon.com/dp/B0C26J6Y4H",
+   "checkedAt": "2026-11-09T19:35:12Z",
    "ok": true,
    "status": "ok",
-   "title": "Stanley Tools 6-Piece Precision Screwdriver Set, Black/Yellow",
-   "brand": "STANLEY",
-   "price": 7.49,
+   "title": "Funko Pop! Animation Naruto Shippuden: Jiraiya Sage Mode (Toad) Sanin Special Edition Multicolor Exclusive Vinyl Figure #1381",
+   "brand": "Funko",
+   "price": 16.95,
    "priceAfterCoupon": null,
    "coupon": null,
    "listPrice": null,
@@ -23,14 +23,14 @@
    "lowestIn30Days": false,
    "deal": null,
    "inStock": true,
-   "seller": "Million Seller Million Seller Sold by Million Seller",
+   "seller": "Toystop Toystop Sold by Toystop",
    "soldByAmazon": false,
-   "boughtPastMonth": 700,
+   "boughtPastMonth": 50,
    "rating": 4.8,
    "reviews": null,
-   "photo": "https://m.media-amazon.com/images/I/61rmy0YR9tL._AC_SL1000_.jpg",
-   "max": 7.55,
-   "verdict": "OK: 7.49 is at or under your max 7.55"
+   "photo": "https://m.media-amazon.com/images/I/81Qat1J5RtL._AC_SL1500_.jpg",
+   "max": 8.4,
+   "verdict": "TOO HIGH: 16.95 is over your max 8.40"
   }
  ]
 }
