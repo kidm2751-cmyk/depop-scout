@@ -1261,8 +1261,8 @@
   "asin": "B0G43VLL9L",
   "boughtPastMonth": 1000,
   "brand": "Mattel Brick Shop",
-  "checkedAt": "2026-11-09T08:10:40Z",
-  "coupon": null,
+  "checkedAt": "2026-11-09T12:40:23Z",
+  "coupon": "$6.25 off coupon",
   "deal": null,
   "inStock": true,
   "key": "B0G43VLL9L",
@@ -1275,7 +1275,7 @@
   "photo": "https://m.media-amazon.com/images/I/81UqrwDF0ML._AC_SL1500_.jpg",
   "platform": "amazon",
   "price": 24.99,
-  "priceAfterCoupon": null,
+  "priceAfterCoupon": 18.74,
   "rating": 4.8,
   "reviews": null,
   "seller": "Trusted Kids Products",
@@ -1283,7 +1283,7 @@
   "status": "ok",
   "title": "Mattel Minecraft Minecart RC with Steve",
   "url": "https://www.amazon.com/dp/B0G43VLL9L",
-  "verdict": "OK: 24.99 is at or under your max 25.63"
+  "verdict": "OK: 18.74 is at or under your max 25.63"
  },
  "B0G4WXXQDN": {
   "asin": "B0G4WXXQDN",
