@@ -617,7 +617,7 @@
   "asin": "B0BSJYM8FF",
   "boughtPastMonth": 1000,
   "brand": "",
-  "checkedAt": "2026-11-09T18:58:09Z",
+  "checkedAt": "2026-11-09T19:23:44Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -625,7 +625,7 @@
   "listPrice": 69.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 39.98,
+  "max": 39.99,
   "ok": true,
   "pctOff": 42.9,
   "photo": "https://m.media-amazon.com/images/I/71NxwEjlU1L._AC_SL1500_.jpg",
@@ -639,7 +639,7 @@
   "status": "ok",
   "title": "Razer Kraken V3 X Wired USB Gaming Headset, Lightweight, Black",
   "url": "https://www.amazon.com/dp/B0BSJYM8FF",
-  "verdict": "OK: 39.98 is at or under your max 39.98"
+  "verdict": "OK: 39.98 is at or under your max 39.99"
  },
  "B0C26J6Y4H": {
   "asin": "B0C26J6Y4H",
