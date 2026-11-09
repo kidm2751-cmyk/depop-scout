@@ -1,18 +1,18 @@
 {
  "ok": true,
- "requestId": "chk-20261109-123021",
- "finishedAt": "2026-11-09T12:30:58Z",
+ "requestId": "chk-20261109-123110",
+ "finishedAt": "2026-11-09T12:31:50Z",
  "checked": 1,
  "items": [
   {
    "platform": "amazon",
-   "asin": "B0FMS9ST4S",
-   "key": "B0FMS9ST4S",
-   "url": "https://www.amazon.com/dp/B0FMS9ST4S",
-   "checkedAt": "2026-11-09T12:30:58Z",
+   "asin": "B0FMS5JG7T",
+   "key": "B0FMS5JG7T",
+   "url": "https://www.amazon.com/dp/B0FMS5JG7T",
+   "checkedAt": "2026-11-09T12:31:50Z",
    "ok": true,
    "status": "ok",
-   "title": "LEGO City Rides \u2013 Gaming Race Car 60484",
+   "title": "LEGO City Hot Rod 60485",
    "brand": "",
    "price": 5.99,
    "priceAfterCoupon": null,
@@ -25,10 +25,10 @@
    "inStock": true,
    "seller": "not shown",
    "soldByAmazon": null,
-   "boughtPastMonth": 8000,
+   "boughtPastMonth": 10000,
    "rating": 4.8,
    "reviews": null,
-   "photo": "https://m.media-amazon.com/images/I/71e9ec9jXzL._AC_SL1500_.jpg",
+   "photo": "https://m.media-amazon.com/images/I/71vzpZ65xLL._AC_SL1500_.jpg",
    "max": 5.99,
    "verdict": "OK: 5.99 is at or under your max 5.99"
   }
