@@ -1,7 +1,7 @@
 {
  "ok": true,
- "requestId": "chk-20261107-211012",
- "finishedAt": "2026-11-07T21:11:22Z",
+ "requestId": "chk-20261109-031158",
+ "finishedAt": "2026-11-09T03:12:52Z",
  "checked": 1,
  "items": [
   {
@@ -9,25 +9,25 @@
    "slug": "uiroin98-new-balance-2002r-black-sneakers-18f5",
    "key": "depop:uiroin98-new-balance-2002r-black-sneakers-18f5",
    "url": "https://www.depop.com/products/uiroin98-new-balance-2002r-black-sneakers-18f5/",
-   "checkedAt": "2026-11-07T21:10:57Z",
+   "checkedAt": "2026-11-09T03:12:27Z",
    "ok": true,
    "status": "ok",
    "sold": false,
    "inStock": true,
    "title": "New Balance 2002R black sneakers #newbalance #running",
    "brand": "New Balance",
-   "price": 8.0,
+   "price": 9.1,
    "shipping": 8.0,
    "shippingKnown": false,
-   "buyerFee": 1.4,
-   "tax": 0.92,
-   "totalCost": 18.32,
+   "buyerFee": 1.46,
+   "tax": 1.03,
+   "totalCost": 19.58,
    "size": "US 9.5",
    "condition": "Used",
    "seller": "uirbin98",
    "photo": "https://media-photos.depop.com/r1/364429884/5140711202_72eec897ee6449db92b65346197e13a8/P0.jpg",
    "max": 8.81,
-   "verdict": "TOO HIGH: 18.32 total is over your max 8.81"
+   "verdict": "TOO HIGH: 19.58 total is over your max 8.81"
   }
  ]
 }
