@@ -589,7 +589,7 @@
   "asin": "B09XFH6NY4",
   "boughtPastMonth": null,
   "brand": "Spigen",
-  "checkedAt": "2026-11-09T01:37:10Z",
+  "checkedAt": "2026-11-09T06:38:44Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -597,7 +597,7 @@
   "listPrice": 54.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 27.43,
+  "max": 39.99,
   "ok": true,
   "pctOff": 27.3,
   "photo": "https://m.media-amazon.com/images/I/71IB2oTsXYL._SL1200_.jpg",
@@ -611,7 +611,7 @@
   "status": "ok",
   "title": "Spigen Rugged Armor Pro Hard Shell Case for Steam Deck & ROG Xbox Ally X",
   "url": "https://www.amazon.com/dp/B09XFH6NY4",
-  "verdict": "TOO HIGH: 39.99 is over your max 27.43"
+  "verdict": "OK: 39.99 is at or under your max 39.99"
  },
  "B0BSJYM8FF": {
   "asin": "B0BSJYM8FF",
