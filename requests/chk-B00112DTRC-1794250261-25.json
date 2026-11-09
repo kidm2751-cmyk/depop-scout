@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-B00112DTRC-1794250261-25",
+ "finishedAt": "2026-11-09T18:51:42Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B00112DTRC",
+   "key": "B00112DTRC",
+   "url": "https://www.amazon.com/dp/B00112DTRC",
+   "checkedAt": "2026-11-09T18:51:41Z",
+   "ok": true,
+   "status": "out_of_stock",
+   "title": "Maybelline Great Lash Curved Brush Washable Mascara, Volumizing, Lengthening and Curling Mascara, Blackest Black, 1 Count",
+   "brand": "MAYBELLINE",
+   "price": null,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": null,
+   "listPriceKind": null,
+   "pctOff": 0,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": false,
+   "seller": "not shown",
+   "soldByAmazon": null,
+   "boughtPastMonth": null,
+   "rating": 4.5,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/61KbNJgwxPL._SL1500_.jpg",
+   "max": 6.82,
+   "verdict": "OUT OF STOCK"
+  }
+ ]
+}
