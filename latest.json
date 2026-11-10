@@ -1625,7 +1625,7 @@
   "asin": "B0FFH1DC25",
   "boughtPastMonth": 1000,
   "brand": "",
-  "checkedAt": "2026-11-10T02:18:03Z",
+  "checkedAt": "2026-11-10T07:49:39Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1633,7 +1633,7 @@
   "listPrice": 26.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 11.33,
   "ok": true,
   "pctOff": 58.0,
   "photo": "https://m.media-amazon.com/images/I/81YV6Qa611L._AC_SL1500_.jpg",
@@ -1647,7 +1647,7 @@
   "status": "ok",
   "title": "Hot Wheels Racing Formula 1 Grid Start Track Set and 2 Toy Cars",
   "url": "https://www.amazon.com/dp/B0FFH1DC25",
-  "verdict": "OK: 11.33 is at or under your max 45.00"
+  "verdict": "OK: 11.33 is at or under your max 11.33"
  },
  "B0FHQCB4JT": {
   "asin": "B0FHQCB4JT",
