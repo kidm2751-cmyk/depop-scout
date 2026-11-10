@@ -645,7 +645,7 @@
   "asin": "B08V36YT2X",
   "boughtPastMonth": 500,
   "brand": "",
-  "checkedAt": "2026-11-10T12:18:24Z",
+  "checkedAt": "2026-11-10T15:29:11Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -653,7 +653,7 @@
   "listPrice": 31.95,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 19.55,
+  "max": 45.0,
   "ok": true,
   "pctOff": 53.4,
   "photo": "https://m.media-amazon.com/images/I/71tflHsXVyL._AC_SL1500_.jpg",
@@ -667,7 +667,7 @@
   "status": "ok",
   "title": "Wilson Luminous Glow Football - Junior Size, Green",
   "url": "https://www.amazon.com/dp/B08V36YT2X",
-  "verdict": "OK: 14.89 is at or under your max 19.55"
+  "verdict": "OK: 14.89 is at or under your max 45.00"
  },
  "B08X9SFGVW": {
   "asin": "B08X9SFGVW",
@@ -1429,7 +1429,7 @@
   "asin": "B0DJ1BH9T1",
   "boughtPastMonth": null,
   "brand": "",
-  "checkedAt": "2026-11-10T15:22:27Z",
+  "checkedAt": "2026-11-10T15:29:07Z",
   "coupon": null,
   "deal": null,
   "inStock": false,
@@ -1513,7 +1513,7 @@
   "asin": "B0DR3ZFQC6",
   "boughtPastMonth": 2000,
   "brand": "Hot Wheels",
-  "checkedAt": "2026-11-10T15:22:35Z",
+  "checkedAt": "2026-11-10T15:29:09Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1625,7 +1625,7 @@
   "asin": "B0F496FR73",
   "boughtPastMonth": 500,
   "brand": "Nautica",
-  "checkedAt": "2026-11-10T12:17:16Z",
+  "checkedAt": "2026-11-10T15:29:13Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1633,7 +1633,7 @@
   "listPrice": 36.99,
   "listPriceKind": "list",
   "lowestIn30Days": true,
-  "max": 24.19,
+  "max": 45.0,
   "ok": true,
   "pctOff": 36.0,
   "photo": "https://m.media-amazon.com/images/I/61UFsdpRj7L._SL1500_.jpg",
@@ -1647,7 +1647,7 @@
   "status": "ok",
   "title": "Nautica Voyage Intense Eau de Toilette, Men's Fragrance, 1.6 fl oz",
   "url": "https://www.amazon.com/dp/B0F496FR73",
-  "verdict": "OK: 23.66 is at or under your max 24.19"
+  "verdict": "OK: 23.66 is at or under your max 45.00"
  },
  "B0F8QTBGNP": {
   "asin": "B0F8QTBGNP",
@@ -2073,7 +2073,7 @@
   "asin": "B0G2BMQ9Q6",
   "boughtPastMonth": 50,
   "brand": "Attitill",
-  "checkedAt": "2026-11-10T12:21:31Z",
+  "checkedAt": "2026-11-10T15:29:15Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -2081,7 +2081,7 @@
   "listPrice": 7.49,
   "listPriceKind": "typical",
   "lowestIn30Days": false,
-  "max": 3.69,
+  "max": 45.0,
   "ok": true,
   "pctOff": 46.7,
   "photo": "https://m.media-amazon.com/images/I/81ly+CR+6cL._AC_SL1500_.jpg",
@@ -2095,7 +2095,7 @@
   "status": "ok",
   "title": "2026-2027 Planner - Academic 2026-2027 Planner",
   "url": "https://www.amazon.com/dp/B0G2BMQ9Q6",
-  "verdict": "TOO HIGH: 3.99 is over your max 3.69"
+  "verdict": "OK: 3.99 is at or under your max 45.00"
  },
  "B0G2D1R15Q": {
   "asin": "B0G2D1R15Q",
