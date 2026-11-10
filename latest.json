@@ -281,7 +281,7 @@
   "asin": "B06XZTZ7GB",
   "boughtPastMonth": 7000,
   "brand": "MATEIN",
-  "checkedAt": "2026-11-10T08:33:22Z",
+  "checkedAt": "2026-11-10T08:40:19Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -289,7 +289,7 @@
   "listPrice": 33.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 19.79,
+  "max": 45.0,
   "ok": true,
   "pctOff": 35.3,
   "photo": "https://m.media-amazon.com/images/I/71ocYTnmgeL._AC_SL1500_.jpg",
@@ -303,7 +303,7 @@
   "status": "ok",
   "title": "MATEIN Travel Laptop Backpack, 15.6 Inch\u00a0 College School Computer Bag, Grey",
   "url": "https://www.amazon.com/dp/B06XZTZ7GB",
-  "verdict": "TOO HIGH: 21.99 is over your max 19.79"
+  "verdict": "OK: 21.99 is at or under your max 45.00"
  },
  "B072QH418H": {
   "asin": "B072QH418H",
