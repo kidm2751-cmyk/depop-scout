@@ -1,3 +1,4 @@
+sha: e158543ecf4523be26356189495cd44cb0e129b2
 # Amazon watchlist: checked every hour. One item per line:
 #   ASIN (or Amazon link)   your max buy price (optional)   a note (optional)
 # Discord gets a message when the price goes over your max, the item goes out of stock or comes back,
@@ -110,7 +111,7 @@ https://www.depop.com/products/jenjezjenm-more-to-come-monroe-black-a089/ 34.19 
 
 
 
-B0D61DYJ99 3.25 SOUR PATCH KIDS Fruits Mix 11.03oz, listed on eBay at 8.34
+B0D61DYJ99 4.67 SOUR PATCH KIDS Fruits Mix 11.03oz, listed on eBay at 10.31
 B07L6QQD8R 14.99 GORILLA GRIP Foam Kneeling Pad 17.5x11 Black, listed on eBay at 24.65
 B0G2D1R15Q 39.99 Ring Battery Doorbell 2K Matte Mocha, listed on eBay at 64.50
 
@@ -144,4 +145,5 @@ B09BDLCTZC 34.98 Philips Hue 3-Foot LED Light Strip Extension, listed on eBay at
 
 B0F496FR73 24.19 Nautica Voyage Intense EDT 1.6oz, listed on eBay at 39.99
 B08V36YT2X 19.55 Wilson Luminous Glow Football Jr Green, listed on eBay at 30.99
-B0G2BMQ9Q6 3.69 Attitill 2026-2027 Academic Planner, listed on eBay at 8.95
+B0G2BMQ9Q6 3.99 Attitill 2026-2027 Academic Planner, listed on eBay at 9.37
+
