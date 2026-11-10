@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-B072QH418H-1794270866-7",
+ "finishedAt": "2026-11-10T00:35:05Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B072QH418H",
+   "key": "B072QH418H",
+   "url": "https://www.amazon.com/dp/B072QH418H",
+   "checkedAt": "2026-11-10T00:35:05Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Educational Insights GeoSafari Talking Microscope Featuring Bindi Irwin",
+   "brand": "Educational Insights",
+   "price": 27.9,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 59.99,
+   "listPriceKind": "list",
+   "pctOff": 53.5,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "Amazon Resale",
+   "soldByAmazon": true,
+   "boughtPastMonth": 1000,
+   "rating": 4.6,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/71U5r7MChPL._AC_SL1500_.jpg",
+   "max": 27.9,
+   "verdict": "OK: 27.90 is at or under your max 27.90"
+  }
+ ]
+}
