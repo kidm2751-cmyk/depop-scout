@@ -1,3 +1,4 @@
+sha: 72c9ae2f6c43e5127367cb84927bbe0cd8e0bbbe
 # Amazon watchlist: checked every hour. One item per line:
 #   ASIN (or Amazon link)   your max buy price (optional)   a note (optional)
 # Discord gets a message when the price goes over your max, the item goes out of stock or comes back,
@@ -107,29 +108,9 @@ https://www.depop.com/products/taa6y-wilfred-size-small-black-maxi-d36e/ 10.04 A
 https://www.depop.com/products/dinguo627-kith-classics-gray-workout-hoodie-a162/ 22.75 Kith Classics gray workout hoodie mens L, listed on eBay at 44.36
 https://www.depop.com/products/dcrosell8-brown-suede-birkenstock-boston-clogs-d509/ 27.69 Birkenstock Boston brown suede clogs mens US 8, listed on eBay at 51.22
 https://www.depop.com/products/jenjezjenm-more-to-come-monroe-black-a089/ 34.19 More To Come Monroe black polka dot dress womens S, listed on eBay at 60.26
-B0CKYJ63SG 9.99 COSLUS C40 Electric Nail Drill, listed on eBay at 17.71
-B0FFH1DC25 11.33 Hot Wheels F1 Grid Start Track Set, listed on eBay at 19.57
-B0HC3TKS7X 20.00 sundpik Posture Corrector, listed on eBay at 34.16
-B0DKW2H52M 15.19 Capcom Resident Evil 2 PS5, listed on eBay at 24.93
-B0DJ1BH9T1 15.95 LEGO City Off-Road 4x4 Mountain Truck 60447, listed on eBay at 25.99
-B09XJC7JKZ 6.69 Command X-Large Picture Hanging Strips, listed on eBay at 13.12
-B0FKP2JKR9 9.49 SwimWays Rainbow Reef Shark Pool Toy, listed on eBay at 17.01
-B0CR1P4XJY 8.99 CYOEST STEM DIY FM Radio Kit, listed on eBay at 16.32
-B09JKVJCQZ 4.99 LEGO Classic White Baseplate 11026, listed on eBay at 10.76
-B07D4RN9NH 10.49 Crayola Twistables Colored Pencil Set 50ct, listed on eBay at 18.40
-B0FK5SMHY5 9.49 Squishmallows Cam Graduation Cap 12in, listed on eBay at 17.01
-B0C6W3D4RM 21.99 Fire TV Stick 4K Select, listed on eBay at 36.93
-B07GBZ4Q68 37.99 Logitech G502 HERO, listed on eBay at 61.72
-B0FQF5RBZ9 22.00 iPhone 17 Pro Silicone Case Purple Fog, listed on eBay at 36.94
-B003O2RXUQ 6.97 Five Star Spiral Notebook 5 Subject, listed on eBay at 13.51
-B09GF1ND4D 6.17 OFF! Picaridin Bug Spray 5oz, listed on eBay at 12.40
-B0009H519Y 9.98 Mothers Mag & Aluminum Polish 10oz, listed on eBay at 17.69
-B0FTZCWGSK 8.50 The Ordinary PHA 5% Lip Serum, listed on eBay at 15.63
-B0GZ2RSJVY 37.86 hahaland Electric Train Set 64PCs, listed on eBay at 58.99
-B0GB225QFP 6.60 L.O.L. Surprise! Music Festival Dolls, listed on eBay at 12.99
-B0DTBPVL3D 9.08 Gabby's Dollhouse Cat Ears Headband, listed on eBay at 16.45
-B0B6BMZP95 9.48 wernies 8 Pairs No Show Socks, listed on eBay at 16.99
-B08JY653PJ 7.50 Sharpie S-Gel Pens Ultra Fine 0.38mm Black 4ct, listed on eBay at 14.24
-B0FPLSGN7D 18.39 G4Free Diaper Bag Backpack Black, listed on eBay at 31.93
-B06XZTZ7GB 19.79 MATEIN Travel Laptop Backpack 15.6 Grey, listed on eBay at 33.87
-B09BDLCTZC 34.98 Philips Hue 3-Foot LED Light Strip Extension, listed on eBay at 57.53
+
+
+
+B0D61DYJ99 3.25 SOUR PATCH KIDS Fruits Mix 11.03oz, listed on eBay at 8.34
+B07L6QQD8R 14.99 GORILLA GRIP Foam Kneeling Pad 17.5x11 Black, listed on eBay at 24.65
+B0G2D1R15Q 39.99 Ring Battery Doorbell 2K Matte Mocha, listed on eBay at 64.50
