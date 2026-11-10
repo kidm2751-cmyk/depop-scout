@@ -1,0 +1,18 @@
+{
+ "ok": false,
+ "requestId": "depop-probe-20261109-1635",
+ "finishedAt": "2026-11-10T00:32:41Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "deadheadthrifto-brown-leather-vintage-90s-taras-ab38",
+   "key": "depop:deadheadthrifto-brown-leather-vintage-90s-taras-ab38",
+   "url": "https://www.depop.com/products/deadheadthrifto-brown-leather-vintage-90s-taras-ab38/",
+   "checkedAt": "2026-11-10T00:32:37Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  }
+ ]
+}
