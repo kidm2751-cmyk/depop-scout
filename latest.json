@@ -1877,15 +1877,15 @@
   "asin": "B0FQF5RBZ9",
   "boughtPastMonth": 500,
   "brand": "Apple",
-  "checkedAt": "2026-11-10T02:18:42Z",
+  "checkedAt": "2026-11-10T08:12:15Z",
   "coupon": null,
-  "deal": "Limited time deal",
+  "deal": "Black Friday Deal",
   "inStock": true,
   "key": "B0FQF5RBZ9",
   "listPrice": 49.0,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 22.0,
   "ok": true,
   "pctOff": 55.1,
   "photo": "https://m.media-amazon.com/images/I/61DrvmF9V0L._AC_SL1500_.jpg",
@@ -1899,7 +1899,7 @@
   "status": "ok",
   "title": "Apple iPhone 17 Pro Silicone Case with MagSafe and Camera Control: Lightweight Phone Case, Wireless Charging Compatible, Smooth Matte Finish; Purple Fog",
   "url": "https://www.amazon.com/dp/B0FQF5RBZ9",
-  "verdict": "OK: 22.00 is at or under your max 45.00"
+  "verdict": "OK: 22.00 is at or under your max 22.00"
  },
  "B0FRFZ4R4Y": {
   "asin": "B0FRFZ4R4Y",
