@@ -1,20 +1,20 @@
 {
  "ok": true,
- "requestId": "chk-B001IAG7G2-1794270580-3",
- "finishedAt": "2026-11-10T00:30:25Z",
+ "requestId": "maybelline-confirm-20261109-1630",
+ "finishedAt": "2026-11-10T00:31:09Z",
  "checked": 1,
  "items": [
   {
    "platform": "amazon",
-   "asin": "B001IAG7G2",
-   "key": "B001IAG7G2",
-   "url": "https://www.amazon.com/dp/B001IAG7G2",
-   "checkedAt": "2026-11-10T00:30:25Z",
+   "asin": "B00112DTRC",
+   "key": "B00112DTRC",
+   "url": "https://www.amazon.com/dp/B00112DTRC",
+   "checkedAt": "2026-11-10T00:31:09Z",
    "ok": true,
    "status": "ok",
-   "title": "Aquaphor Advanced Therapy Healing Ointment, Value Pack, 2 X 0.35 OZ",
-   "brand": "Aquaphor",
-   "price": 6.97,
+   "title": "Maybelline Great Lash Curved Brush Washable Mascara, Volumizing, Lengthening and Curling Mascara, Blackest Black, 1 Count",
+   "brand": "MAYBELLINE",
+   "price": 6.82,
    "priceAfterCoupon": null,
    "coupon": null,
    "listPrice": null,
@@ -25,12 +25,12 @@
    "inStock": true,
    "seller": "not shown",
    "soldByAmazon": null,
-   "boughtPastMonth": 20000,
-   "rating": 4.8,
+   "boughtPastMonth": 700,
+   "rating": 4.5,
    "reviews": null,
-   "photo": "https://m.media-amazon.com/images/I/71jhBAMw1hL._SL1500_.jpg",
-   "max": 6.97,
-   "verdict": "OK: 6.97 is at or under your max 6.97"
+   "photo": "https://m.media-amazon.com/images/I/61KbNJgwxPL._SL1500_.jpg",
+   "max": 6.82,
+   "verdict": "OK: 6.82 is at or under your max 6.82"
   }
  ]
 }
