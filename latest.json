@@ -1289,7 +1289,7 @@
   "asin": "B0D61DYJ99",
   "boughtPastMonth": 6000,
   "brand": "Sour Patch Kids",
-  "checkedAt": "2026-11-10T02:19:16Z",
+  "checkedAt": "2026-11-10T07:45:28Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1297,7 +1297,7 @@
   "listPrice": 5.19,
   "listPriceKind": "typical",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 3.25,
   "ok": true,
   "pctOff": 37.4,
   "photo": "https://m.media-amazon.com/images/I/81yHjq6YFJL._SL1500_.jpg",
@@ -1311,7 +1311,7 @@
   "status": "ok",
   "title": "SOUR PATCH KIDS Fruits Mix Soft & Chewy Gummy Candy, Share Size, 11.03 oz",
   "url": "https://www.amazon.com/dp/B0D61DYJ99",
-  "verdict": "OK: 3.25 is at or under your max 45.00"
+  "verdict": "OK: 3.25 is at or under your max 3.25"
  },
  "B0D6Z814Y7": {
   "asin": "B0D6Z814Y7",
