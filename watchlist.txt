@@ -12,7 +12,7 @@ B0C5FMWXSG 22.42 YAHTZEE Hello Kitty, listed on eBay at 34.98
 B0GVGWNDMX 20.43 AT-A-GLANCE 2027 wall calendar, listed on eBay at 34.76
 B0FSTKZ226 8.53 Scotch packing tape 2-pack, listed on eBay at 15.68
 B001GAOTUK 20.73 PILOT Precise V5 pens red 12-pack, listed on eBay at 32.63
-B0G2TGZ867 12.56 Nerf Minecraft Diamond Pickaxe, listed on eBay at 21.28
+B0G2TGZ867 13.79 Nerf Minecraft Diamond Pickaxe, listed on eBay at 22.99
 B0G43VLL9L 25.63 Mattel Brick Shop Minecraft Minecart RC, listed on eBay at 41.99
 B08817H6HS 11.03 BeeVines silk sleep mask 2-pack, listed on eBay at 19.15
 B0FXRX6N7Y 10.49 TENTVIA Fire Pit Cover, listed on eBay at 18.40
@@ -44,7 +44,7 @@ B09KMGVYJJ 13.04 G.I. Joe Classified Xamot, listed on eBay at 21.95
 B0D6Z814Y7 8.85 MAM Original Pacifier 4-pack 0-6 months, listed on eBay at 16.13
 B00251EHJW 19.99 Prismacolor Premier Graphite Drawing Set 18ct, listed on eBay at 34.16
 B0FMS7CRHX 9.89 LEGO Botanicals Daisies 11508, listed on eBay at 17.57
-B0DR3ZFQC6 34.99 Hot Wheels Mega Loop Garage Track Set, listed on eBay at 57.55
+B0DR3ZFQC6 43.99 Hot Wheels Mega Loop Garage Track Set, listed on eBay at 70.05
 B076621ZGC 7.55 Stanley 6-Piece Precision Screwdriver Set, listed on eBay at 14.32
 https://www.depop.com/products/deadheadthrifto-brown-leather-vintage-90s-taras-ab38/ 41.19 Danner women's brown boots US 7, listed on eBay at 69.99
 https://www.depop.com/products/uiroin98-new-balance-2002r-black-sneakers-18f5/ 12.41 New Balance women's black trainers US 7, listed on eBay at 24.99 (user-set price)
@@ -119,7 +119,6 @@ B0CKYJ63SG 12.99 COSLUS C40 Electric Nail Drill, listed on eBay at 21.88
 B0FFH1DC25 11.33 Hot Wheels F1 Grid Start Track Set, listed on eBay at 19.57
 B0HC3TKS7X 20.00 sundpik Posture Corrector, listed on eBay at 34.16
 B0DKW2H52M 15.19 Capcom Resident Evil 2 PS5, listed on eBay at 24.93
-B0DJ1BH9T1 19.96 LEGO City Off-Road 4x4 Mountain Truck 60447, listed on eBay at 34.11
 B09XJC7JKZ 6.69 Command X-Large Picture Hanging Strips, listed on eBay at 13.12
 B0FKP2JKR9 9.49 SwimWays Rainbow Reef Shark Pool Toy, listed on eBay at 17.01
 B0CR1P4XJY 8.99 CYOEST STEM DIY FM Radio Kit, listed on eBay at 16.32
@@ -146,5 +145,6 @@ B09BDLCTZC 34.98 Philips Hue 3-Foot LED Light Strip Extension, listed on eBay at
 B0F496FR73 24.19 Nautica Voyage Intense EDT 1.6oz, listed on eBay at 39.99
 B08V36YT2X 19.55 Wilson Luminous Glow Football Jr Green, listed on eBay at 30.99
 B0G2BMQ9Q6 3.99 Attitill 2026-2027 Academic Planner, listed on eBay at 9.37
+
 
 
