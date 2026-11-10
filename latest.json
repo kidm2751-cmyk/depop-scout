@@ -981,7 +981,7 @@
   "asin": "B0B6BMZP95",
   "boughtPastMonth": 7000,
   "brand": "wernies",
-  "checkedAt": "2026-11-10T02:18:58Z",
+  "checkedAt": "2026-11-10T08:21:46Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -989,7 +989,7 @@
   "listPrice": 14.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 9.47,
   "ok": true,
   "pctOff": 36.8,
   "photo": "https://m.media-amazon.com/images/I/71CDwpXWjJL._AC_SL1500_.jpg",
@@ -1003,7 +1003,7 @@
   "status": "ok",
   "title": "wernies 8 Pairs No Show Socks Women Low Cut Ankle Socks for Women",
   "url": "https://www.amazon.com/dp/B0B6BMZP95",
-  "verdict": "OK: 9.48 is at or under your max 45.00"
+  "verdict": "TOO HIGH: 9.48 is over your max 9.47"
  },
  "B0BHDG138Q": {
   "asin": "B0BHDG138Q",

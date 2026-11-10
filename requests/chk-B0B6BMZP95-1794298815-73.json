@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-B0B6BMZP95-1794298815-73",
+ "finishedAt": "2026-11-10T08:21:46Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0B6BMZP95",
+   "key": "B0B6BMZP95",
+   "url": "https://www.amazon.com/dp/B0B6BMZP95",
+   "checkedAt": "2026-11-10T08:21:46Z",
+   "ok": true,
+   "status": "ok",
+   "title": "wernies 8 Pairs No Show Socks Women Low Cut Ankle Socks for Women",
+   "brand": "wernies",
+   "price": 9.48,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 14.99,
+   "listPriceKind": "list",
+   "pctOff": 36.8,
+   "lowestIn30Days": false,
+   "deal": "Limited time deal",
+   "inStock": true,
+   "seller": "WERNIES WERNIES Sold by WERNIES",
+   "soldByAmazon": false,
+   "boughtPastMonth": 7000,
+   "rating": 4.6,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/71CDwpXWjJL._AC_SL1500_.jpg",
+   "max": 9.47,
+   "verdict": "TOO HIGH: 9.48 is over your max 9.47"
+  }
+ ]
+}
