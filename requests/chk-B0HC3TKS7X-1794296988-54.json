@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-B0HC3TKS7X-1794296988-54",
+ "finishedAt": "2026-11-10T07:53:54Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0HC3TKS7X",
+   "key": "B0HC3TKS7X",
+   "url": "https://www.amazon.com/dp/B0HC3TKS7X",
+   "checkedAt": "2026-11-10T07:53:54Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Posture Corrector for Women and Men, Adjustable Upper Back Brace",
+   "brand": "sundpik",
+   "price": 19.99,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 39.99,
+   "listPriceKind": "typical",
+   "pctOff": 50.0,
+   "lowestIn30Days": false,
+   "deal": "Limited time deal",
+   "inStock": true,
+   "seller": "YRYUAN YRYUAN Sold by YRYUAN",
+   "soldByAmazon": false,
+   "boughtPastMonth": 1000,
+   "rating": 4.7,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/71vbIdDuOuL._SL1500_.jpg",
+   "max": 20.0,
+   "verdict": "OK: 19.99 is at or under your max 20.00"
+  }
+ ]
+}
