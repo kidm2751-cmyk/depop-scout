@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-B0FRFZ4R4Y-1794295566-37",
+ "finishedAt": "2026-11-10T07:26:44Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0FRFZ4R4Y",
+   "key": "B0FRFZ4R4Y",
+   "url": "https://www.amazon.com/dp/B0FRFZ4R4Y",
+   "checkedAt": "2026-11-10T07:26:44Z",
+   "ok": true,
+   "status": "ok",
+   "title": "OlarHike 8 Set Compression Packing Cubes for Travel Gifts Women Mom,Airplane/Car/Cruise Travel Essentials,Compressible Expandable Space Saver Bags,Garment Bags ",
+   "brand": "OlarHike",
+   "price": 24.99,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 39.99,
+   "listPriceKind": "list",
+   "pctOff": 37.5,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "Aborder Products Aborder Products Sold by Aborder Products",
+   "soldByAmazon": false,
+   "boughtPastMonth": 1000,
+   "rating": 4.6,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/71dyUh5P8cL._AC_SL1500_.jpg",
+   "max": 24.99,
+   "verdict": "OK: 24.99 is at or under your max 24.99"
+  }
+ ]
+}
