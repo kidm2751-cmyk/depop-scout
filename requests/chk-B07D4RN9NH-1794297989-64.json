@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-B07D4RN9NH-1794297989-64",
+ "finishedAt": "2026-11-10T08:07:32Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B07D4RN9NH",
+   "key": "B07D4RN9NH",
+   "url": "https://www.amazon.com/dp/B07D4RN9NH",
+   "checkedAt": "2026-11-10T08:07:32Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Crayola Twistables Colored Pencil Set 50ct, Stocking Stuffers for Kids",
+   "brand": "Crayola",
+   "price": 10.49,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 14.99,
+   "listPriceKind": "list",
+   "pctOff": 30.0,
+   "lowestIn30Days": false,
+   "deal": "Black Friday Deal",
+   "inStock": true,
+   "seller": "Zicoto US",
+   "soldByAmazon": false,
+   "boughtPastMonth": 20000,
+   "rating": 4.7,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/81sNnJFZHPL._AC_SL1500_.jpg",
+   "max": 10.49,
+   "verdict": "OK: 10.49 is at or under your max 10.49"
+  }
+ ]
+}
