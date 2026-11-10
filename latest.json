@@ -1121,15 +1121,15 @@
   "asin": "B0C6W3D4RM",
   "boughtPastMonth": 10000,
   "brand": "Amazon",
-  "checkedAt": "2026-11-10T02:18:37Z",
+  "checkedAt": "2026-11-10T08:09:59Z",
   "coupon": null,
-  "deal": "Limited time deal",
+  "deal": null,
   "inStock": true,
   "key": "B0C6W3D4RM",
   "listPrice": 49.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 21.99,
   "ok": true,
   "pctOff": 56.0,
   "photo": "https://m.media-amazon.com/images/I/61gw-l3qyVL._AC_SL1500_.jpg",
@@ -1143,7 +1143,7 @@
   "status": "ok",
   "title": "Amazon Fire TV Stick 4K Select, start streaming in 4K, AI-powered search, and free & live TV, find shows faster with Alexa+",
   "url": "https://www.amazon.com/dp/B0C6W3D4RM",
-  "verdict": "OK: 21.99 is at or under your max 45.00"
+  "verdict": "OK: 21.99 is at or under your max 21.99"
  },
  "B0CC86TQV7": {
   "asin": "B0CC86TQV7",
