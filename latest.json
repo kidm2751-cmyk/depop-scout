@@ -421,7 +421,7 @@
   "asin": "B07GBZ4Q68",
   "boughtPastMonth": 10000,
   "brand": "",
-  "checkedAt": "2026-11-10T02:18:40Z",
+  "checkedAt": "2026-11-10T08:11:12Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -429,7 +429,7 @@
   "listPrice": 69.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 37.99,
   "ok": true,
   "pctOff": 45.7,
   "photo": "https://m.media-amazon.com/images/I/61mpMH5TzkL._AC_SL1500_.jpg",
@@ -443,7 +443,7 @@
   "status": "ok",
   "title": "Logitech G502 HERO Wired Gaming Mouse, HERO 25K Sensor for PC/Mac",
   "url": "https://www.amazon.com/dp/B07GBZ4Q68",
-  "verdict": "OK: 37.99 is at or under your max 45.00"
+  "verdict": "OK: 37.99 is at or under your max 37.99"
  },
  "B07L6QQD8R": {
   "asin": "B07L6QQD8R",
