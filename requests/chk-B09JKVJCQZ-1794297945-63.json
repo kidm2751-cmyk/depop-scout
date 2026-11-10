@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-B09JKVJCQZ-1794297945-63",
+ "finishedAt": "2026-11-10T08:06:22Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B09JKVJCQZ",
+   "key": "B09JKVJCQZ",
+   "url": "https://www.amazon.com/dp/B09JKVJCQZ",
+   "checkedAt": "2026-11-10T08:06:22Z",
+   "ok": true,
+   "status": "ok",
+   "title": "LEGO Classic White Baseplate, Square 32x32 Stud Foundation to Build, Play, and Display Brick Creations, Great for Snowy and Winter Landscapes, 11026",
+   "brand": "",
+   "price": 4.99,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 7.99,
+   "listPriceKind": "list",
+   "pctOff": 37.5,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "not shown",
+   "soldByAmazon": null,
+   "boughtPastMonth": 4000,
+   "rating": 4.8,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/7142AOdziJL._AC_SL1500_.jpg",
+   "max": 4.99,
+   "verdict": "OK: 4.99 is at or under your max 4.99"
+  }
+ ]
+}
