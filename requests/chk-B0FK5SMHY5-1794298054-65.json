@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-B0FK5SMHY5-1794298054-65",
+ "finishedAt": "2026-11-10T08:08:12Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0FK5SMHY5",
+   "key": "B0FK5SMHY5",
+   "url": "https://www.amazon.com/dp/B0FK5SMHY5",
+   "checkedAt": "2026-11-10T08:08:12Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Squishmallows Original 12in Cam the Calico Cat in Graduation Cap \u2013 Official Jazwares Plush (Medium-Sized)",
+   "brand": "Squishmallows",
+   "price": 9.49,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 16.99,
+   "listPriceKind": "list",
+   "pctOff": 44.1,
+   "lowestIn30Days": false,
+   "deal": "Limited time deal",
+   "inStock": true,
+   "seller": "Amazon Resale",
+   "soldByAmazon": true,
+   "boughtPastMonth": 100,
+   "rating": 4.8,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/71PxCARR9iL._AC_SL1500_.jpg",
+   "max": 9.49,
+   "verdict": "OK: 9.49 is at or under your max 9.49"
+  }
+ ]
+}
