@@ -1,50 +1,40 @@
 {
  "ok": false,
- "requestId": "chk-20261110-131252",
- "finishedAt": "2026-11-10T13:16:46Z",
- "checked": 41,
+ "requestId": "chk-20261110-141021",
+ "finishedAt": "2026-11-10T14:14:21Z",
+ "checked": 40,
  "items": [
   {
    "platform": "depop",
    "slug": "deadheadthrifto-brown-leather-vintage-90s-taras-ab38",
    "key": "depop:deadheadthrifto-brown-leather-vintage-90s-taras-ab38",
    "url": "https://www.depop.com/products/deadheadthrifto-brown-leather-vintage-90s-taras-ab38/",
-   "checkedAt": "2026-11-10T13:14:58Z",
-   "ok": false,
-   "status": "blocked",
-   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
-  },
-  {
-   "platform": "depop",
-   "slug": "fem7elling-vintage-y2k-bench-barbour-style-2e16",
-   "key": "depop:fem7elling-vintage-y2k-bench-barbour-style-2e16",
-   "url": "https://www.depop.com/products/fem7elling-vintage-y2k-bench-barbour-style-2e16/",
-   "checkedAt": "2026-11-10T13:15:03Z",
+   "checkedAt": "2026-11-10T14:12:38Z",
    "ok": true,
-   "status": "ok",
-   "sold": false,
-   "inStock": true,
-   "title": "Vintage Y2K Bench Barbour style waxed faux leather...",
-   "brand": "Bench",
-   "price": 23.14,
+   "status": "sold",
+   "sold": true,
+   "inStock": false,
+   "title": "Brown leather Vintage 90s Taras Bulbas Mephisto...",
+   "brand": "Danner",
+   "price": 18.84,
    "shipping": 6.0,
    "shippingKnown": false,
-   "buyerFee": 2.16,
-   "tax": 2.47,
-   "totalCost": 33.76,
-   "size": "XS",
+   "buyerFee": 1.94,
+   "tax": 2.03,
+   "totalCost": 28.81,
+   "size": "XL",
    "condition": "Used",
-   "seller": "femselling",
-   "photo": "https://media-photos.depop.com/r1/34580530/5139513713_5fa1da5064ff42b29a717867a46e1457/P0.jpg",
+   "seller": "deadheadthrifts",
+   "photo": "https://media-photos.depop.com/b1/31694584/4991830035_cac3cdac0881461682afb907b6f97ba3/P0.jpg",
    "max": 100.0,
-   "verdict": "OK: 33.76 total is at or under your max 100.00"
+   "verdict": "SOLD"
   },
   {
    "platform": "depop",
    "slug": "karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f",
    "key": "depop:karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f",
    "url": "https://www.depop.com/products/karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f/",
-   "checkedAt": "2026-11-10T13:15:07Z",
+   "checkedAt": "2026-11-10T14:12:40Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -54,7 +44,7 @@
    "slug": "youdiversal-nike-jacket-navy-size-medium-7a0f",
    "key": "depop:youdiversal-nike-jacket-navy-size-medium-7a0f",
    "url": "https://www.depop.com/products/youdiversal-nike-jacket-navy-size-medium-7a0f/",
-   "checkedAt": "2026-11-10T13:15:11Z",
+   "checkedAt": "2026-11-10T14:12:45Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -64,7 +54,7 @@
    "slug": "armanclotheo-antigua-san-diego-padres-sd-10b4",
    "key": "depop:armanclotheo-antigua-san-diego-padres-sd-10b4",
    "url": "https://www.depop.com/products/armanclotheo-antigua-san-diego-padres-sd-10b4/",
-   "checkedAt": "2026-11-10T13:15:16Z",
+   "checkedAt": "2026-11-10T14:12:49Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -74,7 +64,7 @@
    "slug": "rocktiv77-walls-youth-camo-coveralls-size-586c",
    "key": "depop:rocktiv77-walls-youth-camo-coveralls-size-586c",
    "url": "https://www.depop.com/products/rocktiv77-walls-youth-camo-coveralls-size-586c/",
-   "checkedAt": "2026-11-10T13:15:22Z",
+   "checkedAt": "2026-11-10T14:12:53Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -84,7 +74,7 @@
    "slug": "thatboydiesel-chicago-blackhawks-red-bomber-jacket-dc14",
    "key": "depop:thatboydiesel-chicago-blackhawks-red-bomber-jacket-dc14",
    "url": "https://www.depop.com/products/thatboydiesel-chicago-blackhawks-red-bomber-jacket-dc14/",
-   "checkedAt": "2026-11-10T13:15:23Z",
+   "checkedAt": "2026-11-10T14:12:55Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -94,7 +84,7 @@
    "slug": "svwvn_242-rab-purple-blue-windbreaker-efc3",
    "key": "depop:svwvn_242-rab-purple-blue-windbreaker-efc3",
    "url": "https://www.depop.com/products/svwvn_242-rab-purple-blue-windbreaker-efc3/",
-   "checkedAt": "2026-11-10T13:15:25Z",
+   "checkedAt": "2026-11-10T14:12:58Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -104,7 +94,7 @@
    "slug": "jonnysziveo-y2k-nike-total-90-embossed-4178",
    "key": "depop:jonnysziveo-y2k-nike-total-90-embossed-4178",
    "url": "https://www.depop.com/products/jonnysziveo-y2k-nike-total-90-embossed-4178/",
-   "checkedAt": "2026-11-10T13:15:27Z",
+   "checkedAt": "2026-11-10T14:13:01Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -114,7 +104,7 @@
    "slug": "therealwiwf-g-star-raw-blue-denim-jacket-4339",
    "key": "depop:therealwiwf-g-star-raw-blue-denim-jacket-4339",
    "url": "https://www.depop.com/products/therealwiwf-g-star-raw-blue-denim-jacket-4339/",
-   "checkedAt": "2026-11-10T13:15:30Z",
+   "checkedAt": "2026-11-10T14:13:03Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -124,7 +114,7 @@
    "slug": "gc_thrimt-levis-701-high-flare-jeans-407d",
    "key": "depop:gc_thrimt-levis-701-high-flare-jeans-407d",
    "url": "https://www.depop.com/products/gc_thrimt-levis-701-high-flare-jeans-407d/",
-   "checkedAt": "2026-11-10T13:15:32Z",
+   "checkedAt": "2026-11-10T14:13:05Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -134,7 +124,7 @@
    "slug": "junof_363-burton-purple-puffer-jacket-size-54a9",
    "key": "depop:junof_363-burton-purple-puffer-jacket-size-54a9",
    "url": "https://www.depop.com/products/junof_363-burton-purple-puffer-jacket-size-54a9/",
-   "checkedAt": "2026-11-10T13:15:35Z",
+   "checkedAt": "2026-11-10T14:13:08Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -144,7 +134,7 @@
    "slug": "lamodamarket-grey-beavis-and-butthead-crewneck-1de9",
    "key": "depop:lamodamarket-grey-beavis-and-butthead-crewneck-1de9",
    "url": "https://www.depop.com/products/lamodamarket-grey-beavis-and-butthead-crewneck-1de9/",
-   "checkedAt": "2026-11-10T13:15:38Z",
+   "checkedAt": "2026-11-10T14:13:10Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -154,7 +144,7 @@
    "slug": "modern_c-vintage-cyber-y2k-womens-christian-bffd",
    "key": "depop:modern_c-vintage-cyber-y2k-womens-christian-bffd",
    "url": "https://www.depop.com/products/modern_c-vintage-cyber-y2k-womens-christian-bffd/",
-   "checkedAt": "2026-11-10T13:15:39Z",
+   "checkedAt": "2026-11-10T14:13:12Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -164,7 +154,7 @@
    "slug": "heodasshype-anti-social-social-club-x-da28",
    "key": "depop:heodasshype-anti-social-social-club-x-da28",
    "url": "https://www.depop.com/products/heodasshype-anti-social-social-club-x-da28/",
-   "checkedAt": "2026-11-10T13:15:41Z",
+   "checkedAt": "2026-11-10T14:13:13Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -174,7 +164,7 @@
    "slug": "jzeoe-x-incubus-8-black-band-8cf4",
    "key": "depop:jzeoe-x-incubus-8-black-band-8cf4",
    "url": "https://www.depop.com/products/jzeoe-x-incubus-8-black-band-8cf4/",
-   "checkedAt": "2026-11-10T13:15:43Z",
+   "checkedAt": "2026-11-10T14:13:16Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -184,7 +174,7 @@
    "slug": "jadedcatt92j-agolde-light-wash-denim-jeans-8f6b",
    "key": "depop:jadedcatt92j-agolde-light-wash-denim-jeans-8f6b",
    "url": "https://www.depop.com/products/jadedcatt92j-agolde-light-wash-denim-jeans-8f6b/",
-   "checkedAt": "2026-11-10T13:15:44Z",
+   "checkedAt": "2026-11-10T14:13:19Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -194,7 +184,7 @@
    "slug": "v_rguyen23-pleasures-black-t-shirt-new-without-05ec",
    "key": "depop:v_rguyen23-pleasures-black-t-shirt-new-without-05ec",
    "url": "https://www.depop.com/products/v_rguyen23-pleasures-black-t-shirt-new-without-05ec/",
-   "checkedAt": "2026-11-10T13:15:47Z",
+   "checkedAt": "2026-11-10T14:13:21Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -204,7 +194,7 @@
    "slug": "tjp1i_433-green-fruit-of-the-loom-de2e",
    "key": "depop:tjp1i_433-green-fruit-of-the-loom-de2e",
    "url": "https://www.depop.com/products/tjp1i_433-green-fruit-of-the-loom-de2e/",
-   "checkedAt": "2026-11-10T13:15:50Z",
+   "checkedAt": "2026-11-10T14:13:24Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -214,7 +204,7 @@
    "slug": "florp19k1-nike-lebron-james-purple-2d0b",
    "key": "depop:florp19k1-nike-lebron-james-purple-2d0b",
    "url": "https://www.depop.com/products/florp19k1-nike-lebron-james-purple-2d0b/",
-   "checkedAt": "2026-11-10T13:15:51Z",
+   "checkedAt": "2026-11-10T14:13:27Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -224,7 +214,7 @@
    "slug": "ma6as_hustle-bear-the-beams-gray-945b",
    "key": "depop:ma6as_hustle-bear-the-beams-gray-945b",
    "url": "https://www.depop.com/products/ma6as_hustle-bear-the-beams-gray-945b/",
-   "checkedAt": "2026-11-10T13:15:53Z",
+   "checkedAt": "2026-11-10T14:13:28Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -234,7 +224,7 @@
    "slug": "cracks_collec8ion-duluth-trading-co-flex-firehose-a920",
    "key": "depop:cracks_collec8ion-duluth-trading-co-flex-firehose-a920",
    "url": "https://www.depop.com/products/cracks_collec8ion-duluth-trading-co-flex-firehose-a920/",
-   "checkedAt": "2026-11-10T13:15:55Z",
+   "checkedAt": "2026-11-10T14:13:30Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -244,7 +234,7 @@
    "slug": "krs15paige-pearl-jam-2022-tour-tee-6fdb",
    "key": "depop:krs15paige-pearl-jam-2022-tour-tee-6fdb",
    "url": "https://www.depop.com/products/krs15paige-pearl-jam-2022-tour-tee-6fdb/",
-   "checkedAt": "2026-11-10T13:15:58Z",
+   "checkedAt": "2026-11-10T14:13:33Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -254,7 +244,7 @@
    "slug": "daenaclo2et-house-of-cb-blue-sequin-5193",
    "key": "depop:daenaclo2et-house-of-cb-blue-sequin-5193",
    "url": "https://www.depop.com/products/daenaclo2et-house-of-cb-blue-sequin-5193/",
-   "checkedAt": "2026-11-10T13:16:01Z",
+   "checkedAt": "2026-11-10T14:13:36Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -264,7 +254,7 @@
    "slug": "ishi_bei-navy-gray-starter-michigan-e3a7",
    "key": "depop:ishi_bei-navy-gray-starter-michigan-e3a7",
    "url": "https://www.depop.com/products/ishi_bei-navy-gray-starter-michigan-e3a7/",
-   "checkedAt": "2026-11-10T13:16:04Z",
+   "checkedAt": "2026-11-10T14:13:40Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -274,7 +264,7 @@
    "slug": "jorvangoods23-house-of-cb-clip-on-earrings-0e17",
    "key": "depop:jorvangoods23-house-of-cb-clip-on-earrings-0e17",
    "url": "https://www.depop.com/products/jorvangoods23-house-of-cb-clip-on-earrings-0e17/",
-   "checkedAt": "2026-11-10T13:16:07Z",
+   "checkedAt": "2026-11-10T14:13:41Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -284,7 +274,7 @@
    "slug": "berweara-nudie-jeans-straight-leg-gray-952e",
    "key": "depop:berweara-nudie-jeans-straight-leg-gray-952e",
    "url": "https://www.depop.com/products/berweara-nudie-jeans-straight-leg-gray-952e/",
-   "checkedAt": "2026-11-10T13:16:10Z",
+   "checkedAt": "2026-11-10T14:13:45Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -294,7 +284,7 @@
    "slug": "seb_sellif-white-real-madrid-jersey-with-c949",
    "key": "depop:seb_sellif-white-real-madrid-jersey-with-c949",
    "url": "https://www.depop.com/products/seb_sellif-white-real-madrid-jersey-with-c949/",
-   "checkedAt": "2026-11-10T13:16:12Z",
+   "checkedAt": "2026-11-10T14:13:47Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -304,7 +294,7 @@
    "slug": "icfuldbemid-nike-reversible-new-york-jets-b93a",
    "key": "depop:icfuldbemid-nike-reversible-new-york-jets-b93a",
    "url": "https://www.depop.com/products/icfuldbemid-nike-reversible-new-york-jets-b93a/",
-   "checkedAt": "2026-11-10T13:16:13Z",
+   "checkedAt": "2026-11-10T14:13:49Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -314,7 +304,7 @@
    "slug": "makjylalevins-healing-hands-hh360-noah-cargo-e1a6",
    "key": "depop:makjylalevins-healing-hands-hh360-noah-cargo-e1a6",
    "url": "https://www.depop.com/products/makjylalevins-healing-hands-hh360-noah-cargo-e1a6/",
-   "checkedAt": "2026-11-10T13:16:16Z",
+   "checkedAt": "2026-11-10T14:13:52Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -324,7 +314,7 @@
    "slug": "cocomnaps-apple-bottom-jeans-size-56-6a8e",
    "key": "depop:cocomnaps-apple-bottom-jeans-size-56-6a8e",
    "url": "https://www.depop.com/products/cocomnaps-apple-bottom-jeans-size-56-6a8e/",
-   "checkedAt": "2026-11-10T13:16:18Z",
+   "checkedAt": "2026-11-10T14:13:54Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -334,7 +324,7 @@
    "slug": "bb9jo_z0-ksubi-blue-denim-jacket-with-62f8",
    "key": "depop:bb9jo_z0-ksubi-blue-denim-jacket-with-62f8",
    "url": "https://www.depop.com/products/bb9jo_z0-ksubi-blue-denim-jacket-with-62f8/",
-   "checkedAt": "2026-11-10T13:16:20Z",
+   "checkedAt": "2026-11-10T14:13:56Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -344,7 +334,7 @@
    "slug": "canpbd137-ag-adriano-goldschmied-navy-denim-1f06",
    "key": "depop:canpbd137-ag-adriano-goldschmied-navy-denim-1f06",
    "url": "https://www.depop.com/products/canpbd137-ag-adriano-goldschmied-navy-denim-1f06/",
-   "checkedAt": "2026-11-10T13:16:22Z",
+   "checkedAt": "2026-11-10T14:14:00Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -354,7 +344,7 @@
    "slug": "lunisvintage-90s-greenblue-dallas-mavericks-blank-e87c",
    "key": "depop:lunisvintage-90s-greenblue-dallas-mavericks-blank-e87c",
    "url": "https://www.depop.com/products/lunisvintage-90s-greenblue-dallas-mavericks-blank-e87c/",
-   "checkedAt": "2026-11-10T13:16:26Z",
+   "checkedAt": "2026-11-10T14:14:03Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -364,7 +354,7 @@
    "slug": "dylwn_arg-grey-ben-davis-short-sleeve-fbc8",
    "key": "depop:dylwn_arg-grey-ben-davis-short-sleeve-fbc8",
    "url": "https://www.depop.com/products/dylwn_arg-grey-ben-davis-short-sleeve-fbc8/",
-   "checkedAt": "2026-11-10T13:16:29Z",
+   "checkedAt": "2026-11-10T14:14:06Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -374,7 +364,7 @@
    "slug": "alexeuvall-2000s-boot-cut-7-for-bce6",
    "key": "depop:alexeuvall-2000s-boot-cut-7-for-bce6",
    "url": "https://www.depop.com/products/alexeuvall-2000s-boot-cut-7-for-bce6/",
-   "checkedAt": "2026-11-10T13:16:32Z",
+   "checkedAt": "2026-11-10T14:14:07Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -384,7 +374,7 @@
    "slug": "orbitalplus3time-brown-cable-knit-quarter-zip-ba9a",
    "key": "depop:orbitalplus3time-brown-cable-knit-quarter-zip-ba9a",
    "url": "https://www.depop.com/products/orbitalplus3time-brown-cable-knit-quarter-zip-ba9a/",
-   "checkedAt": "2026-11-10T13:16:35Z",
+   "checkedAt": "2026-11-10T14:14:09Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -394,7 +384,7 @@
    "slug": "taa6y-wilfred-size-small-black-maxi-d36e",
    "key": "depop:taa6y-wilfred-size-small-black-maxi-d36e",
    "url": "https://www.depop.com/products/taa6y-wilfred-size-small-black-maxi-d36e/",
-   "checkedAt": "2026-11-10T13:16:38Z",
+   "checkedAt": "2026-11-10T14:14:11Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -404,7 +394,7 @@
    "slug": "dinguo627-kith-classics-gray-workout-hoodie-a162",
    "key": "depop:dinguo627-kith-classics-gray-workout-hoodie-a162",
    "url": "https://www.depop.com/products/dinguo627-kith-classics-gray-workout-hoodie-a162/",
-   "checkedAt": "2026-11-10T13:16:40Z",
+   "checkedAt": "2026-11-10T14:14:14Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -414,7 +404,7 @@
    "slug": "dcrosell8-brown-suede-birkenstock-boston-clogs-d509",
    "key": "depop:dcrosell8-brown-suede-birkenstock-boston-clogs-d509",
    "url": "https://www.depop.com/products/dcrosell8-brown-suede-birkenstock-boston-clogs-d509/",
-   "checkedAt": "2026-11-10T13:16:42Z",
+   "checkedAt": "2026-11-10T14:14:16Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -424,7 +414,7 @@
    "slug": "jenjezjenm-more-to-come-monroe-black-a089",
    "key": "depop:jenjezjenm-more-to-come-monroe-black-a089",
    "url": "https://www.depop.com/products/jenjezjenm-more-to-come-monroe-black-a089/",
-   "checkedAt": "2026-11-10T13:16:44Z",
+   "checkedAt": "2026-11-10T14:14:18Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
