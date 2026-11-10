@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-B001IAG7G2-1794270580-3",
+ "finishedAt": "2026-11-10T00:30:25Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B001IAG7G2",
+   "key": "B001IAG7G2",
+   "url": "https://www.amazon.com/dp/B001IAG7G2",
+   "checkedAt": "2026-11-10T00:30:25Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Aquaphor Advanced Therapy Healing Ointment, Value Pack, 2 X 0.35 OZ",
+   "brand": "Aquaphor",
+   "price": 6.97,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": null,
+   "listPriceKind": null,
+   "pctOff": 0.0,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "not shown",
+   "soldByAmazon": null,
+   "boughtPastMonth": 20000,
+   "rating": 4.8,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/71jhBAMw1hL._SL1500_.jpg",
+   "max": 6.97,
+   "verdict": "OK: 6.97 is at or under your max 6.97"
+  }
+ ]
+}
