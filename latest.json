@@ -2017,15 +2017,15 @@
   "asin": "B0G2D1R15Q",
   "boughtPastMonth": 10000,
   "brand": "Ring",
-  "checkedAt": "2026-11-10T02:18:26Z",
+  "checkedAt": "2026-11-10T07:46:58Z",
   "coupon": null,
-  "deal": "Limited time deal",
+  "deal": "Black Friday Deal",
   "inStock": true,
   "key": "B0G2D1R15Q",
   "listPrice": 99.99,
   "listPriceKind": "typical",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 39.99,
   "ok": true,
   "pctOff": 60.0,
   "photo": "https://m.media-amazon.com/images/I/71RqdVcRgDL._SL1500_.jpg",
@@ -2039,7 +2039,7 @@
   "status": "ok",
   "title": "Ring Battery Doorbell 2K (newest model) Retinal 2K with wide-angle video, up to 6x Enhanced Zoom, Two-Way Talk, and Built-In Battery, Matte Mocha",
   "url": "https://www.amazon.com/dp/B0G2D1R15Q",
-  "verdict": "OK: 39.99 is at or under your max 45.00"
+  "verdict": "OK: 39.99 is at or under your max 39.99"
  },
  "B0G2TGZ867": {
   "asin": "B0G2TGZ867",
