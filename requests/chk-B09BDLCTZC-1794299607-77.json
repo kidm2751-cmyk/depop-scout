@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-B09BDLCTZC-1794299607-77",
+ "finishedAt": "2026-11-10T08:34:12Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B09BDLCTZC",
+   "key": "B09BDLCTZC",
+   "url": "https://www.amazon.com/dp/B09BDLCTZC",
+   "checkedAt": "2026-11-10T08:34:12Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Philips Hue Indoor 3-Foot Smart LED Light Strip Extension - Flowing Multicolor Effect - Requires Base Kit - 1 Pack - Control with Hue App - Works with Alexa, Go",
+   "brand": "",
+   "price": 34.98,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 76.99,
+   "listPriceKind": "list",
+   "pctOff": 54.6,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "Quiverr Quiverr Sold by Quiverr",
+   "soldByAmazon": false,
+   "boughtPastMonth": 100,
+   "rating": 4.0,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/61RgBsouMQL._AC_SL1127_.jpg",
+   "max": 34.98,
+   "verdict": "OK: 34.98 is at or under your max 34.98"
+  }
+ ]
+}
