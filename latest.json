@@ -2832,11 +2832,10 @@
  "depop:gc_thrimt-levis-701-high-flare-jeans-407d": {
   "brand": "Levi's",
   "buyerFee": 1.63,
-  "checkedAt": "2026-11-09T19:09:50Z",
+  "checkedAt": "2026-11-10T22:19:48Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:gc_thrimt-levis-701-high-flare-jeans-407d",
-  "max": 16.01,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/43097105/5107895839_a17bee27f35c4c8a9850a769b753ee9d/P0.jpg",
   "platform": "depop",
@@ -2851,8 +2850,7 @@
   "tax": 1.38,
   "title": "Levi's 701 High Flare Jeans\nSize 26\n#highflare...",
   "totalCost": 23.51,
-  "url": "https://www.depop.com/products/gc_thrimt-levis-701-high-flare-jeans-407d/",
-  "verdict": "TOO HIGH: 23.51 total is over your max 16.01"
+  "url": "https://www.depop.com/products/gc_thrimt-levis-701-high-flare-jeans-407d/"
  },
  "depop:heodasshype-anti-social-social-club-x-da28": {
   "brand": "Anti Social Social Club",
@@ -3107,11 +3105,10 @@
  "depop:karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f": {
   "brand": "Nanamica",
   "buyerFee": 2.56,
-  "checkedAt": "2026-11-09T19:06:50Z",
+  "checkedAt": "2026-11-10T22:19:32Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f",
-  "max": 47.67,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/49478294/4937628013_4e534e8a7eff4818bc277f3de98e483a/P0.jpg",
   "platform": "depop",
@@ -3119,15 +3116,14 @@
   "seller": "karlaalonso07",
   "shipping": 8.0,
   "shippingKnown": false,
-  "size": "M",
+  "size": "9",
   "slug": "karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f",
   "sold": false,
   "status": "ok",
   "tax": 3.29,
   "title": "Tan vintage Nanamica jacket in size S but fits like...",
   "totalCost": 44.99,
-  "url": "https://www.depop.com/products/karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f/",
-  "verdict": "OK: 44.99 total is at or under your max 47.67"
+  "url": "https://www.depop.com/products/karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f/"
  },
  "depop:krs15paige-pearl-jam-2022-tour-tee-6fdb": {
   "brand": "Bella+Canvas",
@@ -3382,11 +3378,10 @@
  "depop:svwvn_242-rab-purple-blue-windbreaker-efc3": {
   "brand": "Rab",
   "buyerFee": 2.19,
-  "checkedAt": "2026-11-09T19:08:45Z",
+  "checkedAt": "2026-11-10T22:19:38Z",
   "condition": "Used",
-  "inStock": true,
+  "inStock": false,
   "key": "depop:svwvn_242-rab-purple-blue-windbreaker-efc3",
-  "max": 34.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/431089007/5096926662_07f62939f7b44aa195cde91239b84fd2/P0.jpg",
   "platform": "depop",
@@ -3396,13 +3391,13 @@
   "shippingKnown": false,
   "size": "US 7.5",
   "slug": "svwvn_242-rab-purple-blue-windbreaker-efc3",
-  "sold": false,
-  "status": "ok",
+  "sold": true,
+  "status": "sold",
   "tax": 2.53,
   "title": "Rab purple &amp; blue windbreaker jacket #outdoor #hiking",
   "totalCost": 36.52,
   "url": "https://www.depop.com/products/svwvn_242-rab-purple-blue-windbreaker-efc3/",
-  "verdict": "TOO HIGH: 36.52 total is over your max 34.00"
+  "verdict": "SOLD"
  },
  "depop:taa6y-wilfred-size-small-black-maxi-d36e": {
   "brand": "Aritzia",
@@ -3455,11 +3450,10 @@
  "depop:therealwiwf-g-star-raw-blue-denim-jacket-4339": {
   "brand": "G-Star",
   "buyerFee": 1.56,
-  "checkedAt": "2026-11-09T19:09:29Z",
+  "checkedAt": "2026-11-10T22:19:45Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:therealwiwf-g-star-raw-blue-denim-jacket-4339",
-  "max": 24.65,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/218384196/5079405063_4b809c8d779d4a3aa21cbc1bf2e34734/P0.jpg",
   "platform": "depop",
@@ -3474,8 +3468,7 @@
   "tax": 1.24,
   "title": "G-Star Raw blue denim jacket size 42 #gstar #denim",
   "totalCost": 22.0,
-  "url": "https://www.depop.com/products/therealwiwf-g-star-raw-blue-denim-jacket-4339/",
-  "verdict": "OK: 22.00 total is at or under your max 24.65"
+  "url": "https://www.depop.com/products/therealwiwf-g-star-raw-blue-denim-jacket-4339/"
  },
  "depop:tjp1i_433-green-fruit-of-the-loom-de2e": {
   "brand": "Fruit of the Loom",
