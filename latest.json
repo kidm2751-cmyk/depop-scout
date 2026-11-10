@@ -3,7 +3,7 @@
   "asin": "B0009H519Y",
   "boughtPastMonth": 8000,
   "brand": "Mothers",
-  "checkedAt": "2026-11-10T10:09:15Z",
+  "checkedAt": "2026-11-10T15:14:43Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -11,7 +11,7 @@
   "listPrice": 15.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 9.98,
+  "max": 45.0,
   "ok": true,
   "pctOff": 37.6,
   "photo": "https://m.media-amazon.com/images/I/61TbYacFrnL._AC_SL1500_.jpg",
@@ -25,7 +25,7 @@
   "status": "ok",
   "title": "Mothers Mag & Aluminum Polish, 10 oz. (05101)",
   "url": "https://www.amazon.com/dp/B0009H519Y",
-  "verdict": "OK: 9.98 is at or under your max 9.98"
+  "verdict": "OK: 9.98 is at or under your max 45.00"
  },
  "B000ND5EVY": {
   "asin": "B000ND5EVY",
@@ -59,7 +59,7 @@
   "asin": "B00112DTRC",
   "boughtPastMonth": 700,
   "brand": "MAYBELLINE",
-  "checkedAt": "2026-11-10T10:05:28Z",
+  "checkedAt": "2026-11-10T15:14:46Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -67,7 +67,7 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 6.82,
+  "max": 45.0,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/61KbNJgwxPL._SL1500_.jpg",
@@ -81,7 +81,7 @@
   "status": "ok",
   "title": "Maybelline Great Lash Curved Brush Washable Mascara, Volumizing, Lengthening and Curling Mascara, Blackest Black, 1 Count",
   "url": "https://www.amazon.com/dp/B00112DTRC",
-  "verdict": "OK: 6.82 is at or under your max 6.82"
+  "verdict": "OK: 6.82 is at or under your max 45.00"
  },
  "B001GAOTUK": {
   "asin": "B001GAOTUK",
@@ -115,7 +115,7 @@
   "asin": "B001IAG7G2",
   "boughtPastMonth": 20000,
   "brand": "Aquaphor",
-  "checkedAt": "2026-11-10T10:05:14Z",
+  "checkedAt": "2026-11-10T15:14:48Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -123,7 +123,7 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 6.97,
+  "max": 45.0,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/71jhBAMw1hL._SL1500_.jpg",
@@ -137,7 +137,7 @@
   "status": "ok",
   "title": "Aquaphor Advanced Therapy Healing Ointment, Value Pack, 2 X 0.35 OZ",
   "url": "https://www.amazon.com/dp/B001IAG7G2",
-  "verdict": "OK: 6.97 is at or under your max 6.97"
+  "verdict": "OK: 6.97 is at or under your max 45.00"
  },
  "B00251EHJW": {
   "asin": "B00251EHJW",
