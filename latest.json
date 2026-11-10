@@ -449,7 +449,7 @@
   "asin": "B07L6QQD8R",
   "boughtPastMonth": 7000,
   "brand": "",
-  "checkedAt": "2026-11-10T02:19:19Z",
+  "checkedAt": "2026-11-10T07:46:06Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -457,7 +457,7 @@
   "listPrice": 25.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 14.99,
   "ok": true,
   "pctOff": 42.3,
   "photo": "https://m.media-amazon.com/images/I/61IFl+wBsaL._AC_SL1000_.jpg",
@@ -471,7 +471,7 @@
   "status": "ok",
   "title": "GORILLA GRIP\u00ae Extra Thick Foam Kneeling Pad for Gardening, 17.5x11 Black",
   "url": "https://www.amazon.com/dp/B07L6QQD8R",
-  "verdict": "OK: 14.99 is at or under your max 45.00"
+  "verdict": "OK: 14.99 is at or under your max 14.99"
  },
  "B07VS46CXT": {
   "asin": "B07VS46CXT",
