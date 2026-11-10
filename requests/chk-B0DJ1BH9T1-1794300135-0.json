@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-B0DJ1BH9T1-1794300135-0",
+ "finishedAt": "2026-11-10T08:43:00Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0DJ1BH9T1",
+   "key": "B0DJ1BH9T1",
+   "url": "https://www.amazon.com/dp/B0DJ1BH9T1",
+   "checkedAt": "2026-11-10T08:43:00Z",
+   "ok": true,
+   "status": "ok",
+   "title": "LEGO City Off-Road 4x4 Mountain Truck 60447",
+   "brand": "",
+   "price": 19.96,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": null,
+   "listPriceKind": null,
+   "pctOff": 0.0,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "not shown",
+   "soldByAmazon": null,
+   "boughtPastMonth": 10000,
+   "rating": 4.9,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/81+WgQzIFGL._AC_SL1500_.jpg",
+   "max": 45.0,
+   "verdict": "OK: 19.96 is at or under your max 45.00"
+  }
+ ]
+}
