@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-B0FPLSGN7D-1794299231-75",
+ "finishedAt": "2026-11-10T08:32:40Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0FPLSGN7D",
+   "key": "B0FPLSGN7D",
+   "url": "https://www.amazon.com/dp/B0FPLSGN7D",
+   "checkedAt": "2026-11-10T08:32:40Z",
+   "ok": true,
+   "status": "ok",
+   "title": "G4Free Diaper Bag Backpack for Moms Dads Travel Baby Bag with Pacifier Case & Insulated Pockets,Black",
+   "brand": "G4Free",
+   "price": 18.39,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 36.99,
+   "listPriceKind": "typical",
+   "pctOff": 50.3,
+   "lowestIn30Days": false,
+   "deal": "Limited time deal",
+   "inStock": true,
+   "seller": "G4Free G4Free Sold by G4Free",
+   "soldByAmazon": false,
+   "boughtPastMonth": 50,
+   "rating": 4.4,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/71i5l4-xhbL._AC_SL1500_.jpg",
+   "max": 18.39,
+   "verdict": "OK: 18.39 is at or under your max 18.39"
+  }
+ ]
+}
