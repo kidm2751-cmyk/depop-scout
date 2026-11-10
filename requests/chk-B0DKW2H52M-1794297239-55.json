@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-B0DKW2H52M-1794297239-55",
+ "finishedAt": "2026-11-10T07:54:49Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0DKW2H52M",
+   "key": "B0DKW2H52M",
+   "url": "https://www.amazon.com/dp/B0DKW2H52M",
+   "checkedAt": "2026-11-10T07:54:49Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Resident Evil 2 - PlayStation 5",
+   "brand": "Capcom",
+   "price": 15.19,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 29.99,
+   "listPriceKind": "list",
+   "pctOff": 49.3,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "Amazon Resale",
+   "soldByAmazon": true,
+   "boughtPastMonth": 2000,
+   "rating": 4.8,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/81w7DlVxvDL._SL1500_.jpg",
+   "max": 15.19,
+   "verdict": "OK: 15.19 is at or under your max 15.19"
+  }
+ ]
+}
