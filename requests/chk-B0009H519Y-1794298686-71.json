@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-B0009H519Y-1794298686-71",
+ "finishedAt": "2026-11-10T08:19:09Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0009H519Y",
+   "key": "B0009H519Y",
+   "url": "https://www.amazon.com/dp/B0009H519Y",
+   "checkedAt": "2026-11-10T08:19:08Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Mothers Mag & Aluminum Polish, 10 oz. (05101)",
+   "brand": "Mothers",
+   "price": 9.98,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 15.99,
+   "listPriceKind": "list",
+   "pctOff": 37.6,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "Tworider Direct",
+   "soldByAmazon": false,
+   "boughtPastMonth": 8000,
+   "rating": 4.6,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/61TbYacFrnL._AC_SL1500_.jpg",
+   "max": 9.98,
+   "verdict": "OK: 9.98 is at or under your max 9.98"
+  }
+ ]
+}

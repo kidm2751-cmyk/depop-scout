@@ -3,7 +3,7 @@
   "asin": "B0009H519Y",
   "boughtPastMonth": 8000,
   "brand": "Mothers",
-  "checkedAt": "2026-11-10T02:18:50Z",
+  "checkedAt": "2026-11-10T08:19:08Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -11,7 +11,7 @@
   "listPrice": 15.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 9.98,
   "ok": true,
   "pctOff": 37.6,
   "photo": "https://m.media-amazon.com/images/I/61TbYacFrnL._AC_SL1500_.jpg",
@@ -25,7 +25,7 @@
   "status": "ok",
   "title": "Mothers Mag & Aluminum Polish, 10 oz. (05101)",
   "url": "https://www.amazon.com/dp/B0009H519Y",
-  "verdict": "OK: 9.98 is at or under your max 45.00"
+  "verdict": "OK: 9.98 is at or under your max 9.98"
  },
  "B000ND5EVY": {
   "asin": "B000ND5EVY",
