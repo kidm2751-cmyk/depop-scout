@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-B0GZ2RSJVY-1794274134-48",
+ "finishedAt": "2026-11-10T01:29:44Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0GZ2RSJVY",
+   "key": "B0GZ2RSJVY",
+   "url": "https://www.amazon.com/dp/B0GZ2RSJVY",
+   "checkedAt": "2026-11-10T01:29:44Z",
+   "ok": true,
+   "status": "ok",
+   "title": "hahaland Electric Train Set for Kids Ages 4-8, Flexible Race Track - 64PCs",
+   "brand": "hahaland",
+   "price": 27.98,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 69.99,
+   "listPriceKind": "list",
+   "pctOff": 60.0,
+   "lowestIn30Days": false,
+   "deal": "Limited time deal",
+   "inStock": true,
+   "seller": "Hahaland Toy Store",
+   "soldByAmazon": false,
+   "boughtPastMonth": 800,
+   "rating": 4.4,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/71N3XlIZHWL._AC_SL1500_.jpg",
+   "max": 37.86,
+   "verdict": "OK: 27.98 is at or under your max 37.86"
+  }
+ ]
+}
