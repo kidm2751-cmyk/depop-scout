@@ -895,9 +895,9 @@
  },
  "B09RZSQ34K": {
   "asin": "B09RZSQ34K",
-  "boughtPastMonth": 50,
+  "boughtPastMonth": null,
   "brand": "STANLEY",
-  "checkedAt": "2026-11-10T00:45:15Z",
+  "checkedAt": "2026-11-10T06:18:44Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
