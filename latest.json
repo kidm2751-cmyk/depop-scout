@@ -2183,9 +2183,9 @@
  },
  "B0GBYRJ4WZ": {
   "asin": "B0GBYRJ4WZ",
-  "boughtPastMonth": 10000,
+  "boughtPastMonth": 9000,
   "brand": "LMOYPD",
-  "checkedAt": "2026-11-10T01:24:34Z",
+  "checkedAt": "2026-11-10T07:44:03Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -2195,10 +2195,10 @@
   "lowestIn30Days": false,
   "max": 9.47,
   "ok": true,
-  "pctOff": 29.9,
+  "pctOff": 29.8,
   "photo": "https://m.media-amazon.com/images/I/51x0O+t7alL._AC_SL1500_.jpg",
   "platform": "amazon",
-  "price": 6.98,
+  "price": 6.99,
   "priceAfterCoupon": null,
   "rating": 4.2,
   "reviews": null,
@@ -2207,7 +2207,7 @@
   "status": "ok",
   "title": "Magsafe Charger Magnetic Wireless Charge iPhone: Strong Magnet Charging Pad",
   "url": "https://www.amazon.com/dp/B0GBYRJ4WZ",
-  "verdict": "OK: 6.98 is at or under your max 9.47"
+  "verdict": "OK: 6.99 is at or under your max 9.47"
  },
  "B0GVGWNDMX": {
   "asin": "B0GVGWNDMX",
