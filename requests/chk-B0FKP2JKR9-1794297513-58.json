@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-B0FKP2JKR9-1794297513-58",
+ "finishedAt": "2026-11-10T07:59:14Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0FKP2JKR9",
+   "key": "B0FKP2JKR9",
+   "url": "https://www.amazon.com/dp/B0FKP2JKR9",
+   "checkedAt": "2026-11-10T07:59:14Z",
+   "ok": true,
+   "status": "ok",
+   "title": "SwimWays Rainbow Reef Shark Water-Activated Pool Toy for Ages 5+",
+   "brand": "SwimWays",
+   "price": 9.49,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 21.99,
+   "listPriceKind": "list",
+   "pctOff": 56.8,
+   "lowestIn30Days": false,
+   "deal": "Limited time deal",
+   "inStock": true,
+   "seller": "Amazon Resale",
+   "soldByAmazon": true,
+   "boughtPastMonth": 500,
+   "rating": 4.4,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/818BEH3-xSL._AC_SL1500_.jpg",
+   "max": 9.49,
+   "verdict": "OK: 9.49 is at or under your max 9.49"
+  }
+ ]
+}
