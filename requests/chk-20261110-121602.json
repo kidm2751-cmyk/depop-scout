@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-20261110-121602",
+ "finishedAt": "2026-11-10T12:17:16Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0F496FR73",
+   "key": "B0F496FR73",
+   "url": "https://www.amazon.com/dp/B0F496FR73",
+   "checkedAt": "2026-11-10T12:17:16Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Nautica Voyage Intense Eau de Toilette, Men's Fragrance, 1.6 fl oz",
+   "brand": "Nautica",
+   "price": 23.66,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 36.99,
+   "listPriceKind": "list",
+   "pctOff": 36.0,
+   "lowestIn30Days": true,
+   "deal": null,
+   "inStock": true,
+   "seller": "not shown",
+   "soldByAmazon": null,
+   "boughtPastMonth": 500,
+   "rating": 4.4,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/61UFsdpRj7L._SL1500_.jpg",
+   "max": 24.19,
+   "verdict": "OK: 23.66 is at or under your max 24.19"
+  }
+ ]
+}
