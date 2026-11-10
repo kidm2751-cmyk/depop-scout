@@ -617,7 +617,7 @@
   "asin": "B08JY653PJ",
   "boughtPastMonth": 3000,
   "brand": "",
-  "checkedAt": "2026-11-10T02:19:04Z",
+  "checkedAt": "2026-11-10T08:28:00Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -625,7 +625,7 @@
   "listPrice": 12.57,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 7.5,
   "ok": true,
   "pctOff": 40.3,
   "photo": "https://m.media-amazon.com/images/I/81BVO1JCPxL._AC_SL1500_.jpg",
@@ -634,12 +634,12 @@
   "priceAfterCoupon": null,
   "rating": 4.6,
   "reviews": null,
-  "seller": "not shown",
-  "soldByAmazon": null,
+  "seller": "Amazon Resale",
+  "soldByAmazon": true,
   "status": "ok",
   "title": "Sharpie S-Gel Pens, Ultra Fine Point (0.38mm), Black Gel Ink, 4 Count",
   "url": "https://www.amazon.com/dp/B08JY653PJ",
-  "verdict": "OK: 7.50 is at or under your max 45.00"
+  "verdict": "OK: 7.50 is at or under your max 7.50"
  },
  "B08X9SFGVW": {
   "asin": "B08X9SFGVW",
