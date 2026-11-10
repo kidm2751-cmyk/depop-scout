@@ -757,7 +757,7 @@
   "asin": "B09GF1ND4D",
   "boughtPastMonth": 10000,
   "brand": "",
-  "checkedAt": "2026-11-10T02:18:48Z",
+  "checkedAt": "2026-11-10T08:17:45Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -765,7 +765,7 @@
   "listPrice": 9.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 6.17,
   "ok": true,
   "pctOff": 38.2,
   "photo": "https://m.media-amazon.com/images/I/61cwQolPreL._AC_SL1500_.jpg",
@@ -779,7 +779,7 @@
   "status": "ok",
   "title": "OFF! Clean Feel Picaridin Insect & Mosquito Repellent Bug Spray, 5 oz",
   "url": "https://www.amazon.com/dp/B09GF1ND4D",
-  "verdict": "OK: 6.17 is at or under your max 45.00"
+  "verdict": "OK: 6.17 is at or under your max 6.17"
  },
  "B09GTRVJQM": {
   "asin": "B09GTRVJQM",
