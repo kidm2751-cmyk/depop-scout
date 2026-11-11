@@ -1,3 +1,4 @@
+sha: 5aa43408bf00bf63c5e1e6ab9f879e9bd91d06b9
 sha: e158543ecf4523be26356189495cd44cb0e129b2
 # Amazon watchlist: checked every hour. One item per line:
 #   ASIN (or Amazon link)   your max buy price (optional)   a note (optional)
@@ -6,7 +7,7 @@ sha: e158543ecf4523be26356189495cd44cb0e129b2
 # Example (remove the # to use it):
 # B09BNGBLQK 32.50 LEGO police station, listed on eBay at 54.99
 B0DJ1BV2TX 18.61 LEGO Charms Class 76442, listed on eBay at 29.69
-B09RZSQ34K 27.68 STANLEY screwdriver set 10pc, listed on eBay at 44.84
+B09RZSQ34K 31.29 STANLEY screwdriver set 10pc, listed on eBay at 49.86
 B0DZFGTCLR 13.78 Innqoo candle warmer lamp, listed on eBay at 22.98
 B0C5FMWXSG 22.42 YAHTZEE Hello Kitty, listed on eBay at 34.98
 B0GVGWNDMX 20.43 AT-A-GLANCE 2027 wall calendar, listed on eBay at 34.76
@@ -41,7 +42,7 @@ B000ND5EVY 8.46 Hunters Specialties Scent Wafers 3-pack, listed on eBay at 15.58
 B0FMS9ST4S 5.99 LEGO City Gaming Race Car 60484, listed on eBay at 12.15
 B0FRFZ4R4Y 24.99 OlarHike Packing Cubes 8-set, listed on eBay at 41.10
 B09KMGVYJJ 13.04 G.I. Joe Classified Xamot, listed on eBay at 21.95
-B0D6Z814Y7 8.85 MAM Original Pacifier 4-pack 0-6 months, listed on eBay at 16.13
+B0D6Z814Y7 11.14 MAM Original Pacifier 4-pack 0-6 months, listed on eBay at 19.30
 B00251EHJW 19.99 Prismacolor Premier Graphite Drawing Set 18ct, listed on eBay at 34.16
 B0FMS7CRHX 9.89 LEGO Botanicals Daisies 11508, listed on eBay at 17.57
 B0DR3ZFQC6 43.99 Hot Wheels Mega Loop Garage Track Set, listed on eBay at 70.05
@@ -87,7 +88,7 @@ https://www.depop.com/products/gc_thrimt-levis-701-high-flare-jeans-407d/ 16.01 
 https://www.depop.com/products/junof_363-burton-purple-puffer-jacket-size-54a9/ 26.80 Burton purple/pink puffer jacket women's XL, listed on eBay at 49.99
 
 
-B0C26J6Y4H 16.95 Funko Pop! Naruto Jiraiya Sage Mode, listed on eBay at 29.93
+B0C26J6Y4H 18.79 Funko Pop! Naruto Jiraiya Sage Mode, listed on eBay at 29.93
 B09XFH6NY4 39.99 Spigen Rugged Armor Pro Steam Deck case, listed on eBay at 61.95
 B0G5PHH8B3 7.68 Amathley Lunch Box Bento Box Green, listed on eBay at 14.49
 B0GBYRJ4WZ 9.47 LMOYPD MagSafe Charger, listed on eBay at 16.99
@@ -125,7 +126,6 @@ B0CR1P4XJY 8.99 CYOEST STEM DIY FM Radio Kit, listed on eBay at 16.32
 B09JKVJCQZ 4.99 LEGO Classic White Baseplate 11026, listed on eBay at 10.76
 B07D4RN9NH 10.49 Crayola Twistables Colored Pencil Set 50ct, listed on eBay at 18.40
 B0FK5SMHY5 9.49 Squishmallows Cam Graduation Cap 12in, listed on eBay at 17.01
-B0C6W3D4RM 21.99 Fire TV Stick 4K Select, listed on eBay at 36.93
 B07GBZ4Q68 37.99 Logitech G502 HERO, listed on eBay at 61.72
 B0FQF5RBZ9 22.00 iPhone 17 Pro Silicone Case Purple Fog, listed on eBay at 36.94
 B003O2RXUQ 6.97 Five Star Spiral Notebook 5 Subject, listed on eBay at 13.51
@@ -150,4 +150,9 @@ B0G2BMQ9Q6 4.99 Attitill 2026-2027 Academic Planner, listed on eBay at 10.76
 
 
 https://www.depop.com/products/noahs_fvshion-tory-burch-18k-gold-plated-logo-4cc2/ 27.47 Tory Burch 18K gold-plated logo necklace & stud earrings set, listed on eBay at 50.91
-
+B08HH572QR 12.32 Funko POP! Jurassic Park Alpha Raptor, listed on eBay at 20.94
+B0CW8GWLX7 12.86 Melissa & Doug Ms. Rachel Wooden Learning Blocks, listed on eBay at 21.69
+B0DRW6CD5D 47.53 LEGO Friends Travel Boat Adventure 42664, listed on eBay at 74.98
+B0G1VF5ZCR 16.42 Hot Wheels 1:64 RC Dodge Viper ACR, listed on eBay at 26.64
+B07DHBCRLH 7.46 LEGO Star Wars BB-9E Keyring, listed on eBay at 14.19
+B0BYN82YBX 11.99 Nerf Elite 2.0 Slyshot Blaster, listed on eBay at 20.48
