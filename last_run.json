@@ -1,7 +1,7 @@
 {
  "ok": false,
- "requestId": "chk-20261111-130959",
- "finishedAt": "2026-11-11T13:11:04Z",
+ "requestId": "chk-20261111-131632",
+ "finishedAt": "2026-11-11T13:17:43Z",
  "checked": 9,
  "items": [
   {
@@ -9,7 +9,7 @@
    "slug": "karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f",
    "key": "depop:karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f",
    "url": "https://www.depop.com/products/karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f/",
-   "checkedAt": "2026-11-11T13:10:38Z",
+   "checkedAt": "2026-11-11T13:17:08Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -19,7 +19,7 @@
    "slug": "youdiversal-nike-jacket-navy-size-medium-7a0f",
    "key": "depop:youdiversal-nike-jacket-navy-size-medium-7a0f",
    "url": "https://www.depop.com/products/youdiversal-nike-jacket-navy-size-medium-7a0f/",
-   "checkedAt": "2026-11-11T13:10:41Z",
+   "checkedAt": "2026-11-11T13:17:12Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -29,17 +29,32 @@
    "slug": "canpbd137-ag-adriano-goldschmied-navy-denim-1f06",
    "key": "depop:canpbd137-ag-adriano-goldschmied-navy-denim-1f06",
    "url": "https://www.depop.com/products/canpbd137-ag-adriano-goldschmied-navy-denim-1f06/",
-   "checkedAt": "2026-11-11T13:10:45Z",
-   "ok": false,
-   "status": "blocked",
-   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+   "checkedAt": "2026-11-11T13:17:17Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "AG Adriano Goldschmied navy denim jacket #denim...",
+   "brand": "AG Jeans",
+   "price": 8.0,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 1.4,
+   "tax": 0.92,
+   "totalCost": 18.32,
+   "size": "M",
+   "condition": "Used",
+   "seller": "canpb_137",
+   "photo": "https://media-photos.depop.com/r1/486147400/5110200061_32c0a5ec03b042958a07e13b2368a382/P0.jpg",
+   "max": 60.0,
+   "verdict": "OK: 18.32 total is at or under your max 60.00"
   },
   {
    "platform": "depop",
    "slug": "dylwn_arg-grey-ben-davis-short-sleeve-fbc8",
    "key": "depop:dylwn_arg-grey-ben-davis-short-sleeve-fbc8",
    "url": "https://www.depop.com/products/dylwn_arg-grey-ben-davis-short-sleeve-fbc8/",
-   "checkedAt": "2026-11-11T13:10:51Z",
+   "checkedAt": "2026-11-11T13:17:20Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -49,7 +64,7 @@
    "slug": "jorvangoods23-house-of-cb-clip-on-earrings-0e17",
    "key": "depop:jorvangoods23-house-of-cb-clip-on-earrings-0e17",
    "url": "https://www.depop.com/products/jorvangoods23-house-of-cb-clip-on-earrings-0e17/",
-   "checkedAt": "2026-11-11T13:10:54Z",
+   "checkedAt": "2026-11-11T13:17:25Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -59,7 +74,7 @@
    "slug": "junof_363-burton-purple-puffer-jacket-size-54a9",
    "key": "depop:junof_363-burton-purple-puffer-jacket-size-54a9",
    "url": "https://www.depop.com/products/junof_363-burton-purple-puffer-jacket-size-54a9/",
-   "checkedAt": "2026-11-11T13:10:55Z",
+   "checkedAt": "2026-11-11T13:17:31Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -69,7 +84,7 @@
    "slug": "noahs_fvshion-tory-burch-18k-gold-plated-logo-4cc2",
    "key": "depop:noahs_fvshion-tory-burch-18k-gold-plated-logo-4cc2",
    "url": "https://www.depop.com/products/noahs_fvshion-tory-burch-18k-gold-plated-logo-4cc2/",
-   "checkedAt": "2026-11-11T13:10:58Z",
+   "checkedAt": "2026-11-11T13:17:36Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -79,7 +94,7 @@
    "slug": "taa6y-wilfred-size-small-black-maxi-d36e",
    "key": "depop:taa6y-wilfred-size-small-black-maxi-d36e",
    "url": "https://www.depop.com/products/taa6y-wilfred-size-small-black-maxi-d36e/",
-   "checkedAt": "2026-11-11T13:11:00Z",
+   "checkedAt": "2026-11-11T13:17:39Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
@@ -89,7 +104,7 @@
    "slug": "v_rguyen23-pleasures-black-t-shirt-new-without-05ec",
    "key": "depop:v_rguyen23-pleasures-black-t-shirt-new-without-05ec",
    "url": "https://www.depop.com/products/v_rguyen23-pleasures-black-t-shirt-new-without-05ec/",
-   "checkedAt": "2026-11-11T13:11:02Z",
+   "checkedAt": "2026-11-11T13:17:41Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
