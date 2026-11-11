@@ -87,7 +87,7 @@
   "asin": "B001GAOTUK",
   "boughtPastMonth": 900,
   "brand": "PILOT",
-  "checkedAt": "2026-11-11T06:48:14Z",
+  "checkedAt": "2026-11-11T12:11:47Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -95,7 +95,7 @@
   "listPrice": 27.49,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 20.73,
+  "max": 45.0,
   "ok": true,
   "pctOff": 49.2,
   "photo": "https://m.media-amazon.com/images/I/71K7bQyaDJL._AC_SL1500_.jpg",
@@ -109,13 +109,13 @@
   "status": "ok",
   "title": "PILOT Precise V5 Stick Pens, Extra Fine Point 0.5mm, Red, 12-Pack",
   "url": "https://www.amazon.com/dp/B001GAOTUK",
-  "verdict": "OK: 13.97 is at or under your max 20.73"
+  "verdict": "OK: 13.97 is at or under your max 45.00"
  },
  "B001IAG7G2": {
   "asin": "B001IAG7G2",
   "boughtPastMonth": 20000,
   "brand": "Aquaphor",
-  "checkedAt": "2026-11-11T06:48:42Z",
+  "checkedAt": "2026-11-11T12:12:21Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -123,7 +123,7 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 6.97,
+  "max": 45.0,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/71jhBAMw1hL._SL1500_.jpg",
@@ -137,7 +137,7 @@
   "status": "ok",
   "title": "Aquaphor Advanced Therapy Healing Ointment, Value Pack, 2 X 0.35 OZ",
   "url": "https://www.amazon.com/dp/B001IAG7G2",
-  "verdict": "OK: 6.97 is at or under your max 6.97"
+  "verdict": "OK: 6.97 is at or under your max 45.00"
  },
  "B00251EHJW": {
   "asin": "B00251EHJW",
@@ -393,7 +393,7 @@
   "asin": "B07F4KMBHL",
   "boughtPastMonth": 700,
   "brand": "",
-  "checkedAt": "2026-11-11T06:48:27Z",
+  "checkedAt": "2026-11-11T12:11:59Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -401,7 +401,7 @@
   "listPrice": 10.79,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 6.56,
+  "max": 45.0,
   "ok": true,
   "pctOff": 44.5,
   "photo": "https://m.media-amazon.com/images/I/61LFU1ZkkgL._AC_SL1500_.jpg",
@@ -415,7 +415,7 @@
   "status": "ok",
   "title": "Liquitex BASICS Acrylic Paint, 4-oz Tube, Green Gray",
   "url": "https://www.amazon.com/dp/B07F4KMBHL",
-  "verdict": "OK: 5.99 is at or under your max 6.56"
+  "verdict": "OK: 5.99 is at or under your max 45.00"
  },
  "B07GBZ4Q68": {
   "asin": "B07GBZ4Q68",
@@ -477,7 +477,7 @@
   "asin": "B07VS46CXT",
   "boughtPastMonth": 900,
   "brand": "Play-Doh",
-  "checkedAt": "2026-11-11T06:48:50Z",
+  "checkedAt": "2026-11-11T12:12:27Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -485,7 +485,7 @@
   "listPrice": 21.99,
   "listPriceKind": "typical",
   "lowestIn30Days": false,
-  "max": 9.99,
+  "max": 45.0,
   "ok": true,
   "pctOff": 54.6,
   "photo": "https://m.media-amazon.com/images/I/716fEUJOIfL._AC_SL1500_.jpg",
@@ -499,7 +499,7 @@
   "status": "ok",
   "title": "Play-Doh Eggs 24-Pack, Dinosaur & Dragon Egg Hunt Toys, Modeling Compound for Birthday Gifts & Party Favors, Easter Basket Stuffers, Kids Ages 2 and Up (Amazon ",
   "url": "https://www.amazon.com/dp/B07VS46CXT",
-  "verdict": "OK: 9.99 is at or under your max 9.99"
+  "verdict": "OK: 9.99 is at or under your max 45.00"
  },
  "B07YSXX7SB": {
   "asin": "B07YSXX7SB",
@@ -531,9 +531,9 @@
  },
  "B086H4FKD9": {
   "asin": "B086H4FKD9",
-  "boughtPastMonth": 8000,
+  "boughtPastMonth": 7000,
   "brand": "Chuckit!",
-  "checkedAt": "2026-11-11T06:48:44Z",
+  "checkedAt": "2026-11-11T12:12:23Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -541,7 +541,7 @@
   "listPrice": 21.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 10.79,
+  "max": 45.0,
   "ok": true,
   "pctOff": 50.9,
   "photo": "https://m.media-amazon.com/images/I/81hwG8pXWsL._AC_SL1500_.jpg",
@@ -555,13 +555,13 @@
   "status": "ok",
   "title": "Chuckit! Ultra and Rugged Dog Balls, High-Bounce Fetch, Medium, Set of 3",
   "url": "https://www.amazon.com/dp/B086H4FKD9",
-  "verdict": "OK: 10.79 is at or under your max 10.79"
+  "verdict": "OK: 10.79 is at or under your max 45.00"
  },
  "B08817H6HS": {
   "asin": "B08817H6HS",
   "boughtPastMonth": 10000,
   "brand": "BeeVines",
-  "checkedAt": "2026-11-11T06:48:22Z",
+  "checkedAt": "2026-11-11T12:11:40Z",
   "coupon": "5% off coupon",
   "deal": null,
   "inStock": true,
@@ -569,7 +569,7 @@
   "listPrice": 13.11,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 11.03,
+  "max": 45.0,
   "ok": true,
   "pctOff": 31.4,
   "photo": "https://m.media-amazon.com/images/I/61AkmB-Ha5L._AC_SL1500_.jpg",
@@ -583,7 +583,7 @@
   "status": "ok",
   "title": "100% Mulberry Silk Sleep Mask, Light Blocking Eye Masks (2 Packs)",
   "url": "https://www.amazon.com/dp/B08817H6HS",
-  "verdict": "OK: 8.54 is at or under your max 11.03"
+  "verdict": "OK: 8.54 is at or under your max 45.00"
  },
  "B08HB8JF5G": {
   "asin": "B08HB8JF5G",
@@ -701,7 +701,7 @@
   "asin": "B098TQDLY6",
   "boughtPastMonth": 50,
   "brand": "YouTheFan",
-  "checkedAt": "2026-11-11T06:48:30Z",
+  "checkedAt": "2026-11-11T12:12:02Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -709,7 +709,7 @@
   "listPrice": 29.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 16.24,
+  "max": 45.0,
   "ok": true,
   "pctOff": 48.3,
   "photo": "https://m.media-amazon.com/images/I/81RHii7U0gS._AC_SL1500_.jpg",
@@ -723,7 +723,7 @@
   "status": "ok",
   "title": "YouTheFan NFL Cincinnati Bengals 3D Logo Series Wall Art",
   "url": "https://www.amazon.com/dp/B098TQDLY6",
-  "verdict": "OK: 15.50 is at or under your max 16.24"
+  "verdict": "OK: 15.50 is at or under your max 45.00"
  },
  "B09BDLCTZC": {
   "asin": "B09BDLCTZC",
@@ -925,7 +925,7 @@
   "asin": "B09RZSQ34K",
   "boughtPastMonth": 50,
   "brand": "STANLEY",
-  "checkedAt": "2026-11-11T09:12:11Z",
+  "checkedAt": "2026-11-11T12:11:32Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -933,12 +933,12 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 25.85,
+  "max": 45.0,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/61g9BskxADL._AC_SL1500_.jpg",
   "platform": "amazon",
-  "price": 29.46,
+  "price": 27.68,
   "priceAfterCoupon": null,
   "rating": 4.4,
   "reviews": null,
@@ -947,7 +947,7 @@
   "status": "ok",
   "title": "STANLEY Screwdriver Set, 10 Piece, Cross-Tip & Slotted (STHT60799)",
   "url": "https://www.amazon.com/dp/B09RZSQ34K",
-  "verdict": "TOO HIGH: 29.46 is over your max 25.85"
+  "verdict": "OK: 27.68 is at or under your max 45.00"
  },
  "B09XFH6NY4": {
   "asin": "B09XFH6NY4",
@@ -1121,7 +1121,7 @@
   "asin": "B0C5FMWXSG",
   "boughtPastMonth": 200,
   "brand": "USAOPOLY",
-  "checkedAt": "2026-11-11T06:48:05Z",
+  "checkedAt": "2026-11-11T12:11:52Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1129,7 +1129,7 @@
   "listPrice": 23.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 22.42,
+  "max": 45.0,
   "ok": true,
   "pctOff": 45.9,
   "photo": "https://m.media-amazon.com/images/I/716VyAB6B9L._AC_SL1500_.jpg",
@@ -1143,7 +1143,7 @@
   "status": "ok",
   "title": "YAHTZEE: Hello Kitty and Friends, Collectible Head Dice Cup, Classic Family Dice Game, Officially Licensed Sanrio Game & Merchandise",
   "url": "https://www.amazon.com/dp/B0C5FMWXSG",
-  "verdict": "OK: 12.97 is at or under your max 22.42"
+  "verdict": "OK: 12.97 is at or under your max 45.00"
  },
  "B0C6W3D4RM": {
   "asin": "B0C6W3D4RM",
@@ -1177,7 +1177,7 @@
   "asin": "B0CC86TQV7",
   "boughtPastMonth": 3000,
   "brand": "BAGSMART",
-  "checkedAt": "2026-11-11T06:48:48Z",
+  "checkedAt": "2026-11-11T12:12:25Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1185,7 +1185,7 @@
   "listPrice": 16.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 9.99,
+  "max": 45.0,
   "ok": true,
   "pctOff": 41.2,
   "photo": "https://m.media-amazon.com/images/I/61V62f+QYjL._AC_SL1500_.jpg",
@@ -1199,7 +1199,7 @@
   "status": "ok",
   "title": "BAGSMART Makeup Bag Travel Toiletry Bag, Wide-open Zipper Pouch, Pink",
   "url": "https://www.amazon.com/dp/B0CC86TQV7",
-  "verdict": "OK: 9.99 is at or under your max 9.99"
+  "verdict": "OK: 9.99 is at or under your max 45.00"
  },
  "B0CKYJ63SG": {
   "asin": "B0CKYJ63SG",
@@ -1289,7 +1289,7 @@
   "asin": "B0CWZXTKQB",
   "boughtPastMonth": 1000,
   "brand": "MoKo",
-  "checkedAt": "2026-11-11T06:48:52Z",
+  "checkedAt": "2026-11-11T12:12:30Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1297,7 +1297,7 @@
   "listPrice": 13.99,
   "listPriceKind": "typical",
   "lowestIn30Days": false,
-  "max": 9.99,
+  "max": 45.0,
   "ok": true,
   "pctOff": 28.6,
   "photo": "https://m.media-amazon.com/images/I/71K5SnZ1nUL._AC_SL1500_.jpg",
@@ -1311,7 +1311,7 @@
   "status": "ok",
   "title": "Moko Case for 7\"/6.8\" Kindle Paperwhite 2026/2024/2021 & Kindle Colorsoft",
   "url": "https://www.amazon.com/dp/B0CWZXTKQB",
-  "verdict": "OK: 9.99 is at or under your max 9.99"
+  "verdict": "OK: 9.99 is at or under your max 45.00"
  },
  "B0D61DYJ99": {
   "asin": "B0D61DYJ99",
@@ -1373,7 +1373,7 @@
   "asin": "B0DHLFGNMM",
   "boughtPastMonth": 10000,
   "brand": "",
-  "checkedAt": "2026-11-11T06:48:54Z",
+  "checkedAt": "2026-11-11T12:12:33Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1381,7 +1381,7 @@
   "listPrice": 26.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 15.39,
+  "max": 45.0,
   "ok": true,
   "pctOff": 43.0,
   "photo": "https://m.media-amazon.com/images/I/81b1HRYwziL._AC_SL1500_.jpg",
@@ -1395,13 +1395,13 @@
   "status": "ok",
   "title": "LEGO Speed Champions Oracle Red Bull Racing RB20 F1 Race Car Model Kits - Building Set for Adults, Ages 18+ with Realistic Features - Red Bull F1 DIY Crafts for",
   "url": "https://www.amazon.com/dp/B0DHLFGNMM",
-  "verdict": "OK: 15.39 is at or under your max 15.39"
+  "verdict": "OK: 15.39 is at or under your max 45.00"
  },
  "B0DJ19Z5KM": {
   "asin": "B0DJ19Z5KM",
   "boughtPastMonth": 10000,
   "brand": "",
-  "checkedAt": "2026-11-11T06:48:39Z",
+  "checkedAt": "2026-11-11T12:12:19Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1409,7 +1409,7 @@
   "listPrice": 9.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 6.29,
+  "max": 45.0,
   "ok": true,
   "pctOff": 37.0,
   "photo": "https://m.media-amazon.com/images/I/81ohtuUw45L._AC_SL1500_.jpg",
@@ -1423,7 +1423,7 @@
   "status": "ok",
   "title": "LEGO Classic Creative Food Friends Building Toy Set - Pretend Play Food for Kids, Boys and Girls, Ages 4+ - Learning and Educational Toy for Preschool - Gift Id",
   "url": "https://www.amazon.com/dp/B0DJ19Z5KM",
-  "verdict": "OK: 6.29 is at or under your max 6.29"
+  "verdict": "OK: 6.29 is at or under your max 45.00"
  },
  "B0DJ1BH9T1": {
   "asin": "B0DJ1BH9T1",
@@ -1457,7 +1457,7 @@
   "asin": "B0DJ1BV2TX",
   "boughtPastMonth": 6000,
   "brand": "",
-  "checkedAt": "2026-11-11T06:47:57Z",
+  "checkedAt": "2026-11-11T12:11:34Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1465,7 +1465,7 @@
   "listPrice": 19.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 18.61,
+  "max": 45.0,
   "ok": true,
   "pctOff": 20.0,
   "photo": "https://m.media-amazon.com/images/I/81zTexg-o7L._AC_SL1500_.jpg",
@@ -1479,7 +1479,7 @@
   "status": "ok",
   "title": "LEGO Harry Potter Hogwarts Castle: Charms Class 76442",
   "url": "https://www.amazon.com/dp/B0DJ1BV2TX",
-  "verdict": "OK: 15.99 is at or under your max 18.61"
+  "verdict": "OK: 15.99 is at or under your max 45.00"
  },
  "B0DKW2H52M": {
   "asin": "B0DKW2H52M",
@@ -1597,7 +1597,7 @@
   "asin": "B0DZFGTCLR",
   "boughtPastMonth": 40000,
   "brand": "Innqoo",
-  "checkedAt": "2026-11-11T06:48:03Z",
+  "checkedAt": "2026-11-11T12:11:50Z",
   "coupon": "41% off coupon",
   "deal": null,
   "inStock": true,
@@ -1605,21 +1605,21 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 13.78,
+  "max": 45.0,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/71t96oyL+UL._AC_SL1500_.jpg",
   "platform": "amazon",
   "price": 21.99,
   "priceAfterCoupon": 12.97,
-  "rating": 4.5,
+  "rating": 4.6,
   "reviews": null,
   "seller": "Doowo Doowo Sold by Doowo",
   "soldByAmazon": false,
   "status": "ok",
   "title": "Candle Warmer Lamp with Timer Home Decor birthday gifts for women",
   "url": "https://www.amazon.com/dp/B0DZFGTCLR",
-  "verdict": "OK: 12.97 is at or under your max 13.78"
+  "verdict": "OK: 12.97 is at or under your max 45.00"
  },
  "B0F496FR73": {
   "asin": "B0F496FR73",
@@ -1709,7 +1709,7 @@
   "asin": "B0FHQCB4JT",
   "boughtPastMonth": 4000,
   "brand": "REKOPI",
-  "checkedAt": "2026-11-11T06:51:00Z",
+  "checkedAt": "2026-11-11T12:12:10Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1717,7 +1717,7 @@
   "listPrice": 39.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 26.33,
+  "max": 45.0,
   "ok": true,
   "pctOff": 40.0,
   "photo": "https://m.media-amazon.com/images/I/71kEJkRyE-L._AC_SL1500_.jpg",
@@ -1731,13 +1731,13 @@
   "status": "ok",
   "title": "60 Count Heavy Duty Duster Refills for Swiffer, Multisurface 360\u00b0 Larger Size Dusters with 4X Microfibers, Unscented Disposable Dusters for Cleaning Home, Blind",
   "url": "https://www.amazon.com/dp/B0FHQCB4JT",
-  "verdict": "OK: 23.99 is at or under your max 26.33"
+  "verdict": "OK: 23.99 is at or under your max 45.00"
  },
  "B0FHWTB3FS": {
   "asin": "B0FHWTB3FS",
   "boughtPastMonth": 200,
   "brand": "WITELIDA",
-  "checkedAt": "2026-11-11T06:50:57Z",
+  "checkedAt": "2026-11-11T12:12:07Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1745,7 +1745,7 @@
   "listPrice": 25.19,
   "listPriceKind": "list",
   "lowestIn30Days": true,
-  "max": 12.35,
+  "max": 45.0,
   "ok": true,
   "pctOff": 56.4,
   "photo": "https://m.media-amazon.com/images/I/71MLG5+XnKL._AC_SL1500_.jpg",
@@ -1759,7 +1759,7 @@
   "status": "ok",
   "title": "Metal Bird Bath for Outside,Outdoor 40'' Tall Removable Bowl",
   "url": "https://www.amazon.com/dp/B0FHWTB3FS",
-  "verdict": "OK: 10.99 is at or under your max 12.35"
+  "verdict": "OK: 10.99 is at or under your max 45.00"
  },
  "B0FK5SMHY5": {
   "asin": "B0FK5SMHY5",
@@ -1821,7 +1821,7 @@
   "asin": "B0FMS5JG7T",
   "boughtPastMonth": 10000,
   "brand": "",
-  "checkedAt": "2026-11-11T06:48:35Z",
+  "checkedAt": "2026-11-11T12:12:15Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1829,7 +1829,7 @@
   "listPrice": 9.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 5.99,
+  "max": 45.0,
   "ok": true,
   "pctOff": 40.0,
   "photo": "https://m.media-amazon.com/images/I/71vzpZ65xLL._AC_SL1500_.jpg",
@@ -1843,7 +1843,7 @@
   "status": "ok",
   "title": "LEGO City Hot Rod 60485",
   "url": "https://www.amazon.com/dp/B0FMS5JG7T",
-  "verdict": "OK: 5.99 is at or under your max 5.99"
+  "verdict": "OK: 5.99 is at or under your max 45.00"
  },
  "B0FMS7CRHX": {
   "asin": "B0FMS7CRHX",
@@ -1989,7 +1989,7 @@
   "asin": "B0FSTKZ226",
   "boughtPastMonth": 10000,
   "brand": "",
-  "checkedAt": "2026-11-11T06:48:11Z",
+  "checkedAt": "2026-11-11T12:11:38Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1997,7 +1997,7 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 8.53,
+  "max": 45.0,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/71OvOm4G-rL._AC_SL1500_.jpg",
@@ -2011,7 +2011,7 @@
   "status": "ok",
   "title": "Scotch Heavy Duty Shipping Packing Tape, Clear, Packing Tape for Moving Boxes and Packaging Supplies, 1.88 in. x 22.2 yd., 2 Roll Dispensers, Moving Supplies",
   "url": "https://www.amazon.com/dp/B0FSTKZ226",
-  "verdict": "OK: 8.45 is at or under your max 8.53"
+  "verdict": "OK: 8.45 is at or under your max 45.00"
  },
  "B0FTZCWGSK": {
   "asin": "B0FTZCWGSK",
@@ -2045,7 +2045,7 @@
   "asin": "B0FXRX6N7Y",
   "boughtPastMonth": 100,
   "brand": "TENTVIA",
-  "checkedAt": "2026-11-11T06:48:25Z",
+  "checkedAt": "2026-11-11T12:11:56Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -2053,7 +2053,7 @@
   "listPrice": 20.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 10.49,
+  "max": 45.0,
   "ok": true,
   "pctOff": 50.0,
   "photo": "https://m.media-amazon.com/images/I/811tglkgO7L._AC_SL1500_.jpg",
@@ -2067,7 +2067,7 @@
   "status": "ok",
   "title": "Fire Pit Cover 32 x 32 x 24 Inch, Waterproof Windproof Black",
   "url": "https://www.amazon.com/dp/B0FXRX6N7Y",
-  "verdict": "OK: 10.49 is at or under your max 10.49"
+  "verdict": "OK: 10.49 is at or under your max 45.00"
  },
  "B0G2BMQ9Q6": {
   "asin": "B0G2BMQ9Q6",
@@ -2129,7 +2129,7 @@
   "asin": "B0G2TGZ867",
   "boughtPastMonth": 6000,
   "brand": "",
-  "checkedAt": "2026-11-11T06:48:17Z",
+  "checkedAt": "2026-11-11T12:11:44Z",
   "coupon": "$3.45 off coupon",
   "deal": null,
   "inStock": true,
@@ -2137,7 +2137,7 @@
   "listPrice": 22.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 13.79,
+  "max": 45.0,
   "ok": true,
   "pctOff": 40.0,
   "photo": "https://m.media-amazon.com/images/I/7155FCmT8vL._AC_SL1500_.jpg",
@@ -2151,13 +2151,13 @@
   "status": "ok",
   "title": "Nerf Minecraft Diamond Pickaxe Dart Blaster, Pull Back Priming, Foam Head, 8 Nerf Elite Darts, Ages 8+",
   "url": "https://www.amazon.com/dp/B0G2TGZ867",
-  "verdict": "OK: 10.34 is at or under your max 13.79"
+  "verdict": "OK: 10.34 is at or under your max 45.00"
  },
  "B0G43VLL9L": {
   "asin": "B0G43VLL9L",
   "boughtPastMonth": 1000,
   "brand": "Mattel",
-  "checkedAt": "2026-11-11T06:48:19Z",
+  "checkedAt": "2026-11-11T12:11:42Z",
   "coupon": "$6.25 off coupon",
   "deal": null,
   "inStock": true,
@@ -2165,7 +2165,7 @@
   "listPrice": 54.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 25.63,
+  "max": 45.0,
   "ok": true,
   "pctOff": 54.6,
   "photo": "https://m.media-amazon.com/images/I/81UqrwDF0ML._AC_SL1500_.jpg",
@@ -2179,13 +2179,13 @@
   "status": "ok",
   "title": "Mattel Minecraft Minecart RC with Steve",
   "url": "https://www.amazon.com/dp/B0G43VLL9L",
-  "verdict": "OK: 18.74 is at or under your max 25.63"
+  "verdict": "OK: 18.74 is at or under your max 45.00"
  },
  "B0G4WXXQDN": {
   "asin": "B0G4WXXQDN",
   "boughtPastMonth": 1000,
   "brand": "Kristin Ess",
-  "checkedAt": "2026-11-11T06:48:33Z",
+  "checkedAt": "2026-11-11T12:12:05Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -2193,7 +2193,7 @@
   "listPrice": 23.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 12.37,
+  "max": 45.0,
   "ok": true,
   "pctOff": 48.4,
   "photo": "https://m.media-amazon.com/images/I/61qV+fhTyKL._SL1500_.jpg",
@@ -2207,7 +2207,7 @@
   "status": "ok",
   "title": "Kristin Ess Volumizing Jumbo Dry Shampoo Spray for Oily Hair + Frizz with Vitamin C - Oil Absorbing Style Extender with Minimal Residue - Sulfate Free + Vegan +",
   "url": "https://www.amazon.com/dp/B0G4WXXQDN",
-  "verdict": "OK: 12.37 is at or under your max 12.37"
+  "verdict": "OK: 12.37 is at or under your max 45.00"
  },
  "B0G5PHH8B3": {
   "asin": "B0G5PHH8B3",
@@ -2297,20 +2297,20 @@
   "asin": "B0GVGWNDMX",
   "boughtPastMonth": 4000,
   "brand": "AT-A-GLANCE",
-  "checkedAt": "2026-11-11T06:48:08Z",
+  "checkedAt": "2026-11-11T12:11:55Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
   "key": "B0GVGWNDMX",
-  "listPrice": null,
-  "listPriceKind": null,
+  "listPrice": 20.95,
+  "listPriceKind": "typical",
   "lowestIn30Days": false,
-  "max": 20.43,
+  "max": 45.0,
   "ok": true,
-  "pctOff": 0.0,
+  "pctOff": 10.2,
   "photo": "https://m.media-amazon.com/images/I/81sR9c-PQ3L._AC_SL1500_.jpg",
   "platform": "amazon",
-  "price": 20.42,
+  "price": 18.82,
   "priceAfterCoupon": null,
   "rating": 4.8,
   "reviews": null,
@@ -2319,7 +2319,7 @@
   "status": "ok",
   "title": "AT-A-GLANCE 2027 Wall Calendar, Monthly, 15.5\" x 22.75\" Planner, Ruled Daily Blocks (PM32827), White",
   "url": "https://www.amazon.com/dp/B0GVGWNDMX",
-  "verdict": "OK: 20.42 is at or under your max 20.43"
+  "verdict": "OK: 18.82 is at or under your max 45.00"
  },
  "B0GZ2RSJVY": {
   "asin": "B0GZ2RSJVY",
@@ -2409,7 +2409,7 @@
   "asin": "B0HND7YK86",
   "boughtPastMonth": null,
   "brand": "lufebut",
-  "checkedAt": "2026-11-11T06:51:02Z",
+  "checkedAt": "2026-11-11T12:12:12Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -2417,7 +2417,7 @@
   "listPrice": 169.99,
   "listPriceKind": "typical",
   "lowestIn30Days": false,
-  "max": 43.89,
+  "max": 45.0,
   "ok": true,
   "pctOff": 76.5,
   "photo": "https://m.media-amazon.com/images/I/71tUD6rf2iL._AC_SL1500_.jpg",
@@ -2431,7 +2431,7 @@
   "status": "ok",
   "title": "Dog Car Seat Cover for Back Seat, Hard Bottom Back Seat Extender for Dog",
   "url": "https://www.amazon.com/dp/B0HND7YK86",
-  "verdict": "OK: 39.99 is at or under your max 43.89"
+  "verdict": "OK: 39.99 is at or under your max 45.00"
  },
  "depop:adna-rei-co-op-650-down-vest-4ac1": {
   "brand": "REI Co-op",
