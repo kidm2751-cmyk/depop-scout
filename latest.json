@@ -3084,15 +3084,16 @@
  },
  "depop:karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f": {
   "brand": "Nanamica",
-  "buyerFee": 2.56,
-  "checkedAt": "2026-11-11T07:11:18Z",
+  "buyerFee": 2.45,
+  "checkedAt": "2026-11-11T10:10:47Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f",
+  "max": 60.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/49478294/4937628013_4e534e8a7eff4818bc277f3de98e483a/P0.jpg",
   "platform": "depop",
-  "price": 31.15,
+  "price": 29.0,
   "seller": "karlaalonso07",
   "shipping": 8.0,
   "shippingKnown": false,
@@ -3100,10 +3101,11 @@
   "slug": "karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f",
   "sold": false,
   "status": "ok",
-  "tax": 3.29,
+  "tax": 3.07,
   "title": "Tan vintage Nanamica jacket in size S but fits like...",
-  "totalCost": 44.99,
-  "url": "https://www.depop.com/products/karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f/"
+  "totalCost": 42.52,
+  "url": "https://www.depop.com/products/karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f/",
+  "verdict": "OK: 42.52 total is at or under your max 60.00"
  },
  "depop:krs15paige-pearl-jam-2022-tour-tee-6fdb": {
   "brand": "Bella+Canvas",
@@ -3532,15 +3534,16 @@
  },
  "depop:youdiversal-nike-jacket-navy-size-medium-7a0f": {
   "brand": "Nike",
-  "buyerFee": 1.82,
-  "checkedAt": "2026-11-11T07:11:21Z",
+  "buyerFee": 1.75,
+  "checkedAt": "2026-11-11T10:10:50Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:youdiversal-nike-jacket-navy-size-medium-7a0f",
+  "max": 60.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/332114491/4658500559_3149d30ca9424afa9c83e8e1db4aeb09/P0.jpg",
   "platform": "depop",
-  "price": 16.45,
+  "price": 15.0,
   "seller": "youniversal",
   "shipping": 8.0,
   "shippingKnown": false,
@@ -3548,9 +3551,10 @@
   "slug": "youdiversal-nike-jacket-navy-size-medium-7a0f",
   "sold": false,
   "status": "ok",
-  "tax": 1.78,
+  "tax": 1.63,
   "title": "Nike Zip Up Jacket\nNavy &amp; black\nSize Medium\nSend...",
-  "totalCost": 28.05,
-  "url": "https://www.depop.com/products/youdiversal-nike-jacket-navy-size-medium-7a0f/"
+  "totalCost": 26.38,
+  "url": "https://www.depop.com/products/youdiversal-nike-jacket-navy-size-medium-7a0f/",
+  "verdict": "OK: 26.38 total is at or under your max 60.00"
  }
 }
