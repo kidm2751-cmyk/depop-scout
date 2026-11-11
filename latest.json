@@ -31,7 +31,7 @@
   "asin": "B000ND5EVY",
   "boughtPastMonth": 1000,
   "brand": "Hunters Specialties",
-  "checkedAt": "2026-11-11T06:49:22Z",
+  "checkedAt": "2026-11-11T12:15:05Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -39,7 +39,7 @@
   "listPrice": 14.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 8.46,
+  "max": 45.0,
   "ok": true,
   "pctOff": 43.6,
   "photo": "https://m.media-amazon.com/images/I/71IUmiP11kL._AC_SL1500_.jpg",
@@ -53,13 +53,13 @@
   "status": "ok",
   "title": "Hunters Specialties Long Lasting Cover Scent Wafers for Hunting - 3 Wafers Per Pack, 3 Safety Pins Included",
   "url": "https://www.amazon.com/dp/B000ND5EVY",
-  "verdict": "OK: 8.46 is at or under your max 8.46"
+  "verdict": "OK: 8.46 is at or under your max 45.00"
  },
  "B00112DTRC": {
   "asin": "B00112DTRC",
   "boughtPastMonth": 700,
   "brand": "MAYBELLINE",
-  "checkedAt": "2026-11-11T06:48:56Z",
+  "checkedAt": "2026-11-11T12:14:38Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -67,7 +67,7 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 6.82,
+  "max": 45.0,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/61KbNJgwxPL._SL1500_.jpg",
@@ -81,7 +81,7 @@
   "status": "ok",
   "title": "Maybelline Great Lash Curved Brush Washable Mascara, Volumizing, Lengthening and Curling Mascara, Blackest Black, 1 Count",
   "url": "https://www.amazon.com/dp/B00112DTRC",
-  "verdict": "OK: 6.82 is at or under your max 6.82"
+  "verdict": "OK: 6.82 is at or under your max 45.00"
  },
  "B001GAOTUK": {
   "asin": "B001GAOTUK",
@@ -143,7 +143,7 @@
   "asin": "B00251EHJW",
   "boughtPastMonth": 500,
   "brand": "",
-  "checkedAt": "2026-11-11T06:49:36Z",
+  "checkedAt": "2026-11-11T12:15:18Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -151,7 +151,7 @@
   "listPrice": 36.35,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 19.99,
+  "max": 45.0,
   "ok": true,
   "pctOff": 45.0,
   "photo": "https://m.media-amazon.com/images/I/81VOLU1rIyL._AC_SL1500_.jpg",
@@ -165,7 +165,7 @@
   "status": "ok",
   "title": "Prismacolor Premier Graphite Drawing Set, 18 Count",
   "url": "https://www.amazon.com/dp/B00251EHJW",
-  "verdict": "OK: 19.99 is at or under your max 19.99"
+  "verdict": "OK: 19.99 is at or under your max 45.00"
  },
  "B003O2RXUQ": {
   "asin": "B003O2RXUQ",
@@ -199,7 +199,7 @@
   "asin": "B0060OUV5Y",
   "boughtPastMonth": 100000,
   "brand": "",
-  "checkedAt": "2026-11-11T06:49:09Z",
+  "checkedAt": "2026-11-11T12:14:51Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -207,7 +207,7 @@
   "listPrice": 18.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 13.69,
+  "max": 45.0,
   "ok": true,
   "pctOff": 27.9,
   "photo": "https://m.media-amazon.com/images/I/713Ca5aXpyL._SL1500_.jpg",
@@ -221,7 +221,7 @@
   "status": "ok",
   "title": "La Roche-Posay Cicaplast Balm B5, Barrier Repair Cream for Dry Skin",
   "url": "https://www.amazon.com/dp/B0060OUV5Y",
-  "verdict": "OK: 13.69 is at or under your max 13.69"
+  "verdict": "OK: 13.69 is at or under your max 45.00"
  },
  "B00T0C9XRK": {
   "asin": "B00T0C9XRK",
@@ -253,7 +253,7 @@
   "asin": "B00Y8MP5VA",
   "boughtPastMonth": 20000,
   "brand": "Garden of Life",
-  "checkedAt": "2026-11-11T06:49:04Z",
+  "checkedAt": "2026-11-11T12:14:46Z",
   "coupon": "10% off coupon",
   "deal": null,
   "inStock": true,
@@ -261,7 +261,7 @@
   "listPrice": 45.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 26.0,
+  "max": 45.0,
   "ok": true,
   "pctOff": 42.0,
   "photo": "https://m.media-amazon.com/images/I/81CBZarl3xL._AC_SL1500_.jpg",
@@ -275,7 +275,7 @@
   "status": "ok",
   "title": "Garden of Life Dr Formulated Probiotics for Men, 50 Billion CFU, 30 Ct",
   "url": "https://www.amazon.com/dp/B00Y8MP5VA",
-  "verdict": "OK: 24.02 is at or under your max 26.00"
+  "verdict": "OK: 24.02 is at or under your max 45.00"
  },
  "B06XZTZ7GB": {
   "asin": "B06XZTZ7GB",
@@ -309,7 +309,7 @@
   "asin": "B072QH418H",
   "boughtPastMonth": 1000,
   "brand": "Educational Insights",
-  "checkedAt": "2026-11-11T06:49:20Z",
+  "checkedAt": "2026-11-11T12:15:02Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -317,7 +317,7 @@
   "listPrice": 59.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 27.9,
+  "max": 45.0,
   "ok": true,
   "pctOff": 53.5,
   "photo": "https://m.media-amazon.com/images/I/71U5r7MChPL._AC_SL1500_.jpg",
@@ -331,13 +331,13 @@
   "status": "ok",
   "title": "Educational Insights GeoSafari Talking Microscope Featuring Bindi Irwin",
   "url": "https://www.amazon.com/dp/B072QH418H",
-  "verdict": "OK: 27.90 is at or under your max 27.90"
+  "verdict": "OK: 27.90 is at or under your max 45.00"
  },
  "B076621ZGC": {
   "asin": "B076621ZGC",
   "boughtPastMonth": 700,
   "brand": "STANLEY",
-  "checkedAt": "2026-11-11T06:49:45Z",
+  "checkedAt": "2026-11-11T12:15:24Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -345,21 +345,21 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 7.55,
+  "max": 45.0,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/61rmy0YR9tL._AC_SL1000_.jpg",
   "platform": "amazon",
-  "price": 7.49,
+  "price": 7.55,
   "priceAfterCoupon": null,
   "rating": 4.8,
   "reviews": null,
-  "seller": "Japan Import store",
+  "seller": "Brand New Day Company",
   "soldByAmazon": false,
   "status": "ok",
   "title": "Stanley Tools 6-Piece Precision Screwdriver Set, Black/Yellow",
   "url": "https://www.amazon.com/dp/B076621ZGC",
-  "verdict": "OK: 7.49 is at or under your max 7.55"
+  "verdict": "OK: 7.55 is at or under your max 45.00"
  },
  "B07D4RN9NH": {
   "asin": "B07D4RN9NH",
@@ -505,7 +505,7 @@
   "asin": "B07YSXX7SB",
   "boughtPastMonth": 7000,
   "brand": "Pro Grade",
-  "checkedAt": "2026-11-11T06:49:12Z",
+  "checkedAt": "2026-11-11T12:14:54Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -513,7 +513,7 @@
   "listPrice": 24.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 17.79,
+  "max": 45.0,
   "ok": true,
   "pctOff": 28.8,
   "photo": "https://m.media-amazon.com/images/I/51KZD1b3+KL._AC_SL1000_.jpg",
@@ -527,7 +527,7 @@
   "status": "ok",
   "title": "Pro Grade Paint Roller Kit, Paint Brushes, 4\" & 9\" Roller Covers for Walls",
   "url": "https://www.amazon.com/dp/B07YSXX7SB",
-  "verdict": "OK: 17.79 is at or under your max 17.79"
+  "verdict": "OK: 17.79 is at or under your max 45.00"
  },
  "B086H4FKD9": {
   "asin": "B086H4FKD9",
@@ -589,7 +589,7 @@
   "asin": "B08HB8JF5G",
   "boughtPastMonth": 1000,
   "brand": "JOYIN",
-  "checkedAt": "2026-11-11T06:48:59Z",
+  "checkedAt": "2026-11-11T12:14:40Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -597,7 +597,7 @@
   "listPrice": 35.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 16.99,
+  "max": 45.0,
   "ok": true,
   "pctOff": 52.8,
   "photo": "https://m.media-amazon.com/images/I/91ndvz-t7oL._AC_SL1500_.jpg",
@@ -611,7 +611,7 @@
   "status": "ok",
   "title": "JOYIN Christmas 24 Days Countdown Advent Calendar with a Tabletop Wooden Christmas Tree and 28 Ornaments Snowman Santa Decorations for Boys, Girls and Kids Part",
   "url": "https://www.amazon.com/dp/B08HB8JF5G",
-  "verdict": "OK: 16.99 is at or under your max 16.99"
+  "verdict": "OK: 16.99 is at or under your max 45.00"
  },
  "B08JY653PJ": {
   "asin": "B08JY653PJ",
@@ -757,7 +757,7 @@
   "asin": "B09BW3CP9V",
   "boughtPastMonth": 2000,
   "brand": "",
-  "checkedAt": "2026-11-11T06:51:29Z",
+  "checkedAt": "2026-11-11T12:15:36Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -765,7 +765,7 @@
   "listPrice": 26.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 16.31,
+  "max": 45.0,
   "ok": true,
   "pctOff": 51.1,
   "photo": "https://m.media-amazon.com/images/I/71vMnFvlZpL._AC_SL1500_.jpg",
@@ -779,7 +779,7 @@
   "status": "ok",
   "title": "Barbie Doll & Pets Set featuring Mommy Dog and Puppies",
   "url": "https://www.amazon.com/dp/B09BW3CP9V",
-  "verdict": "OK: 13.19 is at or under your max 16.31"
+  "verdict": "OK: 13.19 is at or under your max 45.00"
  },
  "B09GF1ND4D": {
   "asin": "B09GF1ND4D",
@@ -869,7 +869,7 @@
   "asin": "B09KMGVYJJ",
   "boughtPastMonth": 100,
   "brand": "",
-  "checkedAt": "2026-11-11T06:49:31Z",
+  "checkedAt": "2026-11-11T12:15:13Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -877,12 +877,12 @@
   "listPrice": 24.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 13.04,
+  "max": 45.0,
   "ok": true,
-  "pctOff": 48.4,
+  "pctOff": 48.2,
   "photo": "https://m.media-amazon.com/images/I/61MJT2j32mL._AC_SL1500_.jpg",
   "platform": "amazon",
-  "price": 12.9,
+  "price": 12.94,
   "priceAfterCoupon": null,
   "rating": 4.8,
   "reviews": null,
@@ -891,7 +891,7 @@
   "status": "ok",
   "title": "G.I. Joe Classified Series Xamot Paoli Action Figure 45 Collectible Premium Toy, Multiple Accessories 6-Inch-Scale with Custom Package Art",
   "url": "https://www.amazon.com/dp/B09KMGVYJJ",
-  "verdict": "OK: 12.90 is at or under your max 13.04"
+  "verdict": "OK: 12.94 is at or under your max 45.00"
  },
  "B09NMC13G1": {
   "asin": "B09NMC13G1",
@@ -953,7 +953,7 @@
   "asin": "B09XFH6NY4",
   "boughtPastMonth": null,
   "brand": "Spigen",
-  "checkedAt": "2026-11-11T06:51:20Z",
+  "checkedAt": "2026-11-11T12:15:29Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -961,7 +961,7 @@
   "listPrice": 54.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 39.99,
+  "max": 45.0,
   "ok": true,
   "pctOff": 27.3,
   "photo": "https://m.media-amazon.com/images/I/71IB2oTsXYL._SL1200_.jpg",
@@ -975,7 +975,7 @@
   "status": "ok",
   "title": "Spigen Rugged Armor Pro Hard Shell Case for Steam Deck & ROG Xbox Ally X",
   "url": "https://www.amazon.com/dp/B09XFH6NY4",
-  "verdict": "OK: 39.99 is at or under your max 39.99"
+  "verdict": "OK: 39.99 is at or under your max 45.00"
  },
  "B09XJC7JKZ": {
   "asin": "B09XJC7JKZ",
@@ -1065,7 +1065,7 @@
   "asin": "B0BSJYM8FF",
   "boughtPastMonth": 1000,
   "brand": "",
-  "checkedAt": "2026-11-11T06:49:17Z",
+  "checkedAt": "2026-11-11T12:14:59Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1073,7 +1073,7 @@
   "listPrice": 69.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 39.98,
+  "max": 45.0,
   "ok": true,
   "pctOff": 42.9,
   "photo": "https://m.media-amazon.com/images/I/71NxwEjlU1L._AC_SL1500_.jpg",
@@ -1082,18 +1082,18 @@
   "priceAfterCoupon": null,
   "rating": 4.2,
   "reviews": null,
-  "seller": "DY US",
-  "soldByAmazon": false,
+  "seller": "not shown",
+  "soldByAmazon": null,
   "status": "ok",
   "title": "Razer Kraken V3 X Wired USB Gaming Headset, Lightweight, Black",
   "url": "https://www.amazon.com/dp/B0BSJYM8FF",
-  "verdict": "OK: 39.98 is at or under your max 39.98"
+  "verdict": "OK: 39.98 is at or under your max 45.00"
  },
  "B0C26J6Y4H": {
   "asin": "B0C26J6Y4H",
   "boughtPastMonth": 50,
   "brand": "Funko",
-  "checkedAt": "2026-11-11T06:51:17Z",
+  "checkedAt": "2026-11-11T12:15:27Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1101,7 +1101,7 @@
   "listPrice": 15.0,
   "listPriceKind": "typical",
   "lowestIn30Days": false,
-  "max": 16.95,
+  "max": 45.0,
   "ok": true,
   "pctOff": 53.3,
   "photo": "https://m.media-amazon.com/images/I/81Qat1J5RtL._AC_SL1500_.jpg",
@@ -1110,12 +1110,12 @@
   "priceAfterCoupon": null,
   "rating": 4.8,
   "reviews": null,
-  "seller": "Toystop",
+  "seller": "Toystop Toystop Sold by Toystop",
   "soldByAmazon": false,
   "status": "ok",
   "title": "Funko Pop! Animation Naruto Shippuden: Jiraiya Sage Mode (Toad) Sanin Special Edition Multicolor Exclusive Vinyl Figure #1381",
   "url": "https://www.amazon.com/dp/B0C26J6Y4H",
-  "verdict": "OK: 7.00 is at or under your max 16.95"
+  "verdict": "OK: 7.00 is at or under your max 45.00"
  },
  "B0C5FMWXSG": {
   "asin": "B0C5FMWXSG",
@@ -1261,7 +1261,7 @@
   "asin": "B0CTWHSSM8",
   "boughtPastMonth": 10000,
   "brand": "QUNREDA",
-  "checkedAt": "2026-11-11T06:49:01Z",
+  "checkedAt": "2026-11-11T12:14:44Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -1269,7 +1269,7 @@
   "listPrice": 39.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 25.48,
+  "max": 45.0,
   "ok": true,
   "pctOff": 36.3,
   "photo": "https://m.media-amazon.com/images/I/81pa-dG26dL._AC_SL1500_.jpg",
@@ -1283,7 +1283,7 @@
   "status": "ok",
   "title": "QUNREDA Remote Control Car, RC Cars Toys for Kids Ages 6-12, 4WD Stunt Car with LED Lights & 360\u00b0 Flips, 2.4GHz, Upgraded USB-C Modular Batteries, 8-10 Year Old",
   "url": "https://www.amazon.com/dp/B0CTWHSSM8",
-  "verdict": "OK: 25.48 is at or under your max 25.48"
+  "verdict": "OK: 25.48 is at or under your max 45.00"
  },
  "B0CWZXTKQB": {
   "asin": "B0CWZXTKQB",
@@ -1345,7 +1345,7 @@
   "asin": "B0D6Z814Y7",
   "boughtPastMonth": 3000,
   "brand": "",
-  "checkedAt": "2026-11-11T09:13:01Z",
+  "checkedAt": "2026-11-11T12:15:15Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1353,7 +1353,7 @@
   "listPrice": 14.38,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 8.86,
+  "max": 45.0,
   "ok": true,
   "pctOff": 22.5,
   "photo": "https://m.media-amazon.com/images/I/71C2S8520GL._SL1500_.jpg",
@@ -1367,7 +1367,7 @@
   "status": "ok",
   "title": "MAM Original Baby Pacifier 0-6 Mths, Skin Soft Silicone Nipple, 4 Pack",
   "url": "https://www.amazon.com/dp/B0D6Z814Y7",
-  "verdict": "TOO HIGH: 11.14 is over your max 8.86"
+  "verdict": "OK: 11.14 is at or under your max 45.00"
  },
  "B0DHLFGNMM": {
   "asin": "B0DHLFGNMM",
@@ -1513,7 +1513,7 @@
   "asin": "B0DR3ZFQC6",
   "boughtPastMonth": 3000,
   "brand": "Hot Wheels",
-  "checkedAt": "2026-11-11T06:49:42Z",
+  "checkedAt": "2026-11-11T12:15:22Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1521,7 +1521,7 @@
   "listPrice": 54.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 43.99,
+  "max": 45.0,
   "ok": true,
   "pctOff": 36.4,
   "photo": "https://m.media-amazon.com/images/I/81TTmTdIa2L._AC_SL1500_.jpg",
@@ -1535,13 +1535,13 @@
   "status": "ok",
   "title": "Hot Wheels Mega Loop Garage Track Set with Toy Car and Helicopter",
   "url": "https://www.amazon.com/dp/B0DR3ZFQC6",
-  "verdict": "OK: 34.99 is at or under your max 43.99"
+  "verdict": "OK: 34.99 is at or under your max 45.00"
  },
  "B0DRW7P7DS": {
   "asin": "B0DRW7P7DS",
   "boughtPastMonth": 5000,
   "brand": "",
-  "checkedAt": "2026-11-11T06:49:15Z",
+  "checkedAt": "2026-11-11T12:14:57Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1549,7 +1549,7 @@
   "listPrice": 29.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 16.79,
+  "max": 45.0,
   "ok": true,
   "pctOff": 44.0,
   "photo": "https://m.media-amazon.com/images/I/71zJU8Ojb2L._AC_SL1500_.jpg",
@@ -1563,7 +1563,7 @@
   "status": "ok",
   "title": "LEGO Creator 3 in 1 Retro Telephone Kids Toy - Home Decor for Bedroom or Kids Room - Building Toy and Learning Playset for Girls & Boys, Ages 8+ - Gift Idea for",
   "url": "https://www.amazon.com/dp/B0DRW7P7DS",
-  "verdict": "OK: 16.79 is at or under your max 16.79"
+  "verdict": "OK: 16.79 is at or under your max 45.00"
  },
  "B0DTBPVL3D": {
   "asin": "B0DTBPVL3D",
@@ -1653,29 +1653,29 @@
   "asin": "B0F8QTBGNP",
   "boughtPastMonth": 2000,
   "brand": "Loiley",
-  "checkedAt": "2026-11-11T06:49:06Z",
+  "checkedAt": "2026-11-11T12:14:49Z",
   "coupon": null,
-  "deal": "Limited time deal",
+  "deal": null,
   "inStock": true,
   "key": "B0F8QTBGNP",
   "listPrice": 66.98,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 39.98,
+  "max": 45.0,
   "ok": true,
   "pctOff": 40.3,
   "photo": "https://m.media-amazon.com/images/I/81a7QAIa0PL._AC_SL1500_.jpg",
   "platform": "amazon",
   "price": 39.98,
   "priceAfterCoupon": null,
-  "rating": 4.2,
+  "rating": null,
   "reviews": null,
   "seller": "Zhenhe cloud Zhenhe cloud Sold by Zhenhe cloud",
   "soldByAmazon": false,
   "status": "ok",
   "title": "Drone with Camera for Adults, 2K HD FPV Drones with Upgrade Altitude Hold, One-Key Take Off/Landing, Speed Adjustment, Headless Mode, 2 Batteries, Toys Gifts fo",
   "url": "https://www.amazon.com/dp/B0F8QTBGNP",
-  "verdict": "OK: 39.98 is at or under your max 39.98"
+  "verdict": "OK: 39.98 is at or under your max 45.00"
  },
  "B0FFH1DC25": {
   "asin": "B0FFH1DC25",
@@ -1849,7 +1849,7 @@
   "asin": "B0FMS7CRHX",
   "boughtPastMonth": 10000,
   "brand": "",
-  "checkedAt": "2026-11-11T06:49:39Z",
+  "checkedAt": "2026-11-11T12:15:20Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1857,7 +1857,7 @@
   "listPrice": 14.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 9.89,
+  "max": 45.0,
   "ok": true,
   "pctOff": 34.0,
   "photo": "https://m.media-amazon.com/images/I/81lNVhQTwNL._AC_SL1500_.jpg",
@@ -1871,13 +1871,13 @@
   "status": "ok",
   "title": "LEGO Botanicals Daisies 11508",
   "url": "https://www.amazon.com/dp/B0FMS7CRHX",
-  "verdict": "OK: 9.89 is at or under your max 9.89"
+  "verdict": "OK: 9.89 is at or under your max 45.00"
  },
  "B0FMS9ST4S": {
   "asin": "B0FMS9ST4S",
   "boughtPastMonth": 8000,
   "brand": "",
-  "checkedAt": "2026-11-11T06:49:25Z",
+  "checkedAt": "2026-11-11T12:15:07Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1885,7 +1885,7 @@
   "listPrice": 9.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 5.99,
+  "max": 45.0,
   "ok": true,
   "pctOff": 40.0,
   "photo": "https://m.media-amazon.com/images/I/71e9ec9jXzL._AC_SL1500_.jpg",
@@ -1899,7 +1899,7 @@
   "status": "ok",
   "title": "LEGO City Rides \u2013 Gaming Race Car 60484",
   "url": "https://www.amazon.com/dp/B0FMS9ST4S",
-  "verdict": "OK: 5.99 is at or under your max 5.99"
+  "verdict": "OK: 5.99 is at or under your max 45.00"
  },
  "B0FPLSGN7D": {
   "asin": "B0FPLSGN7D",
@@ -1961,7 +1961,7 @@
   "asin": "B0FRFZ4R4Y",
   "boughtPastMonth": 1000,
   "brand": "OlarHike",
-  "checkedAt": "2026-11-11T06:49:28Z",
+  "checkedAt": "2026-11-11T12:15:10Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1969,7 +1969,7 @@
   "listPrice": 39.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 24.99,
+  "max": 45.0,
   "ok": true,
   "pctOff": 37.5,
   "photo": "https://m.media-amazon.com/images/I/71dyUh5P8cL._AC_SL1500_.jpg",
@@ -1983,7 +1983,7 @@
   "status": "ok",
   "title": "OlarHike 8 Set Compression Packing Cubes for Travel Gifts Women Mom,Airplane/Car/Cruise Travel Essentials,Compressible Expandable Space Saver Bags,Garment Bags ",
   "url": "https://www.amazon.com/dp/B0FRFZ4R4Y",
-  "verdict": "OK: 24.99 is at or under your max 24.99"
+  "verdict": "OK: 24.99 is at or under your max 45.00"
  },
  "B0FSTKZ226": {
   "asin": "B0FSTKZ226",
@@ -2213,7 +2213,7 @@
   "asin": "B0G5PHH8B3",
   "boughtPastMonth": 300,
   "brand": "Amathley",
-  "checkedAt": "2026-11-11T06:51:23Z",
+  "checkedAt": "2026-11-11T12:15:32Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -2221,7 +2221,7 @@
   "listPrice": 9.99,
   "listPriceKind": "typical",
   "lowestIn30Days": false,
-  "max": 7.68,
+  "max": 45.0,
   "ok": true,
   "pctOff": 50.1,
   "photo": "https://m.media-amazon.com/images/I/71YsIRhtteL._AC_SL1500_.jpg",
@@ -2235,7 +2235,7 @@
   "status": "ok",
   "title": "Lunch Box Kids Girls Boys,Bento Box Adult,Toddler Lunch Containers for School,Leakproof Snack Containers with 6 Compartments,Sauce Container,10 Food Picks and 4",
   "url": "https://www.amazon.com/dp/B0G5PHH8B3",
-  "verdict": "OK: 4.99 is at or under your max 7.68"
+  "verdict": "OK: 4.99 is at or under your max 45.00"
  },
  "B0GB225QFP": {
   "asin": "B0GB225QFP",
@@ -2269,7 +2269,7 @@
   "asin": "B0GBYRJ4WZ",
   "boughtPastMonth": 9000,
   "brand": "LMOYPD",
-  "checkedAt": "2026-11-11T06:51:26Z",
+  "checkedAt": "2026-11-11T12:15:34Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -2277,7 +2277,7 @@
   "listPrice": 9.96,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 9.47,
+  "max": 45.0,
   "ok": true,
   "pctOff": 29.9,
   "photo": "https://m.media-amazon.com/images/I/51x0O+t7alL._AC_SL1500_.jpg",
@@ -2291,7 +2291,7 @@
   "status": "ok",
   "title": "Magsafe Charger Magnetic Wireless Charge iPhone: Strong Magnet Charging Pad",
   "url": "https://www.amazon.com/dp/B0GBYRJ4WZ",
-  "verdict": "OK: 6.98 is at or under your max 9.47"
+  "verdict": "OK: 6.98 is at or under your max 45.00"
  },
  "B0GVGWNDMX": {
   "asin": "B0GVGWNDMX",
@@ -2325,7 +2325,7 @@
   "asin": "B0GZ2RSJVY",
   "boughtPastMonth": 900,
   "brand": "hahaland",
-  "checkedAt": "2026-11-11T06:52:52Z",
+  "checkedAt": "2026-11-11T12:15:38Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -2333,7 +2333,7 @@
   "listPrice": 69.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 37.86,
+  "max": 45.0,
   "ok": true,
   "pctOff": 60.0,
   "photo": "https://m.media-amazon.com/images/I/71N3XlIZHWL._AC_SL1500_.jpg",
@@ -2347,7 +2347,7 @@
   "status": "ok",
   "title": "hahaland Electric Train Set for Kids Ages 4-8, Flexible Race Track - 64PCs",
   "url": "https://www.amazon.com/dp/B0GZ2RSJVY",
-  "verdict": "OK: 27.98 is at or under your max 37.86"
+  "verdict": "OK: 27.98 is at or under your max 45.00"
  },
  "B0H5DH7QYF": {
   "asin": "B0H5DH7QYF",
