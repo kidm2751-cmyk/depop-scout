@@ -2269,7 +2269,7 @@
   "asin": "B0GBYRJ4WZ",
   "boughtPastMonth": 9000,
   "brand": "LMOYPD",
-  "checkedAt": "2026-11-10T23:37:38Z",
+  "checkedAt": "2026-11-11T03:22:37Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -2277,7 +2277,7 @@
   "listPrice": 9.96,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 9.47,
+  "max": 45.0,
   "ok": true,
   "pctOff": 29.9,
   "photo": "https://m.media-amazon.com/images/I/51x0O+t7alL._AC_SL1500_.jpg",
@@ -2291,13 +2291,13 @@
   "status": "ok",
   "title": "Magsafe Charger Magnetic Wireless Charge iPhone: Strong Magnet Charging Pad",
   "url": "https://www.amazon.com/dp/B0GBYRJ4WZ",
-  "verdict": "OK: 6.98 is at or under your max 9.47"
+  "verdict": "OK: 6.98 is at or under your max 45.00"
  },
  "B0GVGWNDMX": {
   "asin": "B0GVGWNDMX",
   "boughtPastMonth": 4000,
   "brand": "AT-A-GLANCE",
-  "checkedAt": "2026-11-10T23:34:21Z",
+  "checkedAt": "2026-11-11T03:22:40Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -2305,7 +2305,7 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 20.43,
+  "max": 45.0,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/81sR9c-PQ3L._AC_SL1500_.jpg",
@@ -2319,13 +2319,13 @@
   "status": "ok",
   "title": "AT-A-GLANCE 2027 Wall Calendar, Monthly, 15.5\" x 22.75\" Planner, Ruled Daily Blocks (PM32827), White",
   "url": "https://www.amazon.com/dp/B0GVGWNDMX",
-  "verdict": "OK: 20.42 is at or under your max 20.43"
+  "verdict": "OK: 20.42 is at or under your max 45.00"
  },
  "B0GZ2RSJVY": {
   "asin": "B0GZ2RSJVY",
   "boughtPastMonth": 900,
   "brand": "hahaland",
-  "checkedAt": "2026-11-10T23:39:06Z",
+  "checkedAt": "2026-11-11T03:22:42Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -2333,7 +2333,7 @@
   "listPrice": 69.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 37.86,
+  "max": 45.0,
   "ok": true,
   "pctOff": 60.0,
   "photo": "https://m.media-amazon.com/images/I/71N3XlIZHWL._AC_SL1500_.jpg",
@@ -2347,7 +2347,7 @@
   "status": "ok",
   "title": "hahaland Electric Train Set for Kids Ages 4-8, Flexible Race Track - 64PCs",
   "url": "https://www.amazon.com/dp/B0GZ2RSJVY",
-  "verdict": "OK: 27.98 is at or under your max 37.86"
+  "verdict": "OK: 27.98 is at or under your max 45.00"
  },
  "B0H5DH7QYF": {
   "asin": "B0H5DH7QYF",
@@ -2381,7 +2381,7 @@
   "asin": "B0HC3TKS7X",
   "boughtPastMonth": 1000,
   "brand": "sundpik",
-  "checkedAt": "2026-11-10T23:38:25Z",
+  "checkedAt": "2026-11-11T03:22:45Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -2389,7 +2389,7 @@
   "listPrice": 39.99,
   "listPriceKind": "typical",
   "lowestIn30Days": false,
-  "max": 20.0,
+  "max": 45.0,
   "ok": true,
   "pctOff": 50.0,
   "photo": "https://m.media-amazon.com/images/I/71vbIdDuOuL._SL1500_.jpg",
@@ -2403,13 +2403,13 @@
   "status": "ok",
   "title": "Posture Corrector for Women and Men, Adjustable Upper Back Brace",
   "url": "https://www.amazon.com/dp/B0HC3TKS7X",
-  "verdict": "OK: 19.99 is at or under your max 20.00"
+  "verdict": "OK: 19.99 is at or under your max 45.00"
  },
  "B0HND7YK86": {
   "asin": "B0HND7YK86",
   "boughtPastMonth": null,
   "brand": "lufebut",
-  "checkedAt": "2026-11-10T23:37:16Z",
+  "checkedAt": "2026-11-11T03:22:47Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -2417,7 +2417,7 @@
   "listPrice": 169.99,
   "listPriceKind": "typical",
   "lowestIn30Days": false,
-  "max": 43.89,
+  "max": 45.0,
   "ok": true,
   "pctOff": 76.5,
   "photo": "https://m.media-amazon.com/images/I/71tUD6rf2iL._AC_SL1500_.jpg",
@@ -2431,7 +2431,7 @@
   "status": "ok",
   "title": "Dog Car Seat Cover for Back Seat, Hard Bottom Back Seat Extender for Dog",
   "url": "https://www.amazon.com/dp/B0HND7YK86",
-  "verdict": "OK: 39.99 is at or under your max 43.89"
+  "verdict": "OK: 39.99 is at or under your max 45.00"
  },
  "depop:adna-rei-co-op-650-down-vest-4ac1": {
   "brand": "REI Co-op",
