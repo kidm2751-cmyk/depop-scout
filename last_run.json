@@ -1,15 +1,75 @@
 {
  "ok": false,
- "requestId": "chk-20261111-091257",
- "finishedAt": "2026-11-11T09:13:43Z",
- "checked": 1,
+ "requestId": "chk-20261111-0915dep",
+ "finishedAt": "2026-11-11T09:15:22Z",
+ "checked": 7,
  "items": [
   {
    "platform": "depop",
-   "slug": "fem7elling-vintage-y2k-bench-barbour-style-2e16",
-   "key": "depop:fem7elling-vintage-y2k-bench-barbour-style-2e16",
-   "url": "https://www.depop.com/products/fem7elling-vintage-y2k-bench-barbour-style-2e16/",
-   "checkedAt": "2026-11-11T09:13:41Z",
+   "slug": "armanclotheo-antigua-san-diego-padres-sd-10b4",
+   "key": "depop:armanclotheo-antigua-san-diego-padres-sd-10b4",
+   "url": "https://www.depop.com/products/armanclotheo-antigua-san-diego-padres-sd-10b4/",
+   "checkedAt": "2026-11-11T09:15:01Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "therealwiwf-g-star-raw-blue-denim-jacket-4339",
+   "key": "depop:therealwiwf-g-star-raw-blue-denim-jacket-4339",
+   "url": "https://www.depop.com/products/therealwiwf-g-star-raw-blue-denim-jacket-4339/",
+   "checkedAt": "2026-11-11T09:15:04Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "lamodamarket-grey-beavis-and-butthead-crewneck-1de9",
+   "key": "depop:lamodamarket-grey-beavis-and-butthead-crewneck-1de9",
+   "url": "https://www.depop.com/products/lamodamarket-grey-beavis-and-butthead-crewneck-1de9/",
+   "checkedAt": "2026-11-11T09:15:08Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "florp19k1-nike-lebron-james-purple-2d0b",
+   "key": "depop:florp19k1-nike-lebron-james-purple-2d0b",
+   "url": "https://www.depop.com/products/florp19k1-nike-lebron-james-purple-2d0b/",
+   "checkedAt": "2026-11-11T09:15:12Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "daenaclo2et-house-of-cb-blue-sequin-5193",
+   "key": "depop:daenaclo2et-house-of-cb-blue-sequin-5193",
+   "url": "https://www.depop.com/products/daenaclo2et-house-of-cb-blue-sequin-5193/",
+   "checkedAt": "2026-11-11T09:15:15Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "alexeuvall-2000s-boot-cut-7-for-bce6",
+   "key": "depop:alexeuvall-2000s-boot-cut-7-for-bce6",
+   "url": "https://www.depop.com/products/alexeuvall-2000s-boot-cut-7-for-bce6/",
+   "checkedAt": "2026-11-11T09:15:18Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "dinguo627-kith-classics-gray-workout-hoodie-a162",
+   "key": "depop:dinguo627-kith-classics-gray-workout-hoodie-a162",
+   "url": "https://www.depop.com/products/dinguo627-kith-classics-gray-workout-hoodie-a162/",
+   "checkedAt": "2026-11-11T09:15:20Z",
    "ok": false,
    "status": "blocked",
    "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
