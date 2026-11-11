@@ -1,0 +1,18 @@
+{
+ "ok": false,
+ "requestId": "chk-20261111-091257",
+ "finishedAt": "2026-11-11T09:13:43Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "fem7elling-vintage-y2k-bench-barbour-style-2e16",
+   "key": "depop:fem7elling-vintage-y2k-bench-barbour-style-2e16",
+   "url": "https://www.depop.com/products/fem7elling-vintage-y2k-bench-barbour-style-2e16/",
+   "checkedAt": "2026-11-11T09:13:41Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  }
+ ]
+}

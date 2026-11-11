@@ -1,36 +1,18 @@
 {
- "ok": true,
- "requestId": "chk-20261111-091224",
- "finishedAt": "2026-11-11T09:13:01Z",
+ "ok": false,
+ "requestId": "chk-20261111-091257",
+ "finishedAt": "2026-11-11T09:13:43Z",
  "checked": 1,
  "items": [
   {
-   "platform": "amazon",
-   "asin": "B0D6Z814Y7",
-   "key": "B0D6Z814Y7",
-   "url": "https://www.amazon.com/dp/B0D6Z814Y7",
-   "checkedAt": "2026-11-11T09:13:01Z",
-   "ok": true,
-   "status": "ok",
-   "title": "MAM Original Baby Pacifier 0-6 Mths, Skin Soft Silicone Nipple, 4 Pack",
-   "brand": "",
-   "price": 11.14,
-   "priceAfterCoupon": null,
-   "coupon": null,
-   "listPrice": 14.38,
-   "listPriceKind": "list",
-   "pctOff": 22.5,
-   "lowestIn30Days": false,
-   "deal": null,
-   "inStock": true,
-   "seller": "not shown",
-   "soldByAmazon": null,
-   "boughtPastMonth": 3000,
-   "rating": 4.8,
-   "reviews": null,
-   "photo": "https://m.media-amazon.com/images/I/71C2S8520GL._SL1500_.jpg",
-   "max": 8.86,
-   "verdict": "TOO HIGH: 11.14 is over your max 8.86"
+   "platform": "depop",
+   "slug": "fem7elling-vintage-y2k-bench-barbour-style-2e16",
+   "key": "depop:fem7elling-vintage-y2k-bench-barbour-style-2e16",
+   "url": "https://www.depop.com/products/fem7elling-vintage-y2k-bench-barbour-style-2e16/",
+   "checkedAt": "2026-11-11T09:13:41Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
   }
  ]
 }
