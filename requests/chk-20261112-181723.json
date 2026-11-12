@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261112-181723",
+ "finishedAt": "2026-11-12T18:18:19Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "armanclotheo-antigua-san-diego-padres-sd-10b4",
+   "key": "depop:armanclotheo-antigua-san-diego-padres-sd-10b4",
+   "url": "https://www.depop.com/products/armanclotheo-antigua-san-diego-padres-sd-10b4/",
+   "checkedAt": "2026-11-12T18:17:55Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Antigua San Diego Padres SD Logo Full Zip Fleece...",
+   "brand": "Antigua Apparel",
+   "price": 9.1,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 1.46,
+   "tax": 1.03,
+   "totalCost": 19.58,
+   "size": "38\\",
+   "condition": "Used",
+   "seller": "armanclothes",
+   "photo": "https://media-photos.depop.com/r1/482026016/4990197546_b01f1839103d4e479e6ca5b738420f69/P0.jpg",
+   "max": 18.89,
+   "verdict": "TOO HIGH: 19.58 total is over your max 18.89"
+  }
+ ]
+}
