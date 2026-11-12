@@ -6724,8 +6724,8 @@
  },
  "depop:tjp1i_433-green-fruit-of-the-loom-de2e": {
   "brand": "Fruit of the Loom",
-  "buyerFee": 1.51,
-  "checkedAt": "2026-11-12T21:01:48Z",
+  "buyerFee": 1.45,
+  "checkedAt": "2026-11-12T23:20:55Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:tjp1i_433-green-fruit-of-the-loom-de2e",
@@ -6733,7 +6733,7 @@
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/256227176/5140443576_3d34cfd5cd224caba423449ca32568d5/P0.jpg",
   "platform": "depop",
-  "price": 10.15,
+  "price": 9.0,
   "seller": "tjp13_433",
   "shipping": 6.0,
   "shippingKnown": false,
@@ -6741,11 +6741,11 @@
   "slug": "tjp1i_433-green-fruit-of-the-loom-de2e",
   "sold": false,
   "status": "ok",
-  "tax": 1.14,
+  "tax": 1.02,
   "title": "Green Fruit of the Loom men\u2019s XL t-shirt with yellow...",
-  "totalCost": 18.79,
+  "totalCost": 17.47,
   "url": "https://www.depop.com/products/tjp1i_433-green-fruit-of-the-loom-de2e/",
-  "verdict": "TOO HIGH: 18.79 total is over your max 12.14"
+  "verdict": "TOO HIGH: 17.47 total is over your max 12.14"
  },
  "depop:tuekdougan-footjoy-vintage-navy-blue-sweatshirt-86a8": {
   "brand": "FootJoy",
