@@ -6250,11 +6250,11 @@
  "depop:s1allie-ugg-2010s-coquette-chestnut-suede-377a": {
   "brand": "UGG",
   "buyerFee": 1.65,
-  "checkedAt": "2026-11-12T15:46:35Z",
+  "checkedAt": "2026-11-12T18:55:23Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:s1allie-ugg-2010s-coquette-chestnut-suede-377a",
-  "max": 100.0,
+  "max": 19.6,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/462472164/5148221138_f8655a7c680e4bceaadfb8fbf21cf015/P0.jpg",
   "platform": "depop",
@@ -6262,7 +6262,7 @@
   "seller": "stallie",
   "shipping": 6.0,
   "shippingKnown": false,
-  "size": "33\\",
+  "size": "XL",
   "slug": "s1allie-ugg-2010s-coquette-chestnut-suede-377a",
   "sold": false,
   "status": "ok",
@@ -6270,7 +6270,7 @@
   "title": "Ugg 2010s Coquette chestnut suede slippers, used,...",
   "totalCost": 22.08,
   "url": "https://www.depop.com/products/s1allie-ugg-2010s-coquette-chestnut-suede-377a/",
-  "verdict": "OK: 22.08 total is at or under your max 100.00"
+  "verdict": "TOO HIGH: 22.08 total is over your max 19.60"
  },
  "depop:seb_sellif-white-real-madrid-jersey-with-c949": {
   "brand": "Real Madrid",
