@@ -1,28 +1,288 @@
 {
  "ok": false,
- "requestId": "listall-nov11-1629-retry",
- "finishedAt": "2026-11-12T00:29:18Z",
- "checked": 2,
+ "requestId": "chk-20261112-0108dep",
+ "finishedAt": "2026-11-12T01:12:05Z",
+ "checked": 28,
  "items": [
   {
-   "platform": "amazon",
-   "asin": "B0CQLN6VGG",
-   "key": "B0CQLN6VGG",
-   "url": "https://www.amazon.com/dp/B0CQLN6VGG",
-   "checkedAt": "2026-11-12T00:29:15Z",
+   "platform": "depop",
+   "slug": "karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f",
+   "key": "depop:karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f",
+   "url": "https://www.depop.com/products/karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f/",
+   "checkedAt": "2026-11-12T01:10:44Z",
    "ok": false,
-   "status": "not_found",
-   "error": "No product page for this ASIN (wrong ASIN, or the listing was removed)."
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
   },
   {
-   "platform": "amazon",
-   "asin": "B0CPDDJBP8",
-   "key": "B0CPDDJBP8",
-   "url": "https://www.amazon.com/dp/B0CPDDJBP8",
-   "checkedAt": "2026-11-12T00:29:18Z",
+   "platform": "depop",
+   "slug": "armanclotheo-antigua-san-diego-padres-sd-10b4",
+   "key": "depop:armanclotheo-antigua-san-diego-padres-sd-10b4",
+   "url": "https://www.depop.com/products/armanclotheo-antigua-san-diego-padres-sd-10b4/",
+   "checkedAt": "2026-11-12T01:10:48Z",
    "ok": false,
-   "status": "not_found",
-   "error": "No product page for this ASIN (wrong ASIN, or the listing was removed)."
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "rocktiv77-walls-youth-camo-coveralls-size-586c",
+   "key": "depop:rocktiv77-walls-youth-camo-coveralls-size-586c",
+   "url": "https://www.depop.com/products/rocktiv77-walls-youth-camo-coveralls-size-586c/",
+   "checkedAt": "2026-11-12T01:10:52Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "therealwiwf-g-star-raw-blue-denim-jacket-4339",
+   "key": "depop:therealwiwf-g-star-raw-blue-denim-jacket-4339",
+   "url": "https://www.depop.com/products/therealwiwf-g-star-raw-blue-denim-jacket-4339/",
+   "checkedAt": "2026-11-12T01:10:57Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "gc_thrimt-levis-701-high-flare-jeans-407d",
+   "key": "depop:gc_thrimt-levis-701-high-flare-jeans-407d",
+   "url": "https://www.depop.com/products/gc_thrimt-levis-701-high-flare-jeans-407d/",
+   "checkedAt": "2026-11-12T01:10:59Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "junof_363-burton-purple-puffer-jacket-size-54a9",
+   "key": "depop:junof_363-burton-purple-puffer-jacket-size-54a9",
+   "url": "https://www.depop.com/products/junof_363-burton-purple-puffer-jacket-size-54a9/",
+   "checkedAt": "2026-11-12T01:11:01Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "lamodamarket-grey-beavis-and-butthead-crewneck-1de9",
+   "key": "depop:lamodamarket-grey-beavis-and-butthead-crewneck-1de9",
+   "url": "https://www.depop.com/products/lamodamarket-grey-beavis-and-butthead-crewneck-1de9/",
+   "checkedAt": "2026-11-12T01:11:03Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "modern_c-vintage-cyber-y2k-womens-christian-bffd",
+   "key": "depop:modern_c-vintage-cyber-y2k-womens-christian-bffd",
+   "url": "https://www.depop.com/products/modern_c-vintage-cyber-y2k-womens-christian-bffd/",
+   "checkedAt": "2026-11-12T01:11:06Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "heodasshype-anti-social-social-club-x-da28",
+   "key": "depop:heodasshype-anti-social-social-club-x-da28",
+   "url": "https://www.depop.com/products/heodasshype-anti-social-social-club-x-da28/",
+   "checkedAt": "2026-11-12T01:11:08Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "jadedcatt92j-agolde-light-wash-denim-jeans-8f6b",
+   "key": "depop:jadedcatt92j-agolde-light-wash-denim-jeans-8f6b",
+   "url": "https://www.depop.com/products/jadedcatt92j-agolde-light-wash-denim-jeans-8f6b/",
+   "checkedAt": "2026-11-12T01:11:10Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "v_rguyen23-pleasures-black-t-shirt-new-without-05ec",
+   "key": "depop:v_rguyen23-pleasures-black-t-shirt-new-without-05ec",
+   "url": "https://www.depop.com/products/v_rguyen23-pleasures-black-t-shirt-new-without-05ec/",
+   "checkedAt": "2026-11-12T01:11:13Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "tjp1i_433-green-fruit-of-the-loom-de2e",
+   "key": "depop:tjp1i_433-green-fruit-of-the-loom-de2e",
+   "url": "https://www.depop.com/products/tjp1i_433-green-fruit-of-the-loom-de2e/",
+   "checkedAt": "2026-11-12T01:11:15Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "florp19k1-nike-lebron-james-purple-2d0b",
+   "key": "depop:florp19k1-nike-lebron-james-purple-2d0b",
+   "url": "https://www.depop.com/products/florp19k1-nike-lebron-james-purple-2d0b/",
+   "checkedAt": "2026-11-12T01:11:18Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "ma6as_hustle-bear-the-beams-gray-945b",
+   "key": "depop:ma6as_hustle-bear-the-beams-gray-945b",
+   "url": "https://www.depop.com/products/ma6as_hustle-bear-the-beams-gray-945b/",
+   "checkedAt": "2026-11-12T01:11:22Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "daenaclo2et-house-of-cb-blue-sequin-5193",
+   "key": "depop:daenaclo2et-house-of-cb-blue-sequin-5193",
+   "url": "https://www.depop.com/products/daenaclo2et-house-of-cb-blue-sequin-5193/",
+   "checkedAt": "2026-11-12T01:11:25Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "ishi_bei-navy-gray-starter-michigan-e3a7",
+   "key": "depop:ishi_bei-navy-gray-starter-michigan-e3a7",
+   "url": "https://www.depop.com/products/ishi_bei-navy-gray-starter-michigan-e3a7/",
+   "checkedAt": "2026-11-12T01:11:27Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "jorvangoods23-house-of-cb-clip-on-earrings-0e17",
+   "key": "depop:jorvangoods23-house-of-cb-clip-on-earrings-0e17",
+   "url": "https://www.depop.com/products/jorvangoods23-house-of-cb-clip-on-earrings-0e17/",
+   "checkedAt": "2026-11-12T01:11:31Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "seb_sellif-white-real-madrid-jersey-with-c949",
+   "key": "depop:seb_sellif-white-real-madrid-jersey-with-c949",
+   "url": "https://www.depop.com/products/seb_sellif-white-real-madrid-jersey-with-c949/",
+   "checkedAt": "2026-11-12T01:11:33Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "icfuldbemid-nike-reversible-new-york-jets-b93a",
+   "key": "depop:icfuldbemid-nike-reversible-new-york-jets-b93a",
+   "url": "https://www.depop.com/products/icfuldbemid-nike-reversible-new-york-jets-b93a/",
+   "checkedAt": "2026-11-12T01:11:36Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "makjylalevins-healing-hands-hh360-noah-cargo-e1a6",
+   "key": "depop:makjylalevins-healing-hands-hh360-noah-cargo-e1a6",
+   "url": "https://www.depop.com/products/makjylalevins-healing-hands-hh360-noah-cargo-e1a6/",
+   "checkedAt": "2026-11-12T01:11:39Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "cocomnaps-apple-bottom-jeans-size-56-6a8e",
+   "key": "depop:cocomnaps-apple-bottom-jeans-size-56-6a8e",
+   "url": "https://www.depop.com/products/cocomnaps-apple-bottom-jeans-size-56-6a8e/",
+   "checkedAt": "2026-11-12T01:11:41Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "canpbd137-ag-adriano-goldschmied-navy-denim-1f06",
+   "key": "depop:canpbd137-ag-adriano-goldschmied-navy-denim-1f06",
+   "url": "https://www.depop.com/products/canpbd137-ag-adriano-goldschmied-navy-denim-1f06/",
+   "checkedAt": "2026-11-12T01:11:44Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "dylwn_arg-grey-ben-davis-short-sleeve-fbc8",
+   "key": "depop:dylwn_arg-grey-ben-davis-short-sleeve-fbc8",
+   "url": "https://www.depop.com/products/dylwn_arg-grey-ben-davis-short-sleeve-fbc8/",
+   "checkedAt": "2026-11-12T01:11:47Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "alexeuvall-2000s-boot-cut-7-for-bce6",
+   "key": "depop:alexeuvall-2000s-boot-cut-7-for-bce6",
+   "url": "https://www.depop.com/products/alexeuvall-2000s-boot-cut-7-for-bce6/",
+   "checkedAt": "2026-11-12T01:11:50Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "orbitalplus3time-brown-cable-knit-quarter-zip-ba9a",
+   "key": "depop:orbitalplus3time-brown-cable-knit-quarter-zip-ba9a",
+   "url": "https://www.depop.com/products/orbitalplus3time-brown-cable-knit-quarter-zip-ba9a/",
+   "checkedAt": "2026-11-12T01:11:52Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "taa6y-wilfred-size-small-black-maxi-d36e",
+   "key": "depop:taa6y-wilfred-size-small-black-maxi-d36e",
+   "url": "https://www.depop.com/products/taa6y-wilfred-size-small-black-maxi-d36e/",
+   "checkedAt": "2026-11-12T01:11:55Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "dinguo627-kith-classics-gray-workout-hoodie-a162",
+   "key": "depop:dinguo627-kith-classics-gray-workout-hoodie-a162",
+   "url": "https://www.depop.com/products/dinguo627-kith-classics-gray-workout-hoodie-a162/",
+   "checkedAt": "2026-11-12T01:11:58Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
+  },
+  {
+   "platform": "depop",
+   "slug": "noahs_fvshion-tory-burch-18k-gold-plated-logo-4cc2",
+   "key": "depop:noahs_fvshion-tory-burch-18k-gold-plated-logo-4cc2",
+   "url": "https://www.depop.com/products/noahs_fvshion-tory-burch-18k-gold-plated-logo-4cc2/",
+   "checkedAt": "2026-11-12T01:12:02Z",
+   "ok": false,
+   "status": "blocked",
+   "error": "Depop didn't answer (it may be blocking GitHub's servers). Try again in a few minutes."
   }
  ]
 }
