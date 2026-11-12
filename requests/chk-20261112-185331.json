@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261112-185331",
+ "finishedAt": "2026-11-12T18:54:30Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "nunushoa81-coach-legacy-crossbody-bag-some-c3bc",
+   "key": "depop:nunushoa81-coach-legacy-crossbody-bag-some-c3bc",
+   "url": "https://www.depop.com/products/nunushoa81-coach-legacy-crossbody-bag-some-c3bc/",
+   "checkedAt": "2026-11-12T18:54:04Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Coach Legacy Crossbody bag. \nSome wear on cornors",
+   "brand": "Coach",
+   "price": 18.55,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 1.93,
+   "tax": 2.0,
+   "totalCost": 30.47,
+   "size": "L",
+   "condition": "Used",
+   "seller": "nunushop81",
+   "photo": "https://media-photos.depop.com/r1/434900965/5193600414_bb570f0d06be485d8422891e17a34ead/P0.jpg",
+   "max": 47.67,
+   "verdict": "OK: 30.47 total is at or under your max 47.67"
+  }
+ ]
+}
