@@ -1,20 +1,20 @@
 {
  "ok": true,
- "requestId": "chk-20261112-132950",
- "finishedAt": "2026-11-12T13:30:23Z",
+ "requestId": "chk-20261112-133043",
+ "finishedAt": "2026-11-12T13:31:23Z",
  "checked": 1,
  "items": [
   {
    "platform": "amazon",
-   "asin": "B09RZSQ34K",
-   "key": "B09RZSQ34K",
-   "url": "https://www.amazon.com/dp/B09RZSQ34K",
-   "checkedAt": "2026-11-12T13:30:23Z",
+   "asin": "B0GVGWNDMX",
+   "key": "B0GVGWNDMX",
+   "url": "https://www.amazon.com/dp/B0GVGWNDMX",
+   "checkedAt": "2026-11-12T13:31:23Z",
    "ok": true,
    "status": "ok",
-   "title": "STANLEY Screwdriver Set, 10 Piece, Cross-Tip & Slotted (STHT60799)",
-   "brand": "STANLEY",
-   "price": 27.68,
+   "title": "AT-A-GLANCE 2027 Wall Calendar, Monthly, 15.5\" x 22.75\" Planner, Ruled Daily Blocks (PM32827), White",
+   "brand": "AT-A-GLANCE",
+   "price": 20.42,
    "priceAfterCoupon": null,
    "coupon": null,
    "listPrice": null,
@@ -23,14 +23,14 @@
    "lowestIn30Days": false,
    "deal": null,
    "inStock": true,
-   "seller": "American Sunrise",
-   "soldByAmazon": false,
-   "boughtPastMonth": null,
-   "rating": 4.4,
+   "seller": "not shown",
+   "soldByAmazon": null,
+   "boughtPastMonth": 4000,
+   "rating": 4.8,
    "reviews": null,
-   "photo": "https://m.media-amazon.com/images/I/61g9BskxADL._AC_SL1500_.jpg",
-   "max": 31.29,
-   "verdict": "OK: 27.68 is at or under your max 31.29"
+   "photo": "https://m.media-amazon.com/images/I/81sR9c-PQ3L._AC_SL1500_.jpg",
+   "max": 22.26,
+   "verdict": "OK: 20.42 is at or under your max 22.26"
   }
  ]
 }
