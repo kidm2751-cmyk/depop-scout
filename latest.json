@@ -5451,8 +5451,8 @@
  },
  "depop:daenaclo2et-house-of-cb-blue-sequin-5193": {
   "brand": "House of CB",
-  "buyerFee": 1.46,
-  "checkedAt": "2026-11-12T21:03:57Z",
+  "buyerFee": 1.4,
+  "checkedAt": "2026-11-12T23:24:10Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:daenaclo2et-house-of-cb-blue-sequin-5193",
@@ -5460,7 +5460,7 @@
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/295435455/5150309973_c88b579ee3d54243936a29214837bb56/P0.jpg",
   "platform": "depop",
-  "price": 9.1,
+  "price": 8.0,
   "seller": "daenacloset",
   "shipping": 6.0,
   "shippingKnown": false,
@@ -5468,11 +5468,11 @@
   "slug": "daenaclo2et-house-of-cb-blue-sequin-5193",
   "sold": false,
   "status": "ok",
-  "tax": 1.03,
+  "tax": 0.92,
   "title": "House of CB blue sequin crop top with silver floral...",
-  "totalCost": 17.58,
+  "totalCost": 16.32,
   "url": "https://www.depop.com/products/daenaclo2et-house-of-cb-blue-sequin-5193/",
-  "verdict": "TOO HIGH: 17.58 total is over your max 11.09"
+  "verdict": "TOO HIGH: 16.32 total is over your max 11.09"
  },
  "depop:dcrosell8-brown-suede-birkenstock-boston-clogs-d509": {
   "brand": "Birkenstock",
