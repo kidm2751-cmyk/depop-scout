@@ -3305,7 +3305,7 @@
   "asin": "B0DJ1BV2TX",
   "boughtPastMonth": 6000,
   "brand": "",
-  "checkedAt": "2026-11-12T09:31:31Z",
+  "checkedAt": "2026-11-12T09:35:23Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -3313,7 +3313,7 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 16.78,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/81zTexg-o7L._AC_SL1500_.jpg",
@@ -3327,7 +3327,7 @@
   "status": "ok",
   "title": "LEGO Harry Potter Hogwarts Castle: Charms Class 76442",
   "url": "https://www.amazon.com/dp/B0DJ1BV2TX",
-  "verdict": "OK: 19.99 is at or under your max 45.00"
+  "verdict": "TOO HIGH: 19.99 is over your max 16.78"
  },
  "B0DKW2H52M": {
   "asin": "B0DKW2H52M",
