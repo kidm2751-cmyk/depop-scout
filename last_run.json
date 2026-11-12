@@ -1,33 +1,18 @@
 {
- "ok": true,
- "requestId": "chk-20261112-032041",
- "finishedAt": "2026-11-12T03:21:40Z",
+ "ok": false,
+ "requestId": "chk-20261112-032152",
+ "finishedAt": "2026-11-12T03:22:48Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "thatboydiesel-chicago-blackhawks-red-bomber-jacket-dc14",
-   "key": "depop:thatboydiesel-chicago-blackhawks-red-bomber-jacket-dc14",
-   "url": "https://www.depop.com/products/thatboydiesel-chicago-blackhawks-red-bomber-jacket-dc14/",
-   "checkedAt": "2026-11-12T03:21:13Z",
-   "ok": true,
-   "status": "ok",
-   "sold": false,
-   "inStock": true,
-   "title": "Chicago Blackhawks red bomber jacket with black and...",
-   "brand": "Other",
-   "price": 14.09,
-   "shipping": 8.0,
-   "shippingKnown": false,
-   "buyerFee": 1.7,
-   "tax": 1.54,
-   "totalCost": 25.33,
-   "size": "XL",
-   "condition": "Used",
-   "seller": "thatboydiesel",
-   "photo": "https://media-photos.depop.com/b1/31993776/5016622114_1d7fc0a5a030463c91347ef746523a87/P0.jpg",
-   "max": 30.4,
-   "verdict": "OK: 25.33 total is at or under your max 30.40"
+   "slug": "jorvangoods23-house-of-cb-clip-on-earrings-0e17",
+   "key": "depop:jorvangoods23-house-of-cb-clip-on-earrings-0e17",
+   "url": "https://www.depop.com/products/jorvangoods23-house-of-cb-clip-on-earrings-0e17/",
+   "checkedAt": "2026-11-12T03:22:24Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
   }
  ]
 }

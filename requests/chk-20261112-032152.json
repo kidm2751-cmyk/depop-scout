@@ -1,0 +1,18 @@
+{
+ "ok": false,
+ "requestId": "chk-20261112-032152",
+ "finishedAt": "2026-11-12T03:22:48Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "jorvangoods23-house-of-cb-clip-on-earrings-0e17",
+   "key": "depop:jorvangoods23-house-of-cb-clip-on-earrings-0e17",
+   "url": "https://www.depop.com/products/jorvangoods23-house-of-cb-clip-on-earrings-0e17/",
+   "checkedAt": "2026-11-12T03:22:24Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  }
+ ]
+}
