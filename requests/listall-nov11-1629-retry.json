@@ -1,0 +1,28 @@
+{
+ "ok": false,
+ "requestId": "listall-nov11-1629-retry",
+ "finishedAt": "2026-11-12T00:29:18Z",
+ "checked": 2,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0CQLN6VGG",
+   "key": "B0CQLN6VGG",
+   "url": "https://www.amazon.com/dp/B0CQLN6VGG",
+   "checkedAt": "2026-11-12T00:29:15Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "No product page for this ASIN (wrong ASIN, or the listing was removed)."
+  },
+  {
+   "platform": "amazon",
+   "asin": "B0CPDDJBP8",
+   "key": "B0CPDDJBP8",
+   "url": "https://www.amazon.com/dp/B0CPDDJBP8",
+   "checkedAt": "2026-11-12T00:29:18Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "No product page for this ASIN (wrong ASIN, or the listing was removed)."
+  }
+ ]
+}
