@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "listall-nov11-1602-jumanji",
+ "finishedAt": "2026-11-12T00:01:37Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0CSYGN445",
+   "key": "B0CSYGN445",
+   "url": "https://www.amazon.com/dp/B0CSYGN445",
+   "checkedAt": "2026-11-12T00:01:37Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Spin Master Games Jumanji Stampede 3D Cooperative Family Game",
+   "brand": "Spin Master Games",
+   "price": 27.46,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": null,
+   "listPriceKind": null,
+   "pctOff": 0.0,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "not shown",
+   "soldByAmazon": null,
+   "boughtPastMonth": 50,
+   "rating": 4.6,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/91Qcz9bIQpL._AC_SL1500_.jpg",
+   "max": 45.0,
+   "verdict": "OK: 27.46 is at or under your max 45.00"
+  }
+ ]
+}
