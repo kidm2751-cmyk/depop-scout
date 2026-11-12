@@ -1,0 +1,70 @@
+name: Auto parts scout (LKQ Online)
+
+on:
+  schedule:
+    # Times are UTC. These are 6:37am, 10:37am, 1:37pm and 6:37pm Pacific (standard time, Nov to Mar).
+    # From March to November (daylight time) they run one hour later. GitHub can start scheduled runs a few minutes late.
+    - cron: "37 14,18,21,2 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Test only: print finds in the log instead of sending to Discord"
+        type: boolean
+        default: false
+
+concurrency:
+  group: lkq-scout
+  cancel-in-progress: false
+
+jobs:
+  lkq:
+    runs-on: ubuntu-latest
+    timeout-minutes: 110
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install Scrapling
+        run: pip install -r requirements.txt
+
+      - name: Cache the stealth browser
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: browsers-${{ hashFiles('requirements.txt') }}
+
+      - name: Install the stealth browser
+        run: scrapling install || echo "browser install failed; plain requests will still be used"
+
+      - name: Load memory from the last run
+        uses: actions/cache/restore@v4
+        with:
+          path: state_lkq
+          key: lkq-state-${{ github.run_id }}
+          restore-keys: lkq-state-
+
+      - name: Run the auto parts scout
+        env:
+          AUTO_PARTS_WEBHOOK_URL: ${{ secrets.AUTO_PARTS_WEBHOOK_URL }}
+          DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+        run: python lkq_scout.py
+
+      - name: Save memory for the next run
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: state_lkq
+          key: lkq-state-${{ github.run_id }}
+
+      - name: Save debug files (download "debug-lkq" from this run's Summary page)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-lkq
+          path: debug_lkq/
+          if-no-files-found: ignore
+          retention-days: 7
