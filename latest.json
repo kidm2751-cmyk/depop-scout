@@ -31,7 +31,7 @@
   "asin": "B000ND5EVY",
   "boughtPastMonth": 1000,
   "brand": "Hunters Specialties",
-  "checkedAt": "2026-11-12T03:57:27Z",
+  "checkedAt": "2026-11-12T09:30:54Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -39,7 +39,7 @@
   "listPrice": 14.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 8.46,
+  "max": 45.0,
   "ok": true,
   "pctOff": 43.6,
   "photo": "https://m.media-amazon.com/images/I/71IUmiP11kL._AC_SL1500_.jpg",
@@ -53,7 +53,7 @@
   "status": "ok",
   "title": "Hunters Specialties Long Lasting Cover Scent Wafers for Hunting - 3 Wafers Per Pack, 3 Safety Pins Included",
   "url": "https://www.amazon.com/dp/B000ND5EVY",
-  "verdict": "OK: 8.46 is at or under your max 8.46"
+  "verdict": "OK: 8.46 is at or under your max 45.00"
  },
  "B00112DTRC": {
   "asin": "B00112DTRC",
@@ -143,7 +143,7 @@
   "asin": "B00251EHJW",
   "boughtPastMonth": 500,
   "brand": "",
-  "checkedAt": "2026-11-12T03:57:39Z",
+  "checkedAt": "2026-11-12T09:30:57Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -151,7 +151,7 @@
   "listPrice": 36.35,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 19.99,
+  "max": 45.0,
   "ok": true,
   "pctOff": 45.0,
   "photo": "https://m.media-amazon.com/images/I/81VOLU1rIyL._AC_SL1500_.jpg",
@@ -165,7 +165,7 @@
   "status": "ok",
   "title": "Prismacolor Premier Graphite Drawing Set, 18 Count",
   "url": "https://www.amazon.com/dp/B00251EHJW",
-  "verdict": "OK: 19.99 is at or under your max 19.99"
+  "verdict": "OK: 19.99 is at or under your max 45.00"
  },
  "B0030F32L6": {
   "asin": "B0030F32L6",
@@ -311,7 +311,7 @@
   "asin": "B006RQ8TY0",
   "boughtPastMonth": 4000,
   "brand": "Learning Resources",
-  "checkedAt": "2026-11-12T03:23:42Z",
+  "checkedAt": "2026-11-12T09:30:59Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -673,7 +673,7 @@
   "asin": "B06XZTZ7GB",
   "boughtPastMonth": 7000,
   "brand": "MATEIN",
-  "checkedAt": "2026-11-12T04:15:11Z",
+  "checkedAt": "2026-11-12T09:31:01Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -681,7 +681,7 @@
   "listPrice": 33.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 21.99,
+  "max": 45.0,
   "ok": true,
   "pctOff": 41.8,
   "photo": "https://m.media-amazon.com/images/I/71ocYTnmgeL._AC_SL1500_.jpg",
@@ -695,7 +695,7 @@
   "status": "ok",
   "title": "MATEIN Travel Laptop Backpack, 15.6 Inch College School Computer Bag, Grey",
   "url": "https://www.amazon.com/dp/B06XZTZ7GB",
-  "verdict": "OK: 19.79 is at or under your max 21.99"
+  "verdict": "OK: 19.79 is at or under your max 45.00"
  },
  "B072QH418H": {
   "asin": "B072QH418H",
@@ -813,7 +813,7 @@
   "asin": "B07995B8L1",
   "boughtPastMonth": 5000,
   "brand": "Everlasting Comfort",
-  "checkedAt": "2026-11-12T03:24:00Z",
+  "checkedAt": "2026-11-12T09:31:05Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -953,7 +953,7 @@
   "asin": "B07GBZ4Q68",
   "boughtPastMonth": 10000,
   "brand": "",
-  "checkedAt": "2026-11-12T04:14:36Z",
+  "checkedAt": "2026-11-12T09:31:07Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -961,7 +961,7 @@
   "listPrice": 69.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 37.99,
+  "max": 45.0,
   "ok": true,
   "pctOff": 45.7,
   "photo": "https://m.media-amazon.com/images/I/61mpMH5TzkL._AC_SL1500_.jpg",
@@ -975,7 +975,7 @@
   "status": "ok",
   "title": "Logitech G502 HERO Wired Gaming Mouse, HERO 25K Sensor for PC/Mac",
   "url": "https://www.amazon.com/dp/B07GBZ4Q68",
-  "verdict": "OK: 37.99 is at or under your max 37.99"
+  "verdict": "OK: 37.99 is at or under your max 45.00"
  },
  "B07H8PYVRX": {
   "asin": "B07H8PYVRX",
@@ -1121,7 +1121,7 @@
   "asin": "B07VS46CXT",
   "boughtPastMonth": 900,
   "brand": "Play-Doh",
-  "checkedAt": "2026-11-12T03:56:52Z",
+  "checkedAt": "2026-11-12T09:31:09Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -1129,7 +1129,7 @@
   "listPrice": 21.99,
   "listPriceKind": "typical",
   "lowestIn30Days": false,
-  "max": 9.99,
+  "max": 45.0,
   "ok": true,
   "pctOff": 54.6,
   "photo": "https://m.media-amazon.com/images/I/716fEUJOIfL._AC_SL1500_.jpg",
@@ -1143,7 +1143,7 @@
   "status": "ok",
   "title": "Play-Doh Eggs 24-Pack, Dinosaur & Dragon Egg Hunt Toys, Modeling Compound for Birthday Gifts & Party Favors, Easter Basket Stuffers, Kids Ages 2 and Up (Amazon ",
   "url": "https://www.amazon.com/dp/B07VS46CXT",
-  "verdict": "OK: 9.99 is at or under your max 9.99"
+  "verdict": "OK: 9.99 is at or under your max 45.00"
  },
  "B07YKLSMFM": {
   "asin": "B07YKLSMFM",
@@ -1317,7 +1317,7 @@
   "asin": "B08HB8JF5G",
   "boughtPastMonth": 1000,
   "brand": "JOYIN",
-  "checkedAt": "2026-11-12T03:57:02Z",
+  "checkedAt": "2026-11-12T09:31:11Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1325,7 +1325,7 @@
   "listPrice": 35.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 16.99,
+  "max": 45.0,
   "ok": true,
   "pctOff": 52.8,
   "photo": "https://m.media-amazon.com/images/I/91ndvz-t7oL._AC_SL1500_.jpg",
@@ -1339,7 +1339,7 @@
   "status": "ok",
   "title": "JOYIN Christmas 24 Days Countdown Advent Calendar with a Tabletop Wooden Christmas Tree and 28 Ornaments Snowman Santa Decorations for Boys, Girls and Kids Part",
   "url": "https://www.amazon.com/dp/B08HB8JF5G",
-  "verdict": "OK: 16.99 is at or under your max 16.99"
+  "verdict": "OK: 16.99 is at or under your max 45.00"
  },
  "B08HH572QR": {
   "asin": "B08HH572QR",
@@ -1457,7 +1457,7 @@
   "asin": "B08V36YT2X",
   "boughtPastMonth": 500,
   "brand": "",
-  "checkedAt": "2026-11-12T04:15:18Z",
+  "checkedAt": "2026-11-12T09:31:13Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1465,7 +1465,7 @@
   "listPrice": 31.95,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 19.55,
+  "max": 45.0,
   "ok": true,
   "pctOff": 53.4,
   "photo": "https://m.media-amazon.com/images/I/71tflHsXVyL._AC_SL1500_.jpg",
@@ -1479,7 +1479,7 @@
   "status": "ok",
   "title": "Wilson Luminous Glow Football - Junior Size, Green",
   "url": "https://www.amazon.com/dp/B08V36YT2X",
-  "verdict": "OK: 14.89 is at or under your max 19.55"
+  "verdict": "OK: 14.89 is at or under your max 45.00"
  },
  "B08W6B718Z": {
   "asin": "B08W6B718Z",
@@ -1765,7 +1765,7 @@
   "asin": "B09GF1ND4D",
   "boughtPastMonth": 10000,
   "brand": "",
-  "checkedAt": "2026-11-12T04:14:45Z",
+  "checkedAt": "2026-11-12T09:31:17Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1773,7 +1773,7 @@
   "listPrice": 9.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 6.17,
+  "max": 45.0,
   "ok": true,
   "pctOff": 38.2,
   "photo": "https://m.media-amazon.com/images/I/61cwQolPreL._AC_SL1500_.jpg",
@@ -1787,7 +1787,7 @@
   "status": "ok",
   "title": "OFF! Clean Feel Picaridin Insect & Mosquito Repellent Bug Spray, 5 oz",
   "url": "https://www.amazon.com/dp/B09GF1ND4D",
-  "verdict": "OK: 6.17 is at or under your max 6.17"
+  "verdict": "OK: 6.17 is at or under your max 45.00"
  },
  "B09GTRVJQM": {
   "asin": "B09GTRVJQM",
@@ -1959,31 +1959,31 @@
  },
  "B09RZSQ34K": {
   "asin": "B09RZSQ34K",
-  "boughtPastMonth": 50,
+  "boughtPastMonth": null,
   "brand": "STANLEY",
-  "checkedAt": "2026-11-12T03:56:04Z",
+  "checkedAt": "2026-11-12T09:31:19Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
   "key": "B09RZSQ34K",
-  "listPrice": null,
-  "listPriceKind": null,
-  "lowestIn30Days": false,
-  "max": 31.29,
+  "listPrice": 27.01,
+  "listPriceKind": "typical",
+  "lowestIn30Days": true,
+  "max": 45.0,
   "ok": true,
-  "pctOff": 0.0,
+  "pctOff": 34.8,
   "photo": "https://m.media-amazon.com/images/I/61g9BskxADL._AC_SL1500_.jpg",
   "platform": "amazon",
-  "price": 27.68,
+  "price": 17.6,
   "priceAfterCoupon": null,
   "rating": 4.4,
   "reviews": null,
-  "seller": "American Sunrise",
+  "seller": "GreatStar Tools",
   "soldByAmazon": false,
   "status": "ok",
   "title": "STANLEY Screwdriver Set, 10 Piece, Cross-Tip & Slotted (STHT60799)",
   "url": "https://www.amazon.com/dp/B09RZSQ34K",
-  "verdict": "OK: 27.68 is at or under your max 31.29"
+  "verdict": "OK: 17.60 is at or under your max 45.00"
  },
  "B09WFWN76D": {
   "asin": "B09WFWN76D",
@@ -2157,7 +2157,7 @@
   "asin": "B0BBWCZLYY",
   "boughtPastMonth": 10000,
   "brand": "Vaseline",
-  "checkedAt": "2026-11-12T03:25:10Z",
+  "checkedAt": "2026-11-12T09:31:21Z",
   "coupon": "10% off coupon",
   "deal": null,
   "inStock": true,
@@ -2549,7 +2549,7 @@
   "asin": "B0C9RX4MLV",
   "boughtPastMonth": 3000,
   "brand": "Spigen",
-  "checkedAt": "2026-11-12T03:25:20Z",
+  "checkedAt": "2026-11-12T09:31:23Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -2801,7 +2801,7 @@
   "asin": "B0CTWHSSM8",
   "boughtPastMonth": 10000,
   "brand": "QUNREDA",
-  "checkedAt": "2026-11-12T03:57:05Z",
+  "checkedAt": "2026-11-12T09:31:26Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -2809,7 +2809,7 @@
   "listPrice": 39.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 25.48,
+  "max": 45.0,
   "ok": true,
   "pctOff": 36.3,
   "photo": "https://m.media-amazon.com/images/I/81pa-dG26dL._AC_SL1500_.jpg",
@@ -2823,7 +2823,7 @@
   "status": "ok",
   "title": "QUNREDA Remote Control Car, RC Cars Toys for Kids Ages 6-12, 4WD Stunt Car with LED Lights & 360\u00b0 Flips, 2.4GHz, Upgraded USB-C Modular Batteries, 8-10 Year Old",
   "url": "https://www.amazon.com/dp/B0CTWHSSM8",
-  "verdict": "OK: 25.48 is at or under your max 25.48"
+  "verdict": "OK: 25.48 is at or under your max 45.00"
  },
  "B0CW8GWLX7": {
   "asin": "B0CW8GWLX7",
@@ -2969,7 +2969,7 @@
   "asin": "B0D61DYJ99",
   "boughtPastMonth": 6000,
   "brand": "Sour Patch Kids",
-  "checkedAt": "2026-11-12T04:14:01Z",
+  "checkedAt": "2026-11-12T09:31:29Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -2977,7 +2977,7 @@
   "listPrice": 5.19,
   "listPriceKind": "typical",
   "lowestIn30Days": false,
-  "max": 4.67,
+  "max": 45.0,
   "ok": true,
   "pctOff": 37.4,
   "photo": "https://m.media-amazon.com/images/I/81yHjq6YFJL._SL1500_.jpg",
@@ -2991,7 +2991,7 @@
   "status": "ok",
   "title": "SOUR PATCH KIDS Fruits Mix Soft & Chewy Gummy Candy, Share Size, 11.03 oz",
   "url": "https://www.amazon.com/dp/B0D61DYJ99",
-  "verdict": "OK: 3.25 is at or under your max 4.67"
+  "verdict": "OK: 3.25 is at or under your max 45.00"
  },
  "B0D6CKV8W5": {
   "asin": "B0D6CKV8W5",
@@ -3303,22 +3303,22 @@
  },
  "B0DJ1BV2TX": {
   "asin": "B0DJ1BV2TX",
-  "boughtPastMonth": 7000,
+  "boughtPastMonth": 6000,
   "brand": "",
-  "checkedAt": "2026-11-12T03:56:02Z",
+  "checkedAt": "2026-11-12T09:31:31Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
   "key": "B0DJ1BV2TX",
-  "listPrice": 19.99,
-  "listPriceKind": "list",
+  "listPrice": null,
+  "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 18.61,
+  "max": 45.0,
   "ok": true,
-  "pctOff": 20.0,
+  "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/81zTexg-o7L._AC_SL1500_.jpg",
   "platform": "amazon",
-  "price": 15.99,
+  "price": 19.99,
   "priceAfterCoupon": null,
   "rating": 4.8,
   "reviews": null,
@@ -3327,7 +3327,7 @@
   "status": "ok",
   "title": "LEGO Harry Potter Hogwarts Castle: Charms Class 76442",
   "url": "https://www.amazon.com/dp/B0DJ1BV2TX",
-  "verdict": "OK: 15.99 is at or under your max 18.61"
+  "verdict": "OK: 19.99 is at or under your max 45.00"
  },
  "B0DKW2H52M": {
   "asin": "B0DKW2H52M",
@@ -3501,7 +3501,7 @@
   "asin": "B0DRW7P7DS",
   "boughtPastMonth": 5000,
   "brand": "",
-  "checkedAt": "2026-11-12T03:57:19Z",
+  "checkedAt": "2026-11-12T09:31:33Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -3509,7 +3509,7 @@
   "listPrice": 29.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 16.79,
+  "max": 45.0,
   "ok": true,
   "pctOff": 44.0,
   "photo": "https://m.media-amazon.com/images/I/71zJU8Ojb2L._AC_SL1500_.jpg",
@@ -3523,7 +3523,7 @@
   "status": "ok",
   "title": "LEGO Creator 3 in 1 Retro Telephone Kids Toy - Home Decor for Bedroom or Kids Room - Building Toy and Learning Playset for Girls & Boys, Ages 8+ - Gift Idea for",
   "url": "https://www.amazon.com/dp/B0DRW7P7DS",
-  "verdict": "OK: 16.79 is at or under your max 16.79"
+  "verdict": "OK: 16.79 is at or under your max 45.00"
  },
  "B0DTBPVL3D": {
   "asin": "B0DTBPVL3D",
@@ -3669,7 +3669,7 @@
   "asin": "B0F8QTBGNP",
   "boughtPastMonth": 2000,
   "brand": "Loiley",
-  "checkedAt": "2026-11-12T03:57:10Z",
+  "checkedAt": "2026-11-12T09:31:36Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -3677,12 +3677,12 @@
   "listPrice": 66.98,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 39.98,
+  "max": 45.0,
   "ok": true,
   "pctOff": 40.3,
   "photo": "https://m.media-amazon.com/images/I/81a7QAIa0PL._AC_SL1500_.jpg",
   "platform": "amazon",
-  "price": 39.98,
+  "price": 39.99,
   "priceAfterCoupon": null,
   "rating": 4.2,
   "reviews": null,
@@ -3691,7 +3691,7 @@
   "status": "ok",
   "title": "Drone with Camera for Adults, 2K HD FPV Drones with Upgrade Altitude Hold, One-Key Take Off/Landing, Speed Adjustment, Headless Mode, 2 Batteries, Toys Gifts fo",
   "url": "https://www.amazon.com/dp/B0F8QTBGNP",
-  "verdict": "OK: 39.98 is at or under your max 39.98"
+  "verdict": "OK: 39.99 is at or under your max 45.00"
  },
  "B0F8W8VF6L": {
   "asin": "B0F8W8VF6L",
@@ -3781,7 +3781,7 @@
   "asin": "B0FFH1DC25",
   "boughtPastMonth": 1000,
   "brand": "",
-  "checkedAt": "2026-11-12T04:14:11Z",
+  "checkedAt": "2026-11-12T09:31:38Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -3789,7 +3789,7 @@
   "listPrice": 26.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 11.33,
+  "max": 45.0,
   "ok": true,
   "pctOff": 58.0,
   "photo": "https://m.media-amazon.com/images/I/81YV6Qa611L._AC_SL1500_.jpg",
@@ -3803,7 +3803,7 @@
   "status": "ok",
   "title": "Hot Wheels Racing Formula 1 Grid Start Track Set and 2 Toy Cars",
   "url": "https://www.amazon.com/dp/B0FFH1DC25",
-  "verdict": "OK: 11.33 is at or under your max 11.33"
+  "verdict": "OK: 11.33 is at or under your max 45.00"
  },
  "B0FG285SBT": {
   "asin": "B0FG285SBT",
@@ -3893,7 +3893,7 @@
   "asin": "B0FK5SMHY5",
   "boughtPastMonth": 100,
   "brand": "Squishmallows",
-  "checkedAt": "2026-11-12T04:14:33Z",
+  "checkedAt": "2026-11-12T09:31:41Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -3901,7 +3901,7 @@
   "listPrice": 16.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 9.49,
+  "max": 45.0,
   "ok": true,
   "pctOff": 44.1,
   "photo": "https://m.media-amazon.com/images/I/71PxCARR9iL._AC_SL1500_.jpg",
@@ -3915,7 +3915,7 @@
   "status": "ok",
   "title": "Squishmallows Original 12in Cam the Calico Cat in Graduation Cap \u2013 Official Jazwares Plush (Medium-Sized)",
   "url": "https://www.amazon.com/dp/B0FK5SMHY5",
-  "verdict": "OK: 9.49 is at or under your max 9.49"
+  "verdict": "OK: 9.49 is at or under your max 45.00"
  },
  "B0FKP2JKR9": {
   "asin": "B0FKP2JKR9",
@@ -4117,7 +4117,7 @@
   "asin": "B0FMS9ST4S",
   "boughtPastMonth": 8000,
   "brand": "",
-  "checkedAt": "2026-11-12T03:57:29Z",
+  "checkedAt": "2026-11-12T09:31:44Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -4125,7 +4125,7 @@
   "listPrice": 9.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 5.99,
+  "max": 45.0,
   "ok": true,
   "pctOff": 40.0,
   "photo": "https://m.media-amazon.com/images/I/71e9ec9jXzL._AC_SL1500_.jpg",
@@ -4139,7 +4139,7 @@
   "status": "ok",
   "title": "LEGO City Rides \u2013 Gaming Race Car 60484",
   "url": "https://www.amazon.com/dp/B0FMS9ST4S",
-  "verdict": "OK: 5.99 is at or under your max 5.99"
+  "verdict": "OK: 5.99 is at or under your max 45.00"
  },
  "B0FMYWSMDF": {
   "asin": "B0FMYWSMDF",
@@ -4257,7 +4257,7 @@
   "asin": "B0FS2325QX",
   "boughtPastMonth": 200,
   "brand": "Barbie",
-  "checkedAt": "2026-11-12T03:26:50Z",
+  "checkedAt": "2026-11-12T09:31:46Z",
   "coupon": null,
   "deal": "Black Friday deal",
   "inStock": true,
@@ -4369,7 +4369,7 @@
   "asin": "B0G1VF5ZCR",
   "boughtPastMonth": 700,
   "brand": "",
-  "checkedAt": "2026-11-12T04:15:54Z",
+  "checkedAt": "2026-11-12T09:31:48Z",
   "coupon": null,
   "deal": "Black Friday deal",
   "inStock": true,
@@ -4377,7 +4377,7 @@
   "listPrice": 19.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 16.42,
+  "max": 45.0,
   "ok": true,
   "pctOff": 30.0,
   "photo": "https://m.media-amazon.com/images/I/81fURQ-AfML._AC_SL1500_.jpg",
@@ -4391,7 +4391,7 @@
   "status": "ok",
   "title": "\u200bHot Wheels 1:64 Scale RC Dodge Viper ACR, Remote-Control Toy Car\u200b\u200b",
   "url": "https://www.amazon.com/dp/B0G1VF5ZCR",
-  "verdict": "OK: 13.99 is at or under your max 16.42"
+  "verdict": "OK: 13.99 is at or under your max 45.00"
  },
  "B0G2BMQ9Q6": {
   "asin": "B0G2BMQ9Q6",
@@ -4481,7 +4481,7 @@
   "asin": "B0G43VLL9L",
   "boughtPastMonth": 2000,
   "brand": "Mattel",
-  "checkedAt": "2026-11-12T03:56:23Z",
+  "checkedAt": "2026-11-12T09:31:50Z",
   "coupon": "$6.25 off coupon",
   "deal": null,
   "inStock": true,
@@ -4489,7 +4489,7 @@
   "listPrice": 54.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 25.63,
+  "max": 45.0,
   "ok": true,
   "pctOff": 54.6,
   "photo": "https://m.media-amazon.com/images/I/81UqrwDF0ML._AC_SL1500_.jpg",
@@ -4503,7 +4503,7 @@
   "status": "ok",
   "title": "Mattel Minecraft Minecart RC with Steve",
   "url": "https://www.amazon.com/dp/B0G43VLL9L",
-  "verdict": "OK: 18.74 is at or under your max 25.63"
+  "verdict": "OK: 18.74 is at or under your max 45.00"
  },
  "B0G4WXXQDN": {
   "asin": "B0G4WXXQDN",
@@ -4593,7 +4593,7 @@
   "asin": "B0GB225QFP",
   "boughtPastMonth": 4000,
   "brand": "L.O.L. Surprise!",
-  "checkedAt": "2026-11-12T04:14:57Z",
+  "checkedAt": "2026-11-12T09:31:52Z",
   "coupon": "$1.65 off coupon",
   "deal": null,
   "inStock": true,
@@ -4601,7 +4601,7 @@
   "listPrice": 11.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 6.6,
+  "max": 45.0,
   "ok": true,
   "pctOff": 45.0,
   "photo": "https://m.media-amazon.com/images/I/81WZziUEDwL._AC_SL1500_.jpg",
@@ -4615,7 +4615,7 @@
   "status": "ok",
   "title": "LOL Surprise Music Festival \u2013 Dolls with Collectible Vinyl Albums, Interactive Unboxing, 7 Total Surprises \u2013 Collect All 8 Unique Styles! Gift for Kids Ages 4+",
   "url": "https://www.amazon.com/dp/B0GB225QFP",
-  "verdict": "OK: 4.94 is at or under your max 6.60"
+  "verdict": "OK: 4.94 is at or under your max 45.00"
  },
  "B0GBYRJ4WZ": {
   "asin": "B0GBYRJ4WZ",
@@ -4873,7 +4873,7 @@
   "asin": "B0HC3TKS7X",
   "boughtPastMonth": 1000,
   "brand": "sundpik",
-  "checkedAt": "2026-11-12T04:14:14Z",
+  "checkedAt": "2026-11-12T09:31:55Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -4881,7 +4881,7 @@
   "listPrice": 39.99,
   "listPriceKind": "typical",
   "lowestIn30Days": false,
-  "max": 20.0,
+  "max": 45.0,
   "ok": true,
   "pctOff": 50.0,
   "photo": "https://m.media-amazon.com/images/I/71wys8SjdLL._SL1500_.jpg",
@@ -4895,7 +4895,7 @@
   "status": "ok",
   "title": "Posture Corrector for Women and Men, Back Straightener Brace (1)",
   "url": "https://www.amazon.com/dp/B0HC3TKS7X",
-  "verdict": "OK: 19.99 is at or under your max 20.00"
+  "verdict": "OK: 19.99 is at or under your max 45.00"
  },
  "B0HND7YK86": {
   "asin": "B0HND7YK86",
