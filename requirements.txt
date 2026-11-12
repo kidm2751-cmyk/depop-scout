@@ -1,1 +1,4 @@
 scrapling[fetchers]==0.5
+# pinned: a newer Playwright (1.65) needs a different browser build than the one GitHub has cached, which broke the browser
+playwright==1.64.1
+patchright==1.64.4
