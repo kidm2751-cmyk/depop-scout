@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261112-185726",
+ "finishedAt": "2026-11-12T18:58:38Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "luhchjzz-vintage-1990s-starter-navy-orange-4b53",
+   "key": "depop:luhchjzz-vintage-1990s-starter-navy-orange-4b53",
+   "url": "https://www.depop.com/products/luhchjzz-vintage-1990s-starter-navy-orange-4b53/",
+   "checkedAt": "2026-11-12T18:58:14Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Vintage 1990s Starter Navy\nOrange Zip Up Nylon...",
+   "brand": "Starter",
+   "price": 11.2,
+   "shipping": 6.0,
+   "shippingKnown": false,
+   "buyerFee": 1.56,
+   "tax": 1.24,
+   "totalCost": 20.0,
+   "size": "XS",
+   "condition": "Used",
+   "seller": "luhchuzz",
+   "photo": "https://media-photos.depop.com/b1/399850677/4918958626_9cb8aace96a845709aa74ac5ad258252/P0.jpg",
+   "max": 19.6,
+   "verdict": "TOO HIGH: 20.00 total is over your max 19.60"
+  }
+ ]
+}
