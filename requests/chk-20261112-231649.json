@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261112-231649",
+ "finishedAt": "2026-11-12T23:17:41Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f",
+   "key": "depop:karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f",
+   "url": "https://www.depop.com/products/karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f/",
+   "checkedAt": "2026-11-12T23:17:17Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Tan vintage Nanamica jacket in size S but fits like...",
+   "brand": "Nanamica",
+   "price": 29.0,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 2.45,
+   "tax": 3.07,
+   "totalCost": 42.52,
+   "size": "10",
+   "condition": "Used",
+   "seller": "karlaalonso07",
+   "photo": "https://media-photos.depop.com/b1/49478294/4937628013_4e534e8a7eff4818bc277f3de98e483a/P0.jpg",
+   "max": 47.67,
+   "verdict": "OK: 42.52 total is at or under your max 47.67"
+  }
+ ]
+}
