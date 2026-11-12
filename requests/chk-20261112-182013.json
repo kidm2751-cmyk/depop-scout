@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261112-182013",
+ "finishedAt": "2026-11-12T18:21:18Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "gc_thrimt-levis-701-high-flare-jeans-407d",
+   "key": "depop:gc_thrimt-levis-701-high-flare-jeans-407d",
+   "url": "https://www.depop.com/products/gc_thrimt-levis-701-high-flare-jeans-407d/",
+   "checkedAt": "2026-11-12T18:20:52Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Levi's 701 High Flare Jeans\nSize 26\n#highflare...",
+   "brand": "Levi's",
+   "price": 9.0,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 1.45,
+   "tax": 1.02,
+   "totalCost": 19.47,
+   "size": "36\\",
+   "condition": "Used",
+   "seller": "gc_thrift",
+   "photo": "https://media-photos.depop.com/r1/43097105/5107895839_a17bee27f35c4c8a9850a769b753ee9d/P0.jpg",
+   "max": 16.01,
+   "verdict": "TOO HIGH: 19.47 total is over your max 16.01"
+  }
+ ]
+}
