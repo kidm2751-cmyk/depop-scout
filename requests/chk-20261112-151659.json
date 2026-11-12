@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261112-151659",
+ "finishedAt": "2026-11-12T15:17:59Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "thatboydiesel-chicago-blackhawks-red-bomber-jacket-dc14",
+   "key": "depop:thatboydiesel-chicago-blackhawks-red-bomber-jacket-dc14",
+   "url": "https://www.depop.com/products/thatboydiesel-chicago-blackhawks-red-bomber-jacket-dc14/",
+   "checkedAt": "2026-11-12T15:17:34Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Chicago Blackhawks red bomber jacket with black and...",
+   "brand": "Other",
+   "price": 12.75,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 1.64,
+   "tax": 1.4,
+   "totalCost": 23.79,
+   "size": "XL",
+   "condition": "Used",
+   "seller": "thatboydiesel",
+   "photo": "https://media-photos.depop.com/b1/31993776/5016622114_1d7fc0a5a030463c91347ef746523a87/P0.jpg",
+   "max": 30.4,
+   "verdict": "OK: 23.79 total is at or under your max 30.40"
+  }
+ ]
+}
