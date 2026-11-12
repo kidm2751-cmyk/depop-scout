@@ -1,5 +1,3 @@
-sha: 5aa43408bf00bf63c5e1e6ab9f879e9bd91d06b9
-sha: e158543ecf4523be26356189495cd44cb0e129b2
 # Amazon watchlist: checked every hour. One item per line:
 #   ASIN (or Amazon link)   your max buy price (optional)   a note (optional)
 # Discord gets a message when the price goes over your max, the item goes out of stock or comes back,
@@ -156,3 +154,7 @@ B0DRW6CD5D 47.53 LEGO Friends Travel Boat Adventure 42664, listed on eBay at 74.
 B0G1VF5ZCR 16.42 Hot Wheels 1:64 RC Dodge Viper ACR, listed on eBay at 26.64
 B07DHBCRLH 7.46 LEGO Star Wars BB-9E Keyring, listed on eBay at 14.19
 B0BYN82YBX 11.99 Nerf Elite 2.0 Slyshot Blaster, listed on eBay at 20.48
+
+https://www.depop.com/products/theresafin1-vintage-y2k-burton-snowboard-womens-304b/ 23.69 Vintage Y2K Burton women's white/blue graphic tee L, listed on eBay at 45.66
+https://www.depop.com/products/jace2mhm-y2k-burton-snowboard-graphic-shirt-6ef7/ 23.69 Vintage Burton grey/tan graphic shirt women's S, listed on eBay at 45.66
+https://www.depop.com/products/jbkmom17-pink-toodler-juicy-couture-velour-fc8c/ 12.41 Juicy Couture girls pink velour jumpsuit 4T, listed on eBay at 29.98
