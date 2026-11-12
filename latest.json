@@ -3,7 +3,7 @@
   "asin": "B0009H519Y",
   "boughtPastMonth": 8000,
   "brand": "Mothers",
-  "checkedAt": "2026-11-12T04:14:48Z",
+  "checkedAt": "2026-11-12T09:28:53Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -11,7 +11,7 @@
   "listPrice": 15.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 9.98,
+  "max": 45.0,
   "ok": true,
   "pctOff": 37.6,
   "photo": "https://m.media-amazon.com/images/I/61TbYacFrnL._AC_SL1500_.jpg",
@@ -20,12 +20,12 @@
   "priceAfterCoupon": null,
   "rating": 4.6,
   "reviews": null,
-  "seller": "Tworider Direct",
-  "soldByAmazon": false,
+  "seller": "Amazon Resale",
+  "soldByAmazon": true,
   "status": "ok",
   "title": "Mothers Mag & Aluminum Polish, 10 oz. (05101)",
   "url": "https://www.amazon.com/dp/B0009H519Y",
-  "verdict": "OK: 9.98 is at or under your max 9.98"
+  "verdict": "OK: 9.98 is at or under your max 45.00"
  },
  "B000ND5EVY": {
   "asin": "B000ND5EVY",
@@ -115,7 +115,7 @@
   "asin": "B001IAG7G2",
   "boughtPastMonth": 20000,
   "brand": "Aquaphor",
-  "checkedAt": "2026-11-12T03:56:44Z",
+  "checkedAt": "2026-11-12T09:28:55Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -123,7 +123,7 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 6.97,
+  "max": 45.0,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/71jhBAMw1hL._SL1500_.jpg",
@@ -137,7 +137,7 @@
   "status": "ok",
   "title": "Aquaphor Advanced Therapy Healing Ointment, Value Pack, 2 X 0.35 OZ",
   "url": "https://www.amazon.com/dp/B001IAG7G2",
-  "verdict": "OK: 6.97 is at or under your max 6.97"
+  "verdict": "OK: 6.97 is at or under your max 45.00"
  },
  "B00251EHJW": {
   "asin": "B00251EHJW",
@@ -255,7 +255,7 @@
   "asin": "B0060OUV5Y",
   "boughtPastMonth": 100000,
   "brand": "",
-  "checkedAt": "2026-11-12T03:57:13Z",
+  "checkedAt": "2026-11-12T09:28:58Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -263,7 +263,7 @@
   "listPrice": 18.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 13.69,
+  "max": 45.0,
   "ok": true,
   "pctOff": 27.9,
   "photo": "https://m.media-amazon.com/images/I/713Ca5aXpyL._SL1500_.jpg",
@@ -277,7 +277,7 @@
   "status": "ok",
   "title": "La Roche-Posay Cicaplast Balm B5, Barrier Repair Cream for Dry Skin",
   "url": "https://www.amazon.com/dp/B0060OUV5Y",
-  "verdict": "OK: 13.69 is at or under your max 13.69"
+  "verdict": "OK: 13.69 is at or under your max 45.00"
  },
  "B006QF3TW4": {
   "asin": "B006QF3TW4",
@@ -617,7 +617,7 @@
   "asin": "B06WW9SJ5M",
   "boughtPastMonth": 10000,
   "brand": "Essence Cosmetics",
-  "checkedAt": "2026-11-12T03:23:47Z",
+  "checkedAt": "2026-11-12T09:29:01Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -785,7 +785,7 @@
   "asin": "B077Z2QCS5",
   "boughtPastMonth": 1000,
   "brand": "Everlasting Comfort",
-  "checkedAt": "2026-11-12T03:23:57Z",
+  "checkedAt": "2026-11-12T09:29:04Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -925,7 +925,7 @@
   "asin": "B07F4KMBHL",
   "boughtPastMonth": 700,
   "brand": "",
-  "checkedAt": "2026-11-12T03:56:31Z",
+  "checkedAt": "2026-11-12T09:29:06Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -933,7 +933,7 @@
   "listPrice": 10.79,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 6.56,
+  "max": 45.0,
   "ok": true,
   "pctOff": 44.5,
   "photo": "https://m.media-amazon.com/images/I/61LFU1ZkkgL._AC_SL1500_.jpg",
@@ -947,7 +947,7 @@
   "status": "ok",
   "title": "Liquitex BASICS Acrylic Paint, 4-oz Tube, Green Gray",
   "url": "https://www.amazon.com/dp/B07F4KMBHL",
-  "verdict": "OK: 5.99 is at or under your max 6.56"
+  "verdict": "OK: 5.99 is at or under your max 45.00"
  },
  "B07GBZ4Q68": {
   "asin": "B07GBZ4Q68",
@@ -1063,9 +1063,9 @@
  },
  "B07P5TMHD9": {
   "asin": "B07P5TMHD9",
-  "boughtPastMonth": 9000,
+  "boughtPastMonth": 8000,
   "brand": "Eclat Skincare",
-  "checkedAt": "2026-11-12T03:24:18Z",
+  "checkedAt": "2026-11-12T09:29:09Z",
   "coupon": "20% off coupon",
   "deal": null,
   "inStock": true,
@@ -1261,21 +1261,21 @@
   "asin": "B08817H6HS",
   "boughtPastMonth": 10000,
   "brand": "BeeVines",
-  "checkedAt": "2026-11-12T03:56:26Z",
-  "coupon": "5% off coupon",
+  "checkedAt": "2026-11-12T09:29:11Z",
+  "coupon": null,
   "deal": null,
   "inStock": true,
   "key": "B08817H6HS",
   "listPrice": 13.11,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 11.03,
+  "max": 45.0,
   "ok": true,
   "pctOff": 31.4,
   "photo": "https://m.media-amazon.com/images/I/61AkmB-Ha5L._AC_SL1500_.jpg",
   "platform": "amazon",
   "price": 8.99,
-  "priceAfterCoupon": 8.54,
+  "priceAfterCoupon": null,
   "rating": 4.6,
   "reviews": null,
   "seller": "BeeVines BeeVines Sold by BeeVines",
@@ -1283,7 +1283,7 @@
   "status": "ok",
   "title": "100% Mulberry Silk Sleep Mask, Light Blocking Eye Masks (2 Packs)",
   "url": "https://www.amazon.com/dp/B08817H6HS",
-  "verdict": "OK: 8.54 is at or under your max 11.03"
+  "verdict": "OK: 8.99 is at or under your max 45.00"
  },
  "B088CJ143C": {
   "asin": "B088CJ143C",
@@ -1401,7 +1401,7 @@
   "asin": "B08N1F7LLP",
   "boughtPastMonth": 50,
   "brand": "",
-  "checkedAt": "2026-11-12T03:24:37Z",
+  "checkedAt": "2026-11-12T09:29:14Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1681,7 +1681,7 @@
   "asin": "B09BW3CP9V",
   "boughtPastMonth": 2000,
   "brand": "",
-  "checkedAt": "2026-11-12T04:09:41Z",
+  "checkedAt": "2026-11-12T09:29:17Z",
   "coupon": "$3.30 off coupon",
   "deal": null,
   "inStock": true,
@@ -1689,7 +1689,7 @@
   "listPrice": 26.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 16.31,
+  "max": 45.0,
   "ok": true,
   "pctOff": 51.1,
   "photo": "https://m.media-amazon.com/images/I/71vMnFvlZpL._AC_SL1500_.jpg",
@@ -1703,7 +1703,7 @@
   "status": "ok",
   "title": "Barbie Doll & Pets Set featuring Mommy Dog and Puppies",
   "url": "https://www.amazon.com/dp/B09BW3CP9V",
-  "verdict": "OK: 9.89 is at or under your max 16.31"
+  "verdict": "OK: 9.89 is at or under your max 45.00"
  },
  "B09D44JH4S": {
   "asin": "B09D44JH4S",
@@ -1877,7 +1877,7 @@
   "asin": "B09KMGVYJJ",
   "boughtPastMonth": 100,
   "brand": "",
-  "checkedAt": "2026-11-12T03:57:34Z",
+  "checkedAt": "2026-11-12T09:29:19Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1885,12 +1885,12 @@
   "listPrice": 24.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 13.04,
+  "max": 45.0,
   "ok": true,
-  "pctOff": 48.2,
+  "pctOff": 48.4,
   "photo": "https://m.media-amazon.com/images/I/61MJT2j32mL._AC_SL1500_.jpg",
   "platform": "amazon",
-  "price": 12.94,
+  "price": 12.9,
   "priceAfterCoupon": null,
   "rating": 4.8,
   "reviews": null,
@@ -1899,7 +1899,7 @@
   "status": "ok",
   "title": "G.I. Joe Classified Series Xamot Paoli Action Figure 45 Collectible Premium Toy, Multiple Accessories 6-Inch-Scale with Custom Package Art",
   "url": "https://www.amazon.com/dp/B09KMGVYJJ",
-  "verdict": "OK: 12.94 is at or under your max 13.04"
+  "verdict": "OK: 12.90 is at or under your max 45.00"
  },
  "B09LD8T445": {
   "asin": "B09LD8T445",
@@ -2099,9 +2099,9 @@
  },
  "B0B6BMZP95": {
   "asin": "B0B6BMZP95",
-  "boughtPastMonth": 7000,
+  "boughtPastMonth": 6000,
   "brand": "wernies",
-  "checkedAt": "2026-11-12T04:15:03Z",
+  "checkedAt": "2026-11-12T09:29:22Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -2109,7 +2109,7 @@
   "listPrice": 14.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 9.48,
+  "max": 45.0,
   "ok": true,
   "pctOff": 36.8,
   "photo": "https://m.media-amazon.com/images/I/71CDwpXWjJL._AC_SL1500_.jpg",
@@ -2123,7 +2123,7 @@
   "status": "ok",
   "title": "wernies 8 Pairs No Show Socks Women Low Cut Ankle Socks for Women",
   "url": "https://www.amazon.com/dp/B0B6BMZP95",
-  "verdict": "OK: 9.48 is at or under your max 9.48"
+  "verdict": "OK: 9.48 is at or under your max 45.00"
  },
  "B0B7N2Q1NQ": {
   "asin": "B0B7N2Q1NQ",
@@ -2437,7 +2437,7 @@
   "asin": "B0C5FMWXSG",
   "boughtPastMonth": 300,
   "brand": "USAOPOLY",
-  "checkedAt": "2026-11-12T03:56:10Z",
+  "checkedAt": "2026-11-12T09:29:25Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -2445,7 +2445,7 @@
   "listPrice": 23.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 22.42,
+  "max": 45.0,
   "ok": true,
   "pctOff": 45.9,
   "photo": "https://m.media-amazon.com/images/I/716VyAB6B9L._AC_SL1500_.jpg",
@@ -2459,7 +2459,7 @@
   "status": "ok",
   "title": "YAHTZEE: Hello Kitty and Friends, Collectible Head Dice Cup, Classic Family Dice Game, Officially Licensed Sanrio Game & Merchandise",
   "url": "https://www.amazon.com/dp/B0C5FMWXSG",
-  "verdict": "OK: 12.97 is at or under your max 22.42"
+  "verdict": "OK: 12.97 is at or under your max 45.00"
  },
  "B0C5R836QJ": {
   "asin": "B0C5R836QJ",
@@ -2743,9 +2743,9 @@
  },
  "B0CR1P4XJY": {
   "asin": "B0CR1P4XJY",
-  "boughtPastMonth": 2000,
+  "boughtPastMonth": 1000,
   "brand": "CYOEST",
-  "checkedAt": "2026-11-12T04:14:25Z",
+  "checkedAt": "2026-11-12T09:29:27Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -2753,7 +2753,7 @@
   "listPrice": 12.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 8.99,
+  "max": 45.0,
   "ok": true,
   "pctOff": 30.8,
   "photo": "https://m.media-amazon.com/images/I/71PdwrQGIoL._AC_SL1500_.jpg",
@@ -2767,7 +2767,7 @@
   "status": "ok",
   "title": "STEM Toys DIY FM Radio Kit, Science Circuit Project, Boy Gift Toys Age 8-13",
   "url": "https://www.amazon.com/dp/B0CR1P4XJY",
-  "verdict": "OK: 8.99 is at or under your max 8.99"
+  "verdict": "OK: 8.99 is at or under your max 45.00"
  },
  "B0CSYGN445": {
   "asin": "B0CSYGN445",
@@ -2883,9 +2883,9 @@
  },
  "B0CYJBB2JQ": {
   "asin": "B0CYJBB2JQ",
-  "boughtPastMonth": 30000,
+  "boughtPastMonth": 20000,
   "brand": "BELLA",
-  "checkedAt": "2026-11-12T03:25:36Z",
+  "checkedAt": "2026-11-12T09:29:31Z",
   "coupon": null,
   "deal": "Black Friday deal",
   "inStock": true,
@@ -3249,7 +3249,7 @@
   "asin": "B0DJ19Z5KM",
   "boughtPastMonth": 10000,
   "brand": "",
-  "checkedAt": "2026-11-12T03:56:41Z",
+  "checkedAt": "2026-11-12T09:29:33Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -3257,7 +3257,7 @@
   "listPrice": 9.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 6.29,
+  "max": 45.0,
   "ok": true,
   "pctOff": 37.0,
   "photo": "https://m.media-amazon.com/images/I/81ohtuUw45L._AC_SL1500_.jpg",
@@ -3271,7 +3271,7 @@
   "status": "ok",
   "title": "LEGO Classic Creative Food Friends Building Toy Set - Pretend Play Food for Kids, Boys and Girls, Ages 4+ - Learning and Educational Toy for Preschool - Gift Id",
   "url": "https://www.amazon.com/dp/B0DJ19Z5KM",
-  "verdict": "OK: 6.29 is at or under your max 6.29"
+  "verdict": "OK: 6.29 is at or under your max 45.00"
  },
  "B0DJ1BH9T1": {
   "asin": "B0DJ1BH9T1",
@@ -3473,7 +3473,7 @@
   "asin": "B0DRW6CD5D",
   "boughtPastMonth": 500,
   "brand": "",
-  "checkedAt": "2026-11-12T04:15:50Z",
+  "checkedAt": "2026-11-12T09:29:35Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -3481,12 +3481,12 @@
   "listPrice": 74.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 47.53,
+  "max": 45.0,
   "ok": true,
-  "pctOff": 40.0,
+  "pctOff": 45.3,
   "photo": "https://m.media-amazon.com/images/I/815fkamM7wL._AC_SL1500_.jpg",
   "platform": "amazon",
-  "price": 44.99,
+  "price": 41.0,
   "priceAfterCoupon": null,
   "rating": 4.8,
   "reviews": null,
@@ -3495,7 +3495,7 @@
   "status": "ok",
   "title": "LEGO Friends Travel Boat Adventure 42664",
   "url": "https://www.amazon.com/dp/B0DRW6CD5D",
-  "verdict": "OK: 44.99 is at or under your max 47.53"
+  "verdict": "OK: 41.00 is at or under your max 45.00"
  },
  "B0DRW7P7DS": {
   "asin": "B0DRW7P7DS",
@@ -3613,7 +3613,7 @@
   "asin": "B0F496FR73",
   "boughtPastMonth": 500,
   "brand": "Nautica",
-  "checkedAt": "2026-11-12T04:15:16Z",
+  "checkedAt": "2026-11-12T09:29:38Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -3621,7 +3621,7 @@
   "listPrice": 36.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 24.19,
+  "max": 45.0,
   "ok": true,
   "pctOff": 36.0,
   "photo": "https://m.media-amazon.com/images/I/61UFsdpRj7L._SL1500_.jpg",
@@ -3635,7 +3635,7 @@
   "status": "ok",
   "title": "Nautica Voyage Intense Eau de Toilette, Men's Fragrance, 1.6 fl oz",
   "url": "https://www.amazon.com/dp/B0F496FR73",
-  "verdict": "OK: 23.66 is at or under your max 24.19"
+  "verdict": "OK: 23.66 is at or under your max 45.00"
  },
  "B0F63ZQX86": {
   "asin": "B0F63ZQX86",
@@ -3753,7 +3753,7 @@
   "asin": "B0FCFVXJJN",
   "boughtPastMonth": 50,
   "brand": "Funko",
-  "checkedAt": "2026-11-12T03:26:18Z",
+  "checkedAt": "2026-11-12T09:29:40Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -3865,7 +3865,7 @@
   "asin": "B0FHWTB3FS",
   "boughtPastMonth": 200,
   "brand": "WITELIDA",
-  "checkedAt": "2026-11-12T04:07:17Z",
+  "checkedAt": "2026-11-12T09:29:42Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -3873,7 +3873,7 @@
   "listPrice": 25.19,
   "listPriceKind": "list",
   "lowestIn30Days": true,
-  "max": 12.35,
+  "max": 45.0,
   "ok": true,
   "pctOff": 56.4,
   "photo": "https://m.media-amazon.com/images/I/71MLG5+XnKL._AC_SL1500_.jpg",
@@ -3887,7 +3887,7 @@
   "status": "ok",
   "title": "Metal Bird Bath for Outside,Outdoor 40'' Tall Removable Bowl",
   "url": "https://www.amazon.com/dp/B0FHWTB3FS",
-  "verdict": "OK: 10.99 is at or under your max 12.35"
+  "verdict": "OK: 10.99 is at or under your max 45.00"
  },
  "B0FK5SMHY5": {
   "asin": "B0FK5SMHY5",
@@ -4059,9 +4059,9 @@
  },
  "B0FMS7CRHX": {
   "asin": "B0FMS7CRHX",
-  "boughtPastMonth": 20000,
+  "boughtPastMonth": 10000,
   "brand": "",
-  "checkedAt": "2026-11-12T03:57:42Z",
+  "checkedAt": "2026-11-12T09:29:45Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -4069,7 +4069,7 @@
   "listPrice": 14.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 9.89,
+  "max": 45.0,
   "ok": true,
   "pctOff": 34.0,
   "photo": "https://m.media-amazon.com/images/I/81lNVhQTwNL._AC_SL1500_.jpg",
@@ -4083,7 +4083,7 @@
   "status": "ok",
   "title": "LEGO Botanicals Daisies 11508",
   "url": "https://www.amazon.com/dp/B0FMS7CRHX",
-  "verdict": "OK: 9.89 is at or under your max 9.89"
+  "verdict": "OK: 9.89 is at or under your max 45.00"
  },
  "B0FMS7HXQ6": {
   "asin": "B0FMS7HXQ6",
@@ -4229,7 +4229,7 @@
   "asin": "B0FRFZ4R4Y",
   "boughtPastMonth": 1000,
   "brand": "OlarHike",
-  "checkedAt": "2026-11-12T03:57:32Z",
+  "checkedAt": "2026-11-12T09:29:48Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -4237,7 +4237,7 @@
   "listPrice": 39.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 24.99,
+  "max": 45.0,
   "ok": true,
   "pctOff": 37.5,
   "photo": "https://m.media-amazon.com/images/I/71dyUh5P8cL._AC_SL1500_.jpg",
@@ -4251,7 +4251,7 @@
   "status": "ok",
   "title": "OlarHike 8 Set Compression Packing Cubes for Travel Gifts Women Mom,Airplane/Car/Cruise Travel Essentials,Compressible Expandable Space Saver Bags,Garment Bags ",
   "url": "https://www.amazon.com/dp/B0FRFZ4R4Y",
-  "verdict": "OK: 24.99 is at or under your max 24.99"
+  "verdict": "OK: 24.99 is at or under your max 45.00"
  },
  "B0FS2325QX": {
   "asin": "B0FS2325QX",
@@ -4341,7 +4341,7 @@
   "asin": "B0FXRX6N7Y",
   "boughtPastMonth": 100,
   "brand": "TENTVIA",
-  "checkedAt": "2026-11-12T03:56:28Z",
+  "checkedAt": "2026-11-12T09:29:50Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -4349,7 +4349,7 @@
   "listPrice": 20.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 10.49,
+  "max": 45.0,
   "ok": true,
   "pctOff": 50.0,
   "photo": "https://m.media-amazon.com/images/I/811tglkgO7L._AC_SL1500_.jpg",
@@ -4363,7 +4363,7 @@
   "status": "ok",
   "title": "Fire Pit Cover 32 x 32 x 24 Inch, Waterproof Windproof Black",
   "url": "https://www.amazon.com/dp/B0FXRX6N7Y",
-  "verdict": "OK: 10.49 is at or under your max 10.49"
+  "verdict": "OK: 10.49 is at or under your max 45.00"
  },
  "B0G1VF5ZCR": {
   "asin": "B0G1VF5ZCR",
@@ -4451,9 +4451,9 @@
  },
  "B0G2TGZ867": {
   "asin": "B0G2TGZ867",
-  "boughtPastMonth": 7000,
+  "boughtPastMonth": 6000,
   "brand": "",
-  "checkedAt": "2026-11-12T03:56:20Z",
+  "checkedAt": "2026-11-12T09:29:53Z",
   "coupon": "$3.45 off coupon",
   "deal": null,
   "inStock": true,
@@ -4461,7 +4461,7 @@
   "listPrice": 22.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 13.79,
+  "max": 45.0,
   "ok": true,
   "pctOff": 40.0,
   "photo": "https://m.media-amazon.com/images/I/7155FCmT8vL._AC_SL1500_.jpg",
@@ -4475,7 +4475,7 @@
   "status": "ok",
   "title": "Nerf Minecraft Diamond Pickaxe Dart Blaster, Pull Back Priming, Foam Head, 8 Nerf Elite Darts, Ages 8+",
   "url": "https://www.amazon.com/dp/B0G2TGZ867",
-  "verdict": "OK: 10.34 is at or under your max 13.79"
+  "verdict": "OK: 10.34 is at or under your max 45.00"
  },
  "B0G43VLL9L": {
   "asin": "B0G43VLL9L",
@@ -4565,7 +4565,7 @@
   "asin": "B0G7NKPKCZ",
   "boughtPastMonth": 40000,
   "brand": "ARTISTRO",
-  "checkedAt": "2026-11-12T03:27:19Z",
+  "checkedAt": "2026-11-12T09:29:56Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -4789,7 +4789,7 @@
   "asin": "B0GZ2RSJVY",
   "boughtPastMonth": 1000,
   "brand": "hahaland",
-  "checkedAt": "2026-11-12T04:14:54Z",
+  "checkedAt": "2026-11-12T09:29:58Z",
   "coupon": null,
   "deal": "Limited time deal",
   "inStock": true,
@@ -4797,7 +4797,7 @@
   "listPrice": 69.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 37.86,
+  "max": 45.0,
   "ok": true,
   "pctOff": 60.0,
   "photo": "https://m.media-amazon.com/images/I/71N3XlIZHWL._AC_SL1500_.jpg",
@@ -4811,7 +4811,7 @@
   "status": "ok",
   "title": "hahaland Electric Train Set for Kids Ages 4-8, Flexible Race Track - 64PCs",
   "url": "https://www.amazon.com/dp/B0GZ2RSJVY",
-  "verdict": "OK: 27.98 is at or under your max 37.86"
+  "verdict": "OK: 27.98 is at or under your max 45.00"
  },
  "B0GZY7XXZ9": {
   "asin": "B0GZY7XXZ9",
