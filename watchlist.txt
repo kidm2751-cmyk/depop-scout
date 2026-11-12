@@ -4,7 +4,7 @@
 # or the price moves 5% or more since the last check.
 # Example (remove the # to use it):
 # B09BNGBLQK 32.50 LEGO police station, listed on eBay at 54.99
-B0DJ1BV2TX 18.61 LEGO Charms Class 76442, listed on eBay at 29.69
+B0DJ1BV2TX 19.99 LEGO Charms Class 76442, listed on eBay at 34.16
 B09RZSQ34K 31.29 STANLEY screwdriver set 10pc, listed on eBay at 49.86
 B0DZFGTCLR 13.78 Innqoo candle warmer lamp, listed on eBay at 22.98
 B0C5FMWXSG 22.42 YAHTZEE Hello Kitty, listed on eBay at 34.98
@@ -187,3 +187,4 @@ https://www.depop.com/products/shawndeanhillu-cleveland-cavaliers-red-black-ba46
 https://www.depop.com/products/behrthrift-vintage-todd-black-bomber-snap-34b9/ 28.95 Todd Snyder black bomber snap jacket L, listed on eBay at 52.97
 https://www.depop.com/products/tuekdougan-footjoy-vintage-navy-blue-sweatshirt-86a8/ 17.19 FootJoy vintage navy sweatshirt S, listed on eBay at 36.63
 https://www.depop.com/products/theaycanviking-red-jacket-hartford-whalers-t-58e0/ 24.75 Hartford Whalers vintage t-shirt XL, listed on eBay at 47.13
+
