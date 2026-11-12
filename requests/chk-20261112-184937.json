@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261112-184937",
+ "finishedAt": "2026-11-12T18:50:28Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "taa6y-wilfred-size-small-black-maxi-d36e",
+   "key": "depop:taa6y-wilfred-size-small-black-maxi-d36e",
+   "url": "https://www.depop.com/products/taa6y-wilfred-size-small-black-maxi-d36e/",
+   "checkedAt": "2026-11-12T18:50:03Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Wilfred size small Black maxi dress with adjustable...",
+   "brand": "Aritzia",
+   "price": 7.0,
+   "shipping": 6.0,
+   "shippingKnown": false,
+   "buyerFee": 1.35,
+   "tax": 0.81,
+   "totalCost": 15.16,
+   "size": "US 8",
+   "condition": "Used",
+   "seller": "tay6y",
+   "photo": "https://media-photos.depop.com/b1/373978232/4934065580_c23d3a370d15480a8d40bba1877e5324/P0.jpg",
+   "max": 10.04,
+   "verdict": "TOO HIGH: 15.16 total is over your max 10.04"
+  }
+ ]
+}

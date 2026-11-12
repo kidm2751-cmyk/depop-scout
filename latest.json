@@ -6350,11 +6350,11 @@
  "depop:taa6y-wilfred-size-small-black-maxi-d36e": {
   "brand": "Aritzia",
   "buyerFee": 1.35,
-  "checkedAt": "2026-11-12T15:45:12Z",
+  "checkedAt": "2026-11-12T18:50:03Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:taa6y-wilfred-size-small-black-maxi-d36e",
-  "max": 100.0,
+  "max": 10.04,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/373978232/4934065580_c23d3a370d15480a8d40bba1877e5324/P0.jpg",
   "platform": "depop",
@@ -6370,7 +6370,7 @@
   "title": "Wilfred size small Black maxi dress with adjustable...",
   "totalCost": 15.16,
   "url": "https://www.depop.com/products/taa6y-wilfred-size-small-black-maxi-d36e/",
-  "verdict": "OK: 15.16 total is at or under your max 100.00"
+  "verdict": "TOO HIGH: 15.16 total is over your max 10.04"
  },
  "depop:thatboydiesel-chicago-blackhawks-red-bomber-jacket-dc14": {
   "brand": "Other",
