@@ -5974,8 +5974,8 @@
  },
  "depop:lamodamarket-grey-beavis-and-butthead-crewneck-1de9": {
   "brand": "Urban Outfitters",
-  "buyerFee": 1.77,
-  "checkedAt": "2026-11-12T15:20:56Z",
+  "buyerFee": 1.7,
+  "checkedAt": "2026-11-12T18:23:34Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:lamodamarket-grey-beavis-and-butthead-crewneck-1de9",
@@ -5983,7 +5983,7 @@
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/50832795/3514545184_80ce024478e942a18610f263827faf94/P0.jpg",
   "platform": "depop",
-  "price": 15.4,
+  "price": 14.0,
   "seller": "lamodamarket",
   "shipping": 8.0,
   "shippingKnown": false,
@@ -5991,11 +5991,11 @@
   "slug": "lamodamarket-grey-beavis-and-butthead-crewneck-1de9",
   "sold": false,
   "status": "ok",
-  "tax": 1.67,
+  "tax": 1.53,
   "title": "Grey Beavis and Butthead crewneck sweatshirt Size M...",
-  "totalCost": 26.84,
+  "totalCost": 25.23,
   "url": "https://www.depop.com/products/lamodamarket-grey-beavis-and-butthead-crewneck-1de9/",
-  "verdict": "TOO HIGH: 26.84 total is over your max 22.46"
+  "verdict": "TOO HIGH: 25.23 total is over your max 22.46"
  },
  "depop:luhchjzz-vintage-1990s-starter-navy-orange-4b53": {
   "brand": "Starter",
