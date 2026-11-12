@@ -4397,7 +4397,7 @@
   "asin": "B0G2BMQ9Q6",
   "boughtPastMonth": 100,
   "brand": "Attitill",
-  "checkedAt": "2026-11-12T03:27:03Z",
+  "checkedAt": "2026-11-12T03:33:06Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -4405,7 +4405,7 @@
   "listPrice": 7.49,
   "listPriceKind": "typical",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 4.99,
   "ok": true,
   "pctOff": 20.0,
   "photo": "https://m.media-amazon.com/images/I/81ly+CR+6cL._AC_SL1500_.jpg",
@@ -4419,7 +4419,7 @@
   "status": "ok",
   "title": "2026-2027 Planner - Academic 2026-2027 Planner",
   "url": "https://www.amazon.com/dp/B0G2BMQ9Q6",
-  "verdict": "OK: 5.99 is at or under your max 45.00"
+  "verdict": "TOO HIGH: 5.99 is over your max 4.99"
  },
  "B0G2D1R15Q": {
   "asin": "B0G2D1R15Q",
