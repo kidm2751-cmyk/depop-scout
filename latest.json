@@ -4425,7 +4425,7 @@
   "asin": "B0FS2325QX",
   "boughtPastMonth": 200,
   "brand": "Barbie",
-  "checkedAt": "2026-11-12T18:15:28Z",
+  "checkedAt": "2026-11-12T18:18:58Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -4433,7 +4433,7 @@
   "listPrice": 60.0,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 38.9,
   "ok": true,
   "pctOff": 13.4,
   "photo": "https://m.media-amazon.com/images/I/81PFQnWrPGL._AC_SL1500_.jpg",
@@ -4447,7 +4447,7 @@
   "status": "ok",
   "title": "Barbie Signature DC Supergirl Fashion Doll",
   "url": "https://www.amazon.com/dp/B0FS2325QX",
-  "verdict": "TOO HIGH: 51.98 is over your max 45.00"
+  "verdict": "TOO HIGH: 51.98 is over your max 38.90"
  },
  "B0FSTKZ226": {
   "asin": "B0FSTKZ226",
