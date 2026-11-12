@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261112-153343",
+ "finishedAt": "2026-11-12T15:34:53Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "jace2mhm-y2k-burton-snowboard-graphic-shirt-6ef7",
+   "key": "depop:jace2mhm-y2k-burton-snowboard-graphic-shirt-6ef7",
+   "url": "https://www.depop.com/products/jace2mhm-y2k-burton-snowboard-graphic-shirt-6ef7/",
+   "checkedAt": "2026-11-12T15:34:28Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Y2K Burton snowboard shirt \nWoman\u2019s small \n\nFrom...",
+   "brand": "Burton",
+   "price": 21.7,
+   "shipping": 6.0,
+   "shippingKnown": false,
+   "buyerFee": 2.08,
+   "tax": 2.32,
+   "totalCost": 32.1,
+   "size": "XL",
+   "condition": "Used",
+   "seller": "jace_mhm",
+   "photo": "https://media-photos.depop.com/b1/499933322/4609408539_97849c1a6ebe4796b76518a4c763697c/P0.jpg",
+   "max": 23.69,
+   "verdict": "TOO HIGH: 32.10 total is over your max 23.69"
+  }
+ ]
+}
