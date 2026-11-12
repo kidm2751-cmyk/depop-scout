@@ -6150,11 +6150,11 @@
  "depop:noahs_fvshion-tory-burch-18k-gold-plated-logo-4cc2": {
   "brand": "Tory Burch",
   "buyerFee": 2.15,
-  "checkedAt": "2026-11-12T15:45:53Z",
+  "checkedAt": "2026-11-12T18:52:45Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:noahs_fvshion-tory-burch-18k-gold-plated-logo-4cc2",
-  "max": 100.0,
+  "max": 27.47,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/368684809/5157952662_2d6998d807324cb8bb7615c343a6d2d3/P0.jpg",
   "platform": "depop",
@@ -6170,7 +6170,7 @@
   "title": "Tory Burch 18K Gold-Plated Logo Necklace &amp; Stud...",
   "totalCost": 33.6,
   "url": "https://www.depop.com/products/noahs_fvshion-tory-burch-18k-gold-plated-logo-4cc2/",
-  "verdict": "OK: 33.60 total is at or under your max 100.00"
+  "verdict": "TOO HIGH: 33.60 total is over your max 27.47"
  },
  "depop:nunushoa81-coach-legacy-crossbody-bag-some-c3bc": {
   "brand": "Coach",
