@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261112-190015",
+ "finishedAt": "2026-11-12T19:01:52Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "behrthrift-vintage-todd-black-bomber-snap-34b9",
+   "key": "depop:behrthrift-vintage-todd-black-bomber-snap-34b9",
+   "url": "https://www.depop.com/products/behrthrift-vintage-todd-black-bomber-snap-34b9/",
+   "checkedAt": "2026-11-12T19:01:25Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Vintage Todd black bomber snap up jacket \nMen\u2019s size...",
+   "brand": "Todd Snyder",
+   "price": 26.95,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 2.35,
+   "tax": 2.86,
+   "totalCost": 40.15,
+   "size": "L",
+   "condition": "Used",
+   "seller": "benrthrift",
+   "photo": "https://media-photos.depop.com/r1/442916861/5191580843_f642d1b9757a421983ca92ed945b08a4/P0.jpg",
+   "max": 28.95,
+   "verdict": "TOO HIGH: 40.15 total is over your max 28.95"
+  }
+ ]
+}
