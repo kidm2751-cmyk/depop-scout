@@ -5975,11 +5975,11 @@
  "depop:cvera-nhl-pittsburgh-penguins-quarter-zip-ee6d": {
   "brand": "47 Brand",
   "buyerFee": 1.35,
-  "checkedAt": "2026-11-13T08:26:51Z",
+  "checkedAt": "2026-11-13T12:18:33Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:cvera-nhl-pittsburgh-penguins-quarter-zip-ee6d",
-  "max": 99.0,
+  "max": 15.25,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/50012939/5198875521_d5002f3317294892828281fdfdff0560/P0.jpg",
   "platform": "depop",
@@ -5995,7 +5995,7 @@
   "title": "NHL Pittsburgh Penguins quarter zip sweatshirt in...",
   "totalCost": 17.16,
   "url": "https://www.depop.com/products/cvera-nhl-pittsburgh-penguins-quarter-zip-ee6d/",
-  "verdict": "OK: 17.16 total is at or under your max 99.00"
+  "verdict": "TOO HIGH: 17.16 total is over your max 15.25"
  },
  "depop:daenaclo2et-house-of-cb-blue-sequin-5193": {
   "brand": "House of CB",
