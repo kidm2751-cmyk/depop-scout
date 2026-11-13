@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261113-113945",
+ "finishedAt": "2026-11-13T11:40:36Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "noahs_fvshion-tory-burch-18k-gold-plated-logo-4cc2",
+   "key": "depop:noahs_fvshion-tory-burch-18k-gold-plated-logo-4cc2",
+   "url": "https://www.depop.com/products/noahs_fvshion-tory-burch-18k-gold-plated-logo-4cc2/",
+   "checkedAt": "2026-11-13T11:40:12Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Tory Burch 18K Gold-Plated Logo Necklace &amp; Stud...",
+   "brand": "Tory Burch",
+   "price": 24.85,
+   "shipping": 6.0,
+   "shippingKnown": false,
+   "buyerFee": 2.24,
+   "tax": 2.64,
+   "totalCost": 35.73,
+   "size": null,
+   "condition": "Used",
+   "seller": "noahs_fashion",
+   "photo": "https://media-photos.depop.com/r1/368684809/5157952662_2d6998d807324cb8bb7615c343a6d2d3/P0.jpg",
+   "max": 27.47,
+   "verdict": "TOO HIGH: 35.73 total is over your max 27.47"
+  }
+ ]
+}
