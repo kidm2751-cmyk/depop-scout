@@ -5152,7 +5152,7 @@
  "depop:1z_sells-vintage-disney-goofy-hoodie-good-707e": {
   "brand": "Disney",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-13T05:19:03Z",
+  "checkedAt": "2026-11-13T05:32:42Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:1z_sells-vintage-disney-goofy-hoodie-good-707e",
@@ -5176,16 +5176,16 @@
  },
  "depop:3rdeyethrifts_-vintage-undercover-wear-teal-slip": {
   "brand": "Undercover",
-  "buyerFee": 1.46,
-  "checkedAt": "2026-11-13T03:16:28Z",
+  "buyerFee": 1.4,
+  "checkedAt": "2026-11-13T05:38:20Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:3rdeyethrifts_-vintage-undercover-wear-teal-slip",
-  "max": 11.09,
+  "max": 100.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/14953694/2440576707_b71bc36c8e1d44738760db3aa69f9c9f/P0.jpg",
   "platform": "depop",
-  "price": 9.1,
+  "price": 8.0,
   "seller": "3rdeyethrifts_",
   "shipping": 6.0,
   "shippingKnown": false,
@@ -5193,16 +5193,16 @@
   "slug": "3rdeyethrifts_-vintage-undercover-wear-teal-slip",
   "sold": false,
   "status": "ok",
-  "tax": 1.03,
+  "tax": 0.92,
   "title": "Vintage Undercover Wear teal slip babydoll top, lace...",
-  "totalCost": 17.58,
+  "totalCost": 16.32,
   "url": "https://www.depop.com/products/3rdeyethrifts_-vintage-undercover-wear-teal-slip/",
-  "verdict": "TOO HIGH: 17.58 total is over your max 11.09"
+  "verdict": "OK: 16.32 total is at or under your max 100.00"
  },
  "depop:91erh-white-kansas-city-chiefs-windbreaker-8ed8": {
   "brand": "NFL",
   "buyerFee": 1.85,
-  "checkedAt": "2026-11-13T05:21:48Z",
+  "checkedAt": "2026-11-13T05:35:21Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:91erh-white-kansas-city-chiefs-windbreaker-8ed8",
@@ -5252,7 +5252,7 @@
  "depop:alexeuvall-2000s-boot-cut-7-for-bce6": {
   "brand": "7 For All Mankind",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-13T05:17:03Z",
+  "checkedAt": "2026-11-13T05:30:43Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:alexeuvall-2000s-boot-cut-7-for-bce6",
@@ -5302,7 +5302,7 @@
  "depop:armanclotheo-antigua-san-diego-padres-sd-10b4": {
   "brand": "Antigua Apparel",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-13T05:11:16Z",
+  "checkedAt": "2026-11-13T05:25:03Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:armanclotheo-antigua-san-diego-padres-sd-10b4",
@@ -5352,7 +5352,7 @@
  "depop:behrthrift-vintage-todd-black-bomber-snap-34b9": {
   "brand": "Todd Snyder",
   "buyerFee": 2.25,
-  "checkedAt": "2026-11-13T05:19:43Z",
+  "checkedAt": "2026-11-13T05:33:22Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:behrthrift-vintage-todd-black-bomber-snap-34b9",
@@ -5402,7 +5402,7 @@
  "depop:canpbd137-ag-adriano-goldschmied-navy-denim-1f06": {
   "brand": "AG Jeans",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-13T05:16:21Z",
+  "checkedAt": "2026-11-13T05:30:04Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:canpbd137-ag-adriano-goldschmied-navy-denim-1f06",
@@ -5427,7 +5427,7 @@
  "depop:chrisdgalsss-nfl-detroit-lions-blue-jersey-7885": {
   "brand": "NFL",
   "buyerFee": 1.45,
-  "checkedAt": "2026-11-13T05:23:08Z",
+  "checkedAt": "2026-11-13T05:36:40Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:chrisdgalsss-nfl-detroit-lions-blue-jersey-7885",
@@ -5452,7 +5452,7 @@
  "depop:cocomnaps-apple-bottom-jeans-size-56-6a8e": {
   "brand": "Apple Bottoms",
   "buyerFee": 1.75,
-  "checkedAt": "2026-11-13T05:16:02Z",
+  "checkedAt": "2026-11-13T05:29:44Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:cocomnaps-apple-bottom-jeans-size-56-6a8e",
@@ -5502,7 +5502,7 @@
  "depop:daenaclo2et-house-of-cb-blue-sequin-5193": {
   "brand": "House of CB",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-13T05:13:20Z",
+  "checkedAt": "2026-11-13T05:27:05Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:daenaclo2et-house-of-cb-blue-sequin-5193",
@@ -5527,11 +5527,11 @@
  "depop:danteahim14-needles-black-t-shirt-with-green-808d": {
   "brand": "Needles",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-13T03:17:39Z",
+  "checkedAt": "2026-11-13T05:38:40Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:danteahim14-needles-black-t-shirt-with-green-808d",
-  "max": 13.19,
+  "max": 100.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/252325165/4944233973_735c33f74a1c42339102f73a8341cb18/P0.jpg",
   "platform": "depop",
@@ -5547,7 +5547,7 @@
   "title": "Needles black t-shirt with green 'Soccer Club' text...",
   "totalCost": 18.62,
   "url": "https://www.depop.com/products/danteahim14-needles-black-t-shirt-with-green-808d/",
-  "verdict": "TOO HIGH: 18.62 total is over your max 13.19"
+  "verdict": "OK: 18.62 total is at or under your max 100.00"
  },
  "depop:dcrosell8-brown-suede-birkenstock-boston-clogs-d509": {
   "brand": "Birkenstock",
@@ -5602,7 +5602,7 @@
  "depop:dinguo627-kith-classics-gray-workout-hoodie-a162": {
   "brand": "Kith",
   "buyerFee": 1.77,
-  "checkedAt": "2026-11-13T05:18:02Z",
+  "checkedAt": "2026-11-13T05:31:44Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:dinguo627-kith-classics-gray-workout-hoodie-a162",
@@ -5652,7 +5652,7 @@
  "depop:dylwn_arg-grey-ben-davis-short-sleeve-fbc8": {
   "brand": "Ben Davis",
   "buyerFee": 1.8,
-  "checkedAt": "2026-11-13T05:16:43Z",
+  "checkedAt": "2026-11-13T05:30:24Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:dylwn_arg-grey-ben-davis-short-sleeve-fbc8",
@@ -5727,7 +5727,7 @@
  "depop:gc_thrimt-levis-701-high-flare-jeans-407d": {
   "brand": "Levi's",
   "buyerFee": 1.45,
-  "checkedAt": "2026-11-13T05:11:38Z",
+  "checkedAt": "2026-11-13T05:25:24Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:gc_thrimt-levis-701-high-flare-jeans-407d",
@@ -5752,7 +5752,7 @@
  "depop:hava_sxop-converse-x-neighborhood-black-hoodie-8e4b": {
   "brand": "Converse",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-13T05:21:28Z",
+  "checkedAt": "2026-11-13T05:35:01Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:hava_sxop-converse-x-neighborhood-black-hoodie-8e4b",
@@ -5777,7 +5777,7 @@
  "depop:heodasshype-anti-social-social-club-x-da28": {
   "brand": "Anti Social Social Club",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-13T05:13:00Z",
+  "checkedAt": "2026-11-13T05:26:45Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:heodasshype-anti-social-social-club-x-da28",
@@ -5802,7 +5802,7 @@
  "depop:icfuldbemid-nike-reversible-new-york-jets-b93a": {
   "brand": "Nike",
   "buyerFee": 2.2,
-  "checkedAt": "2026-11-13T05:15:22Z",
+  "checkedAt": "2026-11-13T05:29:04Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:icfuldbemid-nike-reversible-new-york-jets-b93a",
@@ -5827,7 +5827,7 @@
  "depop:ishi_bei-navy-gray-starter-michigan-e3a7": {
   "brand": "Starter",
   "buyerFee": 1.7,
-  "checkedAt": "2026-11-13T05:13:40Z",
+  "checkedAt": "2026-11-13T05:27:25Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:ishi_bei-navy-gray-starter-michigan-e3a7",
@@ -5852,7 +5852,7 @@
  "depop:jace2mhm-y2k-burton-snowboard-graphic-shirt-6ef7": {
   "brand": "Burton",
   "buyerFee": 2.0,
-  "checkedAt": "2026-11-13T05:14:20Z",
+  "checkedAt": "2026-11-13T05:28:04Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:jace2mhm-y2k-burton-snowboard-graphic-shirt-6ef7",
@@ -5902,7 +5902,7 @@
  "depop:jamesy_roy06-black-white-margaritaville-jimmy-59eb": {
   "brand": "Other",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-13T05:22:08Z",
+  "checkedAt": "2026-11-13T05:35:41Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:jamesy_roy06-black-white-margaritaville-jimmy-59eb",
@@ -5927,7 +5927,7 @@
  "depop:jbkmom17-pink-toodler-juicy-couture-velour-fc8c": {
   "brand": "Juicy Couture",
   "buyerFee": 1.45,
-  "checkedAt": "2026-11-13T05:14:40Z",
+  "checkedAt": "2026-11-13T05:28:24Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:jbkmom17-pink-toodler-juicy-couture-velour-fc8c",
@@ -6025,7 +6025,7 @@
  "depop:josh_rhoadn-greyson-blue-quarter-zip-golf-7192": {
   "brand": "Greyson",
   "buyerFee": 1.64,
-  "checkedAt": "2026-11-13T05:23:29Z",
+  "checkedAt": "2026-11-13T05:37:00Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:josh_rhoadn-greyson-blue-quarter-zip-golf-7192",
@@ -6050,7 +6050,7 @@
  "depop:junof_363-burton-purple-puffer-jacket-size-54a9": {
   "brand": "Burton",
   "buyerFee": 1.58,
-  "checkedAt": "2026-11-13T05:12:00Z",
+  "checkedAt": "2026-11-13T05:25:46Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:junof_363-burton-purple-puffer-jacket-size-54a9",
@@ -6200,7 +6200,7 @@
  "depop:lamodamarket-grey-beavis-and-butthead-crewneck-1de9": {
   "brand": "Urban Outfitters",
   "buyerFee": 1.7,
-  "checkedAt": "2026-11-13T05:12:20Z",
+  "checkedAt": "2026-11-13T05:26:06Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:lamodamarket-grey-beavis-and-butthead-crewneck-1de9",
@@ -6300,7 +6300,7 @@
  "depop:makjylalevins-healing-hands-hh360-noah-cargo-e1a6": {
   "brand": "Healing Hands",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-13T05:15:42Z",
+  "checkedAt": "2026-11-13T05:29:24Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:makjylalevins-healing-hands-hh360-noah-cargo-e1a6",
@@ -6325,11 +6325,11 @@
  "depop:mhecollectxion-blue-and-orange-florida-gators-54ce": {
   "brand": "Florida Gators",
   "buyerFee": 1.52,
-  "checkedAt": "2026-11-13T03:14:25Z",
+  "checkedAt": "2026-11-13T05:38:00Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:mhecollectxion-blue-and-orange-florida-gators-54ce",
-  "max": 26.8,
+  "max": 100.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/33507478/5126973070_dfbcb1302f56416193d3793539d00299/P0.jpg",
   "platform": "depop",
@@ -6345,12 +6345,12 @@
   "title": "Blue and orange Florida Gators windbreaker jacket...",
   "totalCost": 21.2,
   "url": "https://www.depop.com/products/mhecollectxion-blue-and-orange-florida-gators-54ce/",
-  "verdict": "OK: 21.20 total is at or under your max 26.80"
+  "verdict": "OK: 21.20 total is at or under your max 100.00"
  },
  "depop:miarose_closev-kate-spade-new-york-pink-4e6d": {
   "brand": "Kate Spade New York ",
   "buyerFee": 1.45,
-  "checkedAt": "2026-11-13T05:20:49Z",
+  "checkedAt": "2026-11-13T05:34:21Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:miarose_closev-kate-spade-new-york-pink-4e6d",
@@ -6375,7 +6375,7 @@
  "depop:mndbl-babaton-cream-ribbed-knit-cardigan-4bfe": {
   "brand": "Babaton",
   "buyerFee": 1.35,
-  "checkedAt": "2026-11-13T05:21:09Z",
+  "checkedAt": "2026-11-13T05:34:41Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:mndbl-babaton-cream-ribbed-knit-cardigan-4bfe",
@@ -6400,7 +6400,7 @@
  "depop:modern_c-vintage-cyber-y2k-womens-christian-bffd": {
   "brand": "Christian Audigier",
   "buyerFee": 1.75,
-  "checkedAt": "2026-11-13T05:12:40Z",
+  "checkedAt": "2026-11-13T05:26:25Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:modern_c-vintage-cyber-y2k-womens-christian-bffd",
@@ -6425,11 +6425,11 @@
  "depop:monosqmot-vintage-2000s-y2k-nfl-seattle-008b": {
   "brand": "NFL",
   "buyerFee": 1.75,
-  "checkedAt": "2026-11-13T03:13:00Z",
+  "checkedAt": "2026-11-13T05:37:40Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:monosqmot-vintage-2000s-y2k-nfl-seattle-008b",
-  "max": 123.22,
+  "max": 100.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/47032497/5191843780_bccab1fdea2444e49b1342f302428a42/P0.jpg",
   "platform": "depop",
@@ -6445,12 +6445,12 @@
   "title": "Vintage 2000s Y2K NFL Seattle Seahawks navy blue...",
   "totalCost": 24.38,
   "url": "https://www.depop.com/products/monosqmot-vintage-2000s-y2k-nfl-seattle-008b/",
-  "verdict": "OK: 24.38 total is at or under your max 123.22"
+  "verdict": "OK: 24.38 total is at or under your max 100.00"
  },
  "depop:morenojpnny_-billionaire-boys-club-gray-t-shirt-d3d0": {
   "brand": "Billionaire Boys Club",
   "buyerFee": 1.6,
-  "checkedAt": "2026-11-13T05:23:49Z",
+  "checkedAt": "2026-11-13T05:37:20Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:morenojpnny_-billionaire-boys-club-gray-t-shirt-d3d0",
@@ -6500,7 +6500,7 @@
  "depop:noahs_fvshion-tory-burch-18k-gold-plated-logo-4cc2": {
   "brand": "Tory Burch",
   "buyerFee": 2.15,
-  "checkedAt": "2026-11-13T05:18:23Z",
+  "checkedAt": "2026-11-13T05:32:03Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:noahs_fvshion-tory-burch-18k-gold-plated-logo-4cc2",
@@ -6550,7 +6550,7 @@
  "depop:orbitalplus3time-brown-cable-knit-quarter-zip-ba9a": {
   "brand": "Karl Kani",
   "buyerFee": 1.48,
-  "checkedAt": "2026-11-13T05:17:23Z",
+  "checkedAt": "2026-11-13T05:31:03Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:orbitalplus3time-brown-cable-knit-quarter-zip-ba9a",
@@ -6575,7 +6575,7 @@
  "depop:paigearuz-travis-mathew-pink-tank-top-c89a": {
   "brand": "TravisMathew",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-13T05:22:48Z",
+  "checkedAt": "2026-11-13T05:36:20Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:paigearuz-travis-mathew-pink-tank-top-c89a",
@@ -6625,7 +6625,7 @@
  "depop:ryanskwllaok-vintage-ben-davis-black-work-8ae7": {
   "brand": "Ben Davis",
   "buyerFee": 1.9,
-  "checkedAt": "2026-11-13T05:22:28Z",
+  "checkedAt": "2026-11-13T05:36:01Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:ryanskwllaok-vintage-ben-davis-black-work-8ae7",
@@ -6675,7 +6675,7 @@
  "depop:seb_sellif-white-real-madrid-jersey-with-c949": {
   "brand": "Real Madrid",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-13T05:15:00Z",
+  "checkedAt": "2026-11-13T05:28:44Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:seb_sellif-white-real-madrid-jersey-with-c949",
@@ -6700,7 +6700,7 @@
  "depop:shawndeanhillu-cleveland-cavaliers-red-black-ba46": {
   "brand": "NBA",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-13T05:19:23Z",
+  "checkedAt": "2026-11-13T05:33:02Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:shawndeanhillu-cleveland-cavaliers-red-black-ba46",
@@ -6750,7 +6750,7 @@
  "depop:taa6y-wilfred-size-small-black-maxi-d36e": {
   "brand": "Aritzia",
   "buyerFee": 1.35,
-  "checkedAt": "2026-11-13T05:17:43Z",
+  "checkedAt": "2026-11-13T05:31:23Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:taa6y-wilfred-size-small-black-maxi-d36e",
@@ -6800,7 +6800,7 @@
  "depop:theaycanviking-red-jacket-hartford-whalers-t-58e0": {
   "brand": "Other",
   "buyerFee": 2.05,
-  "checkedAt": "2026-11-13T05:20:29Z",
+  "checkedAt": "2026-11-13T05:34:02Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:theaycanviking-red-jacket-hartford-whalers-t-58e0",
@@ -6850,7 +6850,7 @@
  "depop:theresafin1-vintage-y2k-burton-snowboard-womens-304b": {
   "brand": "Burton",
   "buyerFee": 2.0,
-  "checkedAt": "2026-11-13T05:14:00Z",
+  "checkedAt": "2026-11-13T05:27:44Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:theresafin1-vintage-y2k-burton-snowboard-womens-304b",
@@ -6900,7 +6900,7 @@
  "depop:tuekdougan-footjoy-vintage-navy-blue-sweatshirt-86a8": {
   "brand": "FootJoy",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-13T05:20:03Z",
+  "checkedAt": "2026-11-13T05:33:42Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:tuekdougan-footjoy-vintage-navy-blue-sweatshirt-86a8",
@@ -6975,7 +6975,7 @@
  "depop:youdiversal-nike-jacket-navy-size-medium-7a0f": {
   "brand": "Nike",
   "buyerFee": 1.75,
-  "checkedAt": "2026-11-13T05:10:52Z",
+  "checkedAt": "2026-11-13T05:24:39Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:youdiversal-nike-jacket-navy-size-medium-7a0f",
