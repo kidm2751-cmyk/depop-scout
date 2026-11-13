@@ -6250,11 +6250,11 @@
  "depop:hava_sxop-converse-x-neighborhood-black-hoodie-8e4b": {
   "brand": "Converse",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-13T08:20:49Z",
+  "checkedAt": "2026-11-13T11:49:31Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:hava_sxop-converse-x-neighborhood-black-hoodie-8e4b",
-  "max": 99.0,
+  "max": 15.09,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/282135004/3791557578_0d18f61215a34b8c8fd20651e3b4f37e/P0.jpg",
   "platform": "depop",
@@ -6270,7 +6270,7 @@
   "title": "Converse x Neighborhood black hoodie Size XS #collab...",
   "totalCost": 18.32,
   "url": "https://www.depop.com/products/hava_sxop-converse-x-neighborhood-black-hoodie-8e4b/",
-  "verdict": "OK: 18.32 total is at or under your max 99.00"
+  "verdict": "TOO HIGH: 18.32 total is over your max 15.09"
  },
  "depop:heodasshype-anti-social-social-club-x-da28": {
   "brand": "Anti Social Social Club",
