@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-20261113-122829",
+ "finishedAt": "2026-11-13T12:29:58Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0CKYJ63SG",
+   "key": "B0CKYJ63SG",
+   "url": "https://www.amazon.com/dp/B0CKYJ63SG",
+   "checkedAt": "2026-11-13T12:29:58Z",
+   "ok": true,
+   "status": "ok",
+   "title": "COSLUS C40 Electric Nail Drill Professional, Precise Speed Dial, Purple",
+   "brand": "COSLUS",
+   "price": 9.99,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 19.99,
+   "listPriceKind": "list",
+   "pctOff": 50.0,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "Yieetp Yieetp Sold by Yieetp",
+   "soldByAmazon": false,
+   "boughtPastMonth": 20000,
+   "rating": 4.5,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/71jKmMtvsZL._SL1500_.jpg",
+   "max": 12.99,
+   "verdict": "OK: 9.99 is at or under your max 12.99"
+  }
+ ]
+}
