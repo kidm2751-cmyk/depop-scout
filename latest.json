@@ -6150,11 +6150,11 @@
  "depop:dylwn_arg-grey-ben-davis-short-sleeve-fbc8": {
   "brand": "Ben Davis",
   "buyerFee": 1.8,
-  "checkedAt": "2026-11-13T08:16:26Z",
+  "checkedAt": "2026-11-13T11:33:56Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:dylwn_arg-grey-ben-davis-short-sleeve-fbc8",
-  "max": 99.0,
+  "max": 19.49,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/279853148/5150438662_d7fb114ebc01480ba0e2237f21ac0b23/P0.jpg",
   "platform": "depop",
@@ -6170,7 +6170,7 @@
   "title": "Grey Ben Davis Short Sleeve Quarter-Zip Work...",
   "totalCost": 25.54,
   "url": "https://www.depop.com/products/dylwn_arg-grey-ben-davis-short-sleeve-fbc8/",
-  "verdict": "OK: 25.54 total is at or under your max 99.00"
+  "verdict": "TOO HIGH: 25.54 total is over your max 19.49"
  },
  "depop:fem7elling-vintage-y2k-bench-barbour-style-2e16": {
   "brand": "Bench",

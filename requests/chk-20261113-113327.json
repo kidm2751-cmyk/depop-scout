@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261113-113327",
+ "finishedAt": "2026-11-13T11:34:19Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "dylwn_arg-grey-ben-davis-short-sleeve-fbc8",
+   "key": "depop:dylwn_arg-grey-ben-davis-short-sleeve-fbc8",
+   "url": "https://www.depop.com/products/dylwn_arg-grey-ben-davis-short-sleeve-fbc8/",
+   "checkedAt": "2026-11-13T11:33:56Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Grey Ben Davis Short Sleeve Quarter-Zip Work...",
+   "brand": "Ben Davis",
+   "price": 16.0,
+   "shipping": 6.0,
+   "shippingKnown": false,
+   "buyerFee": 1.8,
+   "tax": 1.74,
+   "totalCost": 25.54,
+   "size": "Other",
+   "condition": "Used",
+   "seller": "dylan_arg",
+   "photo": "https://media-photos.depop.com/r1/279853148/5150438662_d7fb114ebc01480ba0e2237f21ac0b23/P0.jpg",
+   "max": 19.49,
+   "verdict": "TOO HIGH: 25.54 total is over your max 19.49"
+  }
+ ]
+}
