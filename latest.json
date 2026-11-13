@@ -5545,7 +5545,7 @@
   "asin": "B0HC3TKS7X",
   "boughtPastMonth": 1000,
   "brand": "sundpik",
-  "checkedAt": "2026-11-13T09:18:42Z",
+  "checkedAt": "2026-11-13T09:20:40Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -5553,7 +5553,7 @@
   "listPrice": 39.99,
   "listPriceKind": "typical",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 20.0,
   "ok": true,
   "pctOff": 42.5,
   "photo": "https://m.media-amazon.com/images/I/71wys8SjdLL._SL1500_.jpg",
@@ -5567,7 +5567,7 @@
   "status": "ok",
   "title": "Posture Corrector for Women and Men, Back Straightener Brace (1)",
   "url": "https://www.amazon.com/dp/B0HC3TKS7X",
-  "verdict": "OK: 22.99 is at or under your max 45.00"
+  "verdict": "TOO HIGH: 22.99 is over your max 20.00"
  },
  "B0HND7YK86": {
   "asin": "B0HND7YK86",
