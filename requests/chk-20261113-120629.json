@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261113-120629",
+ "finishedAt": "2026-11-13T12:07:41Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "jlebow1y-adriano-goldschmied-blue-denim-jacket-dd92",
+   "key": "depop:jlebow1y-adriano-goldschmied-blue-denim-jacket-dd92",
+   "url": "https://www.depop.com/products/jlebow1y-adriano-goldschmied-blue-denim-jacket-dd92/",
+   "checkedAt": "2026-11-13T12:07:14Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Adriano Goldschmied blue denim jacket in size S...",
+   "brand": "AG Jeans",
+   "price": 7.0,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 1.35,
+   "tax": 0.81,
+   "totalCost": 17.16,
+   "size": "XS",
+   "condition": "Used",
+   "seller": "jlebow18",
+   "photo": "https://media-photos.depop.com/r1/392383657/5018058212_58673523127649d7b9fb79412c33810e/P0.jpg",
+   "max": 19.61,
+   "verdict": "OK: 17.16 total is at or under your max 19.61"
+  }
+ ]
+}
