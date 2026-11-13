@@ -7648,11 +7648,11 @@
  "depop:verungyte70-alo-yoga-black-airbrush-goddess-f120": {
   "brand": "Alo Yoga",
   "buyerFee": 1.75,
-  "checkedAt": "2026-11-13T08:26:31Z",
+  "checkedAt": "2026-11-13T12:08:24Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:verungyte70-alo-yoga-black-airbrush-goddess-f120",
-  "max": 99.0,
+  "max": 24.35,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/252494241/repop_220303268_3434058863/5202822700_50ca6841a0f4469eabaec765cb117163/P0.jpg",
   "platform": "depop",
@@ -7668,7 +7668,7 @@
   "title": "Alo yoga black airbrush goddess leggings. Size...",
   "totalCost": 24.38,
   "url": "https://www.depop.com/products/verungyte70-alo-yoga-black-airbrush-goddess-f120/",
-  "verdict": "OK: 24.38 total is at or under your max 99.00"
+  "verdict": "TOO HIGH: 24.38 total is over your max 24.35"
  },
  "depop:youdiversal-nike-jacket-navy-size-medium-7a0f": {
   "brand": "Nike",
