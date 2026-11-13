@@ -1,3 +1,4 @@
+sha: ee6f33c76345101e47213f48566c55901a5031fc
 # Amazon watchlist: checked every hour. One item per line:
 #   ASIN (or Amazon link)   your max buy price (optional)   a note (optional)
 # Discord gets a message when the price goes over your max, the item goes out of stock or comes back,
@@ -241,3 +242,5 @@ https://www.depop.com/products/mgapaulina14-blue-denim-jeans-with-a-8211/ 21.77 
 https://www.depop.com/products/coolgugl600-christian-audigier-navy-blue-zip-42d6/ 34.00 Christian Audigier navy zip hoodie women's L, listed on eBay at 59.99
 
 
+
+B084KV65KJ 17.31 Poppi Prebiotic Soda Raspberry Rose 12-pack, listed on eBay at 27.88
