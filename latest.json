@@ -6500,11 +6500,11 @@
  "depop:jikariahjriel-rocawear-burgundy-jacket-with-gold-40e6": {
   "brand": "Rocawear",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-13T08:27:31Z",
+  "checkedAt": "2026-11-13T12:21:02Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:jikariahjriel-rocawear-burgundy-jacket-with-gold-40e6",
-  "max": 99.0,
+  "max": 16.4,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/42868797/5204169932_31b929cbfea14e329adde5d237a500aa/P0.jpg",
   "platform": "depop",
@@ -6520,7 +6520,7 @@
   "title": "Rocawear burgundy jacket with gold\n\nsize M\n\n#y2k...",
   "totalCost": 18.32,
   "url": "https://www.depop.com/products/jikariahjriel-rocawear-burgundy-jacket-with-gold-40e6/",
-  "verdict": "OK: 18.32 total is at or under your max 99.00"
+  "verdict": "TOO HIGH: 18.32 total is over your max 16.40"
  },
  "depop:jlebow1y-adriano-goldschmied-blue-denim-jacket-dd92": {
   "brand": "AG Jeans",
