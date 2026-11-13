@@ -5875,11 +5875,11 @@
  "depop:canpbd137-ag-adriano-goldschmied-navy-denim-1f06": {
   "brand": "AG Jeans",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-13T08:16:06Z",
+  "checkedAt": "2026-11-13T11:32:50Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:canpbd137-ag-adriano-goldschmied-navy-denim-1f06",
-  "max": 99.0,
+  "max": 16.1,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/486147400/5110200061_32c0a5ec03b042958a07e13b2368a382/P0.jpg",
   "platform": "depop",
@@ -5895,7 +5895,7 @@
   "title": "AG Adriano Goldschmied navy denim jacket #denim...",
   "totalCost": 18.32,
   "url": "https://www.depop.com/products/canpbd137-ag-adriano-goldschmied-navy-denim-1f06/",
-  "verdict": "OK: 18.32 total is at or under your max 99.00"
+  "verdict": "TOO HIGH: 18.32 total is over your max 16.10"
  },
  "depop:chrisdgalsss-nfl-detroit-lions-blue-jersey-7885": {
   "brand": "NFL",
