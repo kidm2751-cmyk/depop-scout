@@ -2661,7 +2661,7 @@
   "asin": "B0C2DGJC81",
   "boughtPastMonth": 8000,
   "brand": "Crayola",
-  "checkedAt": "2026-11-13T15:46:47Z",
+  "checkedAt": "2026-11-13T15:55:15Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -2669,7 +2669,7 @@
   "listPrice": 12.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 9.54,
   "ok": true,
   "pctOff": 26.6,
   "photo": "https://m.media-amazon.com/images/I/810LHiPPGCL._AC_SL1500_.jpg",
@@ -2683,7 +2683,7 @@
   "status": "ok",
   "title": "Crayola Clicks Retractable Markers Bold 10ct, Holiday Gift for Kids",
   "url": "https://www.amazon.com/dp/B0C2DGJC81",
-  "verdict": "OK: 9.54 is at or under your max 45.00"
+  "verdict": "OK: 9.54 is at or under your max 9.54"
  },
  "B0C3L4PZJD": {
   "asin": "B0C3L4PZJD",
