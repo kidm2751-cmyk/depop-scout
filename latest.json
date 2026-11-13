@@ -5352,11 +5352,11 @@
  "depop:canpbd137-ag-adriano-goldschmied-navy-denim-1f06": {
   "brand": "AG Jeans",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-13T02:07:30Z",
+  "checkedAt": "2026-11-13T02:28:38Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:canpbd137-ag-adriano-goldschmied-navy-denim-1f06",
-  "max": 16.1,
+  "max": 999.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/486147400/5110200061_32c0a5ec03b042958a07e13b2368a382/P0.jpg",
   "platform": "depop",
@@ -5372,7 +5372,7 @@
   "title": "AG Adriano Goldschmied navy denim jacket #denim...",
   "totalCost": 18.32,
   "url": "https://www.depop.com/products/canpbd137-ag-adriano-goldschmied-navy-denim-1f06/",
-  "verdict": "TOO HIGH: 18.32 total is over your max 16.10"
+  "verdict": "OK: 18.32 total is at or under your max 999.00"
  },
  "depop:chrisdgalsss-nfl-detroit-lions-blue-jersey-7885": {
   "brand": "NFL",
@@ -5402,11 +5402,11 @@
  "depop:cocomnaps-apple-bottom-jeans-size-56-6a8e": {
   "brand": "Apple Bottoms",
   "buyerFee": 1.75,
-  "checkedAt": "2026-11-13T02:06:49Z",
+  "checkedAt": "2026-11-13T02:28:15Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:cocomnaps-apple-bottom-jeans-size-56-6a8e",
-  "max": 24.3,
+  "max": 999.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/325677675/3858649030_ac84375ec0124b2db4f0698cefce9c61/P0.jpg",
   "platform": "depop",
@@ -5422,7 +5422,7 @@
   "title": "Apple bottom jeans size 5/6 kids early 00\u2019 Pink...",
   "totalCost": 26.38,
   "url": "https://www.depop.com/products/cocomnaps-apple-bottom-jeans-size-56-6a8e/",
-  "verdict": "TOO HIGH: 26.38 total is over your max 24.30"
+  "verdict": "OK: 26.38 total is at or under your max 999.00"
  },
  "depop:cracks_collec8ion-duluth-trading-co-flex-firehose-a920": {
   "brand": "Duluth Trading Company",
@@ -5452,11 +5452,11 @@
  "depop:daenaclo2et-house-of-cb-blue-sequin-5193": {
   "brand": "House of CB",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-13T02:04:04Z",
+  "checkedAt": "2026-11-13T02:26:38Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:daenaclo2et-house-of-cb-blue-sequin-5193",
-  "max": 11.09,
+  "max": 999.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/295435455/5150309973_c88b579ee3d54243936a29214837bb56/P0.jpg",
   "platform": "depop",
@@ -5472,7 +5472,7 @@
   "title": "House of CB blue sequin crop top with silver floral...",
   "totalCost": 16.32,
   "url": "https://www.depop.com/products/daenaclo2et-house-of-cb-blue-sequin-5193/",
-  "verdict": "TOO HIGH: 16.32 total is over your max 11.09"
+  "verdict": "OK: 16.32 total is at or under your max 999.00"
  },
  "depop:dcrosell8-brown-suede-birkenstock-boston-clogs-d509": {
   "brand": "Birkenstock",
@@ -5727,11 +5727,11 @@
  "depop:icfuldbemid-nike-reversible-new-york-jets-b93a": {
   "brand": "Nike",
   "buyerFee": 2.2,
-  "checkedAt": "2026-11-13T02:06:08Z",
+  "checkedAt": "2026-11-13T02:27:28Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:icfuldbemid-nike-reversible-new-york-jets-b93a",
-  "max": 51.27,
+  "max": 999.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/424432798/5104360398_64105a06aa9943ea9694c0f9ba4af1b4/P0.jpg",
   "platform": "depop",
@@ -5747,16 +5747,16 @@
   "title": "Nike Reversible New York Jets Vintage Style Starter...",
   "totalCost": 34.75,
   "url": "https://www.depop.com/products/icfuldbemid-nike-reversible-new-york-jets-b93a/",
-  "verdict": "OK: 34.75 total is at or under your max 51.27"
+  "verdict": "OK: 34.75 total is at or under your max 999.00"
  },
  "depop:ishi_bei-navy-gray-starter-michigan-e3a7": {
   "brand": "Starter",
   "buyerFee": 1.7,
-  "checkedAt": "2026-11-13T02:04:24Z",
+  "checkedAt": "2026-11-13T02:27:03Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:ishi_bei-navy-gray-starter-michigan-e3a7",
-  "max": 28.53,
+  "max": 999.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/21330695/5111140502_3a06486d03474b5a8541eafe72cdda17/P0.jpg",
   "platform": "depop",
@@ -5772,7 +5772,7 @@
   "title": "Navy &amp; Gray Starter Michigan polyester quarter zip...",
   "totalCost": 23.23,
   "url": "https://www.depop.com/products/ishi_bei-navy-gray-starter-michigan-e3a7/",
-  "verdict": "OK: 23.23 total is at or under your max 28.53"
+  "verdict": "OK: 23.23 total is at or under your max 999.00"
  },
  "depop:jace2mhm-y2k-burton-snowboard-graphic-shirt-6ef7": {
   "brand": "Burton",
@@ -6200,11 +6200,11 @@
  "depop:makjylalevins-healing-hands-hh360-noah-cargo-e1a6": {
   "brand": "Healing Hands",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-13T02:06:29Z",
+  "checkedAt": "2026-11-13T02:27:53Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:makjylalevins-healing-hands-hh360-noah-cargo-e1a6",
-  "max": 26.8,
+  "max": 999.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/424309047/4899781021_12916c356a4147929eecffebde252bdf/P0.jpg",
   "platform": "depop",
@@ -6220,7 +6220,7 @@
   "title": "Healing Hands HH360\u00b0 Noah Cargo Scrub Pants Black...",
   "totalCost": 20.62,
   "url": "https://www.depop.com/products/makjylalevins-healing-hands-hh360-noah-cargo-e1a6/",
-  "verdict": "OK: 20.62 total is at or under your max 26.80"
+  "verdict": "OK: 20.62 total is at or under your max 999.00"
  },
  "depop:miarose_closev-kate-spade-new-york-pink-4e6d": {
   "brand": "Kate Spade New York ",
@@ -6525,11 +6525,11 @@
  "depop:seb_sellif-white-real-madrid-jersey-with-c949": {
   "brand": "Real Madrid",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-13T02:05:47Z",
+  "checkedAt": "2026-11-13T02:27:26Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:seb_sellif-white-real-madrid-jersey-with-c949",
-  "max": 26.84,
+  "max": 999.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/441511115/4755223257_8cce36e0ccb547ea944e0399e756bb8e/P0.jpg",
   "platform": "depop",
@@ -6545,7 +6545,7 @@
   "title": "White Real Madrid jersey with gold stripes on...",
   "totalCost": 18.62,
   "url": "https://www.depop.com/products/seb_sellif-white-real-madrid-jersey-with-c949/",
-  "verdict": "OK: 18.62 total is at or under your max 26.84"
+  "verdict": "OK: 18.62 total is at or under your max 999.00"
  },
  "depop:shawndeanhillu-cleveland-cavaliers-red-black-ba46": {
   "brand": "NBA",
