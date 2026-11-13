@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261113-091141",
+ "finishedAt": "2026-11-13T09:12:59Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "alissas3hmidt-j-crew-100-cotton-sweater-12d8",
+   "key": "depop:alissas3hmidt-j-crew-100-cotton-sweater-12d8",
+   "url": "https://www.depop.com/products/alissas3hmidt-j-crew-100-cotton-sweater-12d8/",
+   "checkedAt": "2026-11-13T09:12:35Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "J. Crew 100% cotton sweater blazer tan #workwear...",
+   "brand": "J.Crew",
+   "price": 8.0,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 1.4,
+   "tax": 0.92,
+   "totalCost": 18.32,
+   "size": "M",
+   "condition": "Used",
+   "seller": "alissaschmidt",
+   "photo": "https://media-photos.depop.com/b1/241836150/5169768965_429f8e4560fd434b9eaeb0cb2a12a808/P0.jpg",
+   "max": 15.09,
+   "verdict": "TOO HIGH: 18.32 total is over your max 15.09"
+  }
+ ]
+}
