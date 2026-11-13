@@ -6425,11 +6425,11 @@
  "depop:jamesy_roy06-black-white-margaritaville-jimmy-59eb": {
   "brand": "Other",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-13T08:21:29Z",
+  "checkedAt": "2026-11-13T11:51:45Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:jamesy_roy06-black-white-margaritaville-jimmy-59eb",
-  "max": 99.0,
+  "max": 15.09,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/290293067/4584124701_5c8c3c322c73422d87441c39756bc43b/P0.jpg",
   "platform": "depop",
@@ -6445,7 +6445,7 @@
   "title": "Black &amp; white Margaritaville Jimmy Buffett zip-up...",
   "totalCost": 16.32,
   "url": "https://www.depop.com/products/jamesy_roy06-black-white-margaritaville-jimmy-59eb/",
-  "verdict": "OK: 16.32 total is at or under your max 99.00"
+  "verdict": "TOO HIGH: 16.32 total is over your max 15.09"
  },
  "depop:jbkmom17-pink-toodler-juicy-couture-velour-fc8c": {
   "brand": "Juicy Couture",
