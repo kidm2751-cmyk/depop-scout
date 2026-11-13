@@ -5925,11 +5925,11 @@
  "depop:cocomnaps-apple-bottom-jeans-size-56-6a8e": {
   "brand": "Apple Bottoms",
   "buyerFee": 1.75,
-  "checkedAt": "2026-11-13T08:15:46Z",
+  "checkedAt": "2026-11-13T11:31:30Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:cocomnaps-apple-bottom-jeans-size-56-6a8e",
-  "max": 99.0,
+  "max": 24.3,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/325677675/3858649030_ac84375ec0124b2db4f0698cefce9c61/P0.jpg",
   "platform": "depop",
@@ -5945,7 +5945,7 @@
   "title": "Apple bottom jeans size 5/6 kids early 00\u2019 Pink...",
   "totalCost": 26.38,
   "url": "https://www.depop.com/products/cocomnaps-apple-bottom-jeans-size-56-6a8e/",
-  "verdict": "OK: 26.38 total is at or under your max 99.00"
+  "verdict": "TOO HIGH: 26.38 total is over your max 24.30"
  },
  "depop:cracks_collec8ion-duluth-trading-co-flex-firehose-a920": {
   "brand": "Duluth Trading Company",
