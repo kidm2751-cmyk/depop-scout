@@ -5725,11 +5725,11 @@
  "depop:alissas3hmidt-j-crew-100-cotton-sweater-12d8": {
   "brand": "J.Crew",
   "buyerFee": 1.46,
-  "checkedAt": "2026-11-13T15:18:23Z",
+  "checkedAt": "2026-11-13T17:33:15Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:alissas3hmidt-j-crew-100-cotton-sweater-12d8",
-  "max": 15.09,
+  "max": 99.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/241836150/5169768965_429f8e4560fd434b9eaeb0cb2a12a808/P0.jpg",
   "platform": "depop",
@@ -5745,7 +5745,7 @@
   "title": "J. Crew 100% cotton sweater blazer tan #workwear...",
   "totalCost": 19.58,
   "url": "https://www.depop.com/products/alissas3hmidt-j-crew-100-cotton-sweater-12d8/",
-  "verdict": "TOO HIGH: 19.58 total is over your max 15.09"
+  "verdict": "OK: 19.58 total is at or under your max 99.00"
  },
  "depop:armanclotheo-antigua-san-diego-padres-sd-10b4": {
   "brand": "Antigua Apparel",
@@ -5975,11 +5975,11 @@
  "depop:cvera-nhl-pittsburgh-penguins-quarter-zip-ee6d": {
   "brand": "47 Brand",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-13T15:23:08Z",
+  "checkedAt": "2026-11-13T17:34:42Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:cvera-nhl-pittsburgh-penguins-quarter-zip-ee6d",
-  "max": 15.25,
+  "max": 99.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/50012939/5198875521_d5002f3317294892828281fdfdff0560/P0.jpg",
   "platform": "depop",
@@ -5995,7 +5995,7 @@
   "title": "NHL Pittsburgh Penguins quarter zip sweatshirt in...",
   "totalCost": 18.37,
   "url": "https://www.depop.com/products/cvera-nhl-pittsburgh-penguins-quarter-zip-ee6d/",
-  "verdict": "TOO HIGH: 18.37 total is over your max 15.25"
+  "verdict": "OK: 18.37 total is at or under your max 99.00"
  },
  "depop:daenaclo2et-house-of-cb-blue-sequin-5193": {
   "brand": "House of CB",
@@ -6500,11 +6500,11 @@
  "depop:jikariahjriel-rocawear-burgundy-jacket-with-gold-40e6": {
   "brand": "Rocawear",
   "buyerFee": 1.46,
-  "checkedAt": "2026-11-13T15:26:31Z",
+  "checkedAt": "2026-11-13T17:35:22Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:jikariahjriel-rocawear-burgundy-jacket-with-gold-40e6",
-  "max": 16.4,
+  "max": 99.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/42868797/5204169932_31b929cbfea14e329adde5d237a500aa/P0.jpg",
   "platform": "depop",
@@ -6520,20 +6520,20 @@
   "title": "Rocawear burgundy jacket with gold\n\nsize M\n\n#y2k...",
   "totalCost": 19.58,
   "url": "https://www.depop.com/products/jikariahjriel-rocawear-burgundy-jacket-with-gold-40e6/",
-  "verdict": "TOO HIGH: 19.58 total is over your max 16.40"
+  "verdict": "OK: 19.58 total is at or under your max 99.00"
  },
  "depop:jlebow1y-adriano-goldschmied-blue-denim-jacket-dd92": {
   "brand": "AG Jeans",
-  "buyerFee": 1.35,
-  "checkedAt": "2026-11-13T15:20:40Z",
+  "buyerFee": 1.4,
+  "checkedAt": "2026-11-13T17:34:02Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:jlebow1y-adriano-goldschmied-blue-denim-jacket-dd92",
-  "max": 19.61,
+  "max": 99.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/392383657/5018058212_58673523127649d7b9fb79412c33810e/P0.jpg",
   "platform": "depop",
-  "price": 7.0,
+  "price": 8.05,
   "seller": "jlebow18",
   "shipping": 8.0,
   "shippingKnown": false,
@@ -6541,11 +6541,11 @@
   "slug": "jlebow1y-adriano-goldschmied-blue-denim-jacket-dd92",
   "sold": false,
   "status": "ok",
-  "tax": 0.81,
+  "tax": 0.92,
   "title": "Adriano Goldschmied blue denim jacket in size S...",
-  "totalCost": 17.16,
+  "totalCost": 18.37,
   "url": "https://www.depop.com/products/jlebow1y-adriano-goldschmied-blue-denim-jacket-dd92/",
-  "verdict": "OK: 17.16 total is at or under your max 19.61"
+  "verdict": "OK: 18.37 total is at or under your max 99.00"
  },
  "depop:jonnysziveo-y2k-nike-total-90-embossed-4178": {
   "brand": "Nike",
@@ -6723,11 +6723,11 @@
  "depop:kasymeborjas14-ksubi-blue-denim-mini-skirt-162c": {
   "brand": "Ksubi",
   "buyerFee": 1.56,
-  "checkedAt": "2026-11-13T15:16:19Z",
+  "checkedAt": "2026-11-13T17:32:51Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:kasymeborjas14-ksubi-blue-denim-mini-skirt-162c",
-  "max": 13.19,
+  "max": 99.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/214159599/4220057178_c54307d20f0b4e8cba11df05b1dcec4b/P0.jpg",
   "platform": "depop",
@@ -6743,7 +6743,7 @@
   "title": "Ksubi blue denim mini skirt #ksubi #denim",
   "totalCost": 20.0,
   "url": "https://www.depop.com/products/kasymeborjas14-ksubi-blue-denim-mini-skirt-162c/",
-  "verdict": "TOO HIGH: 20.00 total is over your max 13.19"
+  "verdict": "OK: 20.00 total is at or under your max 99.00"
  },
  "depop:krs15paige-pearl-jam-2022-tour-tee-6fdb": {
   "brand": "Bella+Canvas",
@@ -7348,11 +7348,11 @@
  "depop:t9risloan-frame-skinny-cropped-jeans-with-b014": {
   "brand": "Frame",
   "buyerFee": 1.46,
-  "checkedAt": "2026-11-13T15:24:43Z",
+  "checkedAt": "2026-11-13T17:35:02Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:t9risloan-frame-skinny-cropped-jeans-with-b014",
-  "max": 15.65,
+  "max": 99.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/2491912/5169615686_5d17d976ef434f54a9e9c3fd1ecf7d26/P0.jpg",
   "platform": "depop",
@@ -7360,7 +7360,7 @@
   "seller": "torisloan",
   "shipping": 8.0,
   "shippingKnown": false,
-  "size": "24\\",
+  "size": "US 7",
   "slug": "t9risloan-frame-skinny-cropped-jeans-with-b014",
   "sold": false,
   "status": "ok",
@@ -7368,7 +7368,7 @@
   "title": "Frame skinny cropped jeans with distressed ankle...",
   "totalCost": 19.58,
   "url": "https://www.depop.com/products/t9risloan-frame-skinny-cropped-jeans-with-b014/",
-  "verdict": "TOO HIGH: 19.58 total is over your max 15.65"
+  "verdict": "OK: 19.58 total is at or under your max 99.00"
  },
  "depop:taa6y-wilfred-size-small-black-maxi-d36e": {
   "brand": "Aritzia",
@@ -7497,16 +7497,16 @@
  },
  "depop:timthriftso1-outdoor-research-gorp-core-fleece-7c25": {
   "brand": "Outdoor Research",
-  "buyerFee": 1.84,
-  "checkedAt": "2026-11-13T15:19:24Z",
+  "buyerFee": 1.92,
+  "checkedAt": "2026-11-13T17:33:38Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:timthriftso1-outdoor-research-gorp-core-fleece-7c25",
-  "max": 32.56,
+  "max": 99.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/50822201/5199095781_b361e13d3aa04027bf253fc05bd1db24/P0.jpg",
   "platform": "depop",
-  "price": 16.8,
+  "price": 18.34,
   "seller": "timthrifts_1",
   "shipping": 8.0,
   "shippingKnown": false,
@@ -7514,11 +7514,11 @@
   "slug": "timthriftso1-outdoor-research-gorp-core-fleece-7c25",
   "sold": false,
   "status": "ok",
-  "tax": 1.82,
+  "tax": 1.98,
   "title": "Outdoor Research Gorp Core Fleece Sweatshirt \n- Size...",
-  "totalCost": 28.46,
+  "totalCost": 30.23,
   "url": "https://www.depop.com/products/timthriftso1-outdoor-research-gorp-core-fleece-7c25/",
-  "verdict": "OK: 28.46 total is at or under your max 32.56"
+  "verdict": "OK: 30.23 total is at or under your max 99.00"
  },
  "depop:tjp1i_433-green-fruit-of-the-loom-de2e": {
   "brand": "Fruit of the Loom",
@@ -7623,11 +7623,11 @@
  "depop:vaztarius-eddie-bauer-grey-1936-skyliner-a6e7": {
   "brand": "Eddie Bauer",
   "buyerFee": 2.14,
-  "checkedAt": "2026-11-13T15:28:05Z",
+  "checkedAt": "2026-11-13T17:35:43Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:vaztarius-eddie-bauer-grey-1936-skyliner-a6e7",
-  "max": 39.03,
+  "max": 99.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/45173145/4039435735_83758df60019438f86fb6946b473ffd0/P0.jpg",
   "platform": "depop",
@@ -7643,20 +7643,20 @@
   "title": "Eddie Bauer grey 1936 skyliner repro bomber jacket...",
   "totalCost": 35.31,
   "url": "https://www.depop.com/products/vaztarius-eddie-bauer-grey-1936-skyliner-a6e7/",
-  "verdict": "OK: 35.31 total is at or under your max 39.03"
+  "verdict": "OK: 35.31 total is at or under your max 99.00"
  },
  "depop:verungyte70-alo-yoga-black-airbrush-goddess-f120": {
   "brand": "Alo Yoga",
-  "buyerFee": 1.75,
-  "checkedAt": "2026-11-13T15:21:45Z",
+  "buyerFee": 1.82,
+  "checkedAt": "2026-11-13T17:34:22Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:verungyte70-alo-yoga-black-airbrush-goddess-f120",
-  "max": 24.35,
+  "max": 99.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/252494241/repop_220303268_3434058863/5202822700_50ca6841a0f4469eabaec765cb117163/P0.jpg",
   "platform": "depop",
-  "price": 15.0,
+  "price": 16.45,
   "seller": "veringyte70",
   "shipping": 6.0,
   "shippingKnown": false,
@@ -7664,11 +7664,11 @@
   "slug": "verungyte70-alo-yoga-black-airbrush-goddess-f120",
   "sold": false,
   "status": "ok",
-  "tax": 1.63,
+  "tax": 1.78,
   "title": "Alo yoga black airbrush goddess leggings. Size...",
-  "totalCost": 24.38,
+  "totalCost": 26.05,
   "url": "https://www.depop.com/products/verungyte70-alo-yoga-black-airbrush-goddess-f120/",
-  "verdict": "TOO HIGH: 24.38 total is over your max 24.35"
+  "verdict": "OK: 26.05 total is at or under your max 99.00"
  },
  "depop:youdiversal-nike-jacket-navy-size-medium-7a0f": {
   "brand": "Nike",
