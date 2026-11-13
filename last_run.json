@@ -1,33 +1,33 @@
 {
  "ok": true,
- "requestId": "chk-20261113-221324",
- "finishedAt": "2026-11-13T22:14:28Z",
+ "requestId": "chk-20261113-221509",
+ "finishedAt": "2026-11-13T22:16:12Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "florp19k1-nike-lebron-james-purple-2d0b",
-   "key": "depop:florp19k1-nike-lebron-james-purple-2d0b",
-   "url": "https://www.depop.com/products/florp19k1-nike-lebron-james-purple-2d0b/",
-   "checkedAt": "2026-11-13T22:14:05Z",
+   "slug": "jadedcatt92j-agolde-light-wash-denim-jeans-8f6b",
+   "key": "depop:jadedcatt92j-agolde-light-wash-denim-jeans-8f6b",
+   "url": "https://www.depop.com/products/jadedcatt92j-agolde-light-wash-denim-jeans-8f6b/",
+   "checkedAt": "2026-11-13T22:15:49Z",
    "ok": true,
    "status": "ok",
    "sold": false,
    "inStock": true,
-   "title": "Nike LeBron James purple &amp; burgundy hoodie with gold...",
-   "brand": "Nike",
+   "title": "AGOLDE light wash denim jeans with distressed...",
+   "brand": "AGOLDE",
    "price": 8.0,
    "shipping": 8.0,
    "shippingKnown": false,
    "buyerFee": 1.4,
    "tax": 0.92,
    "totalCost": 18.32,
-   "size": "0-3 months",
+   "size": "M",
    "condition": "Used",
-   "seller": "florp1971",
-   "photo": "https://media-photos.depop.com/r1/470123138/5141036392_ee7a910522d446e2b03a2dcbf017b723/P0.jpg",
-   "max": 15.09,
-   "verdict": "TOO HIGH: 18.32 total is over your max 15.09"
+   "seller": "jadedcatt923",
+   "photo": "https://media-photos.depop.com/b1/50793123/5143904453_416f681662a54b719f6323c00a634a8f/P0.jpg",
+   "max": 39.76,
+   "verdict": "OK: 18.32 total is at or under your max 39.76"
   }
  ]
 }
