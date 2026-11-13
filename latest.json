@@ -7423,11 +7423,11 @@
  "depop:theaycanviking-red-jacket-hartford-whalers-t-58e0": {
   "brand": "Other",
   "buyerFee": 2.05,
-  "checkedAt": "2026-11-13T08:19:48Z",
+  "checkedAt": "2026-11-13T11:46:28Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:theaycanviking-red-jacket-hartford-whalers-t-58e0",
-  "max": 99.0,
+  "max": 24.75,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/270994982/5090698533_f3fcb03e07b6451b8125ab3d8321f265/P0.jpg",
   "platform": "depop",
@@ -7443,7 +7443,7 @@
   "title": "Red Jacket Hartford Whalers T Shirt XL Gray Vintage...",
   "totalCost": 33.3,
   "url": "https://www.depop.com/products/theaycanviking-red-jacket-hartford-whalers-t-58e0/",
-  "verdict": "OK: 33.30 total is at or under your max 99.00"
+  "verdict": "TOO HIGH: 33.30 total is over your max 24.75"
  },
  "depop:therealwiwf-g-star-raw-blue-denim-jacket-4339": {
   "brand": "G-Star",
