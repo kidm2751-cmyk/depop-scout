@@ -7672,8 +7672,8 @@
  },
  "depop:youdiversal-nike-jacket-navy-size-medium-7a0f": {
   "brand": "Nike",
-  "buyerFee": 1.82,
-  "checkedAt": "2026-11-13T11:11:46Z",
+  "buyerFee": 1.75,
+  "checkedAt": "2026-11-13T14:13:41Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:youdiversal-nike-jacket-navy-size-medium-7a0f",
@@ -7681,7 +7681,7 @@
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/332114491/4658500559_3149d30ca9424afa9c83e8e1db4aeb09/P0.jpg",
   "platform": "depop",
-  "price": 16.45,
+  "price": 15.0,
   "seller": "youniversal",
   "shipping": 8.0,
   "shippingKnown": false,
@@ -7689,10 +7689,10 @@
   "slug": "youdiversal-nike-jacket-navy-size-medium-7a0f",
   "sold": false,
   "status": "ok",
-  "tax": 1.78,
+  "tax": 1.63,
   "title": "Nike Zip Up Jacket\nNavy &amp; black\nSize Medium\nSend...",
-  "totalCost": 28.05,
+  "totalCost": 26.38,
   "url": "https://www.depop.com/products/youdiversal-nike-jacket-navy-size-medium-7a0f/",
-  "verdict": "OK: 28.05 total is at or under your max 53.43"
+  "verdict": "OK: 26.38 total is at or under your max 53.43"
  }
 }
