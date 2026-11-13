@@ -59,7 +59,7 @@
   "asin": "B00112DTRC",
   "boughtPastMonth": 800,
   "brand": "MAYBELLINE",
-  "checkedAt": "2026-11-13T03:10:46Z",
+  "checkedAt": "2026-11-13T06:25:51Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -67,7 +67,7 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 6.82,
+  "max": 45.0,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/61KbNJgwxPL._SL1500_.jpg",
@@ -81,7 +81,7 @@
   "status": "ok",
   "title": "Maybelline Great Lash Curved Brush Washable Mascara, Volumizing, Lengthening and Curling Mascara, Blackest Black, 1 Count",
   "url": "https://www.amazon.com/dp/B00112DTRC",
-  "verdict": "OK: 6.82 is at or under your max 6.82"
+  "verdict": "OK: 6.82 is at or under your max 45.00"
  },
  "B001GAOTUK": {
   "asin": "B001GAOTUK",
@@ -1121,7 +1121,7 @@
   "asin": "B07P5TMHD9",
   "boughtPastMonth": 9000,
   "brand": "Eclat Skincare",
-  "checkedAt": "2026-11-13T03:12:10Z",
+  "checkedAt": "2026-11-13T06:25:56Z",
   "coupon": "20% off coupon",
   "deal": null,
   "inStock": true,
@@ -1129,7 +1129,7 @@
   "listPrice": 18.99,
   "listPriceKind": "typical",
   "lowestIn30Days": false,
-  "max": 8.0,
+  "max": 45.0,
   "ok": true,
   "pctOff": 47.4,
   "photo": "https://m.media-amazon.com/images/I/71JhFNvHqxL._SL1500_.jpg",
@@ -1143,7 +1143,7 @@
   "status": "ok",
   "title": "Eclat Skincare Brightening Vitamin C Serum for Face with Vitamin E 1 Fl Oz",
   "url": "https://www.amazon.com/dp/B07P5TMHD9",
-  "verdict": "OK: 7.98 is at or under your max 8.00"
+  "verdict": "OK: 7.98 is at or under your max 45.00"
  },
  "B07QW3HMKF": {
   "asin": "B07QW3HMKF",
@@ -1485,7 +1485,7 @@
   "asin": "B08HH572QR",
   "boughtPastMonth": 100,
   "brand": "Funko",
-  "checkedAt": "2026-11-13T03:13:56Z",
+  "checkedAt": "2026-11-13T06:25:54Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1493,7 +1493,7 @@
   "listPrice": 14.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 12.32,
+  "max": 45.0,
   "ok": true,
   "pctOff": 47.0,
   "photo": "https://m.media-amazon.com/images/I/719YBjwY-EL._AC_SL1300_.jpg",
@@ -1507,7 +1507,7 @@
   "status": "ok",
   "title": "Funko POP! Movies: Jurassic Park - Alpha Raptor",
   "url": "https://www.amazon.com/dp/B08HH572QR",
-  "verdict": "OK: 7.95 is at or under your max 12.32"
+  "verdict": "OK: 7.95 is at or under your max 45.00"
  },
  "B08JY653PJ": {
   "asin": "B08JY653PJ",
