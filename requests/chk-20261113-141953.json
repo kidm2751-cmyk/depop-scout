@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261113-141953",
+ "finishedAt": "2026-11-13T14:20:56Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "heodasshype-anti-social-social-club-x-da28",
+   "key": "depop:heodasshype-anti-social-social-club-x-da28",
+   "url": "https://www.depop.com/products/heodasshype-anti-social-social-club-x-da28/",
+   "checkedAt": "2026-11-13T14:20:31Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Anti Social Social Club x Neighborhood white hoodie...",
+   "brand": "Anti Social Social Club",
+   "price": 10.0,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 1.5,
+   "tax": 1.12,
+   "totalCost": 20.62,
+   "size": "XL",
+   "condition": "Used",
+   "seller": "headasshype",
+   "photo": "https://media-photos.depop.com/b1/52360457/3659661709_f21127d2c4f04f238bb203ad60a8fd18/P0.jpg",
+   "max": 17.19,
+   "verdict": "TOO HIGH: 20.62 total is over your max 17.19"
+  }
+ ]
+}
