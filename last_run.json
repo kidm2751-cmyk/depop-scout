@@ -1,33 +1,33 @@
 {
  "ok": true,
- "requestId": "chk-20261113-152355",
- "finishedAt": "2026-11-13T15:25:09Z",
+ "requestId": "chk-20261113-152524",
+ "finishedAt": "2026-11-13T15:26:57Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "t9risloan-frame-skinny-cropped-jeans-with-b014",
-   "key": "depop:t9risloan-frame-skinny-cropped-jeans-with-b014",
-   "url": "https://www.depop.com/products/t9risloan-frame-skinny-cropped-jeans-with-b014/",
-   "checkedAt": "2026-11-13T15:24:43Z",
+   "slug": "jikariahjriel-rocawear-burgundy-jacket-with-gold-40e6",
+   "key": "depop:jikariahjriel-rocawear-burgundy-jacket-with-gold-40e6",
+   "url": "https://www.depop.com/products/jikariahjriel-rocawear-burgundy-jacket-with-gold-40e6/",
+   "checkedAt": "2026-11-13T15:26:31Z",
    "ok": true,
    "status": "ok",
    "sold": false,
    "inStock": true,
-   "title": "Frame skinny cropped jeans with distressed ankle...",
-   "brand": "Frame",
+   "title": "Rocawear burgundy jacket with gold\n\nsize M\n\n#y2k...",
+   "brand": "Rocawear",
    "price": 9.1,
    "shipping": 8.0,
    "shippingKnown": false,
    "buyerFee": 1.46,
    "tax": 1.03,
    "totalCost": 19.58,
-   "size": "24\\",
+   "size": "XS",
    "condition": "Used",
-   "seller": "torisloan",
-   "photo": "https://media-photos.depop.com/r1/2491912/5169615686_5d17d976ef434f54a9e9c3fd1ecf7d26/P0.jpg",
-   "max": 15.65,
-   "verdict": "TOO HIGH: 19.58 total is over your max 15.65"
+   "seller": "jikariahariel",
+   "photo": "https://media-photos.depop.com/r1/42868797/5204169932_31b929cbfea14e329adde5d237a500aa/P0.jpg",
+   "max": 16.4,
+   "verdict": "TOO HIGH: 19.58 total is over your max 16.40"
   }
  ]
 }
