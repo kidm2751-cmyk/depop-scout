@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261113-145653",
+ "finishedAt": "2026-11-13T14:58:48Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "morenojpnny_-billionaire-boys-club-gray-t-shirt-d3d0",
+   "key": "depop:morenojpnny_-billionaire-boys-club-gray-t-shirt-d3d0",
+   "url": "https://www.depop.com/products/morenojpnny_-billionaire-boys-club-gray-t-shirt-d3d0/",
+   "checkedAt": "2026-11-13T14:58:22Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Billionaire Boys Club gray t-shirt with astronaut...",
+   "brand": "Billionaire Boys Club",
+   "price": 12.0,
+   "shipping": 6.0,
+   "shippingKnown": false,
+   "buyerFee": 1.6,
+   "tax": 1.33,
+   "totalCost": 20.93,
+   "size": "M",
+   "condition": "Used",
+   "seller": "morenojenny_",
+   "photo": "https://media-photos.depop.com/r1/1766784/5066173091_c845a01fd9124609b5324b6f8794d3fd/P0.jpg",
+   "max": 15.29,
+   "verdict": "TOO HIGH: 20.93 total is over your max 15.29"
+  }
+ ]
+}
