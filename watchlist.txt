@@ -1,4 +1,3 @@
-sha: ee6f33c76345101e47213f48566c55901a5031fc
 # Amazon watchlist: checked every hour. One item per line:
 #   ASIN (or Amazon link)   your max buy price (optional)   a note (optional)
 # Discord gets a message when the price goes over your max, the item goes out of stock or comes back,
@@ -31,7 +30,7 @@ B00112DTRC 6.82 Maybelline Great Lash Mascara Blackest Black, listed on eBay at 
 B08HB8JF5G 16.99 JOYIN Christmas Advent Calendar, listed on eBay at 29.98
 B0CTWHSSM8 25.48 QUNREDA Remote Control Car 4WD, listed on eBay at 41.79
 B00Y8MP5VA 26.00 Garden of Life Dr Formulated Probiotics for Men, listed on eBay at 42.51
-B0F8QTBGNP 39.98 Loiley Drone with Camera, listed on eBay at 64.49
+B0F8QTBGNP 39.99 Loiley Drone with Camera, listed on eBay at 64.49
 B0060OUV5Y 13.69 La Roche-Posay Cicaplast Balm B5, listed on eBay at 22.85
 B07YSXX7SB 17.79 Pro Grade Paint Roller Kit, listed on eBay at 31.09
 B0DRW7P7DS 16.79 LEGO Creator Retro Telephone 31174, listed on eBay at 29.71
@@ -242,6 +241,7 @@ https://www.depop.com/products/coolgugl600-christian-audigier-navy-blue-zip-42d6
 
 
 B084KV65KJ 17.31 Poppi Prebiotic Soda Raspberry Rose 12-pack, listed on eBay at 27.88
+
 
 
 
