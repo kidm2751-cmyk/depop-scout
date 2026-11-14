@@ -5778,11 +5778,11 @@
  "depop:armanclotheo-antigua-san-diego-padres-sd-10b4": {
   "brand": "Antigua Apparel",
   "buyerFee": 1.46,
-  "checkedAt": "2026-11-13T23:16:06Z",
+  "checkedAt": "2026-11-14T02:13:23Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:armanclotheo-antigua-san-diego-padres-sd-10b4",
-  "max": 999.0,
+  "max": 18.89,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/482026016/4990197546_b01f1839103d4e479e6ca5b738420f69/P0.jpg",
   "platform": "depop",
@@ -5798,7 +5798,7 @@
   "title": "Antigua San Diego Padres SD Logo Full Zip Fleece...",
   "totalCost": 19.58,
   "url": "https://www.depop.com/products/armanclotheo-antigua-san-diego-padres-sd-10b4/",
-  "verdict": "OK: 19.58 total is at or under your max 999.00"
+  "verdict": "TOO HIGH: 19.58 total is over your max 18.89"
  },
  "depop:avriepeck-salomon-orange-puffer-jacket-size-2f1d": {
   "brand": "Salomon",
