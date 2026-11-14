@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-20261114-031842",
+ "finishedAt": "2026-11-14T03:19:51Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0G43YDLG7",
+   "key": "B0G43YDLG7",
+   "url": "https://www.amazon.com/dp/B0G43YDLG7",
+   "checkedAt": "2026-11-14T03:19:51Z",
+   "ok": true,
+   "status": "out_of_stock",
+   "title": "Barbie, Family and Friends Malibu Limitless Adventure Blonde Doll",
+   "brand": "Barbie",
+   "price": null,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": null,
+   "listPriceKind": null,
+   "pctOff": 0,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": false,
+   "seller": "not shown",
+   "soldByAmazon": null,
+   "boughtPastMonth": null,
+   "rating": 4.7,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/71nn-Mnc5nL._AC_SL1500_.jpg",
+   "max": 9.47,
+   "verdict": "OUT OF STOCK"
+  }
+ ]
+}
