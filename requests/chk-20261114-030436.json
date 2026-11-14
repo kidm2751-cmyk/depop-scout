@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261114-030436",
+ "finishedAt": "2026-11-14T03:05:33Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "timthriftso1-outdoor-research-gorp-core-fleece-7c25",
+   "key": "depop:timthriftso1-outdoor-research-gorp-core-fleece-7c25",
+   "url": "https://www.depop.com/products/timthriftso1-outdoor-research-gorp-core-fleece-7c25/",
+   "checkedAt": "2026-11-14T03:05:09Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Outdoor Research Gorp Core Fleece Sweatshirt \n- Size...",
+   "brand": "Outdoor Research",
+   "price": 16.8,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 1.84,
+   "tax": 1.82,
+   "totalCost": 28.46,
+   "size": "6",
+   "condition": "Used",
+   "seller": "timthrifts_1",
+   "photo": "https://media-photos.depop.com/b1/50822201/5199095781_b361e13d3aa04027bf253fc05bd1db24/P0.jpg",
+   "max": 32.56,
+   "verdict": "OK: 28.46 total is at or under your max 32.56"
+  }
+ ]
+}
