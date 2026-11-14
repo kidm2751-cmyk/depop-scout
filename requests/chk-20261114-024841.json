@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261114-024841",
+ "finishedAt": "2026-11-14T02:49:34Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "paigearuz-travis-mathew-pink-tank-top-c89a",
+   "key": "depop:paigearuz-travis-mathew-pink-tank-top-c89a",
+   "url": "https://www.depop.com/products/paigearuz-travis-mathew-pink-tank-top-c89a/",
+   "checkedAt": "2026-11-14T02:49:11Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Travis Mathew pink tank top- Size Small #athletic...",
+   "brand": "TravisMathew",
+   "price": 10.0,
+   "shipping": 6.0,
+   "shippingKnown": false,
+   "buyerFee": 1.5,
+   "tax": 1.12,
+   "totalCost": 18.62,
+   "size": "2",
+   "condition": "Used",
+   "seller": "paige_ruz",
+   "photo": "https://media-photos.depop.com/r1/24093341/5191532469_378347f3e23543378da24e07984affc7/P0.jpg",
+   "max": 13.19,
+   "verdict": "TOO HIGH: 18.62 total is over your max 13.19"
+  }
+ ]
+}
