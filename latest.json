@@ -1569,7 +1569,7 @@
   "asin": "B08HH572QR",
   "boughtPastMonth": 100,
   "brand": "Funko",
-  "checkedAt": "2026-11-14T15:17:01Z",
+  "checkedAt": "2026-11-14T15:33:40Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1577,7 +1577,7 @@
   "listPrice": 14.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 12.32,
   "ok": true,
   "pctOff": 36.4,
   "photo": "https://m.media-amazon.com/images/I/719YBjwY-EL._AC_SL1300_.jpg",
@@ -1591,7 +1591,7 @@
   "status": "ok",
   "title": "Funko POP! Movies: Jurassic Park - Alpha Raptor",
   "url": "https://www.amazon.com/dp/B08HH572QR",
-  "verdict": "OK: 9.54 is at or under your max 45.00"
+  "verdict": "OK: 9.54 is at or under your max 12.32"
  },
  "B08HH5V55W": {
   "asin": "B08HH5V55W",
