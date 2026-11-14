@@ -7151,11 +7151,11 @@
  "depop:morenojpnny_-billionaire-boys-club-gray-t-shirt-d3d0": {
   "brand": "Billionaire Boys Club",
   "buyerFee": 1.6,
-  "checkedAt": "2026-11-13T23:34:12Z",
+  "checkedAt": "2026-11-14T02:52:55Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:morenojpnny_-billionaire-boys-club-gray-t-shirt-d3d0",
-  "max": 999.0,
+  "max": 15.29,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/1766784/5066173091_c845a01fd9124609b5324b6f8794d3fd/P0.jpg",
   "platform": "depop",
@@ -7163,7 +7163,7 @@
   "seller": "morenojenny_",
   "shipping": 6.0,
   "shippingKnown": false,
-  "size": "M",
+  "size": "US 8",
   "slug": "morenojpnny_-billionaire-boys-club-gray-t-shirt-d3d0",
   "sold": false,
   "status": "ok",
@@ -7171,7 +7171,7 @@
   "title": "Billionaire Boys Club gray t-shirt with astronaut...",
   "totalCost": 20.93,
   "url": "https://www.depop.com/products/morenojpnny_-billionaire-boys-club-gray-t-shirt-d3d0/",
-  "verdict": "OK: 20.93 total is at or under your max 999.00"
+  "verdict": "TOO HIGH: 20.93 total is over your max 15.29"
  },
  "depop:nanqsarchive-mens-vintage-90s-coogi-style-07dd": {
   "brand": "COOGI",
