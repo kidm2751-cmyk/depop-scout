@@ -6726,11 +6726,11 @@
  "depop:junof_363-burton-purple-puffer-jacket-size-54a9": {
   "brand": "Burton",
   "buyerFee": 1.65,
-  "checkedAt": "2026-11-13T23:16:52Z",
+  "checkedAt": "2026-11-14T02:15:31Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:junof_363-burton-purple-puffer-jacket-size-54a9",
-  "max": 999.0,
+  "max": 26.8,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/224964870/5020906038_4da97b8f95cb40fdbd763da4dcc83b55/P0.jpg",
   "platform": "depop",
@@ -6746,7 +6746,7 @@
   "title": "Burton purple puffer jacket size XL see minor tear...",
   "totalCost": 28.06,
   "url": "https://www.depop.com/products/junof_363-burton-purple-puffer-jacket-size-54a9/",
-  "verdict": "OK: 28.06 total is at or under your max 999.00"
+  "verdict": "TOO HIGH: 28.06 total is over your max 26.80"
  },
  "depop:justan_spartacus-marilyn-manson-white-cut-off-2096": {
   "brand": "Other",
