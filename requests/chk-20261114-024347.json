@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261114-024347",
+ "finishedAt": "2026-11-14T02:44:47Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "miarose_closev-kate-spade-new-york-pink-4e6d",
+   "key": "depop:miarose_closev-kate-spade-new-york-pink-4e6d",
+   "url": "https://www.depop.com/products/miarose_closev-kate-spade-new-york-pink-4e6d/",
+   "checkedAt": "2026-11-14T02:44:23Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Kate Spade New York pink pajama set with black...",
+   "brand": "Kate Spade New York ",
+   "price": 10.15,
+   "shipping": 6.0,
+   "shippingKnown": false,
+   "buyerFee": 1.51,
+   "tax": 1.14,
+   "totalCost": 18.79,
+   "size": "4",
+   "condition": "Used",
+   "seller": "miarose_closet",
+   "photo": "https://media-photos.depop.com/r1/309381213/5188077724_829e9399645a4d19b653508149e61b39/P0.jpg",
+   "max": 23.21,
+   "verdict": "OK: 18.79 total is at or under your max 23.21"
+  }
+ ]
+}
