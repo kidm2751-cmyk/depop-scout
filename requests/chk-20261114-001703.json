@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261114-001703",
+ "finishedAt": "2026-11-14T00:18:00Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "mgapaulina14-blue-denim-jeans-with-a-8211",
+   "key": "depop:mgapaulina14-blue-denim-jeans-with-a-8211",
+   "url": "https://www.depop.com/products/mgapaulina14-blue-denim-jeans-with-a-8211/",
+   "checkedAt": "2026-11-14T00:17:35Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Blue denim jeans with a distressed look #distressed...",
+   "brand": "RE/DONE",
+   "price": 9.0,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 1.45,
+   "tax": 1.02,
+   "totalCost": 19.47,
+   "size": "0",
+   "condition": "Used",
+   "seller": "miapaulina14",
+   "photo": "https://media-photos.depop.com/r1/53215562/5123296268_b2e6717b776b44ec977fcbe2055c80b2/P0.jpg",
+   "max": 21.77,
+   "verdict": "OK: 19.47 total is at or under your max 21.77"
+  }
+ ]
+}
