@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261114-021939",
+ "finishedAt": "2026-11-14T02:20:36Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "daenaclo2et-house-of-cb-blue-sequin-5193",
+   "key": "depop:daenaclo2et-house-of-cb-blue-sequin-5193",
+   "url": "https://www.depop.com/products/daenaclo2et-house-of-cb-blue-sequin-5193/",
+   "checkedAt": "2026-11-14T02:20:12Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "House of CB blue sequin crop top with silver floral...",
+   "brand": "House of CB",
+   "price": 9.1,
+   "shipping": 6.0,
+   "shippingKnown": false,
+   "buyerFee": 1.46,
+   "tax": 1.03,
+   "totalCost": 17.58,
+   "size": "XXS",
+   "condition": "Used",
+   "seller": "daenacloset",
+   "photo": "https://media-photos.depop.com/r1/295435455/5150309973_c88b579ee3d54243936a29214837bb56/P0.jpg",
+   "max": 11.09,
+   "verdict": "TOO HIGH: 17.58 total is over your max 11.09"
+  }
+ ]
+}
