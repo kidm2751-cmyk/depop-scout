@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261114-001424",
+ "finishedAt": "2026-11-14T00:15:43Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "clos9tneccesities-blue-denim-baggy-relaxed-oversized-e48e",
+   "key": "depop:clos9tneccesities-blue-denim-baggy-relaxed-oversized-e48e",
+   "url": "https://www.depop.com/products/clos9tneccesities-blue-denim-baggy-relaxed-oversized-e48e/",
+   "checkedAt": "2026-11-14T00:15:18Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Blue denim baggy relaxed oversized evisu street...",
+   "brand": "Evisu",
+   "price": 26.95,
+   "shipping": 6.0,
+   "shippingKnown": false,
+   "buyerFee": 2.35,
+   "tax": 2.86,
+   "totalCost": 38.15,
+   "size": "US 7.5",
+   "condition": "Used",
+   "seller": "closetneccesities",
+   "photo": "https://media-photos.depop.com/b1/40568453/5129436256_e790da01439a447cbdf0bb2685d98bc2/P0.jpg",
+   "max": 44.79,
+   "verdict": "OK: 38.15 total is at or under your max 44.79"
+  }
+ ]
+}
