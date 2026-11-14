@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261114-024457",
+ "finishedAt": "2026-11-14T02:46:15Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "mndbl-babaton-cream-ribbed-knit-cardigan-4bfe",
+   "key": "depop:mndbl-babaton-cream-ribbed-knit-cardigan-4bfe",
+   "url": "https://www.depop.com/products/mndbl-babaton-cream-ribbed-knit-cardigan-4bfe/",
+   "checkedAt": "2026-11-14T02:45:52Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "babaton cream ribbed knit cardigan #kookai #knitwear",
+   "brand": "Babaton",
+   "price": 8.05,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 1.4,
+   "tax": 0.92,
+   "totalCost": 18.37,
+   "size": "M",
+   "condition": "Used",
+   "seller": "mnpbl",
+   "photo": "https://media-photos.depop.com/b1/237620526/repop_302729515_4989639230/5113821334_9cec72a9261b40dba8d40295404bfd84/P0.jpg",
+   "max": 10.04,
+   "verdict": "TOO HIGH: 18.37 total is over your max 10.04"
+  }
+ ]
+}
