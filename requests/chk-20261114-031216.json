@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261114-031216",
+ "finishedAt": "2026-11-14T03:17:03Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "t9risloan-frame-skinny-cropped-jeans-with-b014",
+   "key": "depop:t9risloan-frame-skinny-cropped-jeans-with-b014",
+   "url": "https://www.depop.com/products/t9risloan-frame-skinny-cropped-jeans-with-b014/",
+   "checkedAt": "2026-11-14T03:16:39Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Frame skinny cropped jeans with distressed ankle...",
+   "brand": "Frame",
+   "price": 8.0,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 1.4,
+   "tax": 0.92,
+   "totalCost": 18.32,
+   "size": "L",
+   "condition": "Used",
+   "seller": "torisloan",
+   "photo": "https://media-photos.depop.com/r1/2491912/5169615686_5d17d976ef434f54a9e9c3fd1ecf7d26/P0.jpg",
+   "max": 15.65,
+   "verdict": "TOO HIGH: 18.32 total is over your max 15.65"
+  }
+ ]
+}
