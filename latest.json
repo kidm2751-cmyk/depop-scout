@@ -7300,8 +7300,8 @@
  },
  "depop:phaebe359-polo-ralph-lauren-bear-long-0502": {
   "brand": "Polo Ralph Lauren",
-  "buyerFee": 1.4,
-  "checkedAt": "2026-11-14T03:01:41Z",
+  "buyerFee": 1.35,
+  "checkedAt": "2026-11-14T06:00:45Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:phaebe359-polo-ralph-lauren-bear-long-0502",
@@ -7309,7 +7309,7 @@
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/306197481/5197752791_bfcfcb86758e477b88356dc214224dd0/P0.jpg",
   "platform": "depop",
-  "price": 8.05,
+  "price": 7.0,
   "seller": "phoebe359",
   "shipping": 6.0,
   "shippingKnown": false,
@@ -7317,11 +7317,11 @@
   "slug": "phaebe359-polo-ralph-lauren-bear-long-0502",
   "sold": false,
   "status": "ok",
-  "tax": 0.92,
+  "tax": 0.81,
   "title": "Polo Ralph Lauren Bear Long Sleeve Shirt\nSize:...",
-  "totalCost": 16.37,
+  "totalCost": 15.16,
   "url": "https://www.depop.com/products/phaebe359-polo-ralph-lauren-bear-long-0502/",
-  "verdict": "TOO HIGH: 16.37 total is over your max 16.01"
+  "verdict": "OK: 15.16 total is at or under your max 16.01"
  },
  "depop:rocktiv77-walls-youth-camo-coveralls-size-586c": {
   "brand": "Walls",
