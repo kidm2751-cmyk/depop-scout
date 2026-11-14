@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-20261114-001322",
+ "finishedAt": "2026-11-14T00:14:47Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B084KV65KJ",
+   "key": "B084KV65KJ",
+   "url": "https://www.amazon.com/dp/B084KV65KJ",
+   "checkedAt": "2026-11-14T00:14:47Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Poppi Prebiotic Soda, Raspberry Rose, 12 Oz, 12 Pack",
+   "brand": "",
+   "price": 14.0,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 20.91,
+   "listPriceKind": "typical",
+   "pctOff": 33.0,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "not shown",
+   "soldByAmazon": null,
+   "boughtPastMonth": 5000,
+   "rating": 4.6,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/71WtLrbQ11L._SL1500_.jpg",
+   "max": 17.31,
+   "verdict": "OK: 14.00 is at or under your max 17.31"
+  }
+ ]
+}
