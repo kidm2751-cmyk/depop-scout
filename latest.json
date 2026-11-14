@@ -5853,11 +5853,11 @@
  "depop:behrthrift-vintage-todd-black-bomber-snap-34b9": {
   "brand": "Todd Snyder",
   "buyerFee": 2.35,
-  "checkedAt": "2026-11-13T23:30:02Z",
+  "checkedAt": "2026-11-14T02:40:50Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:behrthrift-vintage-todd-black-bomber-snap-34b9",
-  "max": 999.0,
+  "max": 29.68,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/442916861/5191580843_f642d1b9757a421983ca92ed945b08a4/P0.jpg",
   "platform": "depop",
@@ -5873,7 +5873,7 @@
   "title": "Vintage Todd black bomber snap up jacket \nMen\u2019s size...",
   "totalCost": 40.15,
   "url": "https://www.depop.com/products/behrthrift-vintage-todd-black-bomber-snap-34b9/",
-  "verdict": "OK: 40.15 total is at or under your max 999.00"
+  "verdict": "TOO HIGH: 40.15 total is over your max 29.68"
  },
  "depop:berweara-nudie-jeans-straight-leg-gray-952e": {
   "brand": "Nudie Jeans",
