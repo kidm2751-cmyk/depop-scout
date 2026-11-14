@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261114-053335",
+ "finishedAt": "2026-11-14T05:34:35Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "orbitalplus3time-brown-cable-knit-quarter-zip-ba9a",
+   "key": "depop:orbitalplus3time-brown-cable-knit-quarter-zip-ba9a",
+   "url": "https://www.depop.com/products/orbitalplus3time-brown-cable-knit-quarter-zip-ba9a/",
+   "checkedAt": "2026-11-14T05:34:10Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Brown cable knit quarter zip sweater in a L...",
+   "brand": "Karl Kani",
+   "price": 9.5,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 1.48,
+   "tax": 1.07,
+   "totalCost": 20.05,
+   "size": "M",
+   "condition": "Used",
+   "seller": "orbitalplushtime",
+   "photo": "https://media-photos.depop.com/b1/39366079/4913363468_dd4ca25725b443ffa41a106b21fd689c/P0.jpg",
+   "max": 12.67,
+   "verdict": "TOO HIGH: 20.05 total is over your max 12.67"
+  }
+ ]
+}
