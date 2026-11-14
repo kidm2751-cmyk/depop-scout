@@ -5728,11 +5728,11 @@
  "depop:alexeuvall-2000s-boot-cut-7-for-bce6": {
   "brand": "7 For All Mankind",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-13T23:22:35Z",
+  "checkedAt": "2026-11-14T02:33:35Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:alexeuvall-2000s-boot-cut-7-for-bce6",
-  "max": 999.0,
+  "max": 16.01,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/34486929/4102546443_3fc28ca6a4c44499a3ebcff6e7f42807/P0.jpg",
   "platform": "depop",
@@ -5748,7 +5748,7 @@
   "title": "2000s boot cut 7 for all mankind jeans \n\nsize 31 x...",
   "totalCost": 22.32,
   "url": "https://www.depop.com/products/alexeuvall-2000s-boot-cut-7-for-bce6/",
-  "verdict": "OK: 22.32 total is at or under your max 999.00"
+  "verdict": "TOO HIGH: 22.32 total is over your max 16.01"
  },
  "depop:alissas3hmidt-j-crew-100-cotton-sweater-12d8": {
   "brand": "J.Crew",
