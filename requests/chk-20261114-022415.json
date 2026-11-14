@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261114-022415",
+ "finishedAt": "2026-11-14T02:25:08Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "jbkmom17-pink-toodler-juicy-couture-velour-fc8c",
+   "key": "depop:jbkmom17-pink-toodler-juicy-couture-velour-fc8c",
+   "url": "https://www.depop.com/products/jbkmom17-pink-toodler-juicy-couture-velour-fc8c/",
+   "checkedAt": "2026-11-14T02:24:43Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Pink Toodler Juicy Couture velour tracksuit with...",
+   "brand": "Juicy Couture",
+   "price": 9.0,
+   "shipping": 6.0,
+   "shippingKnown": false,
+   "buyerFee": 1.45,
+   "tax": 1.02,
+   "totalCost": 17.47,
+   "size": "M",
+   "condition": "Used",
+   "seller": "jbkmom14",
+   "photo": "https://media-photos.depop.com/b1/15760757/5108479456_4e0afaadbcfe447b9f471c61be303de9/P0.jpg",
+   "max": 12.41,
+   "verdict": "TOO HIGH: 17.47 total is over your max 12.41"
+  }
+ ]
+}
