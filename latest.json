@@ -7075,8 +7075,8 @@
  },
  "depop:mndbl-babaton-cream-ribbed-knit-cardigan-4bfe": {
   "brand": "Babaton",
-  "buyerFee": 1.4,
-  "checkedAt": "2026-11-14T02:45:52Z",
+  "buyerFee": 1.35,
+  "checkedAt": "2026-11-14T05:44:47Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:mndbl-babaton-cream-ribbed-knit-cardigan-4bfe",
@@ -7084,7 +7084,7 @@
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/237620526/repop_302729515_4989639230/5113821334_9cec72a9261b40dba8d40295404bfd84/P0.jpg",
   "platform": "depop",
-  "price": 8.05,
+  "price": 7.0,
   "seller": "mnpbl",
   "shipping": 8.0,
   "shippingKnown": false,
@@ -7092,11 +7092,11 @@
   "slug": "mndbl-babaton-cream-ribbed-knit-cardigan-4bfe",
   "sold": false,
   "status": "ok",
-  "tax": 0.92,
+  "tax": 0.81,
   "title": "babaton cream ribbed knit cardigan #kookai #knitwear",
-  "totalCost": 18.37,
+  "totalCost": 17.16,
   "url": "https://www.depop.com/products/mndbl-babaton-cream-ribbed-knit-cardigan-4bfe/",
-  "verdict": "TOO HIGH: 18.37 total is over your max 10.04"
+  "verdict": "TOO HIGH: 17.16 total is over your max 10.04"
  },
  "depop:modern_c-vintage-cyber-y2k-womens-christian-bffd": {
   "brand": "Christian Audigier",
