@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261114-031711",
+ "finishedAt": "2026-11-14T03:18:05Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "jikariahjriel-rocawear-burgundy-jacket-with-gold-40e6",
+   "key": "depop:jikariahjriel-rocawear-burgundy-jacket-with-gold-40e6",
+   "url": "https://www.depop.com/products/jikariahjriel-rocawear-burgundy-jacket-with-gold-40e6/",
+   "checkedAt": "2026-11-14T03:17:42Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Rocawear burgundy jacket with gold\n\nsize M\n\n#y2k...",
+   "brand": "Rocawear",
+   "price": 8.0,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 1.4,
+   "tax": 0.92,
+   "totalCost": 18.32,
+   "size": "XS",
+   "condition": "Used",
+   "seller": "jikariahariel",
+   "photo": "https://media-photos.depop.com/r1/42868797/5204169932_31b929cbfea14e329adde5d237a500aa/P0.jpg",
+   "max": 16.4,
+   "verdict": "TOO HIGH: 18.32 total is over your max 16.40"
+  }
+ ]
+}
