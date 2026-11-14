@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261114-042112",
+ "finishedAt": "2026-11-14T04:22:52Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "florp19k1-nike-lebron-james-purple-2d0b",
+   "key": "depop:florp19k1-nike-lebron-james-purple-2d0b",
+   "url": "https://www.depop.com/products/florp19k1-nike-lebron-james-purple-2d0b/",
+   "checkedAt": "2026-11-14T04:22:16Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Nike LeBron James purple &amp; burgundy hoodie with gold...",
+   "brand": "Nike",
+   "price": 9.1,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 1.46,
+   "tax": 1.03,
+   "totalCost": 19.58,
+   "size": "0-3 months",
+   "condition": "Used",
+   "seller": "florp1971",
+   "photo": "https://media-photos.depop.com/r1/470123138/5141036392_ee7a910522d446e2b03a2dcbf017b723/P0.jpg",
+   "max": 15.09,
+   "verdict": "TOO HIGH: 19.58 total is over your max 15.09"
+  }
+ ]
+}
