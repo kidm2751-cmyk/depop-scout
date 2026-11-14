@@ -5953,11 +5953,11 @@
  "depop:chrisdgalsss-nfl-detroit-lions-blue-jersey-7885": {
   "brand": "NFL",
   "buyerFee": 1.45,
-  "checkedAt": "2026-11-13T23:33:30Z",
+  "checkedAt": "2026-11-14T02:50:27Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:chrisdgalsss-nfl-detroit-lions-blue-jersey-7885",
-  "max": 999.0,
+  "max": 12.14,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/478270607/4665989801_b7ab4a7268f94dd183688d229f12da47/P0.jpg",
   "platform": "depop",
@@ -5973,7 +5973,7 @@
   "title": "NFL Detroit Lions blue jersey with white and silver...",
   "totalCost": 17.47,
   "url": "https://www.depop.com/products/chrisdgalsss-nfl-detroit-lions-blue-jersey-7885/",
-  "verdict": "OK: 17.47 total is at or under your max 999.00"
+  "verdict": "TOO HIGH: 17.47 total is over your max 12.14"
  },
  "depop:clos9tneccesities-blue-denim-baggy-relaxed-oversized-e48e": {
   "brand": "Evisu",
