@@ -7251,11 +7251,11 @@
  "depop:orbitalplus3time-brown-cable-knit-quarter-zip-ba9a": {
   "brand": "Karl Kani",
   "buyerFee": 1.48,
-  "checkedAt": "2026-11-13T23:22:55Z",
+  "checkedAt": "2026-11-14T02:34:39Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:orbitalplus3time-brown-cable-knit-quarter-zip-ba9a",
-  "max": 999.0,
+  "max": 12.67,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/39366079/4913363468_dd4ca25725b443ffa41a106b21fd689c/P0.jpg",
   "platform": "depop",
@@ -7271,7 +7271,7 @@
   "title": "Brown cable knit quarter zip sweater in a L...",
   "totalCost": 20.05,
   "url": "https://www.depop.com/products/orbitalplus3time-brown-cable-knit-quarter-zip-ba9a/",
-  "verdict": "OK: 20.05 total is at or under your max 999.00"
+  "verdict": "TOO HIGH: 20.05 total is over your max 12.67"
  },
  "depop:paigearuz-travis-mathew-pink-tank-top-c89a": {
   "brand": "TravisMathew",
