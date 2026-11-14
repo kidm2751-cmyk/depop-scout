@@ -6203,11 +6203,11 @@
  "depop:dinguo627-kith-classics-gray-workout-hoodie-a162": {
   "brand": "Kith",
   "buyerFee": 1.84,
-  "checkedAt": "2026-11-13T23:29:13Z",
+  "checkedAt": "2026-11-14T02:37:21Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:dinguo627-kith-classics-gray-workout-hoodie-a162",
-  "max": 999.0,
+  "max": 22.75,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/399859701/5165385730_c960cb235dbd4fdbb9c3dfa98677de73/P0.jpg",
   "platform": "depop",
@@ -6223,7 +6223,7 @@
   "title": "Kith classics gray workout  hoodie size L #kith...",
   "totalCost": 28.41,
   "url": "https://www.depop.com/products/dinguo627-kith-classics-gray-workout-hoodie-a162/",
-  "verdict": "OK: 28.41 total is at or under your max 999.00"
+  "verdict": "TOO HIGH: 28.41 total is over your max 22.75"
  },
  "depop:dripcheccthestore-nike-x-nocta-black-7676": {
   "brand": "NOCTA",
