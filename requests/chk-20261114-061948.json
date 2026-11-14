@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261114-061948",
+ "finishedAt": "2026-11-14T06:20:44Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "avriepeck-salomon-orange-puffer-jacket-size-2f1d",
+   "key": "depop:avriepeck-salomon-orange-puffer-jacket-size-2f1d",
+   "url": "https://www.depop.com/products/avriepeck-salomon-orange-puffer-jacket-size-2f1d/",
+   "checkedAt": "2026-11-14T06:20:21Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Salomon orange puffer jacket Size M runs small...",
+   "brand": "Salomon",
+   "price": 13.0,
+   "shipping": 12.0,
+   "shippingKnown": false,
+   "buyerFee": 1.65,
+   "tax": 1.43,
+   "totalCost": 28.08,
+   "size": "XXL",
+   "condition": "Used",
+   "seller": "avriepeck",
+   "photo": "https://media-photos.depop.com/b1/14387808/3463308113_cfaa748eec91444f8abcd9167337b37f/P0.jpg",
+   "max": 16.34,
+   "verdict": "TOO HIGH: 28.08 total is over your max 16.34"
+  }
+ ]
+}
