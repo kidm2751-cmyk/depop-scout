@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261114-061731",
+ "finishedAt": "2026-11-14T06:18:26Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "vaztarius-eddie-bauer-grey-1936-skyliner-a6e7",
+   "key": "depop:vaztarius-eddie-bauer-grey-1936-skyliner-a6e7",
+   "url": "https://www.depop.com/products/vaztarius-eddie-bauer-grey-1936-skyliner-a6e7/",
+   "checkedAt": "2026-11-14T06:18:01Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Eddie Bauer grey 1936 skyliner repro bomber jacket...",
+   "brand": "Eddie Bauer",
+   "price": 21.0,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 2.05,
+   "tax": 2.25,
+   "totalCost": 33.3,
+   "size": "S",
+   "condition": "Used",
+   "seller": "valtarius",
+   "photo": "https://media-photos.depop.com/b1/45173145/4039435735_83758df60019438f86fb6946b473ffd0/P0.jpg",
+   "max": 39.03,
+   "verdict": "OK: 33.30 total is at or under your max 39.03"
+  }
+ ]
+}
