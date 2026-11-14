@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261114-023801",
+ "finishedAt": "2026-11-14T02:38:53Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "1z_sells-vintage-disney-goofy-hoodie-good-707e",
+   "key": "depop:1z_sells-vintage-disney-goofy-hoodie-good-707e",
+   "url": "https://www.depop.com/products/1z_sells-vintage-disney-goofy-hoodie-good-707e/",
+   "checkedAt": "2026-11-14T02:38:29Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "vintage disney goofy hoodie \n\n\ngood condition...",
+   "brand": "Disney",
+   "price": 11.19,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 1.56,
+   "tax": 1.24,
+   "totalCost": 21.99,
+   "size": "M",
+   "condition": "Used",
+   "seller": "13_sells",
+   "photo": "https://media-photos.depop.com/r1/49197257/5091261965_edd45e3e35f448f0a758edb24760ec48/P0.jpg",
+   "max": 19.61,
+   "verdict": "TOO HIGH: 21.99 total is over your max 19.61"
+  }
+ ]
+}
