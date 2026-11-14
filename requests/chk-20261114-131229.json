@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261114-131229",
+ "finishedAt": "2026-11-14T13:13:28Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "fem7elling-vintage-y2k-bench-barbour-style-2e16",
+   "key": "depop:fem7elling-vintage-y2k-bench-barbour-style-2e16",
+   "url": "https://www.depop.com/products/fem7elling-vintage-y2k-bench-barbour-style-2e16/",
+   "checkedAt": "2026-11-14T13:13:01Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Vintage Y2K Bench Barbour style waxed faux leather...",
+   "brand": "Bench",
+   "price": 23.14,
+   "shipping": 6.0,
+   "shippingKnown": false,
+   "buyerFee": 2.16,
+   "tax": 2.47,
+   "totalCost": 33.76,
+   "size": "L",
+   "condition": "Used",
+   "seller": "femselling",
+   "photo": "https://media-photos.depop.com/r1/34580530/5139513713_5fa1da5064ff42b29a717867a46e1457/P0.jpg",
+   "max": 31.12,
+   "verdict": "TOO HIGH: 33.76 total is over your max 31.12"
+  }
+ ]
+}
