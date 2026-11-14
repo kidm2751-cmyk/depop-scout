@@ -5753,11 +5753,11 @@
  "depop:alissas3hmidt-j-crew-100-cotton-sweater-12d8": {
   "brand": "J.Crew",
   "buyerFee": 1.46,
-  "checkedAt": "2026-11-13T23:38:01Z",
+  "checkedAt": "2026-11-14T03:00:18Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:alissas3hmidt-j-crew-100-cotton-sweater-12d8",
-  "max": 999.0,
+  "max": 15.09,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/241836150/5169768965_429f8e4560fd434b9eaeb0cb2a12a808/P0.jpg",
   "platform": "depop",
@@ -5773,7 +5773,7 @@
   "title": "J. Crew 100% cotton sweater blazer tan #workwear...",
   "totalCost": 19.58,
   "url": "https://www.depop.com/products/alissas3hmidt-j-crew-100-cotton-sweater-12d8/",
-  "verdict": "OK: 19.58 total is at or under your max 999.00"
+  "verdict": "TOO HIGH: 19.58 total is over your max 15.09"
  },
  "depop:armanclotheo-antigua-san-diego-padres-sd-10b4": {
   "brand": "Antigua Apparel",
