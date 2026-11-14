@@ -5653,11 +5653,11 @@
  "depop:3rdeyethrifts_-vintage-undercover-wear-teal-slip": {
   "brand": "Undercover",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-13T23:35:13Z",
+  "checkedAt": "2026-11-14T02:56:25Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:3rdeyethrifts_-vintage-undercover-wear-teal-slip",
-  "max": 999.0,
+  "max": 11.09,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/14953694/2440576707_b71bc36c8e1d44738760db3aa69f9c9f/P0.jpg",
   "platform": "depop",
@@ -5673,7 +5673,7 @@
   "title": "Vintage Undercover Wear teal slip babydoll top, lace...",
   "totalCost": 16.32,
   "url": "https://www.depop.com/products/3rdeyethrifts_-vintage-undercover-wear-teal-slip/",
-  "verdict": "OK: 16.32 total is at or under your max 999.00"
+  "verdict": "TOO HIGH: 16.32 total is over your max 11.09"
  },
  "depop:91erh-white-kansas-city-chiefs-windbreaker-8ed8": {
   "brand": "NFL",
