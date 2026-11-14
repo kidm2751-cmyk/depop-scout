@@ -6128,11 +6128,11 @@
  "depop:danteahim14-needles-black-t-shirt-with-green-808d": {
   "brand": "Needles",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-13T23:35:34Z",
+  "checkedAt": "2026-11-14T02:57:37Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:danteahim14-needles-black-t-shirt-with-green-808d",
-  "max": 999.0,
+  "max": 13.19,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/252325165/4944233973_735c33f74a1c42339102f73a8341cb18/P0.jpg",
   "platform": "depop",
@@ -6148,7 +6148,7 @@
   "title": "Needles black t-shirt with green 'Soccer Club' text...",
   "totalCost": 18.62,
   "url": "https://www.depop.com/products/danteahim14-needles-black-t-shirt-with-green-808d/",
-  "verdict": "OK: 18.62 total is at or under your max 999.00"
+  "verdict": "TOO HIGH: 18.62 total is over your max 13.19"
  },
  "depop:dcrosell8-brown-suede-birkenstock-boston-clogs-d509": {
   "brand": "Birkenstock",
