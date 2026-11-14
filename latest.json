@@ -7100,8 +7100,8 @@
  },
  "depop:modern_c-vintage-cyber-y2k-womens-christian-bffd": {
   "brand": "Christian Audigier",
-  "buyerFee": 1.82,
-  "checkedAt": "2026-11-14T02:17:47Z",
+  "buyerFee": 1.75,
+  "checkedAt": "2026-11-14T05:17:24Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:modern_c-vintage-cyber-y2k-womens-christian-bffd",
@@ -7109,7 +7109,7 @@
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/28944601/5016013593_4618b6a6bc7f4f06ae8512c38bd550ae/P0.jpg",
   "platform": "depop",
-  "price": 16.45,
+  "price": 15.0,
   "seller": "modern__",
   "shipping": 6.0,
   "shippingKnown": false,
@@ -7117,11 +7117,11 @@
   "slug": "modern_c-vintage-cyber-y2k-womens-christian-bffd",
   "sold": false,
   "status": "ok",
-  "tax": 1.78,
+  "tax": 1.63,
   "title": "Vintage cyber y2k womens Christian Audigier graphic...",
-  "totalCost": 26.05,
+  "totalCost": 24.38,
   "url": "https://www.depop.com/products/modern_c-vintage-cyber-y2k-womens-christian-bffd/",
-  "verdict": "TOO HIGH: 26.05 total is over your max 18.44"
+  "verdict": "TOO HIGH: 24.38 total is over your max 18.44"
  },
  "depop:monosqmot-vintage-2000s-y2k-nfl-seattle-008b": {
   "brand": "NFL",
