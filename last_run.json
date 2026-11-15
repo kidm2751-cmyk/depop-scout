@@ -1,22 +1,22 @@
 {
  "ok": true,
- "requestId": "chk-20261115-121102",
- "finishedAt": "2026-11-15T12:15:56Z",
+ "requestId": "chk-20261115-121619",
+ "finishedAt": "2026-11-15T12:17:07Z",
  "checked": 1,
  "items": [
   {
    "platform": "amazon",
-   "asin": "B098TQDLY6",
-   "key": "B098TQDLY6",
-   "url": "https://www.amazon.com/dp/B098TQDLY6",
-   "checkedAt": "2026-11-15T12:15:56Z",
+   "asin": "B0BBWCZLYY",
+   "key": "B0BBWCZLYY",
+   "url": "https://www.amazon.com/dp/B0BBWCZLYY",
+   "checkedAt": "2026-11-15T12:17:07Z",
    "ok": true,
    "status": "ok",
-   "title": "YouTheFan NFL Cincinnati Bengals 3D Logo Series Wall Art",
-   "brand": "YouTheFan",
-   "price": 29.99,
-   "priceAfterCoupon": null,
-   "coupon": null,
+   "title": "Vaseline Lip Therapy Rosy Lips Tinted Lip Balm, Moisturizing 0.5oz 2ct",
+   "brand": "Vaseline",
+   "price": 6.49,
+   "priceAfterCoupon": 5.84,
+   "coupon": "10% off coupon",
    "listPrice": null,
    "listPriceKind": null,
    "pctOff": 0.0,
@@ -25,12 +25,12 @@
    "inStock": true,
    "seller": "not shown",
    "soldByAmazon": null,
-   "boughtPastMonth": 50,
+   "boughtPastMonth": 10000,
    "rating": 4.7,
    "reviews": null,
-   "photo": "https://m.media-amazon.com/images/I/81RHii7U0gS._AC_SL1500_.jpg",
-   "max": 14.41,
-   "verdict": "TOO HIGH: 29.99 is over your max 14.41"
+   "photo": "https://m.media-amazon.com/images/I/71VK+1AOolL._SL1500_.jpg",
+   "max": 5.55,
+   "verdict": "TOO HIGH: 5.84 is over your max 5.55"
   }
  ]
 }

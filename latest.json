@@ -2465,7 +2465,7 @@
   "asin": "B0BBWCZLYY",
   "boughtPastMonth": 10000,
   "brand": "Vaseline",
-  "checkedAt": "2026-11-15T09:18:49Z",
+  "checkedAt": "2026-11-15T12:17:07Z",
   "coupon": "10% off coupon",
   "deal": null,
   "inStock": true,
@@ -2473,7 +2473,7 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 5.55,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/71VK+1AOolL._SL1500_.jpg",
@@ -2487,7 +2487,7 @@
   "status": "ok",
   "title": "Vaseline Lip Therapy Rosy Lips Tinted Lip Balm, Moisturizing 0.5oz 2ct",
   "url": "https://www.amazon.com/dp/B0BBWCZLYY",
-  "verdict": "OK: 5.84 is at or under your max 45.00"
+  "verdict": "TOO HIGH: 5.84 is over your max 5.55"
  },
  "B0BBWK83F2": {
   "asin": "B0BBWK83F2",
