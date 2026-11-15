@@ -87,7 +87,7 @@
   "asin": "B00112DTRC",
   "boughtPastMonth": 800,
   "brand": "MAYBELLINE",
-  "checkedAt": "2026-11-15T12:19:19Z",
+  "checkedAt": "2026-11-15T15:34:40Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -95,7 +95,7 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 6.82,
+  "max": 45.0,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/61KbNJgwxPL._SL1500_.jpg",
@@ -109,7 +109,7 @@
   "status": "ok",
   "title": "Maybelline Great Lash Curved Brush Washable Mascara, Volumizing, Lengthening and Curling Mascara, Blackest Black, 1 Count",
   "url": "https://www.amazon.com/dp/B00112DTRC",
-  "verdict": "OK: 6.82 is at or under your max 6.82"
+  "verdict": "OK: 6.82 is at or under your max 45.00"
  },
  "B001GAOTUK": {
   "asin": "B001GAOTUK",
@@ -1177,7 +1177,7 @@
   "asin": "B07P5TMHD9",
   "boughtPastMonth": 9000,
   "brand": "Eclat Skincare",
-  "checkedAt": "2026-11-15T12:20:32Z",
+  "checkedAt": "2026-11-15T15:35:21Z",
   "coupon": "20% off coupon",
   "deal": null,
   "inStock": true,
@@ -1185,7 +1185,7 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 8.0,
+  "max": 45.0,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/71JhFNvHqxL._SL1500_.jpg",
@@ -1199,7 +1199,7 @@
   "status": "ok",
   "title": "Eclat Skincare Brightening Vitamin C Serum for Face with Vitamin E 1 Fl Oz",
   "url": "https://www.amazon.com/dp/B07P5TMHD9",
-  "verdict": "OK: 7.98 is at or under your max 8.00"
+  "verdict": "OK: 7.98 is at or under your max 45.00"
  },
  "B07QW3HMKF": {
   "asin": "B07QW3HMKF",
@@ -1569,7 +1569,7 @@
   "asin": "B08HH572QR",
   "boughtPastMonth": 100,
   "brand": "Funko",
-  "checkedAt": "2026-11-15T12:21:34Z",
+  "checkedAt": "2026-11-15T15:35:01Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1577,7 +1577,7 @@
   "listPrice": 14.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 12.32,
+  "max": 45.0,
   "ok": true,
   "pctOff": 47.0,
   "photo": "https://m.media-amazon.com/images/I/719YBjwY-EL._AC_SL1300_.jpg",
@@ -1591,7 +1591,7 @@
   "status": "ok",
   "title": "Funko POP! Movies: Jurassic Park - Alpha Raptor",
   "url": "https://www.amazon.com/dp/B08HH572QR",
-  "verdict": "OK: 7.95 is at or under your max 12.32"
+  "verdict": "OK: 7.95 is at or under your max 45.00"
  },
  "B08HH5V55W": {
   "asin": "B08HH5V55W",
@@ -1849,7 +1849,7 @@
   "asin": "B098TQDLY6",
   "boughtPastMonth": 50,
   "brand": "YouTheFan",
-  "checkedAt": "2026-11-15T12:15:56Z",
+  "checkedAt": "2026-11-15T15:34:28Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1857,7 +1857,7 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 14.41,
+  "max": 45.0,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/81RHii7U0gS._AC_SL1500_.jpg",
@@ -1871,7 +1871,7 @@
   "status": "ok",
   "title": "YouTheFan NFL Cincinnati Bengals 3D Logo Series Wall Art",
   "url": "https://www.amazon.com/dp/B098TQDLY6",
-  "verdict": "TOO HIGH: 29.99 is over your max 14.41"
+  "verdict": "OK: 29.99 is at or under your max 45.00"
  },
  "B099S9DXT7": {
   "asin": "B099S9DXT7",
@@ -2465,7 +2465,7 @@
   "asin": "B0BBWCZLYY",
   "boughtPastMonth": 10000,
   "brand": "Vaseline",
-  "checkedAt": "2026-11-15T12:17:07Z",
+  "checkedAt": "2026-11-15T15:35:11Z",
   "coupon": "10% off coupon",
   "deal": null,
   "inStock": true,
@@ -2473,7 +2473,7 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 5.55,
+  "max": 45.0,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/71VK+1AOolL._SL1500_.jpg",
@@ -2487,7 +2487,7 @@
   "status": "ok",
   "title": "Vaseline Lip Therapy Rosy Lips Tinted Lip Balm, Moisturizing 0.5oz 2ct",
   "url": "https://www.amazon.com/dp/B0BBWCZLYY",
-  "verdict": "TOO HIGH: 5.84 is over your max 5.55"
+  "verdict": "OK: 5.84 is at or under your max 45.00"
  },
  "B0BBWK83F2": {
   "asin": "B0BBWK83F2",
@@ -3949,7 +3949,7 @@
   "asin": "B0DTBPVL3D",
   "boughtPastMonth": 3000,
   "brand": "DREAMWORKS GABBY'S DOLLHOUSE",
-  "checkedAt": "2026-11-15T12:18:12Z",
+  "checkedAt": "2026-11-15T15:34:52Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -3957,7 +3957,7 @@
   "listPrice": 18.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 9.09,
+  "max": 45.0,
   "ok": true,
   "pctOff": 36.9,
   "photo": "https://m.media-amazon.com/images/I/81g5oAW8LmL._AC_SL1500_.jpg",
@@ -3971,7 +3971,7 @@
   "status": "ok",
   "title": "Gabby's Dollhouse Meow-Mazing Interactive Cat Ears Headband",
   "url": "https://www.amazon.com/dp/B0DTBPVL3D",
-  "verdict": "TOO HIGH: 11.99 is over your max 9.09"
+  "verdict": "OK: 11.99 is at or under your max 45.00"
  },
  "B0DTP6BRVL": {
   "asin": "B0DTP6BRVL",
