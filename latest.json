@@ -3949,7 +3949,7 @@
   "asin": "B0DTBPVL3D",
   "boughtPastMonth": 3000,
   "brand": "DREAMWORKS GABBY'S DOLLHOUSE",
-  "checkedAt": "2026-11-15T09:22:51Z",
+  "checkedAt": "2026-11-15T12:18:12Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -3957,7 +3957,7 @@
   "listPrice": 18.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 9.09,
   "ok": true,
   "pctOff": 36.9,
   "photo": "https://m.media-amazon.com/images/I/81g5oAW8LmL._AC_SL1500_.jpg",
@@ -3971,7 +3971,7 @@
   "status": "ok",
   "title": "Gabby's Dollhouse Meow-Mazing Interactive Cat Ears Headband",
   "url": "https://www.amazon.com/dp/B0DTBPVL3D",
-  "verdict": "OK: 11.99 is at or under your max 45.00"
+  "verdict": "TOO HIGH: 11.99 is over your max 9.09"
  },
  "B0DTP6BRVL": {
   "asin": "B0DTP6BRVL",
