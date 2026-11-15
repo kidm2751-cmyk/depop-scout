@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-20261115-095905",
+ "finishedAt": "2026-11-15T09:59:43Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0G1V2HRFR",
+   "key": "B0G1V2HRFR",
+   "url": "https://www.amazon.com/dp/B0G1V2HRFR",
+   "checkedAt": "2026-11-15T09:59:43Z",
+   "ok": true,
+   "status": "ok",
+   "title": "\u200bHot Wheels Monster Trucks Mutant Chaos, Chaos Loop Challenge Playset",
+   "brand": "Hot Wheels",
+   "price": 19.49,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 22.99,
+   "listPriceKind": "typical",
+   "pctOff": 15.2,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "Amazon Resale",
+   "soldByAmazon": true,
+   "boughtPastMonth": 2000,
+   "rating": 4.0,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/81LVwE27XxL._AC_SL1500_.jpg",
+   "max": 13.4,
+   "verdict": "TOO HIGH: 19.49 is over your max 13.40"
+  }
+ ]
+}
