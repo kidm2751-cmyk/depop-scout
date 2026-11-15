@@ -1,18 +1,36 @@
 {
- "ok": false,
- "requestId": "chk-20261115-093759",
- "finishedAt": "2026-11-15T09:38:52Z",
+ "ok": true,
+ "requestId": "chk-20261115-093908",
+ "finishedAt": "2026-11-15T09:39:36Z",
  "checked": 1,
  "items": [
   {
    "platform": "amazon",
-   "asin": "B000MFN1G8",
-   "key": "B000MFN1G8",
-   "url": "https://www.amazon.com/dp/B000MFN1G8",
-   "checkedAt": "2026-11-15T09:38:52Z",
-   "ok": false,
-   "status": "blocked",
-   "error": "Amazon showed its robot check or didn't answer. Try again in a few minutes."
+   "asin": "B000ND5EVY",
+   "key": "B000ND5EVY",
+   "url": "https://www.amazon.com/dp/B000ND5EVY",
+   "checkedAt": "2026-11-15T09:39:36Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Hunters Specialties Long Lasting Cover Scent Wafers for Hunting - 3 Wafers Per Pack, 3 Safety Pins Included",
+   "brand": "Hunters Specialties",
+   "price": 8.46,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 14.99,
+   "listPriceKind": "list",
+   "pctOff": 43.6,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "not shown",
+   "soldByAmazon": null,
+   "boughtPastMonth": 1000,
+   "rating": 4.6,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/71IUmiP11kL._AC_SL1500_.jpg",
+   "max": 12.99,
+   "verdict": "OK: 8.46 is at or under your max 12.99"
   }
  ]
 }
