@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261115-093956",
- "finishedAt": "2026-11-15T09:40:48Z",
+ "requestId": "chk-20261115-094105",
+ "finishedAt": "2026-11-15T09:42:01Z",
  "checked": 1,
  "items": [
   {
    "platform": "amazon",
-   "asin": "B098TQDLY6",
-   "key": "B098TQDLY6",
-   "url": "https://www.amazon.com/dp/B098TQDLY6",
-   "checkedAt": "2026-11-15T09:40:48Z",
+   "asin": "B0BBWCZLYY",
+   "key": "B0BBWCZLYY",
+   "url": "https://www.amazon.com/dp/B0BBWCZLYY",
+   "checkedAt": "2026-11-15T09:42:01Z",
    "ok": false,
    "status": "blocked",
    "error": "Amazon showed its robot check or didn't answer. Try again in a few minutes."
