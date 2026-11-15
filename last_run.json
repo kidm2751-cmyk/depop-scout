@@ -1,18 +1,36 @@
 {
- "ok": false,
- "requestId": "chk-20261115-094105",
- "finishedAt": "2026-11-15T09:42:01Z",
+ "ok": true,
+ "requestId": "chk-20261115-094214",
+ "finishedAt": "2026-11-15T09:43:16Z",
  "checked": 1,
  "items": [
   {
    "platform": "amazon",
-   "asin": "B0BBWCZLYY",
-   "key": "B0BBWCZLYY",
-   "url": "https://www.amazon.com/dp/B0BBWCZLYY",
-   "checkedAt": "2026-11-15T09:42:01Z",
-   "ok": false,
-   "status": "blocked",
-   "error": "Amazon showed its robot check or didn't answer. Try again in a few minutes."
+   "asin": "B0CW8GWLX7",
+   "key": "B0CW8GWLX7",
+   "url": "https://www.amazon.com/dp/B0CW8GWLX7",
+   "checkedAt": "2026-11-15T09:43:16Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Melissa & Doug Ms. Rachel Letter, Number, and Game Wooden Learning Blocks with Activity Cards for Girls and Boys Toddlers Ages 18 Months+ - FSC Certified",
+   "brand": "",
+   "price": 14.21,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 32.99,
+   "listPriceKind": "list",
+   "pctOff": 56.9,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "not shown",
+   "soldByAmazon": null,
+   "boughtPastMonth": 4000,
+   "rating": 4.8,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/813z5lyKzsL._AC_SL1500_.jpg",
+   "max": 12.86,
+   "verdict": "TOO HIGH: 14.21 is over your max 12.86"
   }
  ]
 }
