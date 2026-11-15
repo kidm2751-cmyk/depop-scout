@@ -1849,7 +1849,7 @@
   "asin": "B098TQDLY6",
   "boughtPastMonth": 50,
   "brand": "YouTheFan",
-  "checkedAt": "2026-11-15T09:17:13Z",
+  "checkedAt": "2026-11-15T12:15:56Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1857,7 +1857,7 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 14.41,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/81RHii7U0gS._AC_SL1500_.jpg",
@@ -1871,7 +1871,7 @@
   "status": "ok",
   "title": "YouTheFan NFL Cincinnati Bengals 3D Logo Series Wall Art",
   "url": "https://www.amazon.com/dp/B098TQDLY6",
-  "verdict": "OK: 29.99 is at or under your max 45.00"
+  "verdict": "TOO HIGH: 29.99 is over your max 14.41"
  },
  "B099S9DXT7": {
   "asin": "B099S9DXT7",
