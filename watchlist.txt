@@ -1,3 +1,4 @@
+sha: 4f1acf131c2a0efbeec440cbf9816831490b7231
 sha: 7cde420c6a70d4e615dc1b96513f595d6e939375
 # Amazon watchlist: checked every hour. One item per line:
 #   ASIN (or Amazon link)   your max buy price (optional)   a note (optional)
@@ -125,7 +126,6 @@ B003O2RXUQ 6.97 Five Star Spiral Notebook 5 Subject, listed on eBay at 13.51
 B09GF1ND4D 6.17 OFF! Picaridin Bug Spray 5oz, listed on eBay at 12.40
 B0009H519Y 9.98 Mothers Mag & Aluminum Polish 10oz, listed on eBay at 17.69
 B0FTZCWGSK 8.50 The Ordinary PHA 5% Lip Serum, listed on eBay at 15.63
-B0GZ2RSJVY 37.86 hahaland Electric Train Set 64PCs, listed on eBay at 58.99
 B0GB225QFP 6.60 L.O.L. Surprise! Music Festival Dolls, listed on eBay at 12.99
 B0DTBPVL3D 11.99 Gabby's Dollhouse Cat Ears Headband, listed on eBay at 20.49
 B0B6BMZP95 9.48 wernies 8 Pairs No Show Socks, listed on eBay at 16.99
@@ -236,6 +236,7 @@ https://www.depop.com/products/coolgugl600-christian-audigier-navy-blue-zip-42d6
 
 
 B084KV65KJ 17.31 Poppi Prebiotic Soda Raspberry Rose 12-pack, listed on eBay at 27.88
+
 
 
 
