@@ -5237,7 +5237,7 @@
   "asin": "B0G7NKPKCZ",
   "boughtPastMonth": 50000,
   "brand": "ARTISTRO",
-  "checkedAt": "2026-11-17T09:14:22Z",
+  "checkedAt": "2026-11-17T09:22:34Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -5245,7 +5245,7 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 9.95,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/9182dShvm2L._AC_SL1500_.jpg",
@@ -5259,7 +5259,7 @@
   "status": "ok",
   "title": "ARTISTRO 36 Multicolor Dual-Tip Acrylic Paint Marker Pens for Drawing",
   "url": "https://www.amazon.com/dp/B0G7NKPKCZ",
-  "verdict": "OK: 14.99 is at or under your max 45.00"
+  "verdict": "TOO HIGH: 14.99 is over your max 9.95"
  },
  "B0GB225QFP": {
   "asin": "B0GB225QFP",
