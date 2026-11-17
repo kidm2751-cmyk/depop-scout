@@ -4173,7 +4173,7 @@
   "asin": "B0F9WDZS8M",
   "boughtPastMonth": 500,
   "brand": "Ohuhu",
-  "checkedAt": "2026-11-17T09:14:13Z",
+  "checkedAt": "2026-11-17T09:21:55Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -4181,7 +4181,7 @@
   "listPrice": 44.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 33.24,
   "ok": true,
   "pctOff": 11.1,
   "photo": "https://m.media-amazon.com/images/I/81gasISLpdL._AC_SL1500_.jpg",
@@ -4195,7 +4195,7 @@
   "status": "ok",
   "title": "Ohuhu Acrylic Paint Markers Brush Tip 48 Pack Opaque Acrylic Markers-Nahuku",
   "url": "https://www.amazon.com/dp/B0F9WDZS8M",
-  "verdict": "OK: 39.99 is at or under your max 45.00"
+  "verdict": "TOO HIGH: 39.99 is over your max 33.24"
  },
  "B0FCFVXJJN": {
   "asin": "B0FCFVXJJN",
