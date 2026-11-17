@@ -4201,7 +4201,7 @@
   "asin": "B0FCFVXJJN",
   "boughtPastMonth": 100,
   "brand": "Funko",
-  "checkedAt": "2026-11-17T22:05:01Z",
+  "checkedAt": "2026-11-17T22:14:04Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -4209,7 +4209,7 @@
   "listPrice": 29.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 21.28,
   "ok": true,
   "pctOff": 6.8,
   "photo": "https://m.media-amazon.com/images/I/613rsIUPtQL._AC_SL1300_.jpg",
@@ -4223,7 +4223,7 @@
   "status": "ok",
   "title": "Funko POP! Deluxe: WWE - Roman Reigns",
   "url": "https://www.amazon.com/dp/B0FCFVXJJN",
-  "verdict": "OK: 27.94 is at or under your max 45.00"
+  "verdict": "TOO HIGH: 27.94 is over your max 21.28"
  },
  "B0FFH1DC25": {
   "asin": "B0FFH1DC25",
