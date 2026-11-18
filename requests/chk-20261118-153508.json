@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-20261118-153508",
+ "finishedAt": "2026-11-18T15:35:57Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0F8W8VF6L",
+   "key": "B0F8W8VF6L",
+   "url": "https://www.amazon.com/dp/B0F8W8VF6L",
+   "checkedAt": "2026-11-18T15:35:57Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Plano StowAway 3700 Waterproof Stow Tackle Box, IPX7 Waterproof, with Rustricor, Single Latch Design, Transparent DuraView Lid, Stackable Storage for Fishing Ba",
+   "brand": "Plano",
+   "price": 17.95,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 19.99,
+   "listPriceKind": "list",
+   "pctOff": 10.2,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "not shown",
+   "soldByAmazon": null,
+   "boughtPastMonth": 400,
+   "rating": 4.4,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/71lQJAs+2HL._AC_SL1500_.jpg",
+   "max": 16.27,
+   "verdict": "TOO HIGH: 17.95 is over your max 16.27"
+  }
+ ]
+}
