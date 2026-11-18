@@ -1,7 +1,7 @@
 {
  "ok": false,
- "requestId": "chk-20261118-001200",
- "finishedAt": "2026-11-18T00:13:03Z",
+ "requestId": "chk-20261118-001737",
+ "finishedAt": "2026-11-18T00:18:06Z",
  "checked": 1,
  "items": [
   {
@@ -9,7 +9,7 @@
    "asin": "B07GBZ4Q68",
    "key": "B07GBZ4Q68",
    "url": "https://www.amazon.com/dp/B07GBZ4Q68",
-   "checkedAt": "2026-11-18T00:13:03Z",
+   "checkedAt": "2026-11-18T00:18:06Z",
    "ok": false,
    "status": "not_found",
    "error": "No product page for this ASIN (wrong ASIN, or the listing was removed)."
