@@ -1,19 +1,19 @@
 {
  "ok": true,
- "requestId": "chk-20261118-153330",
- "finishedAt": "2026-11-18T15:34:04Z",
+ "requestId": "chk-20261118-153418",
+ "finishedAt": "2026-11-18T15:34:49Z",
  "checked": 1,
  "items": [
   {
    "platform": "amazon",
-   "asin": "B0DRW7P7DS",
-   "key": "B0DRW7P7DS",
-   "url": "https://www.amazon.com/dp/B0DRW7P7DS",
-   "checkedAt": "2026-11-18T15:34:04Z",
+   "asin": "B0CN3NYP3T",
+   "key": "B0CN3NYP3T",
+   "url": "https://www.amazon.com/dp/B0CN3NYP3T",
+   "checkedAt": "2026-11-18T15:34:49Z",
    "ok": true,
    "status": "out_of_stock",
-   "title": "LEGO Creator 3 in 1 Retro Telephone Kids Toy - Home Decor for Bedroom or Kids Room - Building Toy and Learning Playset for Girls & Boys, Ages 8+ - Gift Idea for",
-   "brand": "",
+   "title": "Squishmallows Original Disney 14-Inch Stitch with Watermelon - Official Jazwares Plush (Large)",
+   "brand": "Squishmallows",
    "price": null,
    "priceAfterCoupon": null,
    "coupon": null,
@@ -28,8 +28,8 @@
    "boughtPastMonth": null,
    "rating": 4.9,
    "reviews": null,
-   "photo": "https://m.media-amazon.com/images/I/71zJU8Ojb2L._AC_SL1500_.jpg",
-   "max": 16.79,
+   "photo": "https://m.media-amazon.com/images/I/71JshvIQ8tL._AC_SL1500_.jpg",
+   "max": 23.16,
    "verdict": "OUT OF STOCK"
   }
  ]
