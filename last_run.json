@@ -1,18 +1,36 @@
 {
- "ok": false,
- "requestId": "chk-20261118-001737",
- "finishedAt": "2026-11-18T00:18:06Z",
+ "ok": true,
+ "requestId": "chk-20261118-001941",
+ "finishedAt": "2026-11-18T00:20:26Z",
  "checked": 1,
  "items": [
   {
    "platform": "amazon",
-   "asin": "B07GBZ4Q68",
-   "key": "B07GBZ4Q68",
-   "url": "https://www.amazon.com/dp/B07GBZ4Q68",
-   "checkedAt": "2026-11-18T00:18:06Z",
-   "ok": false,
-   "status": "not_found",
-   "error": "No product page for this ASIN (wrong ASIN, or the listing was removed)."
+   "asin": "B0FCFVXJJN",
+   "key": "B0FCFVXJJN",
+   "url": "https://www.amazon.com/dp/B0FCFVXJJN",
+   "checkedAt": "2026-11-18T00:20:26Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Funko POP! Deluxe: WWE - Roman Reigns",
+   "brand": "Funko",
+   "price": 27.94,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 29.99,
+   "listPriceKind": "list",
+   "pctOff": 6.8,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "CLARKtoys CLARKtoys Sold by CLARKtoys",
+   "soldByAmazon": false,
+   "boughtPastMonth": 100,
+   "rating": 4.5,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/613rsIUPtQL._AC_SL1300_.jpg",
+   "max": 21.28,
+   "verdict": "TOO HIGH: 27.94 is over your max 21.28"
   }
  ]
 }
