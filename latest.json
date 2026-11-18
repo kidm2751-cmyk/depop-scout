@@ -6553,11 +6553,11 @@
  "depop:jbkmom17-pink-toodler-juicy-couture-velour-fc8c": {
   "brand": "Juicy Couture",
   "buyerFee": 1.6,
-  "checkedAt": "2026-11-18T15:17:32Z",
+  "checkedAt": "2026-11-18T17:24:06Z",
   "condition": "Used",
-  "inStock": true,
+  "inStock": false,
   "key": "depop:jbkmom17-pink-toodler-juicy-couture-velour-fc8c",
-  "max": 99.0,
+  "max": 14.57,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/15760757/5108479456_4e0afaadbcfe447b9f471c61be303de9/P0.jpg",
   "platform": "depop",
@@ -6567,13 +6567,13 @@
   "shippingKnown": false,
   "size": "4",
   "slug": "jbkmom17-pink-toodler-juicy-couture-velour-fc8c",
-  "sold": false,
-  "status": "ok",
+  "sold": true,
+  "status": "sold",
   "tax": 1.33,
   "title": "Pink Toodler Juicy Couture velour tracksuit with...",
   "totalCost": 20.97,
   "url": "https://www.depop.com/products/jbkmom17-pink-toodler-juicy-couture-velour-fc8c/",
-  "verdict": "OK: 20.97 total is at or under your max 99.00"
+  "verdict": "SOLD"
  },
  "depop:jenjezjenm-more-to-come-monroe-black-a089": {
   "brand": "More To Come",
