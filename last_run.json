@@ -1,18 +1,36 @@
 {
- "ok": false,
- "requestId": "chk-20261118-091103",
- "finishedAt": "2026-11-18T09:11:31Z",
+ "ok": true,
+ "requestId": "chk-20261118-091150",
+ "finishedAt": "2026-11-18T09:12:21Z",
  "checked": 1,
  "items": [
   {
    "platform": "amazon",
-   "asin": "B07GBZ4Q68",
-   "key": "B07GBZ4Q68",
-   "url": "https://www.amazon.com/dp/B07GBZ4Q68",
-   "checkedAt": "2026-11-18T09:11:31Z",
-   "ok": false,
-   "status": "not_found",
-   "error": "No product page for this ASIN (wrong ASIN, or the listing was removed)."
+   "asin": "B08HH5V55W",
+   "key": "B08HH5V55W",
+   "url": "https://www.amazon.com/dp/B08HH5V55W",
+   "checkedAt": "2026-11-18T09:12:21Z",
+   "ok": true,
+   "status": "ok",
+   "title": "POP Funko Games: Astro Bot",
+   "brand": "Funko",
+   "price": 14.93,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": null,
+   "listPriceKind": null,
+   "pctOff": 0.0,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "Slam-Dunk Slam-Dunk Sold by Slam-Dunk",
+   "soldByAmazon": false,
+   "boughtPastMonth": 800,
+   "rating": 4.7,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/61RAs5cd1GL._AC_SL1300_.jpg",
+   "max": 11.63,
+   "verdict": "TOO HIGH: 14.93 is over your max 11.63"
   }
  ]
 }
