@@ -1597,7 +1597,7 @@
   "asin": "B08HH5V55W",
   "boughtPastMonth": 900,
   "brand": "Funko",
-  "checkedAt": "2026-11-19T12:11:53Z",
+  "checkedAt": "2026-11-19T12:27:17Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1605,7 +1605,7 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 14.58,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/61RAs5cd1GL._AC_SL1300_.jpg",
@@ -1614,12 +1614,12 @@
   "priceAfterCoupon": null,
   "rating": 4.7,
   "reviews": null,
-  "seller": "ASHFORD TEXTILES",
+  "seller": "Slam-Dunk",
   "soldByAmazon": false,
   "status": "ok",
   "title": "POP Funko Games: Astro Bot",
   "url": "https://www.amazon.com/dp/B08HH5V55W",
-  "verdict": "OK: 14.98 is at or under your max 45.00"
+  "verdict": "TOO HIGH: 14.98 is over your max 14.58"
  },
  "B08JY653PJ": {
   "asin": "B08JY653PJ",
