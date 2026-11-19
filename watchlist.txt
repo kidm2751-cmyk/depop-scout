@@ -1,3 +1,4 @@
+sha: 3d27a8906668c08bdbbe2a4b2d037f019266b0f4
 # Amazon watchlist: checked every hour. One item per line:
 #   ASIN (or Amazon link)   your max buy price (optional)   a note (optional)
 # Discord gets a message when the price goes over your max, the item goes out of stock or comes back,
@@ -103,7 +104,7 @@ https://www.depop.com/products/jenjezjenm-more-to-come-monroe-black-a089/ 34.19 
 
 
 
-B0D61DYJ99 4.67 SOUR PATCH KIDS Fruits Mix 11.03oz, listed on eBay at 10.31
+B0D61DYJ99 5.39 SOUR PATCH KIDS Fruits Mix 11.03oz, listed on eBay at 11.31
 B07L6QQD8R 14.99 GORILLA GRIP Foam Kneeling Pad 17.5x11 Black, listed on eBay at 24.65
 B0G2D1R15Q 39.99 Ring Battery Doorbell 2K Matte Mocha, listed on eBay at 64.50
 
@@ -197,7 +198,7 @@ B0CNBCZHF9 10.91 Hello Kitty and Friends Series 2 Kuromi Punks Plush, listed on 
 B0H48S2D7V 26.35 STANLEY IceFlow 2.0 Flip Straw Tumbler 30 oz Champagne, listed on eBay at 42.99
 B08XTG3QSF 24.19 Melissa & Doug PAW Patrol Pup Pack Backpack, listed on eBay at 39.99
 B0812BN1L1 19.97 WHAT DO YOU MEME? Family Edition, listed on eBay at 34.12
-B0C2DGJC81 9.54 Crayola Clicks Retractable Markers Bold 10ct Holiday, listed on eBay at 17.08
+B0C2DGJC81 12.97 Crayola Clicks Retractable Markers Bold 10ct Holiday, listed on eBay at 21.85
 
 https://www.depop.com/products/phaebe359-polo-ralph-lauren-bear-long-0502/ 16.01 Polo Ralph Lauren Polo Bear Long Sleeve Shirt Kids M 10-12 Green, listed on eBay at 34.99
 https://www.depop.com/products/isaacstohed-vintage-independent-trucks-tank-top-aa51/ 19.61 Vintage Independent Trucks Tank Top Red Size L Skateboard, listed on eBay at 39.99
@@ -227,6 +228,7 @@ https://www.depop.com/products/coolgugl600-christian-audigier-navy-blue-zip-42d6
 
 
 B084KV65KJ 17.31 Poppi Prebiotic Soda Raspberry Rose 12-pack, listed on eBay at 27.88
+
 
 
 
