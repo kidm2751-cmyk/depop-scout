@@ -1,3 +1,4 @@
+sha: a2e1a13adbf3f6d833bce428969aedf02c3c3455
 sha: 3d27a8906668c08bdbbe2a4b2d037f019266b0f4
 # Amazon watchlist: checked every hour. One item per line:
 #   ASIN (or Amazon link)   your max buy price (optional)   a note (optional)
@@ -20,7 +21,6 @@ B07F4KMBHL 6.56 Liquitex BASICS Acrylic Paint Green Gray, listed on eBay at 12.9
 B098TQDLY6 29.99 YouTheFan NFL Bengals 3D Logo Wall Art, listed on eBay at 50.60
 B0G4WXXQDN 12.37 Kristin Ess Volumizing Dry Shampoo, listed on eBay at 21.01
 B0FMS5JG7T 6.52 LEGO City Hot Rod 60485, listed on eBay at 12.88
-B0DJ19Z5KM 6.29 LEGO Classic Creative Food Friends 11039, listed on eBay at 12.57
 B001IAG7G2 6.97 Aquaphor Advanced Therapy Healing Ointment 2-pack, listed on eBay at 13.51
 B086H4FKD9 10.79 Chuckit! Ultra Dog Balls Medium set of 3, listed on eBay at 18.82
 B0CC86TQV7 9.99 BAGSMART Makeup Bag pink, listed on eBay at 17.71
@@ -228,6 +228,7 @@ https://www.depop.com/products/coolgugl600-christian-audigier-navy-blue-zip-42d6
 
 
 B084KV65KJ 17.31 Poppi Prebiotic Soda Raspberry Rose 12-pack, listed on eBay at 27.88
+
 
 
 
