@@ -3137,7 +3137,7 @@
   "asin": "B0CR1P4XJY",
   "boughtPastMonth": 3000,
   "brand": "CYOEST",
-  "checkedAt": "2026-11-19T09:19:03Z",
+  "checkedAt": "2026-11-19T09:33:51Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -3145,7 +3145,7 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 8.99,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/71PdwrQGIoL._AC_SL1500_.jpg",
@@ -3159,7 +3159,7 @@
   "status": "ok",
   "title": "STEM Toys DIY FM Radio Kit, Science Circuit Project, Boy Gift Toys Age 8-13",
   "url": "https://www.amazon.com/dp/B0CR1P4XJY",
-  "verdict": "OK: 12.99 is at or under your max 45.00"
+  "verdict": "TOO HIGH: 12.99 is over your max 8.99"
  },
  "B0CSYGN445": {
   "asin": "B0CSYGN445",
