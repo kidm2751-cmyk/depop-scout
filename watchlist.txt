@@ -1,3 +1,4 @@
+sha: cd311a6b14fe88f3b4b0290d23dc6cd3844108f2
 # Amazon watchlist: checked every hour. One item per line:
 #   ASIN (or Amazon link)   your max buy price (optional)   a note (optional)
 # Discord gets a message when the price goes over your max, the item goes out of stock or comes back,
@@ -113,7 +114,7 @@ B0HC3TKS7X 23.00 sundpik Posture Corrector, listed on eBay at 38.33
 B0DKW2H52M 15.19 Capcom Resident Evil 2 PS5, listed on eBay at 24.93
 B09XJC7JKZ 6.69 Command X-Large Picture Hanging Strips, listed on eBay at 13.12
 B0FKP2JKR9 22.27 SwimWays Rainbow Reef Shark Pool Toy, listed on eBay at 37.32
-B0CR1P4XJY 8.99 CYOEST STEM DIY FM Radio Kit, listed on eBay at 16.32
+B0CR1P4XJY 12.99 CYOEST STEM DIY FM Radio Kit, listed on eBay at 21.88
 B09JKVJCQZ 4.99 LEGO Classic White Baseplate 11026, listed on eBay at 10.76
 B07D4RN9NH 14.94 Crayola Twistables Colored Pencil Set 50ct, listed on eBay at 24.59
 B0FK5SMHY5 9.49 Squishmallows Cam Graduation Cap 12in, listed on eBay at 17.01
@@ -140,7 +141,6 @@ https://www.depop.com/products/noahs_fvshion-tory-burch-18k-gold-plated-logo-4cc
 B0CW8GWLX7 14.21 Melissa & Doug Ms. Rachel Wooden Learning Blocks, listed on eBay at 23.57
 B0G1VF5ZCR 16.42 Hot Wheels 1:64 RC Dodge Viper ACR, listed on eBay at 26.64
 B07DHBCRLH 7.46 LEGO Star Wars BB-9E Keyring, listed on eBay at 14.19
-B0BYN82YBX 11.99 Nerf Elite 2.0 Slyshot Blaster, listed on eBay at 20.48
 
 https://www.depop.com/products/theresafin1-vintage-y2k-burton-snowboard-womens-304b/ 23.69 Vintage Y2K Burton women's white/blue graphic tee L, listed on eBay at 45.66
 https://www.depop.com/products/jace2mhm-y2k-burton-snowboard-graphic-shirt-6ef7/ 23.69 Vintage Burton grey/tan graphic shirt women's S, listed on eBay at 45.66
@@ -229,5 +229,6 @@ https://www.depop.com/products/coolgugl600-christian-audigier-navy-blue-zip-42d6
 
 
 B084KV65KJ 17.31 Poppi Prebiotic Soda Raspberry Rose 12-pack, listed on eBay at 27.88
+
 
 
