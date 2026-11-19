@@ -1,4 +1,3 @@
-sha: cd311a6b14fe88f3b4b0290d23dc6cd3844108f2
 # Amazon watchlist: checked every hour. One item per line:
 #   ASIN (or Amazon link)   your max buy price (optional)   a note (optional)
 # Discord gets a message when the price goes over your max, the item goes out of stock or comes back,
@@ -25,7 +24,7 @@ B001IAG7G2 6.97 Aquaphor Advanced Therapy Healing Ointment 2-pack, listed on eBa
 B086H4FKD9 10.79 Chuckit! Ultra Dog Balls Medium set of 3, listed on eBay at 18.82
 B0CC86TQV7 9.99 BAGSMART Makeup Bag pink, listed on eBay at 17.71
 B07VS46CXT 21.99 Play-Doh Eggs 24-pack, listed on eBay at 36.93
-B0CWZXTKQB 9.99 MoKo Kindle Paperwhite 11th Gen case Mint Green, listed on eBay at 17.71
+B0CWZXTKQB 11.99 MoKo Kindle Paperwhite 11th Gen case Mint Green, listed on eBay at 20.49
 B0DHLFGNMM 15.39 LEGO Speed Champions Oracle Red Bull RB20 F1 77243, listed on eBay at 25.22
 B08HB8JF5G 19.99 JOYIN Christmas Advent Calendar, listed on eBay at 34.16
 B0CTWHSSM8 29.99 QUNREDA Remote Control Car 4WD, listed on eBay at 50.60
@@ -42,7 +41,6 @@ B09KMGVYJJ 13.05 G.I. Joe Classified Xamot, listed on eBay at 21.96
 B0D6Z814Y7 11.14 MAM Original Pacifier 4-pack 0-6 months, listed on eBay at 19.30
 B00251EHJW 19.99 Prismacolor Premier Graphite Drawing Set 18ct, listed on eBay at 34.16
 B0FMS7CRHX 9.89 LEGO Botanicals Daisies 11508, listed on eBay at 17.57
-B0DR3ZFQC6 43.99 Hot Wheels Mega Loop Garage Track Set, listed on eBay at 70.05
 B076621ZGC 7.55 Stanley 6-Piece Precision Screwdriver Set, listed on eBay at 14.32
 https://www.depop.com/products/deadheadthrifto-brown-leather-vintage-90s-taras-ab38/ 41.19 Danner women's brown boots US 7, listed on eBay at 69.99
 https://www.depop.com/products/uiroin98-new-balance-2002r-black-sneakers-18f5/ 12.41 New Balance women's black trainers US 7, listed on eBay at 24.99 (user-set price)
@@ -217,7 +215,7 @@ B083TCZDMT 12.49 Contigo Byron Travel Mug 20oz Licorice, listed on eBay at 21.18
 B0DWVHDM7B 14.88 Skullcandy Smokin' Buds Wireless Earbuds Flame, listed on eBay at 24.50
 B0FPMVBCN1 8.44 Funko Pop! Star Wars Amani #845, listed on eBay at 15.55
 B004YZEO9K 29.40 Cuisinart 3-Piece Stainless Steel Mixing Bowl Set CTG-00-SM, listed on eBay at 47.23
-B08HH5V55W 14.58 Funko POP Funko Games Astro Bot #1089, listed on eBay at 24.09
+B08HH5V55W 14.98 Funko POP Funko Games Astro Bot #1089, listed on eBay at 24.64
 
 
 
@@ -229,6 +227,7 @@ https://www.depop.com/products/coolgugl600-christian-audigier-navy-blue-zip-42d6
 
 
 B084KV65KJ 17.31 Poppi Prebiotic Soda Raspberry Rose 12-pack, listed on eBay at 27.88
+
 
 
 
