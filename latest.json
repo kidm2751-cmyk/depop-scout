@@ -869,7 +869,7 @@
   "asin": "B07995B8L1",
   "boughtPastMonth": 6000,
   "brand": "Everlasting Comfort",
-  "checkedAt": "2026-11-19T06:13:58Z",
+  "checkedAt": "2026-11-19T06:41:38Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -877,7 +877,7 @@
   "listPrice": 39.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 23.99,
   "ok": true,
   "pctOff": 25.0,
   "photo": "https://m.media-amazon.com/images/I/81LfUCNZLtS._AC_SL1500_.jpg",
@@ -891,7 +891,7 @@
   "status": "ok",
   "title": "Everlasting Comfort Memory Foam Knee Pillow for Side Sleepers \u2013 Sciatica Pain Relief Pillow, Removable Strap Support \u2013 Leg Pillows for Sleeping Alignment, Knees",
   "url": "https://www.amazon.com/dp/B07995B8L1",
-  "verdict": "OK: 29.99 is at or under your max 45.00"
+  "verdict": "TOO HIGH: 29.99 is over your max 23.99"
  },
  "B079JLY5M5": {
   "asin": "B079JLY5M5",
