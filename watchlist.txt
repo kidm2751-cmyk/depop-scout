@@ -1,6 +1,3 @@
-sha: f07ca57dbb4518bb71d3a21e382c9f225b5d7bf5
-sha: a2e1a13adbf3f6d833bce428969aedf02c3c3455
-sha: 3d27a8906668c08bdbbe2a4b2d037f019266b0f4
 # Amazon watchlist: checked every hour. One item per line:
 #   ASIN (or Amazon link)   your max buy price (optional)   a note (optional)
 # Discord gets a message when the price goes over your max, the item goes out of stock or comes back,
@@ -146,7 +143,7 @@ https://www.depop.com/products/theresafin1-vintage-y2k-burton-snowboard-womens-3
 https://www.depop.com/products/jace2mhm-y2k-burton-snowboard-graphic-shirt-6ef7/ 23.69 Vintage Burton grey/tan graphic shirt women's S, listed on eBay at 45.66
 https://www.depop.com/products/jbkmom17-pink-toodler-juicy-couture-velour-fc8c/ 14.57 Juicy Couture girls pink velour jumpsuit 4T, listed on eBay at 32.99
 
-B0F8W8VF6L 17.95 Plano StowAway 3700 Waterproof Tackle Box, listed on eBay at 31.32
+B0F8W8VF6L 19.99 Plano StowAway 3700 Waterproof Tackle Box, listed on eBay at 34.15
 B0FCFVXJJN 27.94 Funko POP! Deluxe WWE Roman Reigns, listed on eBay at 45.20
 B077Z2QCS5 42.49 Everlasting Comfort 6L Humidifier, listed on eBay at 67.97
 B06WW9SJ5M 4.97 essence Lash Princess Mascara, listed on eBay at 10.73
@@ -229,6 +226,7 @@ https://www.depop.com/products/coolgugl600-christian-audigier-navy-blue-zip-42d6
 
 
 B084KV65KJ 17.31 Poppi Prebiotic Soda Raspberry Rose 12-pack, listed on eBay at 27.88
+
 
 
 
