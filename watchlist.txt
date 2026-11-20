@@ -1,3 +1,4 @@
+sha: f07ca57dbb4518bb71d3a21e382c9f225b5d7bf5
 sha: a2e1a13adbf3f6d833bce428969aedf02c3c3455
 sha: 3d27a8906668c08bdbbe2a4b2d037f019266b0f4
 # Amazon watchlist: checked every hour. One item per line:
@@ -25,7 +26,7 @@ B001IAG7G2 6.97 Aquaphor Advanced Therapy Healing Ointment 2-pack, listed on eBa
 B086H4FKD9 10.79 Chuckit! Ultra Dog Balls Medium set of 3, listed on eBay at 18.82
 B0CC86TQV7 9.99 BAGSMART Makeup Bag pink, listed on eBay at 17.71
 B07VS46CXT 21.99 Play-Doh Eggs 24-pack, listed on eBay at 36.93
-B0CWZXTKQB 11.99 MoKo Kindle Paperwhite 11th Gen case Mint Green, listed on eBay at 20.49
+B0CWZXTKQB 12.59 MoKo Kindle Paperwhite 11th Gen case Mint Green, listed on eBay at 21.32
 B0DHLFGNMM 15.39 LEGO Speed Champions Oracle Red Bull RB20 F1 77243, listed on eBay at 25.22
 B08HB8JF5G 19.99 JOYIN Christmas Advent Calendar, listed on eBay at 34.16
 B0CTWHSSM8 29.99 QUNREDA Remote Control Car 4WD, listed on eBay at 50.60
@@ -228,6 +229,7 @@ https://www.depop.com/products/coolgugl600-christian-audigier-navy-blue-zip-42d6
 
 
 B084KV65KJ 17.31 Poppi Prebiotic Soda Raspberry Rose 12-pack, listed on eBay at 27.88
+
 
 
 
