@@ -4509,7 +4509,7 @@
   "asin": "B0FMS5JG7T",
   "boughtPastMonth": 10000,
   "brand": "",
-  "checkedAt": "2026-11-20T18:11:18Z",
+  "checkedAt": "2026-11-20T18:29:46Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -4517,7 +4517,7 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 6.52,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/71vzpZ65xLL._AC_SL1500_.jpg",
@@ -4531,7 +4531,7 @@
   "status": "ok",
   "title": "LEGO City Hot Rod 60485",
   "url": "https://www.amazon.com/dp/B0FMS5JG7T",
-  "verdict": "OK: 9.99 is at or under your max 45.00"
+  "verdict": "TOO HIGH: 9.99 is over your max 6.52"
  },
  "B0FMS68JY9": {
   "asin": "B0FMS68JY9",
