@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-20261121-211742",
+ "finishedAt": "2026-11-21T21:18:14Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B08XTG3QSF",
+   "key": "B08XTG3QSF",
+   "url": "https://www.amazon.com/dp/B08XTG3QSF",
+   "checkedAt": "2026-11-21T21:18:14Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Melissa & Doug PAW Patrol Pup Pack Backpack",
+   "brand": "",
+   "price": 31.76,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 46.99,
+   "listPriceKind": "list",
+   "pctOff": 32.4,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "not shown",
+   "soldByAmazon": null,
+   "boughtPastMonth": 8000,
+   "rating": 4.7,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/81IzEmhj9aS._AC_SL1500_.jpg",
+   "max": 22.36,
+   "verdict": "TOO HIGH: 31.76 is over your max 22.36"
+  }
+ ]
+}
