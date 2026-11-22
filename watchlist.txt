@@ -1,4 +1,3 @@
-sha: 87fabd3229e2c6c58b7d7f7af845f36820973aa5
 # Amazon watchlist: checked every hour. One item per line:
 #   ASIN (or Amazon link)   your max buy price (optional)   a note (optional)
 # Discord gets a message when the price goes over your max, the item goes out of stock or comes back,
@@ -41,7 +40,7 @@ B09KMGVYJJ 13.05 G.I. Joe Classified Xamot, listed on eBay at 21.96
 B0D6Z814Y7 11.14 MAM Original Pacifier 4-pack 0-6 months, listed on eBay at 19.30
 B00251EHJW 19.99 Prismacolor Premier Graphite Drawing Set 18ct, listed on eBay at 34.16
 B0FMS7CRHX 9.89 LEGO Botanicals Daisies 11508, listed on eBay at 17.57
-B076621ZGC 7.90 Stanley 6-Piece Precision Screwdriver Set, listed on eBay at 14.80
+B076621ZGC 8.14 Stanley 6-Piece Precision Screwdriver Set, listed on eBay at 15.14
 https://www.depop.com/products/deadheadthrifto-brown-leather-vintage-90s-taras-ab38/ 41.19 Danner women's brown boots US 7, listed on eBay at 69.99
 https://www.depop.com/products/uiroin98-new-balance-2002r-black-sneakers-18f5/ 12.41 New Balance women's black trainers US 7, listed on eBay at 24.99 (user-set price)
 https://www.depop.com/products/fem7elling-vintage-y2k-bench-barbour-style-2e16/ 31.12 Bench vintage Y2K waxed anorak women's L, listed on eBay at 55.99
@@ -226,6 +225,7 @@ https://www.depop.com/products/coolgugl600-christian-audigier-navy-blue-zip-42d6
 
 
 B084KV65KJ 17.31 Poppi Prebiotic Soda Raspberry Rose 12-pack, listed on eBay at 27.88
+
 
 
 
