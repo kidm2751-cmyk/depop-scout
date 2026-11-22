@@ -7726,11 +7726,11 @@
  "depop:v_rguyen23-pleasures-black-t-shirt-new-without-05ec": {
   "brand": "Pleasures Now",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-21T23:17:41Z",
+  "checkedAt": "2026-11-22T01:45:30Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:v_rguyen23-pleasures-black-t-shirt-new-without-05ec",
-  "max": 100.0,
+  "max": 11.09,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/345072715/4865193460_054c140be11c49078eeb88fe13042d0b/P0.jpg",
   "platform": "depop",
@@ -7746,7 +7746,7 @@
   "title": "Pleasures black t-shirt, new without tags, size L...",
   "totalCost": 16.32,
   "url": "https://www.depop.com/products/v_rguyen23-pleasures-black-t-shirt-new-without-05ec/",
-  "verdict": "OK: 16.32 total is at or under your max 100.00"
+  "verdict": "TOO HIGH: 16.32 total is over your max 11.09"
  },
  "depop:vaztarius-eddie-bauer-grey-1936-skyliner-a6e7": {
   "brand": "Eddie Bauer",
