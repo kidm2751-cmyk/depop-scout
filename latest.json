@@ -813,7 +813,7 @@
   "asin": "B076621ZGC",
   "boughtPastMonth": 700,
   "brand": "STANLEY",
-  "checkedAt": "2026-11-23T12:12:42Z",
+  "checkedAt": "2026-11-23T12:42:54Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -821,7 +821,7 @@
   "listPrice": 10.53,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 8.14,
   "ok": true,
   "pctOff": 19.3,
   "photo": "https://m.media-amazon.com/images/I/61rmy0YR9tL._AC_SL1000_.jpg",
@@ -835,7 +835,7 @@
   "status": "ok",
   "title": "Stanley Tools 6-Piece Precision Screwdriver Set, Black/Yellow",
   "url": "https://www.amazon.com/dp/B076621ZGC",
-  "verdict": "OK: 8.50 is at or under your max 45.00"
+  "verdict": "TOO HIGH: 8.50 is over your max 8.14"
  },
  "B077Z2QCS5": {
   "asin": "B077Z2QCS5",
