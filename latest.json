@@ -6328,11 +6328,11 @@
  "depop:gc_thrimt-levis-701-high-flare-jeans-407d": {
   "brand": "Levi's",
   "buyerFee": 1.39,
-  "checkedAt": "2026-11-23T19:47:31Z",
+  "checkedAt": "2026-11-23T22:30:25Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:gc_thrimt-levis-701-high-flare-jeans-407d",
-  "max": 99.0,
+  "max": 16.01,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/43097105/5107895839_a17bee27f35c4c8a9850a769b753ee9d/P0.jpg",
   "platform": "depop",
@@ -6348,7 +6348,7 @@
   "title": "Levi's 701 High Flare Jeans\nSize 26\n#highflare...",
   "totalCost": 18.07,
   "url": "https://www.depop.com/products/gc_thrimt-levis-701-high-flare-jeans-407d/",
-  "verdict": "OK: 18.07 total is at or under your max 99.00"
+  "verdict": "TOO HIGH: 18.07 total is over your max 16.01"
  },
  "depop:hava_sxop-converse-x-neighborhood-black-hoodie-8e4b": {
   "brand": "Converse",
