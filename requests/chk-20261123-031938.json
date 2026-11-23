@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-20261123-031938",
+ "finishedAt": "2026-11-23T03:20:13Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B00CMKA9HK",
+   "key": "B00CMKA9HK",
+   "url": "https://www.amazon.com/dp/B00CMKA9HK",
+   "checkedAt": "2026-11-23T03:20:12Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Post-it Super Sticky Notes, 3 x 3 in, Neon Fizz, 24 Pads, 70 Sheets/Pad",
+   "brand": "",
+   "price": 14.33,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 29.99,
+   "listPriceKind": "list",
+   "pctOff": 52.2,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "not shown",
+   "soldByAmazon": null,
+   "boughtPastMonth": 10000,
+   "rating": 4.8,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/71xu+zdXNaL._AC_SL1500_.jpg",
+   "max": 14.24,
+   "verdict": "TOO HIGH: 14.33 is over your max 14.24"
+  }
+ ]
+}
