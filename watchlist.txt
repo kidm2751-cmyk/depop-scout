@@ -1,3 +1,4 @@
+sha: 73ee00dda40a7c148e82fc9897ccc4ae61c6ea50
 sha: 83d1f6cb8b6ef73bb57aa588d4a0e5080df38072
 sha: fba4f21c31789854c53513a9fc92cc642ed528e1
 # Amazon watchlist: checked every hour. One item per line:
@@ -123,7 +124,6 @@ B09GF1ND4D 6.29 OFF! Picaridin Bug Spray 5oz, listed on eBay at 12.56
 B0009H519Y 9.98 Mothers Mag & Aluminum Polish 10oz, listed on eBay at 17.69
 B0FTZCWGSK 8.50 The Ordinary PHA 5% Lip Serum, listed on eBay at 15.63
 B0GB225QFP 7.99 L.O.L. Surprise! Music Festival Dolls, listed on eBay at 14.93
-B0DTBPVL3D 11.99 Gabby's Dollhouse Cat Ears Headband, listed on eBay at 20.49
 B0B6BMZP95 9.99 wernies 8 Pairs No Show Socks, listed on eBay at 17.71
 B08JY653PJ 7.50 Sharpie S-Gel Pens Ultra Fine 0.38mm Black 4ct, listed on eBay at 14.24
 B06XZTZ7GB 21.99 MATEIN Travel Laptop Backpack 15.6 Grey, listed on eBay at 36.93
@@ -226,6 +226,7 @@ https://www.depop.com/products/coolgugl600-christian-audigier-navy-blue-zip-42d6
 
 
 B084KV65KJ 17.31 Poppi Prebiotic Soda Raspberry Rose 12-pack, listed on eBay at 27.88
+
 
 
 
