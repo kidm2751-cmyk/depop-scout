@@ -1,4 +1,3 @@
-sha: 7e2a495614cb560804ce7a59be3fcfb6d3913d90
 # Amazon watchlist: checked every hour. One item per line:
 #   ASIN (or Amazon link)   your max buy price (optional)   a note (optional)
 # Discord gets a message when the price goes over your max, the item goes out of stock or comes back,
@@ -16,7 +15,7 @@ B0G2TGZ867 13.79 Nerf Minecraft Diamond Pickaxe, listed on eBay at 22.99
 B0G43VLL9L 37.93 Mattel Brick Shop Minecraft Minecart RC, listed on eBay at 61.63
 B08817H6HS 11.03 BeeVines silk sleep mask 2-pack, listed on eBay at 19.15
 B0FXRX6N7Y 16.99 TENTVIA Fire Pit Cover, listed on eBay at 29.98
-B07F4KMBHL 6.56 Liquitex BASICS Acrylic Paint Green Gray, listed on eBay at 12.94
+B07F4KMBHL 6.79 Liquitex BASICS Acrylic Paint Green Gray, listed on eBay at 13.26
 B098TQDLY6 29.99 YouTheFan NFL Bengals 3D Logo Wall Art, listed on eBay at 50.60
 B0G4WXXQDN 12.37 Kristin Ess Volumizing Dry Shampoo, listed on eBay at 21.01
 B0FMS5JG7T 9.99 LEGO City Hot Rod 60485, listed on eBay at 17.71
@@ -225,6 +224,7 @@ https://www.depop.com/products/coolgugl600-christian-audigier-navy-blue-zip-42d6
 
 
 B084KV65KJ 17.31 Poppi Prebiotic Soda Raspberry Rose 12-pack, listed on eBay at 27.88
+
 
 
 
