@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-20261123-181548",
+ "finishedAt": "2026-11-23T18:16:26Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0G4WXXQDN",
+   "key": "B0G4WXXQDN",
+   "url": "https://www.amazon.com/dp/B0G4WXXQDN",
+   "checkedAt": "2026-11-23T18:16:26Z",
+   "ok": true,
+   "status": "out_of_stock",
+   "title": "Kristin Ess Volumizing Jumbo Dry Shampoo Spray for Oily Hair + Frizz with Vitamin C - Oil Absorbing Style Extender with Minimal Residue - Sulfate Free + Vegan +",
+   "brand": "Kristin Ess",
+   "price": null,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": null,
+   "listPriceKind": null,
+   "pctOff": 0,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": false,
+   "seller": "not shown",
+   "soldByAmazon": null,
+   "boughtPastMonth": null,
+   "rating": 4.2,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/61qV+fhTyKL._SL1500_.jpg",
+   "max": 12.37,
+   "verdict": "OUT OF STOCK"
+  }
+ ]
+}
