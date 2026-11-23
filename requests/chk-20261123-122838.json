@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-20261123-122838",
+ "finishedAt": "2026-11-23T12:33:53Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0FCFVXJJN",
+   "key": "B0FCFVXJJN",
+   "url": "https://www.amazon.com/dp/B0FCFVXJJN",
+   "checkedAt": "2026-11-23T12:33:53Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Funko POP! Deluxe: WWE - Roman Reigns",
+   "brand": "Funko",
+   "price": 27.94,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 29.99,
+   "listPriceKind": "list",
+   "pctOff": 6.8,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "MODERN DESIGNS MODERN DESIGNS Sold by MODERN DESIGNS",
+   "soldByAmazon": false,
+   "boughtPastMonth": 200,
+   "rating": 4.5,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/613rsIUPtQL._AC_SL1300_.jpg",
+   "max": 26.11,
+   "verdict": "TOO HIGH: 27.94 is over your max 26.11"
+  }
+ ]
+}
