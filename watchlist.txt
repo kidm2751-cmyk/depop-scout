@@ -1,6 +1,3 @@
-sha: 73ee00dda40a7c148e82fc9897ccc4ae61c6ea50
-sha: 83d1f6cb8b6ef73bb57aa588d4a0e5080df38072
-sha: fba4f21c31789854c53513a9fc92cc642ed528e1
 # Amazon watchlist: checked every hour. One item per line:
 #   ASIN (or Amazon link)   your max buy price (optional)   a note (optional)
 # Discord gets a message when the price goes over your max, the item goes out of stock or comes back,
@@ -20,7 +17,6 @@ B08817H6HS 11.03 BeeVines silk sleep mask 2-pack, listed on eBay at 19.15
 B0FXRX6N7Y 16.99 TENTVIA Fire Pit Cover, listed on eBay at 29.98
 B07F4KMBHL 6.79 Liquitex BASICS Acrylic Paint Green Gray, listed on eBay at 13.26
 B098TQDLY6 29.99 YouTheFan NFL Bengals 3D Logo Wall Art, listed on eBay at 50.60
-B0G4WXXQDN 12.37 Kristin Ess Volumizing Dry Shampoo, listed on eBay at 21.01
 B0FMS5JG7T 9.99 LEGO City Hot Rod 60485, listed on eBay at 17.71
 B001IAG7G2 6.97 Aquaphor Advanced Therapy Healing Ointment 2-pack, listed on eBay at 13.51
 B086H4FKD9 10.79 Chuckit! Ultra Dog Balls Medium set of 3, listed on eBay at 18.82
@@ -226,6 +222,7 @@ https://www.depop.com/products/coolgugl600-christian-audigier-navy-blue-zip-42d6
 
 
 B084KV65KJ 17.31 Poppi Prebiotic Soda Raspberry Rose 12-pack, listed on eBay at 27.88
+
 
 
 
