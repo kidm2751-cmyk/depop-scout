@@ -5777,16 +5777,16 @@
  },
  "depop:armanclotheo-antigua-san-diego-padres-sd-10b4": {
   "brand": "Antigua Apparel",
-  "buyerFee": 1.46,
-  "checkedAt": "2026-11-24T03:19:00Z",
+  "buyerFee": 1.4,
+  "checkedAt": "2026-11-24T05:45:40Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:armanclotheo-antigua-san-diego-padres-sd-10b4",
-  "max": 18.89,
+  "max": 99.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/482026016/4990197546_b01f1839103d4e479e6ca5b738420f69/P0.jpg",
   "platform": "depop",
-  "price": 9.1,
+  "price": 8.0,
   "seller": "armanclothes",
   "shipping": 8.0,
   "shippingKnown": false,
@@ -5794,11 +5794,11 @@
   "slug": "armanclotheo-antigua-san-diego-padres-sd-10b4",
   "sold": false,
   "status": "ok",
-  "tax": 1.03,
+  "tax": 0.92,
   "title": "Antigua San Diego Padres SD Logo Full Zip Fleece...",
-  "totalCost": 19.58,
+  "totalCost": 18.32,
   "url": "https://www.depop.com/products/armanclotheo-antigua-san-diego-padres-sd-10b4/",
-  "verdict": "TOO HIGH: 19.58 total is over your max 18.89"
+  "verdict": "OK: 18.32 total is at or under your max 99.00"
  },
  "depop:avriepeck-salomon-orange-puffer-jacket-size-2f1d": {
   "brand": "Salomon",
@@ -6278,11 +6278,11 @@
  "depop:fem7elling-vintage-y2k-bench-barbour-style-2e16": {
   "brand": "Bench",
   "buyerFee": 1.87,
-  "checkedAt": "2026-11-24T03:15:32Z",
+  "checkedAt": "2026-11-24T05:44:31Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:fem7elling-vintage-y2k-bench-barbour-style-2e16",
-  "max": 31.12,
+  "max": 99.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/34580530/5139513713_5fa1da5064ff42b29a717867a46e1457/P0.jpg",
   "platform": "depop",
@@ -6298,7 +6298,7 @@
   "title": "Vintage Y2K Bench Barbour style waxed faux leather...",
   "totalCost": 27.1,
   "url": "https://www.depop.com/products/fem7elling-vintage-y2k-bench-barbour-style-2e16/",
-  "verdict": "OK: 27.10 total is at or under your max 31.12"
+  "verdict": "OK: 27.10 total is at or under your max 99.00"
  },
  "depop:florp19k1-nike-lebron-james-purple-2d0b": {
   "brand": "Nike",
@@ -6327,16 +6327,16 @@
  },
  "depop:gc_thrimt-levis-701-high-flare-jeans-407d": {
   "brand": "Levi's",
-  "buyerFee": 1.39,
-  "checkedAt": "2026-11-24T03:20:12Z",
+  "buyerFee": 1.34,
+  "checkedAt": "2026-11-24T05:46:59Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:gc_thrimt-levis-701-high-flare-jeans-407d",
-  "max": 16.01,
+  "max": 99.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/43097105/5107895839_a17bee27f35c4c8a9850a769b753ee9d/P0.jpg",
   "platform": "depop",
-  "price": 7.79,
+  "price": 6.75,
   "seller": "gc_thrift",
   "shipping": 8.0,
   "shippingKnown": false,
@@ -6344,11 +6344,11 @@
   "slug": "gc_thrimt-levis-701-high-flare-jeans-407d",
   "sold": false,
   "status": "ok",
-  "tax": 0.9,
+  "tax": 0.79,
   "title": "Levi's 701 High Flare Jeans\nSize 26\n#highflare...",
-  "totalCost": 18.07,
+  "totalCost": 16.88,
   "url": "https://www.depop.com/products/gc_thrimt-levis-701-high-flare-jeans-407d/",
-  "verdict": "TOO HIGH: 18.07 total is over your max 16.01"
+  "verdict": "OK: 16.88 total is at or under your max 99.00"
  },
  "depop:hava_sxop-converse-x-neighborhood-black-hoodie-8e4b": {
   "brand": "Converse",
@@ -6378,11 +6378,11 @@
  "depop:heodasshype-anti-social-social-club-x-da28": {
   "brand": "Anti Social Social Club",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-24T03:23:35Z",
+  "checkedAt": "2026-11-24T05:46:39Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:heodasshype-anti-social-social-club-x-da28",
-  "max": 17.19,
+  "max": 99.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/52360457/3659661709_f21127d2c4f04f238bb203ad60a8fd18/P0.jpg",
   "platform": "depop",
@@ -6398,7 +6398,7 @@
   "title": "Anti Social Social Club x Neighborhood white hoodie...",
   "totalCost": 20.62,
   "url": "https://www.depop.com/products/heodasshype-anti-social-social-club-x-da28/",
-  "verdict": "TOO HIGH: 20.62 total is over your max 17.19"
+  "verdict": "OK: 20.62 total is at or under your max 99.00"
  },
  "depop:icfuldbemid-nike-reversible-new-york-jets-b93a": {
   "brand": "Nike",
@@ -6801,11 +6801,11 @@
  "depop:karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f": {
   "brand": "Nanamica",
   "buyerFee": 2.45,
-  "checkedAt": "2026-11-24T03:16:47Z",
+  "checkedAt": "2026-11-24T05:44:55Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f",
-  "max": 47.67,
+  "max": 99.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/49478294/4937628013_4e534e8a7eff4818bc277f3de98e483a/P0.jpg",
   "platform": "depop",
@@ -6821,7 +6821,7 @@
   "title": "Tan vintage Nanamica jacket in size S but fits like...",
   "totalCost": 42.52,
   "url": "https://www.depop.com/products/karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f/",
-  "verdict": "OK: 42.52 total is at or under your max 47.67"
+  "verdict": "OK: 42.52 total is at or under your max 99.00"
  },
  "depop:kasymeborjas14-ksubi-blue-denim-mini-skirt-162c": {
   "brand": "Ksubi",
@@ -6876,11 +6876,11 @@
  "depop:lamodamarket-grey-beavis-and-butthead-crewneck-1de9": {
   "brand": "Urban Outfitters",
   "buyerFee": 1.7,
-  "checkedAt": "2026-11-24T03:21:20Z",
+  "checkedAt": "2026-11-24T05:46:00Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:lamodamarket-grey-beavis-and-butthead-crewneck-1de9",
-  "max": 22.46,
+  "max": 99.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/50832795/3514545184_80ce024478e942a18610f263827faf94/P0.jpg",
   "platform": "depop",
@@ -6896,7 +6896,7 @@
   "title": "Grey Beavis and Butthead crewneck sweatshirt Size M...",
   "totalCost": 25.23,
   "url": "https://www.depop.com/products/lamodamarket-grey-beavis-and-butthead-crewneck-1de9/",
-  "verdict": "TOO HIGH: 25.23 total is over your max 22.46"
+  "verdict": "OK: 25.23 total is at or under your max 99.00"
  },
  "depop:luhchjzz-vintage-1990s-starter-navy-orange-4b53": {
   "brand": "Starter",
@@ -7100,28 +7100,28 @@
  },
  "depop:modern_c-vintage-cyber-y2k-womens-christian-bffd": {
   "brand": "Christian Audigier",
-  "buyerFee": 1.82,
-  "checkedAt": "2026-11-24T03:22:23Z",
+  "buyerFee": 1.75,
+  "checkedAt": "2026-11-24T05:46:19Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:modern_c-vintage-cyber-y2k-womens-christian-bffd",
-  "max": 21.05,
+  "max": 99.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/28944601/5016013593_4618b6a6bc7f4f06ae8512c38bd550ae/P0.jpg",
   "platform": "depop",
-  "price": 16.45,
+  "price": 15.0,
   "seller": "modern__",
   "shipping": 6.0,
   "shippingKnown": false,
-  "size": "XXL",
+  "size": "M",
   "slug": "modern_c-vintage-cyber-y2k-womens-christian-bffd",
   "sold": false,
   "status": "ok",
-  "tax": 1.78,
+  "tax": 1.63,
   "title": "Vintage cyber y2k womens Christian Audigier graphic...",
-  "totalCost": 26.05,
+  "totalCost": 24.38,
   "url": "https://www.depop.com/products/modern_c-vintage-cyber-y2k-womens-christian-bffd/",
-  "verdict": "TOO HIGH: 26.05 total is over your max 21.05"
+  "verdict": "OK: 24.38 total is at or under your max 99.00"
  },
  "depop:monosqmot-vintage-2000s-y2k-nfl-seattle-008b": {
   "brand": "NFL",
@@ -7801,11 +7801,11 @@
  "depop:youdiversal-nike-jacket-navy-size-medium-7a0f": {
   "brand": "Nike",
   "buyerFee": 1.73,
-  "checkedAt": "2026-11-24T03:17:55Z",
+  "checkedAt": "2026-11-24T05:45:18Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:youdiversal-nike-jacket-navy-size-medium-7a0f",
-  "max": 53.43,
+  "max": 99.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/332114491/4658500559_3149d30ca9424afa9c83e8e1db4aeb09/P0.jpg",
   "platform": "depop",
@@ -7821,6 +7821,6 @@
   "title": "Nike Zip Up Jacket\nNavy &amp; black\nSize Medium\nSend...",
   "totalCost": 25.81,
   "url": "https://www.depop.com/products/youdiversal-nike-jacket-navy-size-medium-7a0f/",
-  "verdict": "OK: 25.81 total is at or under your max 53.43"
+  "verdict": "OK: 25.81 total is at or under your max 99.00"
  }
 }
