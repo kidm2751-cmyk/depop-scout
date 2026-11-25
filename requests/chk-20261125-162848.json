@@ -1,0 +1,18 @@
+{
+ "ok": false,
+ "requestId": "chk-20261125-162848",
+ "finishedAt": "2026-11-25T16:29:52Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "dinguo627-kith-classics-gray-workout-hoodie-a162",
+   "key": "depop:dinguo627-kith-classics-gray-workout-hoodie-a162",
+   "url": "https://www.depop.com/products/dinguo627-kith-classics-gray-workout-hoodie-a162/",
+   "checkedAt": "2026-11-25T16:29:28Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  }
+ ]
+}
