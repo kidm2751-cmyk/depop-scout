@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261125-165920",
- "finishedAt": "2026-11-25T17:00:10Z",
+ "requestId": "chk-20261125-170025",
+ "finishedAt": "2026-11-25T17:01:40Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "tjp1i_433-green-fruit-of-the-loom-de2e",
-   "key": "depop:tjp1i_433-green-fruit-of-the-loom-de2e",
-   "url": "https://www.depop.com/products/tjp1i_433-green-fruit-of-the-loom-de2e/",
-   "checkedAt": "2026-11-25T16:59:49Z",
+   "slug": "ma6as_hustle-bear-the-beams-gray-945b",
+   "key": "depop:ma6as_hustle-bear-the-beams-gray-945b",
+   "url": "https://www.depop.com/products/ma6as_hustle-bear-the-beams-gray-945b/",
+   "checkedAt": "2026-11-25T17:01:16Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
