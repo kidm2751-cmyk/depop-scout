@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261125-162848",
- "finishedAt": "2026-11-25T16:29:52Z",
+ "requestId": "chk-20261125-163012",
+ "finishedAt": "2026-11-25T16:31:03Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "dinguo627-kith-classics-gray-workout-hoodie-a162",
-   "key": "depop:dinguo627-kith-classics-gray-workout-hoodie-a162",
-   "url": "https://www.depop.com/products/dinguo627-kith-classics-gray-workout-hoodie-a162/",
-   "checkedAt": "2026-11-25T16:29:28Z",
+   "slug": "1z_sells-vintage-disney-goofy-hoodie-good-707e",
+   "key": "depop:1z_sells-vintage-disney-goofy-hoodie-good-707e",
+   "url": "https://www.depop.com/products/1z_sells-vintage-disney-goofy-hoodie-good-707e/",
+   "checkedAt": "2026-11-25T16:30:41Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
