@@ -1793,7 +1793,7 @@
   "asin": "B08XTG3QSF",
   "boughtPastMonth": 8000,
   "brand": "",
-  "checkedAt": "2026-11-24T21:12:55Z",
+  "checkedAt": "2026-11-25T00:20:05Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1801,12 +1801,12 @@
   "listPrice": 46.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 31.76,
   "ok": true,
-  "pctOff": 32.4,
+  "pctOff": 32.2,
   "photo": "https://m.media-amazon.com/images/I/81IzEmhj9aS._AC_SL1500_.jpg",
   "platform": "amazon",
-  "price": 31.76,
+  "price": 31.84,
   "priceAfterCoupon": null,
   "rating": 4.7,
   "reviews": null,
@@ -1815,7 +1815,7 @@
   "status": "ok",
   "title": "Melissa & Doug PAW Patrol Pup Pack Backpack",
   "url": "https://www.amazon.com/dp/B08XTG3QSF",
-  "verdict": "OK: 31.76 is at or under your max 45.00"
+  "verdict": "TOO HIGH: 31.84 is over your max 31.76"
  },
  "B091MMRXCK": {
   "asin": "B091MMRXCK",
