@@ -1,0 +1,18 @@
+{
+ "ok": false,
+ "requestId": "chk-20261125-165920",
+ "finishedAt": "2026-11-25T17:00:10Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "tjp1i_433-green-fruit-of-the-loom-de2e",
+   "key": "depop:tjp1i_433-green-fruit-of-the-loom-de2e",
+   "url": "https://www.depop.com/products/tjp1i_433-green-fruit-of-the-loom-de2e/",
+   "checkedAt": "2026-11-25T16:59:49Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  }
+ ]
+}
