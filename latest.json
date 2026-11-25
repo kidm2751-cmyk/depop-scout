@@ -5628,11 +5628,11 @@
  "depop:1z_sells-vintage-disney-goofy-hoodie-good-707e": {
   "brand": "Disney",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-25T07:33:05Z",
+  "checkedAt": "2026-11-25T09:49:51Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:1z_sells-vintage-disney-goofy-hoodie-good-707e",
-  "max": 19.61,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/49197257/5091261965_edd45e3e35f448f0a758edb24760ec48/P0.jpg",
   "platform": "depop",
@@ -5648,7 +5648,7 @@
   "title": "vintage disney goofy hoodie \n\n\ngood condition...",
   "totalCost": 20.61,
   "url": "https://www.depop.com/products/1z_sells-vintage-disney-goofy-hoodie-good-707e/",
-  "verdict": "TOO HIGH: 20.61 total is over your max 19.61"
+  "verdict": "OK: 20.61 total is at or under your max 99.99"
  },
  "depop:3rdeyethrifts_-vintage-undercover-wear-teal-slip": {
   "brand": "Undercover",
@@ -5853,11 +5853,11 @@
  "depop:behrthrift-vintage-todd-black-bomber-snap-34b9": {
   "brand": "Todd Snyder",
   "buyerFee": 2.25,
-  "checkedAt": "2026-11-25T07:34:37Z",
+  "checkedAt": "2026-11-25T09:50:31Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:behrthrift-vintage-todd-black-bomber-snap-34b9",
-  "max": 31.84,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/442916861/5191580843_f642d1b9757a421983ca92ed945b08a4/P0.jpg",
   "platform": "depop",
@@ -5873,7 +5873,7 @@
   "title": "Vintage Todd black bomber snap up jacket \nMen\u2019s size...",
   "totalCost": 37.91,
   "url": "https://www.depop.com/products/behrthrift-vintage-todd-black-bomber-snap-34b9/",
-  "verdict": "TOO HIGH: 37.91 total is over your max 31.84"
+  "verdict": "OK: 37.91 total is at or under your max 99.99"
  },
  "depop:berweara-nudie-jeans-straight-leg-gray-952e": {
   "brand": "Nudie Jeans",
@@ -5928,11 +5928,11 @@
  "depop:canpbd137-ag-adriano-goldschmied-navy-denim-1f06": {
   "brand": "AG Jeans",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-25T07:30:37Z",
+  "checkedAt": "2026-11-25T09:48:52Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:canpbd137-ag-adriano-goldschmied-navy-denim-1f06",
-  "max": 16.1,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/486147400/5110200061_32c0a5ec03b042958a07e13b2368a382/P0.jpg",
   "platform": "depop",
@@ -5948,20 +5948,20 @@
   "title": "AG Adriano Goldschmied navy denim jacket #denim...",
   "totalCost": 18.32,
   "url": "https://www.depop.com/products/canpbd137-ag-adriano-goldschmied-navy-denim-1f06/",
-  "verdict": "TOO HIGH: 18.32 total is over your max 16.10"
+  "verdict": "OK: 18.32 total is at or under your max 99.99"
  },
  "depop:chrisdgalsss-nfl-detroit-lions-blue-jersey-7885": {
   "brand": "NFL",
-  "buyerFee": 1.34,
-  "checkedAt": "2026-11-25T07:40:10Z",
+  "buyerFee": 1.29,
+  "checkedAt": "2026-11-25T09:52:28Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:chrisdgalsss-nfl-detroit-lions-blue-jersey-7885",
-  "max": 12.14,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/478270607/4665989801_b7ab4a7268f94dd183688d229f12da47/P0.jpg",
   "platform": "depop",
-  "price": 6.84,
+  "price": 5.85,
   "seller": "chrisdealsss",
   "shipping": 6.0,
   "shippingKnown": false,
@@ -5969,11 +5969,11 @@
   "slug": "chrisdgalsss-nfl-detroit-lions-blue-jersey-7885",
   "sold": false,
   "status": "ok",
-  "tax": 0.8,
+  "tax": 0.7,
   "title": "NFL Detroit Lions blue jersey with white and silver...",
-  "totalCost": 14.98,
+  "totalCost": 13.84,
   "url": "https://www.depop.com/products/chrisdgalsss-nfl-detroit-lions-blue-jersey-7885/",
-  "verdict": "TOO HIGH: 14.98 total is over your max 12.14"
+  "verdict": "OK: 13.84 total is at or under your max 99.99"
  },
  "depop:clos9tneccesities-blue-denim-baggy-relaxed-oversized-e48e": {
   "brand": "Evisu",
@@ -6002,16 +6002,16 @@
  },
  "depop:cocomnaps-apple-bottom-jeans-size-56-6a8e": {
   "brand": "Apple Bottoms",
-  "buyerFee": 1.82,
-  "checkedAt": "2026-11-25T07:29:24Z",
+  "buyerFee": 1.75,
+  "checkedAt": "2026-11-25T09:48:32Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:cocomnaps-apple-bottom-jeans-size-56-6a8e",
-  "max": 24.3,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/325677675/3858649030_ac84375ec0124b2db4f0698cefce9c61/P0.jpg",
   "platform": "depop",
-  "price": 16.45,
+  "price": 15.0,
   "seller": "coco_naps",
   "shipping": 8.0,
   "shippingKnown": false,
@@ -6019,11 +6019,11 @@
   "slug": "cocomnaps-apple-bottom-jeans-size-56-6a8e",
   "sold": false,
   "status": "ok",
-  "tax": 1.78,
+  "tax": 1.63,
   "title": "Apple bottom jeans size 5/6 kids early 00\u2019 Pink...",
-  "totalCost": 28.05,
+  "totalCost": 26.38,
   "url": "https://www.depop.com/products/cocomnaps-apple-bottom-jeans-size-56-6a8e/",
-  "verdict": "TOO HIGH: 28.05 total is over your max 24.30"
+  "verdict": "OK: 26.38 total is at or under your max 99.99"
  },
  "depop:coolgugl600-christian-audigier-navy-blue-zip-42d6": {
   "brand": "Christian Audigier",
@@ -6103,11 +6103,11 @@
  "depop:daenaclo2et-house-of-cb-blue-sequin-5193": {
   "brand": "House of CB",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-25T07:20:59Z",
+  "checkedAt": "2026-11-25T09:46:15Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:daenaclo2et-house-of-cb-blue-sequin-5193",
-  "max": 11.09,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/295435455/5150309973_c88b579ee3d54243936a29214837bb56/P0.jpg",
   "platform": "depop",
@@ -6123,20 +6123,20 @@
   "title": "House of CB blue sequin crop top with silver floral...",
   "totalCost": 16.32,
   "url": "https://www.depop.com/products/daenaclo2et-house-of-cb-blue-sequin-5193/",
-  "verdict": "TOO HIGH: 16.32 total is over your max 11.09"
+  "verdict": "OK: 16.32 total is at or under your max 99.99"
  },
  "depop:danteahim14-needles-black-t-shirt-with-green-808d": {
   "brand": "Needles",
-  "buyerFee": 1.56,
-  "checkedAt": "2026-11-25T07:40:54Z",
+  "buyerFee": 1.5,
+  "checkedAt": "2026-11-25T09:52:47Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:danteahim14-needles-black-t-shirt-with-green-808d",
-  "max": 13.19,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/252325165/4944233973_735c33f74a1c42339102f73a8341cb18/P0.jpg",
   "platform": "depop",
-  "price": 11.2,
+  "price": 10.0,
   "seller": "dante_him14",
   "shipping": 6.0,
   "shippingKnown": false,
@@ -6144,11 +6144,11 @@
   "slug": "danteahim14-needles-black-t-shirt-with-green-808d",
   "sold": false,
   "status": "ok",
-  "tax": 1.24,
+  "tax": 1.12,
   "title": "Needles black t-shirt with green 'Soccer Club' text...",
-  "totalCost": 20.0,
+  "totalCost": 18.62,
   "url": "https://www.depop.com/products/danteahim14-needles-black-t-shirt-with-green-808d/",
-  "verdict": "TOO HIGH: 20.00 total is over your max 13.19"
+  "verdict": "OK: 18.62 total is at or under your max 99.99"
  },
  "depop:dcrosell8-brown-suede-birkenstock-boston-clogs-d509": {
   "brand": "Birkenstock",
@@ -6202,16 +6202,16 @@
  },
  "depop:dinguo627-kith-classics-gray-workout-hoodie-a162": {
   "brand": "Kith",
-  "buyerFee": 1.84,
-  "checkedAt": "2026-11-25T07:31:57Z",
+  "buyerFee": 1.77,
+  "checkedAt": "2026-11-25T09:49:31Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:dinguo627-kith-classics-gray-workout-hoodie-a162",
-  "max": 22.75,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/399859701/5165385730_c960cb235dbd4fdbb9c3dfa98677de73/P0.jpg",
   "platform": "depop",
-  "price": 16.76,
+  "price": 15.3,
   "seller": "dingus627",
   "shipping": 8.0,
   "shippingKnown": false,
@@ -6219,11 +6219,11 @@
   "slug": "dinguo627-kith-classics-gray-workout-hoodie-a162",
   "sold": false,
   "status": "ok",
-  "tax": 1.81,
+  "tax": 1.66,
   "title": "Kith classics gray workout  hoodie size L #kith...",
-  "totalCost": 28.41,
+  "totalCost": 26.73,
   "url": "https://www.depop.com/products/dinguo627-kith-classics-gray-workout-hoodie-a162/",
-  "verdict": "TOO HIGH: 28.41 total is over your max 22.75"
+  "verdict": "OK: 26.73 total is at or under your max 99.99"
  },
  "depop:dripcheccthestore-nike-x-nocta-black-7676": {
   "brand": "NOCTA",
@@ -6352,16 +6352,16 @@
  },
  "depop:hava_sxop-converse-x-neighborhood-black-hoodie-8e4b": {
   "brand": "Converse",
-  "buyerFee": 1.46,
-  "checkedAt": "2026-11-25T07:37:31Z",
+  "buyerFee": 1.4,
+  "checkedAt": "2026-11-25T09:51:30Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:hava_sxop-converse-x-neighborhood-black-hoodie-8e4b",
-  "max": 15.09,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/282135004/3791557578_0d18f61215a34b8c8fd20651e3b4f37e/P0.jpg",
   "platform": "depop",
-  "price": 9.1,
+  "price": 8.0,
   "seller": "hava_shop",
   "shipping": 8.0,
   "shippingKnown": false,
@@ -6369,11 +6369,11 @@
   "slug": "hava_sxop-converse-x-neighborhood-black-hoodie-8e4b",
   "sold": false,
   "status": "ok",
-  "tax": 1.03,
+  "tax": 0.92,
   "title": "Converse x Neighborhood black hoodie Size XS #collab...",
-  "totalCost": 19.58,
+  "totalCost": 18.32,
   "url": "https://www.depop.com/products/hava_sxop-converse-x-neighborhood-black-hoodie-8e4b/",
-  "verdict": "TOO HIGH: 19.58 total is over your max 15.09"
+  "verdict": "OK: 18.32 total is at or under your max 99.99"
  },
  "depop:heodasshype-anti-social-social-club-x-da28": {
   "brand": "Anti Social Social Club",
@@ -6402,16 +6402,16 @@
  },
  "depop:icfuldbemid-nike-reversible-new-york-jets-b93a": {
   "brand": "Nike",
-  "buyerFee": 2.29,
-  "checkedAt": "2026-11-25T07:26:45Z",
+  "buyerFee": 2.2,
+  "checkedAt": "2026-11-25T09:47:52Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:icfuldbemid-nike-reversible-new-york-jets-b93a",
-  "max": 51.27,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/424432798/5104360398_64105a06aa9943ea9694c0f9ba4af1b4/P0.jpg",
   "platform": "depop",
-  "price": 25.9,
+  "price": 24.0,
   "seller": "icouldbemid",
   "shipping": 6.0,
   "shippingKnown": false,
@@ -6419,11 +6419,11 @@
   "slug": "icfuldbemid-nike-reversible-new-york-jets-b93a",
   "sold": false,
   "status": "ok",
-  "tax": 2.75,
+  "tax": 2.55,
   "title": "Nike Reversible New York Jets Vintage Style Starter...",
-  "totalCost": 36.94,
+  "totalCost": 34.75,
   "url": "https://www.depop.com/products/icfuldbemid-nike-reversible-new-york-jets-b93a/",
-  "verdict": "OK: 36.94 total is at or under your max 51.27"
+  "verdict": "OK: 34.75 total is at or under your max 99.99"
  },
  "depop:isaacstohed-vintage-independent-trucks-tank-top-aa51": {
   "brand": "Other",
@@ -6453,11 +6453,11 @@
  "depop:ishi_bei-navy-gray-starter-michigan-e3a7": {
   "brand": "Starter",
   "buyerFee": 1.7,
-  "checkedAt": "2026-11-25T07:21:48Z",
+  "checkedAt": "2026-11-25T09:46:35Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:ishi_bei-navy-gray-starter-michigan-e3a7",
-  "max": 28.53,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/21330695/5111140502_3a06486d03474b5a8541eafe72cdda17/P0.jpg",
   "platform": "depop",
@@ -6473,16 +6473,16 @@
   "title": "Navy &amp; Gray Starter Michigan polyester quarter zip...",
   "totalCost": 23.23,
   "url": "https://www.depop.com/products/ishi_bei-navy-gray-starter-michigan-e3a7/",
-  "verdict": "OK: 23.23 total is at or under your max 28.53"
+  "verdict": "OK: 23.23 total is at or under your max 99.99"
  },
  "depop:jace2mhm-y2k-burton-snowboard-graphic-shirt-6ef7": {
   "brand": "Burton",
   "buyerFee": 2.0,
-  "checkedAt": "2026-11-25T07:23:59Z",
+  "checkedAt": "2026-11-25T09:47:13Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:jace2mhm-y2k-burton-snowboard-graphic-shirt-6ef7",
-  "max": 23.69,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/499933322/4609408539_97849c1a6ebe4796b76518a4c763697c/P0.jpg",
   "platform": "depop",
@@ -6498,16 +6498,16 @@
   "title": "Y2K Burton snowboard shirt \nWoman\u2019s small \n\nFrom...",
   "totalCost": 30.14,
   "url": "https://www.depop.com/products/jace2mhm-y2k-burton-snowboard-graphic-shirt-6ef7/",
-  "verdict": "TOO HIGH: 30.14 total is over your max 23.69"
+  "verdict": "OK: 30.14 total is at or under your max 99.99"
  },
  "depop:jadedcatt92j-agolde-light-wash-denim-jeans-8f6b": {
   "brand": "AGOLDE",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-25T07:16:53Z",
+  "checkedAt": "2026-11-25T09:44:46Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:jadedcatt92j-agolde-light-wash-denim-jeans-8f6b",
-  "max": 39.76,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/50793123/5143904453_416f681662a54b719f6323c00a634a8f/P0.jpg",
   "platform": "depop",
@@ -6523,16 +6523,16 @@
   "title": "AGOLDE light wash denim jeans with distressed...",
   "totalCost": 18.32,
   "url": "https://www.depop.com/products/jadedcatt92j-agolde-light-wash-denim-jeans-8f6b/",
-  "verdict": "OK: 18.32 total is at or under your max 39.76"
+  "verdict": "OK: 18.32 total is at or under your max 99.99"
  },
  "depop:jamesy_roy06-black-white-margaritaville-jimmy-59eb": {
   "brand": "Other",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-25T07:38:47Z",
+  "checkedAt": "2026-11-25T09:51:49Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:jamesy_roy06-black-white-margaritaville-jimmy-59eb",
-  "max": 15.09,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/290293067/4584124701_5c8c3c322c73422d87441c39756bc43b/P0.jpg",
   "platform": "depop",
@@ -6548,7 +6548,7 @@
   "title": "Black &amp; white Margaritaville Jimmy Buffett zip-up...",
   "totalCost": 16.32,
   "url": "https://www.depop.com/products/jamesy_roy06-black-white-margaritaville-jimmy-59eb/",
-  "verdict": "TOO HIGH: 16.32 total is over your max 15.09"
+  "verdict": "OK: 16.32 total is at or under your max 99.99"
  },
  "depop:jbkmom17-pink-toodler-juicy-couture-velour-fc8c": {
   "brand": "Juicy Couture",
@@ -6826,11 +6826,11 @@
  "depop:kasymeborjas14-ksubi-blue-denim-mini-skirt-162c": {
   "brand": "Ksubi",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-25T07:41:48Z",
+  "checkedAt": "2026-11-25T09:53:07Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:kasymeborjas14-ksubi-blue-denim-mini-skirt-162c",
-  "max": 13.19,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/214159599/4220057178_c54307d20f0b4e8cba11df05b1dcec4b/P0.jpg",
   "platform": "depop",
@@ -6846,7 +6846,7 @@
   "title": "Ksubi blue denim mini skirt #ksubi #denim",
   "totalCost": 18.62,
   "url": "https://www.depop.com/products/kasymeborjas14-ksubi-blue-denim-mini-skirt-162c/",
-  "verdict": "TOO HIGH: 18.62 total is over your max 13.19"
+  "verdict": "OK: 18.62 total is at or under your max 99.99"
  },
  "depop:krs15paige-pearl-jam-2022-tour-tee-6fdb": {
   "brand": "Bella+Canvas",
@@ -6951,11 +6951,11 @@
  "depop:ma6as_hustle-bear-the-beams-gray-945b": {
   "brand": "Shoe the Bear",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-25T07:20:00Z",
+  "checkedAt": "2026-11-25T09:45:55Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:ma6as_hustle-bear-the-beams-gray-945b",
-  "max": 15.09,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/209661158/5074356416_25dc895362de45c7ae79cf94b8b1b0b4/P0.jpg",
   "platform": "depop",
@@ -6971,16 +6971,16 @@
   "title": "Bear the Beams gray &amp; blue abstract wavy line...",
   "totalCost": 16.32,
   "url": "https://www.depop.com/products/ma6as_hustle-bear-the-beams-gray-945b/",
-  "verdict": "TOO HIGH: 16.32 total is over your max 15.09"
+  "verdict": "OK: 16.32 total is at or under your max 99.99"
  },
  "depop:makjylalevins-healing-hands-hh360-noah-cargo-e1a6": {
   "brand": "Healing Hands",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-25T07:28:01Z",
+  "checkedAt": "2026-11-25T09:48:12Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:makjylalevins-healing-hands-hh360-noah-cargo-e1a6",
-  "max": 26.8,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/424309047/4899781021_12916c356a4147929eecffebde252bdf/P0.jpg",
   "platform": "depop",
@@ -6996,7 +6996,7 @@
   "title": "Healing Hands HH360\u00b0 Noah Cargo Scrub Pants Black...",
   "totalCost": 20.62,
   "url": "https://www.depop.com/products/makjylalevins-healing-hands-hh360-noah-cargo-e1a6/",
-  "verdict": "OK: 20.62 total is at or under your max 26.80"
+  "verdict": "OK: 20.62 total is at or under your max 99.99"
  },
  "depop:mgapaulina14-blue-denim-jeans-with-a-8211": {
   "brand": "RE/DONE",
@@ -7251,11 +7251,11 @@
  "depop:orbitalplus3time-brown-cable-knit-quarter-zip-ba9a": {
   "brand": "Karl Kani",
   "buyerFee": 1.48,
-  "checkedAt": "2026-11-25T07:31:24Z",
+  "checkedAt": "2026-11-25T09:49:11Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:orbitalplus3time-brown-cable-knit-quarter-zip-ba9a",
-  "max": 12.67,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/39366079/4913363468_dd4ca25725b443ffa41a106b21fd689c/P0.jpg",
   "platform": "depop",
@@ -7271,16 +7271,16 @@
   "title": "Brown cable knit quarter zip sweater in a L...",
   "totalCost": 20.05,
   "url": "https://www.depop.com/products/orbitalplus3time-brown-cable-knit-quarter-zip-ba9a/",
-  "verdict": "TOO HIGH: 20.05 total is over your max 12.67"
+  "verdict": "OK: 20.05 total is at or under your max 99.99"
  },
  "depop:paigearuz-travis-mathew-pink-tank-top-c89a": {
   "brand": "TravisMathew",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-25T07:39:30Z",
+  "checkedAt": "2026-11-25T09:52:09Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:paigearuz-travis-mathew-pink-tank-top-c89a",
-  "max": 13.19,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/24093341/5191532469_378347f3e23543378da24e07984affc7/P0.jpg",
   "platform": "depop",
@@ -7296,7 +7296,7 @@
   "title": "Travis Mathew pink tank top- Size Small #athletic...",
   "totalCost": 18.62,
   "url": "https://www.depop.com/products/paigearuz-travis-mathew-pink-tank-top-c89a/",
-  "verdict": "TOO HIGH: 18.62 total is over your max 13.19"
+  "verdict": "OK: 18.62 total is at or under your max 99.99"
  },
  "depop:phaebe359-polo-ralph-lauren-bear-long-0502": {
   "brand": "Polo Ralph Lauren",
@@ -7401,11 +7401,11 @@
  "depop:seb_sellif-white-real-madrid-jersey-with-c949": {
   "brand": "Real Madrid",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-25T07:25:14Z",
+  "checkedAt": "2026-11-25T09:47:33Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:seb_sellif-white-real-madrid-jersey-with-c949",
-  "max": 26.84,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/441511115/4755223257_8cce36e0ccb547ea944e0399e756bb8e/P0.jpg",
   "platform": "depop",
@@ -7421,20 +7421,20 @@
   "title": "White Real Madrid jersey with gold stripes on...",
   "totalCost": 18.62,
   "url": "https://www.depop.com/products/seb_sellif-white-real-madrid-jersey-with-c949/",
-  "verdict": "OK: 18.62 total is at or under your max 26.84"
+  "verdict": "OK: 18.62 total is at or under your max 99.99"
  },
  "depop:shawndeanhillu-cleveland-cavaliers-red-black-ba46": {
   "brand": "NBA",
-  "buyerFee": 1.56,
-  "checkedAt": "2026-11-25T07:34:00Z",
+  "buyerFee": 1.5,
+  "checkedAt": "2026-11-25T09:50:11Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:shawndeanhillu-cleveland-cavaliers-red-black-ba46",
-  "max": 19.57,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/204440345/4071859487_72f6601980004898b9f5249ba2c459e7/P0.jpg",
   "platform": "depop",
-  "price": 11.2,
+  "price": 10.0,
   "seller": "shawndeanhill897",
   "shipping": 8.0,
   "shippingKnown": false,
@@ -7442,11 +7442,11 @@
   "slug": "shawndeanhillu-cleveland-cavaliers-red-black-ba46",
   "sold": false,
   "status": "ok",
-  "tax": 1.24,
+  "tax": 1.12,
   "title": "Cleveland Cavaliers red + black jacket Size S #NBA...",
-  "totalCost": 22.0,
+  "totalCost": 20.62,
   "url": "https://www.depop.com/products/shawndeanhillu-cleveland-cavaliers-red-black-ba46/",
-  "verdict": "TOO HIGH: 22.00 total is over your max 19.57"
+  "verdict": "OK: 20.62 total is at or under your max 99.99"
  },
  "depop:svwvn_242-rab-purple-blue-windbreaker-efc3": {
   "brand": "Rab",
@@ -7551,11 +7551,11 @@
  "depop:theaycanviking-red-jacket-hartford-whalers-t-58e0": {
   "brand": "Other",
   "buyerFee": 2.05,
-  "checkedAt": "2026-11-25T07:36:24Z",
+  "checkedAt": "2026-11-25T09:51:10Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:theaycanviking-red-jacket-hartford-whalers-t-58e0",
-  "max": 24.75,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/270994982/5090698533_f3fcb03e07b6451b8125ab3d8321f265/P0.jpg",
   "platform": "depop",
@@ -7571,7 +7571,7 @@
   "title": "Red Jacket Hartford Whalers T Shirt XL Gray Vintage...",
   "totalCost": 33.3,
   "url": "https://www.depop.com/products/theaycanviking-red-jacket-hartford-whalers-t-58e0/",
-  "verdict": "TOO HIGH: 33.30 total is over your max 24.75"
+  "verdict": "OK: 33.30 total is at or under your max 99.99"
  },
  "depop:therealwiwf-g-star-raw-blue-denim-jacket-4339": {
   "brand": "G-Star",
@@ -7601,11 +7601,11 @@
  "depop:theresafin1-vintage-y2k-burton-snowboard-womens-304b": {
   "brand": "Burton",
   "buyerFee": 2.0,
-  "checkedAt": "2026-11-25T07:22:53Z",
+  "checkedAt": "2026-11-25T09:46:54Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:theresafin1-vintage-y2k-burton-snowboard-womens-304b",
-  "max": 26.8,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/238955037/4965281159_10120a1e80554d968f850b74fae9d11b/P0.jpg",
   "platform": "depop",
@@ -7621,7 +7621,7 @@
   "title": "Vintage Y2K Burton Snowboard Women's White Graphic...",
   "totalCost": 30.14,
   "url": "https://www.depop.com/products/theresafin1-vintage-y2k-burton-snowboard-womens-304b/",
-  "verdict": "TOO HIGH: 30.14 total is over your max 26.80"
+  "verdict": "OK: 30.14 total is at or under your max 99.99"
  },
  "depop:timthriftso1-outdoor-research-gorp-core-fleece-7c25": {
   "brand": "Outdoor Research",
@@ -7651,11 +7651,11 @@
  "depop:tjp1i_433-green-fruit-of-the-loom-de2e": {
   "brand": "Fruit of the Loom",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-25T07:19:11Z",
+  "checkedAt": "2026-11-25T09:45:33Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:tjp1i_433-green-fruit-of-the-loom-de2e",
-  "max": 12.14,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/256227176/5140443576_3d34cfd5cd224caba423449ca32568d5/P0.jpg",
   "platform": "depop",
@@ -7671,16 +7671,16 @@
   "title": "Green Fruit of the Loom men\u2019s XL t-shirt with yellow...",
   "totalCost": 16.32,
   "url": "https://www.depop.com/products/tjp1i_433-green-fruit-of-the-loom-de2e/",
-  "verdict": "TOO HIGH: 16.32 total is over your max 12.14"
+  "verdict": "OK: 16.32 total is at or under your max 99.99"
  },
  "depop:tuekdougan-footjoy-vintage-navy-blue-sweatshirt-86a8": {
   "brand": "FootJoy",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-25T07:35:40Z",
+  "checkedAt": "2026-11-25T09:50:50Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:tuekdougan-footjoy-vintage-navy-blue-sweatshirt-86a8",
-  "max": 17.19,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/35285684/4907689999_77355ca6925443638f8dc4efefa4853f/P0.jpg",
   "platform": "depop",
@@ -7696,7 +7696,7 @@
   "title": "Footjoy Vintage navy blue sweatshirt with white and...",
   "totalCost": 20.62,
   "url": "https://www.depop.com/products/tuekdougan-footjoy-vintage-navy-blue-sweatshirt-86a8/",
-  "verdict": "TOO HIGH: 20.62 total is over your max 17.19"
+  "verdict": "OK: 20.62 total is at or under your max 99.99"
  },
  "depop:uiroin98-new-balance-2002r-black-sneakers-18f5": {
   "brand": "New Balance",
@@ -7726,11 +7726,11 @@
  "depop:v_rguyen23-pleasures-black-t-shirt-new-without-05ec": {
   "brand": "Pleasures Now",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-25T07:17:58Z",
+  "checkedAt": "2026-11-25T09:45:10Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:v_rguyen23-pleasures-black-t-shirt-new-without-05ec",
-  "max": 11.09,
+  "max": 99.99,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/345072715/4865193460_054c140be11c49078eeb88fe13042d0b/P0.jpg",
   "platform": "depop",
@@ -7746,7 +7746,7 @@
   "title": "Pleasures black t-shirt, new without tags, size L...",
   "totalCost": 16.32,
   "url": "https://www.depop.com/products/v_rguyen23-pleasures-black-t-shirt-new-without-05ec/",
-  "verdict": "TOO HIGH: 16.32 total is over your max 11.09"
+  "verdict": "OK: 16.32 total is at or under your max 99.99"
  },
  "depop:vaztarius-eddie-bauer-grey-1936-skyliner-a6e7": {
   "brand": "Eddie Bauer",
