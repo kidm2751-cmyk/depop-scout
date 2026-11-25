@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-20261125-211803",
+ "finishedAt": "2026-11-25T21:18:54Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0DJ184XFZ",
+   "key": "B0DJ184XFZ",
+   "url": "https://www.amazon.com/dp/B0DJ184XFZ",
+   "checkedAt": "2026-11-25T21:18:54Z",
+   "ok": true,
+   "status": "out_of_stock",
+   "title": "LEGO DUPLO Town Creative Garden & Flowers 10444",
+   "brand": "",
+   "price": null,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": null,
+   "listPriceKind": null,
+   "pctOff": 0,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": false,
+   "seller": "not shown",
+   "soldByAmazon": null,
+   "boughtPastMonth": null,
+   "rating": 4.9,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/81HeLpe0sSL._AC_SL1500_.jpg",
+   "max": 19.95,
+   "verdict": "OUT OF STOCK"
+  }
+ ]
+}
