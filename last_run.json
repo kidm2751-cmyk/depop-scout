@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261125-161951",
- "finishedAt": "2026-11-25T16:20:50Z",
+ "requestId": "chk-20261125-162059",
+ "finishedAt": "2026-11-25T16:22:27Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "modern_c-vintage-cyber-y2k-womens-christian-bffd",
-   "key": "depop:modern_c-vintage-cyber-y2k-womens-christian-bffd",
-   "url": "https://www.depop.com/products/modern_c-vintage-cyber-y2k-womens-christian-bffd/",
-   "checkedAt": "2026-11-25T16:20:29Z",
+   "slug": "v_rguyen23-pleasures-black-t-shirt-new-without-05ec",
+   "key": "depop:v_rguyen23-pleasures-black-t-shirt-new-without-05ec",
+   "url": "https://www.depop.com/products/v_rguyen23-pleasures-black-t-shirt-new-without-05ec/",
+   "checkedAt": "2026-11-25T16:22:03Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
