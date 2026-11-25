@@ -1,33 +1,33 @@
 {
  "ok": true,
- "requestId": "chk-20261125-155010",
- "finishedAt": "2026-11-25T15:50:43Z",
+ "requestId": "chk-20261125-155055",
+ "finishedAt": "2026-11-25T15:51:31Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "shawndeanhillu-cleveland-cavaliers-red-black-ba46",
-   "key": "depop:shawndeanhillu-cleveland-cavaliers-red-black-ba46",
-   "url": "https://www.depop.com/products/shawndeanhillu-cleveland-cavaliers-red-black-ba46/",
-   "checkedAt": "2026-11-25T15:50:41Z",
+   "slug": "tuekdougan-footjoy-vintage-navy-blue-sweatshirt-86a8",
+   "key": "depop:tuekdougan-footjoy-vintage-navy-blue-sweatshirt-86a8",
+   "url": "https://www.depop.com/products/tuekdougan-footjoy-vintage-navy-blue-sweatshirt-86a8/",
+   "checkedAt": "2026-11-25T15:51:29Z",
    "ok": true,
    "status": "ok",
    "sold": false,
    "inStock": true,
-   "title": "Cleveland Cavaliers red + black jacket Size S #NBA...",
-   "brand": "NBA",
+   "title": "Footjoy Vintage navy blue sweatshirt with white and...",
+   "brand": "FootJoy",
    "price": 10.0,
    "shipping": 8.0,
    "shippingKnown": false,
    "buyerFee": 1.5,
    "tax": 1.12,
    "totalCost": 20.62,
-   "size": "S",
+   "size": "M",
    "condition": "Used",
-   "seller": "shawndeanhill897",
-   "photo": "https://media-photos.depop.com/b1/204440345/4071859487_72f6601980004898b9f5249ba2c459e7/P0.jpg",
-   "max": 19.57,
-   "verdict": "TOO HIGH: 20.62 total is over your max 19.57"
+   "seller": "thekikidee",
+   "photo": "https://media-photos.depop.com/r1/35285684/4907689999_77355ca6925443638f8dc4efefa4853f/P0.jpg",
+   "max": 17.19,
+   "verdict": "TOO HIGH: 20.62 total is over your max 17.19"
   }
  ]
 }
