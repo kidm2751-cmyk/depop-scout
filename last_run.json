@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261125-184636",
- "finishedAt": "2026-11-25T18:48:04Z",
+ "requestId": "chk-20261125-184830",
+ "finishedAt": "2026-11-25T18:49:27Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "lamodamarket-grey-beavis-and-butthead-crewneck-1de9",
-   "key": "depop:lamodamarket-grey-beavis-and-butthead-crewneck-1de9",
-   "url": "https://www.depop.com/products/lamodamarket-grey-beavis-and-butthead-crewneck-1de9/",
-   "checkedAt": "2026-11-25T18:47:42Z",
+   "slug": "modern_c-vintage-cyber-y2k-womens-christian-bffd",
+   "key": "depop:modern_c-vintage-cyber-y2k-womens-christian-bffd",
+   "url": "https://www.depop.com/products/modern_c-vintage-cyber-y2k-womens-christian-bffd/",
+   "checkedAt": "2026-11-25T18:49:05Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
