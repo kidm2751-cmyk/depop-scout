@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261125-215020",
- "finishedAt": "2026-11-25T21:51:40Z",
+ "requestId": "chk-20261125-215146",
+ "finishedAt": "2026-11-25T21:52:39Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "modern_c-vintage-cyber-y2k-womens-christian-bffd",
-   "key": "depop:modern_c-vintage-cyber-y2k-womens-christian-bffd",
-   "url": "https://www.depop.com/products/modern_c-vintage-cyber-y2k-womens-christian-bffd/",
-   "checkedAt": "2026-11-25T21:51:17Z",
+   "slug": "heodasshype-anti-social-social-club-x-da28",
+   "key": "depop:heodasshype-anti-social-social-club-x-da28",
+   "url": "https://www.depop.com/products/heodasshype-anti-social-social-club-x-da28/",
+   "checkedAt": "2026-11-25T21:52:16Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
