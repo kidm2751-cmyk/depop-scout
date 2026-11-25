@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261125-163408",
- "finishedAt": "2026-11-25T16:34:59Z",
+ "requestId": "chk-20261125-163512",
+ "finishedAt": "2026-11-25T16:36:26Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "danteahim14-needles-black-t-shirt-with-green-808d",
-   "key": "depop:danteahim14-needles-black-t-shirt-with-green-808d",
-   "url": "https://www.depop.com/products/danteahim14-needles-black-t-shirt-with-green-808d/",
-   "checkedAt": "2026-11-25T16:34:38Z",
+   "slug": "isaacstohed-vintage-independent-trucks-tank-top-aa51",
+   "key": "depop:isaacstohed-vintage-independent-trucks-tank-top-aa51",
+   "url": "https://www.depop.com/products/isaacstohed-vintage-independent-trucks-tank-top-aa51/",
+   "checkedAt": "2026-11-25T16:36:01Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
