@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261125-162349",
- "finishedAt": "2026-11-25T16:24:45Z",
+ "requestId": "chk-20261125-162453",
+ "finishedAt": "2026-11-25T16:26:11Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "ma6as_hustle-bear-the-beams-gray-945b",
-   "key": "depop:ma6as_hustle-bear-the-beams-gray-945b",
-   "url": "https://www.depop.com/products/ma6as_hustle-bear-the-beams-gray-945b/",
-   "checkedAt": "2026-11-25T16:24:23Z",
+   "slug": "ishi_bei-navy-gray-starter-michigan-e3a7",
+   "key": "depop:ishi_bei-navy-gray-starter-michigan-e3a7",
+   "url": "https://www.depop.com/products/ishi_bei-navy-gray-starter-michigan-e3a7/",
+   "checkedAt": "2026-11-25T16:25:46Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
