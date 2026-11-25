@@ -1,36 +1,18 @@
 {
- "ok": true,
- "requestId": "chk-20261125-151933",
- "finishedAt": "2026-11-25T15:21:08Z",
+ "ok": false,
+ "requestId": "chk-20261125-152045",
+ "finishedAt": "2026-11-25T15:22:01Z",
  "checked": 1,
  "items": [
   {
-   "platform": "amazon",
-   "asin": "B0DJ184XFZ",
-   "key": "B0DJ184XFZ",
-   "url": "https://www.amazon.com/dp/B0DJ184XFZ",
-   "checkedAt": "2026-11-25T15:21:08Z",
-   "ok": true,
-   "status": "out_of_stock",
-   "title": "LEGO DUPLO Town Creative Garden & Flowers 10444",
-   "brand": "",
-   "price": null,
-   "priceAfterCoupon": null,
-   "coupon": null,
-   "listPrice": null,
-   "listPriceKind": null,
-   "pctOff": 0,
-   "lowestIn30Days": false,
-   "deal": null,
-   "inStock": false,
-   "seller": "not shown",
-   "soldByAmazon": null,
-   "boughtPastMonth": null,
-   "rating": 4.9,
-   "reviews": null,
-   "photo": "https://m.media-amazon.com/images/I/81HeLpe0sSL._AC_SL1500_.jpg",
-   "max": 19.95,
-   "verdict": "OUT OF STOCK"
+   "platform": "depop",
+   "slug": "youdiversal-nike-jacket-navy-size-medium-7a0f",
+   "key": "depop:youdiversal-nike-jacket-navy-size-medium-7a0f",
+   "url": "https://www.depop.com/products/youdiversal-nike-jacket-navy-size-medium-7a0f/",
+   "checkedAt": "2026-11-25T15:21:39Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
   }
  ]
 }
