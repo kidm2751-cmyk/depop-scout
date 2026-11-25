@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261125-171125",
- "finishedAt": "2026-11-25T17:12:16Z",
+ "requestId": "chk-20261125-172359",
+ "finishedAt": "2026-11-25T17:25:27Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "isaacstohed-vintage-independent-trucks-tank-top-aa51",
-   "key": "depop:isaacstohed-vintage-independent-trucks-tank-top-aa51",
-   "url": "https://www.depop.com/products/isaacstohed-vintage-independent-trucks-tank-top-aa51/",
-   "checkedAt": "2026-11-25T17:11:53Z",
+   "slug": "modern_c-vintage-cyber-y2k-womens-christian-bffd",
+   "key": "depop:modern_c-vintage-cyber-y2k-womens-christian-bffd",
+   "url": "https://www.depop.com/products/modern_c-vintage-cyber-y2k-womens-christian-bffd/",
+   "checkedAt": "2026-11-25T17:25:00Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
