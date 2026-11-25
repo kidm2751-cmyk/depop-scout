@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261125-162059",
- "finishedAt": "2026-11-25T16:22:27Z",
+ "requestId": "chk-20261125-162245",
+ "finishedAt": "2026-11-25T16:23:39Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "v_rguyen23-pleasures-black-t-shirt-new-without-05ec",
-   "key": "depop:v_rguyen23-pleasures-black-t-shirt-new-without-05ec",
-   "url": "https://www.depop.com/products/v_rguyen23-pleasures-black-t-shirt-new-without-05ec/",
-   "checkedAt": "2026-11-25T16:22:03Z",
+   "slug": "tjp1i_433-green-fruit-of-the-loom-de2e",
+   "key": "depop:tjp1i_433-green-fruit-of-the-loom-de2e",
+   "url": "https://www.depop.com/products/tjp1i_433-green-fruit-of-the-loom-de2e/",
+   "checkedAt": "2026-11-25T16:23:18Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
