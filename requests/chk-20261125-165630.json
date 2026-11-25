@@ -1,0 +1,18 @@
+{
+ "ok": false,
+ "requestId": "chk-20261125-165630",
+ "finishedAt": "2026-11-25T16:57:51Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "modern_c-vintage-cyber-y2k-womens-christian-bffd",
+   "key": "depop:modern_c-vintage-cyber-y2k-womens-christian-bffd",
+   "url": "https://www.depop.com/products/modern_c-vintage-cyber-y2k-womens-christian-bffd/",
+   "checkedAt": "2026-11-25T16:57:27Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  }
+ ]
+}

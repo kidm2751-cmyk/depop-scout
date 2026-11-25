@@ -1,33 +1,18 @@
 {
- "ok": true,
- "requestId": "chk-20261125-165526",
- "finishedAt": "2026-11-25T16:56:27Z",
+ "ok": false,
+ "requestId": "chk-20261125-165630",
+ "finishedAt": "2026-11-25T16:57:51Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "youdiversal-nike-jacket-navy-size-medium-7a0f",
-   "key": "depop:youdiversal-nike-jacket-navy-size-medium-7a0f",
-   "url": "https://www.depop.com/products/youdiversal-nike-jacket-navy-size-medium-7a0f/",
-   "checkedAt": "2026-11-25T16:55:55Z",
-   "ok": true,
-   "status": "ok",
-   "sold": false,
-   "inStock": true,
-   "title": "Nike Zip Up Jacket\nNavy &amp; black\nSize Medium\nSend...",
-   "brand": "Nike",
-   "price": 14.5,
-   "shipping": 8.0,
-   "shippingKnown": false,
-   "buyerFee": 1.73,
-   "tax": 1.58,
-   "totalCost": 25.81,
-   "size": "L",
-   "condition": "Used",
-   "seller": "youniversal",
-   "photo": "https://media-photos.depop.com/r1/332114491/4658500559_3149d30ca9424afa9c83e8e1db4aeb09/P0.jpg",
-   "max": 53.43,
-   "verdict": "OK: 25.81 total is at or under your max 53.43"
+   "slug": "modern_c-vintage-cyber-y2k-womens-christian-bffd",
+   "key": "depop:modern_c-vintage-cyber-y2k-womens-christian-bffd",
+   "url": "https://www.depop.com/products/modern_c-vintage-cyber-y2k-womens-christian-bffd/",
+   "checkedAt": "2026-11-25T16:57:27Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
   }
  ]
 }
