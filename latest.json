@@ -7426,11 +7426,11 @@
  "depop:shawndeanhillu-cleveland-cavaliers-red-black-ba46": {
   "brand": "NBA",
   "buyerFee": 1.56,
-  "checkedAt": "2026-11-25T04:50:23Z",
+  "checkedAt": "2026-11-25T07:34:00Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:shawndeanhillu-cleveland-cavaliers-red-black-ba46",
-  "max": 99.0,
+  "max": 19.57,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/204440345/4071859487_72f6601980004898b9f5249ba2c459e7/P0.jpg",
   "platform": "depop",
@@ -7446,7 +7446,7 @@
   "title": "Cleveland Cavaliers red + black jacket Size S #NBA...",
   "totalCost": 22.0,
   "url": "https://www.depop.com/products/shawndeanhillu-cleveland-cavaliers-red-black-ba46/",
-  "verdict": "OK: 22.00 total is at or under your max 99.00"
+  "verdict": "TOO HIGH: 22.00 total is over your max 19.57"
  },
  "depop:svwvn_242-rab-purple-blue-windbreaker-efc3": {
   "brand": "Rab",
