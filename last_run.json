@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261125-184321",
- "finishedAt": "2026-11-25T18:45:57Z",
+ "requestId": "chk-20261125-184636",
+ "finishedAt": "2026-11-25T18:48:04Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "gc_thrimt-levis-701-high-flare-jeans-407d",
-   "key": "depop:gc_thrimt-levis-701-high-flare-jeans-407d",
-   "url": "https://www.depop.com/products/gc_thrimt-levis-701-high-flare-jeans-407d/",
-   "checkedAt": "2026-11-25T18:45:31Z",
+   "slug": "lamodamarket-grey-beavis-and-butthead-crewneck-1de9",
+   "key": "depop:lamodamarket-grey-beavis-and-butthead-crewneck-1de9",
+   "url": "https://www.depop.com/products/lamodamarket-grey-beavis-and-butthead-crewneck-1de9/",
+   "checkedAt": "2026-11-25T18:47:42Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
