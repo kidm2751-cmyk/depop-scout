@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261125-162618",
- "finishedAt": "2026-11-25T16:27:20Z",
+ "requestId": "chk-20261125-162723",
+ "finishedAt": "2026-11-25T16:28:37Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "icfuldbemid-nike-reversible-new-york-jets-b93a",
-   "key": "depop:icfuldbemid-nike-reversible-new-york-jets-b93a",
-   "url": "https://www.depop.com/products/icfuldbemid-nike-reversible-new-york-jets-b93a/",
-   "checkedAt": "2026-11-25T16:26:57Z",
+   "slug": "cocomnaps-apple-bottom-jeans-size-56-6a8e",
+   "key": "depop:cocomnaps-apple-bottom-jeans-size-56-6a8e",
+   "url": "https://www.depop.com/products/cocomnaps-apple-bottom-jeans-size-56-6a8e/",
+   "checkedAt": "2026-11-25T16:28:12Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
