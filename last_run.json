@@ -1,33 +1,33 @@
 {
  "ok": true,
- "requestId": "chk-20261125-124135",
- "finishedAt": "2026-11-25T12:42:47Z",
+ "requestId": "chk-20261125-124300",
+ "finishedAt": "2026-11-25T12:43:32Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "kasymeborjas14-ksubi-blue-denim-mini-skirt-162c",
-   "key": "depop:kasymeborjas14-ksubi-blue-denim-mini-skirt-162c",
-   "url": "https://www.depop.com/products/kasymeborjas14-ksubi-blue-denim-mini-skirt-162c/",
-   "checkedAt": "2026-11-25T12:42:21Z",
+   "slug": "isaacstohed-vintage-independent-trucks-tank-top-aa51",
+   "key": "depop:isaacstohed-vintage-independent-trucks-tank-top-aa51",
+   "url": "https://www.depop.com/products/isaacstohed-vintage-independent-trucks-tank-top-aa51/",
+   "checkedAt": "2026-11-25T12:43:31Z",
    "ok": true,
    "status": "ok",
    "sold": false,
    "inStock": true,
-   "title": "Ksubi blue denim mini skirt #ksubi #denim",
-   "brand": "Ksubi",
+   "title": "Vintage Independent trucks tank top \n#skate...",
+   "brand": "Other",
    "price": 10.0,
    "shipping": 6.0,
    "shippingKnown": false,
    "buyerFee": 1.5,
    "tax": 1.12,
    "totalCost": 18.62,
-   "size": "S",
+   "size": "L",
    "condition": "Used",
-   "seller": "karymeborjas",
-   "photo": "https://media-photos.depop.com/b1/214159599/4220057178_c54307d20f0b4e8cba11df05b1dcec4b/P0.jpg",
-   "max": 13.19,
-   "verdict": "TOO HIGH: 18.62 total is over your max 13.19"
+   "seller": "isaacstoned",
+   "photo": "https://media-photos.depop.com/r1/16857177/5192500159_598840b5089e4574b9a2c2013bce7e6d/P0.jpg",
+   "max": 19.61,
+   "verdict": "OK: 18.62 total is at or under your max 19.61"
   }
  ]
 }
