@@ -1,0 +1,18 @@
+{
+ "ok": false,
+ "requestId": "chk-20261125-153127",
+ "finishedAt": "2026-11-25T15:32:53Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "ma6as_hustle-bear-the-beams-gray-945b",
+   "key": "depop:ma6as_hustle-bear-the-beams-gray-945b",
+   "url": "https://www.depop.com/products/ma6as_hustle-bear-the-beams-gray-945b/",
+   "checkedAt": "2026-11-25T15:32:28Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  }
+ ]
+}
