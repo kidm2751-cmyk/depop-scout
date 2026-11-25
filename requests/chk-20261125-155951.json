@@ -1,0 +1,18 @@
+{
+ "ok": false,
+ "requestId": "chk-20261125-155951",
+ "finishedAt": "2026-11-25T16:01:31Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "avriepeck-salomon-orange-puffer-jacket-size-2f1d",
+   "key": "depop:avriepeck-salomon-orange-puffer-jacket-size-2f1d",
+   "url": "https://www.depop.com/products/avriepeck-salomon-orange-puffer-jacket-size-2f1d/",
+   "checkedAt": "2026-11-25T16:01:10Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  }
+ ]
+}

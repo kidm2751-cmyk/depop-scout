@@ -1,33 +1,18 @@
 {
- "ok": true,
- "requestId": "chk-20261125-155247",
- "finishedAt": "2026-11-25T15:54:07Z",
+ "ok": false,
+ "requestId": "chk-20261125-155951",
+ "finishedAt": "2026-11-25T16:01:31Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "hava_sxop-converse-x-neighborhood-black-hoodie-8e4b",
-   "key": "depop:hava_sxop-converse-x-neighborhood-black-hoodie-8e4b",
-   "url": "https://www.depop.com/products/hava_sxop-converse-x-neighborhood-black-hoodie-8e4b/",
-   "checkedAt": "2026-11-25T15:53:32Z",
-   "ok": true,
-   "status": "ok",
-   "sold": false,
-   "inStock": true,
-   "title": "Converse x Neighborhood black hoodie Size XS #collab...",
-   "brand": "Converse",
-   "price": 9.1,
-   "shipping": 8.0,
-   "shippingKnown": false,
-   "buyerFee": 1.46,
-   "tax": 1.03,
-   "totalCost": 19.58,
-   "size": "5",
-   "condition": "Used",
-   "seller": "hava_shop",
-   "photo": "https://media-photos.depop.com/b1/282135004/3791557578_0d18f61215a34b8c8fd20651e3b4f37e/P0.jpg",
-   "max": 15.09,
-   "verdict": "TOO HIGH: 19.58 total is over your max 15.09"
+   "slug": "avriepeck-salomon-orange-puffer-jacket-size-2f1d",
+   "key": "depop:avriepeck-salomon-orange-puffer-jacket-size-2f1d",
+   "url": "https://www.depop.com/products/avriepeck-salomon-orange-puffer-jacket-size-2f1d/",
+   "checkedAt": "2026-11-25T16:01:10Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
   }
  ]
 }
