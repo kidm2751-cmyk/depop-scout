@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261125-172554",
- "finishedAt": "2026-11-25T17:27:02Z",
+ "requestId": "chk-20261125-175500-arman",
+ "finishedAt": "2026-11-25T18:00:20Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "tjp1i_433-green-fruit-of-the-loom-de2e",
-   "key": "depop:tjp1i_433-green-fruit-of-the-loom-de2e",
-   "url": "https://www.depop.com/products/tjp1i_433-green-fruit-of-the-loom-de2e/",
-   "checkedAt": "2026-11-25T17:26:39Z",
+   "slug": "armanclotheo-antigua-san-diego-padres-sd-10b4",
+   "key": "depop:armanclotheo-antigua-san-diego-padres-sd-10b4",
+   "url": "https://www.depop.com/products/armanclotheo-antigua-san-diego-padres-sd-10b4/",
+   "checkedAt": "2026-11-25T17:59:56Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
