@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261125-163012",
- "finishedAt": "2026-11-25T16:31:03Z",
+ "requestId": "chk-20261125-163116",
+ "finishedAt": "2026-11-25T16:32:17Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "1z_sells-vintage-disney-goofy-hoodie-good-707e",
-   "key": "depop:1z_sells-vintage-disney-goofy-hoodie-good-707e",
-   "url": "https://www.depop.com/products/1z_sells-vintage-disney-goofy-hoodie-good-707e/",
-   "checkedAt": "2026-11-25T16:30:41Z",
+   "slug": "behrthrift-vintage-todd-black-bomber-snap-34b9",
+   "key": "depop:behrthrift-vintage-todd-black-bomber-snap-34b9",
+   "url": "https://www.depop.com/products/behrthrift-vintage-todd-black-bomber-snap-34b9/",
+   "checkedAt": "2026-11-25T16:31:52Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
