@@ -1,0 +1,18 @@
+{
+ "ok": false,
+ "requestId": "chk-20261125-151920",
+ "finishedAt": "2026-11-25T15:20:38Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f",
+   "key": "depop:karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f",
+   "url": "https://www.depop.com/products/karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f/",
+   "checkedAt": "2026-11-25T15:20:12Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  }
+ ]
+}
