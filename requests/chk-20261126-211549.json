@@ -1,0 +1,36 @@
+{
+ "ok": true,
+ "requestId": "chk-20261126-211549",
+ "finishedAt": "2026-11-26T21:16:27Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "amazon",
+   "asin": "B0FPMVBCN1",
+   "key": "B0FPMVBCN1",
+   "url": "https://www.amazon.com/dp/B0FPMVBCN1",
+   "checkedAt": "2026-11-26T21:16:27Z",
+   "ok": true,
+   "status": "ok",
+   "title": "Funko Pop! Star Wars: Mandalorian & Grogu - Amani",
+   "brand": "Funko",
+   "price": 7.03,
+   "priceAfterCoupon": null,
+   "coupon": null,
+   "listPrice": 14.99,
+   "listPriceKind": "list",
+   "pctOff": 53.1,
+   "lowestIn30Days": false,
+   "deal": null,
+   "inStock": true,
+   "seller": "Central Iowa Resellers",
+   "soldByAmazon": false,
+   "boughtPastMonth": 100,
+   "rating": 4.7,
+   "reviews": null,
+   "photo": "https://m.media-amazon.com/images/I/71097wVhDuL._AC_SL1300_.jpg",
+   "max": 8.44,
+   "verdict": "OK: 7.03 is at or under your max 8.44"
+  }
+ ]
+}
