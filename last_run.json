@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261126-082237",
- "finishedAt": "2026-11-26T08:24:40Z",
+ "requestId": "chk-20261126-082445",
+ "finishedAt": "2026-11-26T08:25:49Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "heodasshype-anti-social-social-club-x-da28",
-   "key": "depop:heodasshype-anti-social-social-club-x-da28",
-   "url": "https://www.depop.com/products/heodasshype-anti-social-social-club-x-da28/",
-   "checkedAt": "2026-11-26T08:24:16Z",
+   "slug": "makjylalevins-healing-hands-hh360-noah-cargo-e1a6",
+   "key": "depop:makjylalevins-healing-hands-hh360-noah-cargo-e1a6",
+   "url": "https://www.depop.com/products/makjylalevins-healing-hands-hh360-noah-cargo-e1a6/",
+   "checkedAt": "2026-11-26T08:25:25Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
