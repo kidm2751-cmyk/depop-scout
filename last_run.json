@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261126-044402",
- "finishedAt": "2026-11-26T04:44:52Z",
+ "requestId": "chk-20261126-044512",
+ "finishedAt": "2026-11-26T04:46:03Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "makjylalevins-healing-hands-hh360-noah-cargo-e1a6",
-   "key": "depop:makjylalevins-healing-hands-hh360-noah-cargo-e1a6",
-   "url": "https://www.depop.com/products/makjylalevins-healing-hands-hh360-noah-cargo-e1a6/",
-   "checkedAt": "2026-11-26T04:44:30Z",
+   "slug": "coolgugl600-christian-audigier-navy-blue-zip-42d6",
+   "key": "depop:coolgugl600-christian-audigier-navy-blue-zip-42d6",
+   "url": "https://www.depop.com/products/coolgugl600-christian-audigier-navy-blue-zip-42d6/",
+   "checkedAt": "2026-11-26T04:45:42Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
