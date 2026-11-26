@@ -1,18 +1,33 @@
 {
- "ok": false,
- "requestId": "chk-20261126-085250",
- "finishedAt": "2026-11-26T08:54:01Z",
+ "ok": true,
+ "requestId": "chk-20261126-085426",
+ "finishedAt": "2026-11-26T08:55:10Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "heodasshype-anti-social-social-club-x-da28",
-   "key": "depop:heodasshype-anti-social-social-club-x-da28",
-   "url": "https://www.depop.com/products/heodasshype-anti-social-social-club-x-da28/",
-   "checkedAt": "2026-11-26T08:53:36Z",
-   "ok": false,
-   "status": "not_found",
-   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+   "slug": "fem7elling-vintage-y2k-bench-barbour-style-2e16",
+   "key": "depop:fem7elling-vintage-y2k-bench-barbour-style-2e16",
+   "url": "https://www.depop.com/products/fem7elling-vintage-y2k-bench-barbour-style-2e16/",
+   "checkedAt": "2026-11-26T08:55:08Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Vintage Y2K Bench Barbour style waxed faux leather...",
+   "brand": "Bench",
+   "price": 17.36,
+   "shipping": 6.0,
+   "shippingKnown": false,
+   "buyerFee": 1.87,
+   "tax": 1.87,
+   "totalCost": 27.1,
+   "size": "M",
+   "condition": "Used",
+   "seller": "femselling",
+   "photo": "https://media-photos.depop.com/r1/34580530/5139513713_5fa1da5064ff42b29a717867a46e1457/P0.jpg",
+   "max": 31.12,
+   "verdict": "OK: 27.10 total is at or under your max 31.12"
   }
  ]
 }
