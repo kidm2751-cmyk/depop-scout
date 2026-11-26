@@ -6378,11 +6378,11 @@
  "depop:heodasshype-anti-social-social-club-x-da28": {
   "brand": "Anti Social Social Club",
   "buyerFee": 1.56,
-  "checkedAt": "2026-11-26T03:36:20Z",
+  "checkedAt": "2026-11-26T05:58:33Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:heodasshype-anti-social-social-club-x-da28",
-  "max": 51.27,
+  "max": 17.19,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/52360457/3659661709_f21127d2c4f04f238bb203ad60a8fd18/P0.jpg",
   "platform": "depop",
@@ -6398,7 +6398,7 @@
   "title": "Anti Social Social Club x Neighborhood white hoodie...",
   "totalCost": 22.0,
   "url": "https://www.depop.com/products/heodasshype-anti-social-social-club-x-da28/",
-  "verdict": "OK: 22.00 total is at or under your max 51.27"
+  "verdict": "TOO HIGH: 22.00 total is over your max 17.19"
  },
  "depop:icfuldbemid-nike-reversible-new-york-jets-b93a": {
   "brand": "Nike",
