@@ -1,18 +1,33 @@
 {
- "ok": false,
- "requestId": "chk-20261126-081430",
- "finishedAt": "2026-11-26T08:16:04Z",
+ "ok": true,
+ "requestId": "chk-20261126-081622",
+ "finishedAt": "2026-11-26T08:16:58Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "fem7elling-vintage-y2k-bench-barbour-style-2e16",
-   "key": "depop:fem7elling-vintage-y2k-bench-barbour-style-2e16",
-   "url": "https://www.depop.com/products/fem7elling-vintage-y2k-bench-barbour-style-2e16/",
-   "checkedAt": "2026-11-26T08:15:39Z",
-   "ok": false,
-   "status": "not_found",
-   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+   "slug": "youdiversal-nike-jacket-navy-size-medium-7a0f",
+   "key": "depop:youdiversal-nike-jacket-navy-size-medium-7a0f",
+   "url": "https://www.depop.com/products/youdiversal-nike-jacket-navy-size-medium-7a0f/",
+   "checkedAt": "2026-11-26T08:16:56Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Nike Zip Up Jacket\nNavy &amp; black\nSize Medium\nSend...",
+   "brand": "Nike",
+   "price": 15.92,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 1.8,
+   "tax": 1.73,
+   "totalCost": 27.44,
+   "size": "M",
+   "condition": "Used",
+   "seller": "youniversal",
+   "photo": "https://media-photos.depop.com/r1/332114491/4658500559_3149d30ca9424afa9c83e8e1db4aeb09/P0.jpg",
+   "max": 53.43,
+   "verdict": "OK: 27.44 total is at or under your max 53.43"
   }
  ]
 }
