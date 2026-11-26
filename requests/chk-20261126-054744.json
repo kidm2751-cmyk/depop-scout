@@ -1,0 +1,18 @@
+{
+ "ok": false,
+ "requestId": "chk-20261126-054744",
+ "finishedAt": "2026-11-26T05:49:00Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "gc_thrimt-levis-701-high-flare-jeans-407d",
+   "key": "depop:gc_thrimt-levis-701-high-flare-jeans-407d",
+   "url": "https://www.depop.com/products/gc_thrimt-levis-701-high-flare-jeans-407d/",
+   "checkedAt": "2026-11-26T05:48:37Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  }
+ ]
+}
