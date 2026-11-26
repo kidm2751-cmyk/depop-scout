@@ -1,0 +1,18 @@
+{
+ "ok": false,
+ "requestId": "chk-20261126-085250",
+ "finishedAt": "2026-11-26T08:54:01Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "heodasshype-anti-social-social-club-x-da28",
+   "key": "depop:heodasshype-anti-social-social-club-x-da28",
+   "url": "https://www.depop.com/products/heodasshype-anti-social-social-club-x-da28/",
+   "checkedAt": "2026-11-26T08:53:36Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  }
+ ]
+}
