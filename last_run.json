@@ -1,20 +1,20 @@
 {
  "ok": true,
- "requestId": "chk-20261127-033720",
- "finishedAt": "2026-11-27T03:38:24Z",
+ "requestId": "chk-20261127-033852",
+ "finishedAt": "2026-11-27T03:39:23Z",
  "checked": 1,
  "items": [
   {
    "platform": "amazon",
-   "asin": "B07P5TMHD9",
-   "key": "B07P5TMHD9",
-   "url": "https://www.amazon.com/dp/B07P5TMHD9",
-   "checkedAt": "2026-11-27T03:38:24Z",
+   "asin": "B0FCFVXJJN",
+   "key": "B0FCFVXJJN",
+   "url": "https://www.amazon.com/dp/B0FCFVXJJN",
+   "checkedAt": "2026-11-27T03:39:23Z",
    "ok": true,
    "status": "ok",
-   "title": "Eclat Skincare Brightening Vitamin C Serum for Face with Vitamin E 1 Fl Oz",
-   "brand": "Eclat Skincare",
-   "price": 9.98,
+   "title": "Funko POP! Deluxe: WWE - Roman Reigns",
+   "brand": "Funko",
+   "price": 43.93,
    "priceAfterCoupon": null,
    "coupon": null,
    "listPrice": null,
@@ -23,14 +23,14 @@
    "lowestIn30Days": false,
    "deal": null,
    "inStock": true,
-   "seller": "Eclat Skincare\u00ae - #1 Dermatologist Recommended",
+   "seller": "Boddigan Boddigan Sold by Boddigan",
    "soldByAmazon": false,
-   "boughtPastMonth": 10000,
-   "rating": 4.3,
+   "boughtPastMonth": 200,
+   "rating": 4.5,
    "reviews": null,
-   "photo": "https://m.media-amazon.com/images/I/71JhFNvHqxL._SL1500_.jpg",
-   "max": 9.98,
-   "verdict": "OK: 9.98 is at or under your max 9.98"
+   "photo": "https://m.media-amazon.com/images/I/613rsIUPtQL._AC_SL1300_.jpg",
+   "max": 32.75,
+   "verdict": "TOO HIGH: 43.93 is over your max 32.75"
   }
  ]
 }
