@@ -1,7 +1,7 @@
 {
- "ok": false,
- "requestId": "chk-20261127-230847",
- "finishedAt": "2026-11-27T23:09:42Z",
+ "ok": true,
+ "requestId": "chk-20261127-231212",
+ "finishedAt": "2026-11-27T23:12:50Z",
  "checked": 1,
  "items": [
   {
@@ -9,10 +9,25 @@
    "slug": "makjylalevins-healing-hands-hh360-noah-cargo-e1a6",
    "key": "depop:makjylalevins-healing-hands-hh360-noah-cargo-e1a6",
    "url": "https://www.depop.com/products/makjylalevins-healing-hands-hh360-noah-cargo-e1a6/",
-   "checkedAt": "2026-11-27T23:09:20Z",
-   "ok": false,
-   "status": "not_found",
-   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+   "checkedAt": "2026-11-27T23:12:49Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Healing Hands HH360\u00b0 Noah Cargo Scrub Pants Black...",
+   "brand": "Healing Hands",
+   "price": 10.0,
+   "shipping": 8.0,
+   "shippingKnown": false,
+   "buyerFee": 1.5,
+   "tax": 1.12,
+   "totalCost": 20.62,
+   "size": "XXL",
+   "condition": "Used",
+   "seller": "makaylalevins",
+   "photo": "https://media-photos.depop.com/r1/424309047/4899781021_12916c356a4147929eecffebde252bdf/P0.jpg",
+   "max": 26.8,
+   "verdict": "OK: 20.62 total is at or under your max 26.80"
   }
  ]
 }
