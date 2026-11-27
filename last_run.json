@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261127-231359",
- "finishedAt": "2026-11-27T23:15:26Z",
+ "requestId": "chk-20261127-231544",
+ "finishedAt": "2026-11-27T23:16:36Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "canpbd137-ag-adriano-goldschmied-navy-denim-1f06",
-   "key": "depop:canpbd137-ag-adriano-goldschmied-navy-denim-1f06",
-   "url": "https://www.depop.com/products/canpbd137-ag-adriano-goldschmied-navy-denim-1f06/",
-   "checkedAt": "2026-11-27T23:15:02Z",
+   "slug": "orbitalplus3time-brown-cable-knit-quarter-zip-ba9a",
+   "key": "depop:orbitalplus3time-brown-cable-knit-quarter-zip-ba9a",
+   "url": "https://www.depop.com/products/orbitalplus3time-brown-cable-knit-quarter-zip-ba9a/",
+   "checkedAt": "2026-11-27T23:16:14Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
