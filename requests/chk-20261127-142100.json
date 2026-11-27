@@ -1,0 +1,18 @@
+{
+ "ok": false,
+ "requestId": "chk-20261127-142100",
+ "finishedAt": "2026-11-27T14:21:50Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "youdiversal-nike-jacket-navy-size-medium-7a0f",
+   "key": "depop:youdiversal-nike-jacket-navy-size-medium-7a0f",
+   "url": "https://www.depop.com/products/youdiversal-nike-jacket-navy-size-medium-7a0f/",
+   "checkedAt": "2026-11-27T14:21:29Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  }
+ ]
+}
