@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261127-192018",
- "finishedAt": "2026-11-27T19:21:13Z",
+ "requestId": "chk-20261127-192127",
+ "finishedAt": "2026-11-27T19:22:22Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "fem7elling-vintage-y2k-bench-barbour-style-2e16",
-   "key": "depop:fem7elling-vintage-y2k-bench-barbour-style-2e16",
-   "url": "https://www.depop.com/products/fem7elling-vintage-y2k-bench-barbour-style-2e16/",
-   "checkedAt": "2026-11-27T19:20:50Z",
+   "slug": "youdiversal-nike-jacket-navy-size-medium-7a0f",
+   "key": "depop:youdiversal-nike-jacket-navy-size-medium-7a0f",
+   "url": "https://www.depop.com/products/youdiversal-nike-jacket-navy-size-medium-7a0f/",
+   "checkedAt": "2026-11-27T19:21:59Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
