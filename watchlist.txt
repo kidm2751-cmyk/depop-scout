@@ -1,3 +1,4 @@
+sha: 88554110a2fae24ff9b7d4bc33db40c50c26deea
 sha: ab4502bf4c95f021ee966bad45070bf8327d6467
 sha: 2271970ad4636048bf62d14f7f54284872d98c95
 sha: cb74ac0463420b1af55c6557da5544335c3da132
@@ -141,7 +142,7 @@ https://www.depop.com/products/jace2mhm-y2k-burton-snowboard-graphic-shirt-6ef7/
 https://www.depop.com/products/jbkmom17-pink-toodler-juicy-couture-velour-fc8c/ 14.57 Juicy Couture girls pink velour jumpsuit 4T, listed on eBay at 32.99
 
 B0F8W8VF6L 26.60 Plano StowAway 3700 Waterproof Tackle Box, listed on eBay at 43.34
-B0FCFVXJJN 32.75 Funko POP! Deluxe WWE Roman Reigns, listed on eBay at 54.44
+B0FCFVXJJN 35.95 Funko POP! Deluxe WWE Roman Reigns, listed on eBay at 58.88
 B077Z2QCS5 42.49 Everlasting Comfort 6L Humidifier, listed on eBay at 67.97
 B06WW9SJ5M 4.97 essence Lash Princess Mascara, listed on eBay at 10.73
 B00CMKA9HK 14.33 Post-it Super Sticky Notes Neon Fizz 24 Pads, listed on eBay at 23.74
@@ -220,6 +221,7 @@ https://www.depop.com/products/coolgugl600-christian-audigier-navy-blue-zip-42d6
 
 
 B084KV65KJ 17.31 Poppi Prebiotic Soda Raspberry Rose 12-pack, listed on eBay at 27.88
+
 
 
 
