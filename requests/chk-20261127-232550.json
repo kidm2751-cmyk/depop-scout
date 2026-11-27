@@ -1,0 +1,18 @@
+{
+ "ok": false,
+ "requestId": "chk-20261127-232550",
+ "finishedAt": "2026-11-27T23:26:52Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "chrisdgalsss-nfl-detroit-lions-blue-jersey-7885",
+   "key": "depop:chrisdgalsss-nfl-detroit-lions-blue-jersey-7885",
+   "url": "https://www.depop.com/products/chrisdgalsss-nfl-detroit-lions-blue-jersey-7885/",
+   "checkedAt": "2026-11-27T23:26:28Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  }
+ ]
+}
