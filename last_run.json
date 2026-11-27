@@ -1,75 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261127-134913",
- "finishedAt": "2026-11-27T13:52:05Z",
- "checked": 7,
+ "requestId": "chk-20261127-141828",
+ "finishedAt": "2026-11-27T14:19:20Z",
+ "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "dripcheccthestore-nike-x-nocta-black-7676",
-   "key": "depop:dripcheccthestore-nike-x-nocta-black-7676",
-   "url": "https://www.depop.com/products/dripcheccthestore-nike-x-nocta-black-7676/",
-   "checkedAt": "2026-11-27T13:49:40Z",
-   "ok": false,
-   "status": "not_found",
-   "error": "Couldn't read this listing (removed, or Depop changed its page)."
-  },
-  {
-   "platform": "depop",
-   "slug": "jorvangoods23-house-of-cb-clip-on-earrings-0e17",
-   "key": "depop:jorvangoods23-house-of-cb-clip-on-earrings-0e17",
-   "url": "https://www.depop.com/products/jorvangoods23-house-of-cb-clip-on-earrings-0e17/",
-   "checkedAt": "2026-11-27T13:50:01Z",
-   "ok": false,
-   "status": "not_found",
-   "error": "Couldn't read this listing (removed, or Depop changed its page)."
-  },
-  {
-   "platform": "depop",
-   "slug": "thatboydiesel-chicago-blackhawks-red-bomber-jacket-dc14",
-   "key": "depop:thatboydiesel-chicago-blackhawks-red-bomber-jacket-dc14",
-   "url": "https://www.depop.com/products/thatboydiesel-chicago-blackhawks-red-bomber-jacket-dc14/",
-   "checkedAt": "2026-11-27T13:50:30Z",
-   "ok": false,
-   "status": "not_found",
-   "error": "Couldn't read this listing (removed, or Depop changed its page)."
-  },
-  {
-   "platform": "depop",
-   "slug": "nunushoa81-coach-legacy-crossbody-bag-some-c3bc",
-   "key": "depop:nunushoa81-coach-legacy-crossbody-bag-some-c3bc",
-   "url": "https://www.depop.com/products/nunushoa81-coach-legacy-crossbody-bag-some-c3bc/",
-   "checkedAt": "2026-11-27T13:50:50Z",
-   "ok": false,
-   "status": "not_found",
-   "error": "Couldn't read this listing (removed, or Depop changed its page)."
-  },
-  {
-   "platform": "depop",
-   "slug": "josh_rhoadn-greyson-blue-quarter-zip-golf-7192",
-   "key": "depop:josh_rhoadn-greyson-blue-quarter-zip-golf-7192",
-   "url": "https://www.depop.com/products/josh_rhoadn-greyson-blue-quarter-zip-golf-7192/",
-   "checkedAt": "2026-11-27T13:51:09Z",
-   "ok": false,
-   "status": "not_found",
-   "error": "Couldn't read this listing (removed, or Depop changed its page)."
-  },
-  {
-   "platform": "depop",
-   "slug": "cvera-nhl-pittsburgh-penguins-quarter-zip-ee6d",
-   "key": "depop:cvera-nhl-pittsburgh-penguins-quarter-zip-ee6d",
-   "url": "https://www.depop.com/products/cvera-nhl-pittsburgh-penguins-quarter-zip-ee6d/",
-   "checkedAt": "2026-11-27T13:51:28Z",
-   "ok": false,
-   "status": "not_found",
-   "error": "Couldn't read this listing (removed, or Depop changed its page)."
-  },
-  {
-   "platform": "depop",
-   "slug": "vaztarius-eddie-bauer-grey-1936-skyliner-a6e7",
-   "key": "depop:vaztarius-eddie-bauer-grey-1936-skyliner-a6e7",
-   "url": "https://www.depop.com/products/vaztarius-eddie-bauer-grey-1936-skyliner-a6e7/",
-   "checkedAt": "2026-11-27T13:51:46Z",
+   "slug": "heodasshype-anti-social-social-club-x-da28",
+   "key": "depop:heodasshype-anti-social-social-club-x-da28",
+   "url": "https://www.depop.com/products/heodasshype-anti-social-social-club-x-da28/",
+   "checkedAt": "2026-11-27T14:18:58Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
