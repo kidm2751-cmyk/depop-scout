@@ -1343,9 +1343,9 @@
  },
  "B0812BN1L1": {
   "asin": "B0812BN1L1",
-  "boughtPastMonth": 7000,
+  "boughtPastMonth": 9000,
   "brand": "WHAT DO YOU MEME?",
-  "checkedAt": "2026-11-25T18:16:12Z",
+  "checkedAt": "2026-11-27T05:19:21Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -1353,7 +1353,7 @@
   "listPrice": null,
   "listPriceKind": null,
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 19.97,
   "ok": true,
   "pctOff": 0.0,
   "photo": "https://m.media-amazon.com/images/I/81UKbciqMdL._AC_SL1500_.jpg",
@@ -1367,7 +1367,7 @@
   "status": "ok",
   "title": "WHAT DO YOU MEME? Family Edition by Relatable",
   "url": "https://www.amazon.com/dp/B0812BN1L1",
-  "verdict": "OK: 19.97 is at or under your max 45.00"
+  "verdict": "OK: 19.97 is at or under your max 19.97"
  },
  "B083TCZDMT": {
   "asin": "B083TCZDMT",
