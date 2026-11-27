@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261127-232239",
- "finishedAt": "2026-11-27T23:23:34Z",
+ "requestId": "chk-20261127-232343",
+ "finishedAt": "2026-11-27T23:24:35Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "hava_sxop-converse-x-neighborhood-black-hoodie-8e4b",
-   "key": "depop:hava_sxop-converse-x-neighborhood-black-hoodie-8e4b",
-   "url": "https://www.depop.com/products/hava_sxop-converse-x-neighborhood-black-hoodie-8e4b/",
-   "checkedAt": "2026-11-27T23:23:14Z",
+   "slug": "jamesy_roy06-black-white-margaritaville-jimmy-59eb",
+   "key": "depop:jamesy_roy06-black-white-margaritaville-jimmy-59eb",
+   "url": "https://www.depop.com/products/jamesy_roy06-black-white-margaritaville-jimmy-59eb/",
+   "checkedAt": "2026-11-27T23:24:13Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
