@@ -1,0 +1,18 @@
+{
+ "ok": false,
+ "requestId": "chk-20261127-104447",
+ "finishedAt": "2026-11-27T10:45:35Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "orbitalplus3time-brown-cable-knit-quarter-zip-ba9a",
+   "key": "depop:orbitalplus3time-brown-cable-knit-quarter-zip-ba9a",
+   "url": "https://www.depop.com/products/orbitalplus3time-brown-cable-knit-quarter-zip-ba9a/",
+   "checkedAt": "2026-11-27T10:45:13Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  }
+ ]
+}
