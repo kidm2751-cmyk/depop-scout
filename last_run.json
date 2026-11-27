@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261127-232809",
- "finishedAt": "2026-11-27T23:29:09Z",
+ "requestId": "chk-20261127-232913",
+ "finishedAt": "2026-11-27T23:30:34Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "kasymeborjas14-ksubi-blue-denim-mini-skirt-162c",
-   "key": "depop:kasymeborjas14-ksubi-blue-denim-mini-skirt-162c",
-   "url": "https://www.depop.com/products/kasymeborjas14-ksubi-blue-denim-mini-skirt-162c/",
-   "checkedAt": "2026-11-27T23:28:46Z",
+   "slug": "isaacstohed-vintage-independent-trucks-tank-top-aa51",
+   "key": "depop:isaacstohed-vintage-independent-trucks-tank-top-aa51",
+   "url": "https://www.depop.com/products/isaacstohed-vintage-independent-trucks-tank-top-aa51/",
+   "checkedAt": "2026-11-27T23:30:10Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
