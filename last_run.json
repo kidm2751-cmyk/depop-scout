@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261127-044650",
- "finishedAt": "2026-11-27T04:48:00Z",
+ "requestId": "chk-20261127-051425",
+ "finishedAt": "2026-11-27T05:15:17Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "orbitalplus3time-brown-cable-knit-quarter-zip-ba9a",
-   "key": "depop:orbitalplus3time-brown-cable-knit-quarter-zip-ba9a",
-   "url": "https://www.depop.com/products/orbitalplus3time-brown-cable-knit-quarter-zip-ba9a/",
-   "checkedAt": "2026-11-27T04:47:37Z",
+   "slug": "fem7elling-vintage-y2k-bench-barbour-style-2e16",
+   "key": "depop:fem7elling-vintage-y2k-bench-barbour-style-2e16",
+   "url": "https://www.depop.com/products/fem7elling-vintage-y2k-bench-barbour-style-2e16/",
+   "checkedAt": "2026-11-27T05:14:55Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
