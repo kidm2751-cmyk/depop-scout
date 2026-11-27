@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261127-230308",
- "finishedAt": "2026-11-27T23:04:09Z",
+ "requestId": "chk-20261127-230412",
+ "finishedAt": "2026-11-27T23:05:05Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "ishi_bei-navy-gray-starter-michigan-e3a7",
-   "key": "depop:ishi_bei-navy-gray-starter-michigan-e3a7",
-   "url": "https://www.depop.com/products/ishi_bei-navy-gray-starter-michigan-e3a7/",
-   "checkedAt": "2026-11-27T23:03:45Z",
+   "slug": "theresafin1-vintage-y2k-burton-snowboard-womens-304b",
+   "key": "depop:theresafin1-vintage-y2k-burton-snowboard-womens-304b",
+   "url": "https://www.depop.com/products/theresafin1-vintage-y2k-burton-snowboard-womens-304b/",
+   "checkedAt": "2026-11-27T23:04:44Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
