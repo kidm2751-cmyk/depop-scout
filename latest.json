@@ -5125,7 +5125,7 @@
   "asin": "B0G43VLL9L",
   "boughtPastMonth": 5000,
   "brand": "Mattel",
-  "checkedAt": "2026-11-26T21:14:40Z",
+  "checkedAt": "2026-11-27T03:28:28Z",
   "coupon": null,
   "deal": null,
   "inStock": true,
@@ -5133,12 +5133,12 @@
   "listPrice": 54.99,
   "listPriceKind": "list",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 37.93,
   "ok": true,
-  "pctOff": 31.0,
+  "pctOff": 54.6,
   "photo": "https://m.media-amazon.com/images/I/81UqrwDF0ML._AC_SL1500_.jpg",
   "platform": "amazon",
-  "price": 37.93,
+  "price": 24.99,
   "priceAfterCoupon": null,
   "rating": 4.7,
   "reviews": null,
@@ -5147,7 +5147,7 @@
   "status": "ok",
   "title": "Mattel Minecraft Minecart RC with Steve",
   "url": "https://www.amazon.com/dp/B0G43VLL9L",
-  "verdict": "OK: 37.93 is at or under your max 45.00"
+  "verdict": "OK: 24.99 is at or under your max 37.93"
  },
  "B0G43YDLG7": {
   "asin": "B0G43YDLG7",
