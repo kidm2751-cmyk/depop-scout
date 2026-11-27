@@ -1,0 +1,18 @@
+{
+ "ok": false,
+ "requestId": "chk-20261127-115236",
+ "finishedAt": "2026-11-27T11:53:33Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "armanclotheo-antigua-san-diego-padres-sd-10b4",
+   "key": "depop:armanclotheo-antigua-san-diego-padres-sd-10b4",
+   "url": "https://www.depop.com/products/armanclotheo-antigua-san-diego-padres-sd-10b4/",
+   "checkedAt": "2026-11-27T11:53:10Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  }
+ ]
+}
