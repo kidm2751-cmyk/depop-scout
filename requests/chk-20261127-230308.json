@@ -1,0 +1,18 @@
+{
+ "ok": false,
+ "requestId": "chk-20261127-230308",
+ "finishedAt": "2026-11-27T23:04:09Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "ishi_bei-navy-gray-starter-michigan-e3a7",
+   "key": "depop:ishi_bei-navy-gray-starter-michigan-e3a7",
+   "url": "https://www.depop.com/products/ishi_bei-navy-gray-starter-michigan-e3a7/",
+   "checkedAt": "2026-11-27T23:03:45Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  }
+ ]
+}
