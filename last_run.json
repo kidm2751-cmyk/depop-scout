@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261127-074634",
- "finishedAt": "2026-11-27T07:47:24Z",
+ "requestId": "chk-20261127-081435",
+ "finishedAt": "2026-11-27T08:16:05Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "armanclotheo-antigua-san-diego-padres-sd-10b4",
-   "key": "depop:armanclotheo-antigua-san-diego-padres-sd-10b4",
-   "url": "https://www.depop.com/products/armanclotheo-antigua-san-diego-padres-sd-10b4/",
-   "checkedAt": "2026-11-27T07:47:02Z",
+   "slug": "fem7elling-vintage-y2k-bench-barbour-style-2e16",
+   "key": "depop:fem7elling-vintage-y2k-bench-barbour-style-2e16",
+   "url": "https://www.depop.com/products/fem7elling-vintage-y2k-bench-barbour-style-2e16/",
+   "checkedAt": "2026-11-27T08:15:39Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
