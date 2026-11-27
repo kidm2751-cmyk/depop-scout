@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261127-084729",
- "finishedAt": "2026-11-27T08:48:25Z",
+ "requestId": "chk-20261127-084853",
+ "finishedAt": "2026-11-27T08:49:44Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "fem7elling-vintage-y2k-bench-barbour-style-2e16",
-   "key": "depop:fem7elling-vintage-y2k-bench-barbour-style-2e16",
-   "url": "https://www.depop.com/products/fem7elling-vintage-y2k-bench-barbour-style-2e16/",
-   "checkedAt": "2026-11-27T08:48:02Z",
+   "slug": "karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f",
+   "key": "depop:karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f",
+   "url": "https://www.depop.com/products/karlaalonso0o-tan-vintage-nanamica-jacket-in-dc0f/",
+   "checkedAt": "2026-11-27T08:49:22Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
