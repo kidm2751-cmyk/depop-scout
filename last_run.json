@@ -1,18 +1,33 @@
 {
- "ok": false,
- "requestId": "chk-20261128-104840",
- "finishedAt": "2026-11-28T10:49:33Z",
+ "ok": true,
+ "requestId": "chk-20261128-104946",
+ "finishedAt": "2026-11-28T10:50:16Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "paigearuz-travis-mathew-pink-tank-top-c89a",
-   "key": "depop:paigearuz-travis-mathew-pink-tank-top-c89a",
-   "url": "https://www.depop.com/products/paigearuz-travis-mathew-pink-tank-top-c89a/",
-   "checkedAt": "2026-11-28T10:49:11Z",
-   "ok": false,
-   "status": "not_found",
-   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+   "slug": "chrisdgalsss-nfl-detroit-lions-blue-jersey-7885",
+   "key": "depop:chrisdgalsss-nfl-detroit-lions-blue-jersey-7885",
+   "url": "https://www.depop.com/products/chrisdgalsss-nfl-detroit-lions-blue-jersey-7885/",
+   "checkedAt": "2026-11-28T10:50:15Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "NFL Detroit Lions blue jersey with white and silver...",
+   "brand": "NFL",
+   "price": 7.79,
+   "shipping": 6.0,
+   "shippingKnown": false,
+   "buyerFee": 1.39,
+   "tax": 0.9,
+   "totalCost": 16.07,
+   "size": "S",
+   "condition": "Used",
+   "seller": "chrisdealsss",
+   "photo": "https://media-photos.depop.com/b1/478270607/4665989801_b7ab4a7268f94dd183688d229f12da47/P0.jpg",
+   "max": 12.14,
+   "verdict": "TOO HIGH: 16.07 total is over your max 12.14"
   }
  ]
 }
