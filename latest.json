@@ -5628,11 +5628,11 @@
  "depop:1z_sells-vintage-disney-goofy-hoodie-good-707e": {
   "brand": "Disney",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-28T06:37:11Z",
+  "checkedAt": "2026-11-28T08:49:10Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:1z_sells-vintage-disney-goofy-hoodie-good-707e",
-  "max": 19.61,
+  "max": 60.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/49197257/5091261965_edd45e3e35f448f0a758edb24760ec48/P0.jpg",
   "platform": "depop",
@@ -5648,7 +5648,7 @@
   "title": "vintage disney goofy hoodie \n\n\ngood condition...",
   "totalCost": 20.61,
   "url": "https://www.depop.com/products/1z_sells-vintage-disney-goofy-hoodie-good-707e/",
-  "verdict": "TOO HIGH: 20.61 total is over your max 19.61"
+  "verdict": "OK: 20.61 total is at or under your max 60.00"
  },
  "depop:3rdeyethrifts_-vintage-undercover-wear-teal-slip": {
   "brand": "Undercover",
@@ -6003,11 +6003,11 @@
  "depop:cocomnaps-apple-bottom-jeans-size-56-6a8e": {
   "brand": "Apple Bottoms",
   "buyerFee": 1.75,
-  "checkedAt": "2026-11-28T06:32:13Z",
+  "checkedAt": "2026-11-28T08:48:07Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:cocomnaps-apple-bottom-jeans-size-56-6a8e",
-  "max": 24.3,
+  "max": 60.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/325677675/3858649030_ac84375ec0124b2db4f0698cefce9c61/P0.jpg",
   "platform": "depop",
@@ -6023,7 +6023,7 @@
   "title": "Apple bottom jeans size 5/6 kids early 00\u2019 Pink...",
   "totalCost": 26.38,
   "url": "https://www.depop.com/products/cocomnaps-apple-bottom-jeans-size-56-6a8e/",
-  "verdict": "TOO HIGH: 26.38 total is over your max 24.30"
+  "verdict": "OK: 26.38 total is at or under your max 60.00"
  },
  "depop:coolgugl600-christian-audigier-navy-blue-zip-42d6": {
   "brand": "Christian Audigier",
@@ -6102,8 +6102,8 @@
  },
  "depop:daenaclo2et-house-of-cb-blue-sequin-5193": {
   "brand": "House of CB",
-  "buyerFee": 1.46,
-  "checkedAt": "2026-11-28T05:48:24Z",
+  "buyerFee": 1.4,
+  "checkedAt": "2026-11-28T08:47:35Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:daenaclo2et-house-of-cb-blue-sequin-5193",
@@ -6111,7 +6111,7 @@
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/295435455/5150309973_c88b579ee3d54243936a29214837bb56/P0.jpg",
   "platform": "depop",
-  "price": 9.1,
+  "price": 8.0,
   "seller": "daenacloset",
   "shipping": 6.0,
   "shippingKnown": false,
@@ -6119,11 +6119,11 @@
   "slug": "daenaclo2et-house-of-cb-blue-sequin-5193",
   "sold": false,
   "status": "ok",
-  "tax": 1.03,
+  "tax": 0.92,
   "title": "House of CB blue sequin crop top with silver floral...",
-  "totalCost": 17.58,
+  "totalCost": 16.32,
   "url": "https://www.depop.com/products/daenaclo2et-house-of-cb-blue-sequin-5193/",
-  "verdict": "OK: 17.58 total is at or under your max 60.00"
+  "verdict": "OK: 16.32 total is at or under your max 60.00"
  },
  "depop:danteahim14-needles-black-t-shirt-with-green-808d": {
   "brand": "Needles",
@@ -6203,11 +6203,11 @@
  "depop:dinguo627-kith-classics-gray-workout-hoodie-a162": {
   "brand": "Kith",
   "buyerFee": 1.77,
-  "checkedAt": "2026-11-28T06:36:02Z",
+  "checkedAt": "2026-11-28T08:48:50Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:dinguo627-kith-classics-gray-workout-hoodie-a162",
-  "max": 22.75,
+  "max": 60.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/399859701/5165385730_c960cb235dbd4fdbb9c3dfa98677de73/P0.jpg",
   "platform": "depop",
@@ -6223,7 +6223,7 @@
   "title": "Kith classics gray workout  hoodie size L #kith...",
   "totalCost": 26.73,
   "url": "https://www.depop.com/products/dinguo627-kith-classics-gray-workout-hoodie-a162/",
-  "verdict": "TOO HIGH: 26.73 total is over your max 22.75"
+  "verdict": "OK: 26.73 total is at or under your max 60.00"
  },
  "depop:dripcheccthestore-nike-x-nocta-black-7676": {
   "brand": "NOCTA",
@@ -7251,11 +7251,11 @@
  "depop:orbitalplus3time-brown-cable-knit-quarter-zip-ba9a": {
   "brand": "Karl Kani",
   "buyerFee": 1.48,
-  "checkedAt": "2026-11-28T06:34:42Z",
+  "checkedAt": "2026-11-28T08:48:29Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:orbitalplus3time-brown-cable-knit-quarter-zip-ba9a",
-  "max": 12.67,
+  "max": 60.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/39366079/4913363468_dd4ca25725b443ffa41a106b21fd689c/P0.jpg",
   "platform": "depop",
@@ -7271,7 +7271,7 @@
   "title": "Brown cable knit quarter zip sweater in a L...",
   "totalCost": 20.05,
   "url": "https://www.depop.com/products/orbitalplus3time-brown-cable-knit-quarter-zip-ba9a/",
-  "verdict": "TOO HIGH: 20.05 total is over your max 12.67"
+  "verdict": "OK: 20.05 total is at or under your max 60.00"
  },
  "depop:paigearuz-travis-mathew-pink-tank-top-c89a": {
   "brand": "TravisMathew",
@@ -7425,28 +7425,28 @@
  },
  "depop:shawndeanhillu-cleveland-cavaliers-red-black-ba46": {
   "brand": "NBA",
-  "buyerFee": 1.56,
-  "checkedAt": "2026-11-28T06:38:38Z",
+  "buyerFee": 1.5,
+  "checkedAt": "2026-11-28T08:49:30Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:shawndeanhillu-cleveland-cavaliers-red-black-ba46",
-  "max": 19.57,
+  "max": 60.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/204440345/4071859487_72f6601980004898b9f5249ba2c459e7/P0.jpg",
   "platform": "depop",
-  "price": 11.2,
+  "price": 10.0,
   "seller": "shawndeanhill897",
   "shipping": 8.0,
   "shippingKnown": false,
-  "size": "M",
+  "size": "S",
   "slug": "shawndeanhillu-cleveland-cavaliers-red-black-ba46",
   "sold": false,
   "status": "ok",
-  "tax": 1.24,
+  "tax": 1.12,
   "title": "Cleveland Cavaliers red + black jacket Size S #NBA...",
-  "totalCost": 22.0,
+  "totalCost": 20.62,
   "url": "https://www.depop.com/products/shawndeanhillu-cleveland-cavaliers-red-black-ba46/",
-  "verdict": "TOO HIGH: 22.00 total is over your max 19.57"
+  "verdict": "OK: 20.62 total is at or under your max 60.00"
  },
  "depop:svwvn_242-rab-purple-blue-windbreaker-efc3": {
   "brand": "Rab",
