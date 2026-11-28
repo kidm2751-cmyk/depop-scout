@@ -5628,11 +5628,11 @@
  "depop:1z_sells-vintage-disney-goofy-hoodie-good-707e": {
   "brand": "Disney",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-28T11:25:57Z",
+  "checkedAt": "2026-11-28T14:49:47Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:1z_sells-vintage-disney-goofy-hoodie-good-707e",
-  "max": 19.61,
+  "max": 60.0,
   "ok": true,
   "photo": "https://media-photos.depop.com/r1/49197257/5091261965_edd45e3e35f448f0a758edb24760ec48/P0.jpg",
   "platform": "depop",
@@ -5648,7 +5648,7 @@
   "title": "vintage disney goofy hoodie \n\n\ngood condition...",
   "totalCost": 20.61,
   "url": "https://www.depop.com/products/1z_sells-vintage-disney-goofy-hoodie-good-707e/",
-  "verdict": "TOO HIGH: 20.61 total is over your max 19.61"
+  "verdict": "OK: 20.61 total is at or under your max 60.00"
  },
  "depop:3rdeyethrifts_-vintage-undercover-wear-teal-slip": {
   "brand": "Undercover",
@@ -5803,7 +5803,7 @@
  "depop:avriepeck-salomon-orange-puffer-jacket-size-2f1d": {
   "brand": "Salomon",
   "buyerFee": 1.65,
-  "checkedAt": "2026-11-28T12:22:10Z",
+  "checkedAt": "2026-11-28T14:52:42Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:avriepeck-salomon-orange-puffer-jacket-size-2f1d",
@@ -5853,7 +5853,7 @@
  "depop:behrthrift-vintage-todd-black-bomber-snap-34b9": {
   "brand": "Todd Snyder",
   "buyerFee": 2.25,
-  "checkedAt": "2026-11-28T12:17:21Z",
+  "checkedAt": "2026-11-28T14:50:20Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:behrthrift-vintage-todd-black-bomber-snap-34b9",
@@ -5903,7 +5903,7 @@
  "depop:by_bxitneytf-aritzia-babaton-black-dress-in-4d2b": {
   "brand": "Aritzia",
   "buyerFee": 1.85,
-  "checkedAt": "2026-11-28T12:21:30Z",
+  "checkedAt": "2026-11-28T14:52:03Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:by_bxitneytf-aritzia-babaton-black-dress-in-4d2b",
@@ -6353,7 +6353,7 @@
  "depop:hava_sxop-converse-x-neighborhood-black-hoodie-8e4b": {
   "brand": "Converse",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-28T12:20:26Z",
+  "checkedAt": "2026-11-28T14:51:04Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:hava_sxop-converse-x-neighborhood-black-hoodie-8e4b",
@@ -6428,7 +6428,7 @@
  "depop:isaacstohed-vintage-independent-trucks-tank-top-aa51": {
   "brand": "Other",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-28T12:21:11Z",
+  "checkedAt": "2026-11-28T14:51:43Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:isaacstohed-vintage-independent-trucks-tank-top-aa51",
@@ -6603,7 +6603,7 @@
  "depop:jikariahjriel-rocawear-burgundy-jacket-with-gold-40e6": {
   "brand": "Rocawear",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-28T12:21:50Z",
+  "checkedAt": "2026-11-28T14:52:22Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:jikariahjriel-rocawear-burgundy-jacket-with-gold-40e6",
@@ -6826,7 +6826,7 @@
  "depop:kasymeborjas14-ksubi-blue-denim-mini-skirt-162c": {
   "brand": "Ksubi",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-28T12:20:49Z",
+  "checkedAt": "2026-11-28T14:51:23Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:kasymeborjas14-ksubi-blue-denim-mini-skirt-162c",
@@ -7676,7 +7676,7 @@
  "depop:tuekdougan-footjoy-vintage-navy-blue-sweatshirt-86a8": {
   "brand": "FootJoy",
   "buyerFee": 1.5,
-  "checkedAt": "2026-11-28T12:19:55Z",
+  "checkedAt": "2026-11-28T14:50:42Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:tuekdougan-footjoy-vintage-navy-blue-sweatshirt-86a8",
