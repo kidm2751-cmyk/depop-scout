@@ -1,33 +1,18 @@
 {
- "ok": true,
- "requestId": "chk-20261128-075222",
- "finishedAt": "2026-11-28T07:53:22Z",
+ "ok": false,
+ "requestId": "chk-20261128-081430",
+ "finishedAt": "2026-11-28T08:15:45Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "verungyte70-alo-yoga-black-airbrush-goddess-f120",
-   "key": "depop:verungyte70-alo-yoga-black-airbrush-goddess-f120",
-   "url": "https://www.depop.com/products/verungyte70-alo-yoga-black-airbrush-goddess-f120/",
-   "checkedAt": "2026-11-28T07:52:49Z",
-   "ok": true,
-   "status": "ok",
-   "sold": false,
-   "inStock": true,
-   "title": "Alo yoga black airbrush goddess leggings. Size...",
-   "brand": "Alo Yoga",
-   "price": 16.45,
-   "shipping": 6.0,
-   "shippingKnown": false,
-   "buyerFee": 1.82,
-   "tax": 1.78,
-   "totalCost": 26.05,
-   "size": "M",
-   "condition": "Used",
-   "seller": "veringyte70",
-   "photo": "https://media-photos.depop.com/b1/252494241/repop_220303268_3434058863/5202822700_50ca6841a0f4469eabaec765cb117163/P0.jpg",
-   "max": 24.35,
-   "verdict": "TOO HIGH: 26.05 total is over your max 24.35"
+   "slug": "fem7elling-vintage-y2k-bench-barbour-style-2e16",
+   "key": "depop:fem7elling-vintage-y2k-bench-barbour-style-2e16",
+   "url": "https://www.depop.com/products/fem7elling-vintage-y2k-bench-barbour-style-2e16/",
+   "checkedAt": "2026-11-28T08:15:21Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
   }
  ]
 }
