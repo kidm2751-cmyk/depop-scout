@@ -7600,8 +7600,8 @@
  },
  "depop:theresafin1-vintage-y2k-burton-snowboard-womens-304b": {
   "brand": "Burton",
-  "buyerFee": 2.0,
-  "checkedAt": "2026-11-28T00:24:48Z",
+  "buyerFee": 1.85,
+  "checkedAt": "2026-11-28T02:48:46Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:theresafin1-vintage-y2k-burton-snowboard-womens-304b",
@@ -7609,7 +7609,7 @@
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/238955037/4965281159_10120a1e80554d968f850b74fae9d11b/P0.jpg",
   "platform": "depop",
-  "price": 20.0,
+  "price": 17.0,
   "seller": "theresafind",
   "shipping": 6.0,
   "shippingKnown": false,
@@ -7617,11 +7617,11 @@
   "slug": "theresafin1-vintage-y2k-burton-snowboard-womens-304b",
   "sold": false,
   "status": "ok",
-  "tax": 2.15,
+  "tax": 1.84,
   "title": "Vintage Y2K Burton Snowboard Women's White Graphic...",
-  "totalCost": 30.14,
+  "totalCost": 26.69,
   "url": "https://www.depop.com/products/theresafin1-vintage-y2k-burton-snowboard-womens-304b/",
-  "verdict": "TOO HIGH: 30.14 total is over your max 26.80"
+  "verdict": "OK: 26.69 total is at or under your max 26.80"
  },
  "depop:timthriftso1-outdoor-research-gorp-core-fleece-7c25": {
   "brand": "Outdoor Research",
