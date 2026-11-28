@@ -1,7 +1,7 @@
 {
  "ok": false,
- "requestId": "chk-20261127-230723",
- "finishedAt": "2026-11-27T23:08:29Z",
+ "requestId": "chk-20261128-025026",
+ "finishedAt": "2026-11-28T02:51:43Z",
  "checked": 1,
  "items": [
   {
@@ -9,7 +9,7 @@
    "slug": "icfuldbemid-nike-reversible-new-york-jets-b93a",
    "key": "depop:icfuldbemid-nike-reversible-new-york-jets-b93a",
    "url": "https://www.depop.com/products/icfuldbemid-nike-reversible-new-york-jets-b93a/",
-   "checkedAt": "2026-11-27T23:08:05Z",
+   "checkedAt": "2026-11-28T02:51:19Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
