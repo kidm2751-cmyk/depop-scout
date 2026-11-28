@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261128-102109",
- "finishedAt": "2026-11-28T10:22:05Z",
+ "requestId": "chk-20261128-102219",
+ "finishedAt": "2026-11-28T10:23:10Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "verungyte70-alo-yoga-black-airbrush-goddess-f120",
-   "key": "depop:verungyte70-alo-yoga-black-airbrush-goddess-f120",
-   "url": "https://www.depop.com/products/verungyte70-alo-yoga-black-airbrush-goddess-f120/",
-   "checkedAt": "2026-11-28T10:21:43Z",
+   "slug": "coolgugl600-christian-audigier-navy-blue-zip-42d6",
+   "key": "depop:coolgugl600-christian-audigier-navy-blue-zip-42d6",
+   "url": "https://www.depop.com/products/coolgugl600-christian-audigier-navy-blue-zip-42d6/",
+   "checkedAt": "2026-11-28T10:22:47Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
