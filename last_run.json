@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261128-081603",
- "finishedAt": "2026-11-28T08:16:57Z",
+ "requestId": "chk-20261128-081712",
+ "finishedAt": "2026-11-28T08:18:17Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "ma6as_hustle-bear-the-beams-gray-945b",
-   "key": "depop:ma6as_hustle-bear-the-beams-gray-945b",
-   "url": "https://www.depop.com/products/ma6as_hustle-bear-the-beams-gray-945b/",
-   "checkedAt": "2026-11-28T08:16:35Z",
+   "slug": "daenaclo2et-house-of-cb-blue-sequin-5193",
+   "key": "depop:daenaclo2et-house-of-cb-blue-sequin-5193",
+   "url": "https://www.depop.com/products/daenaclo2et-house-of-cb-blue-sequin-5193/",
+   "checkedAt": "2026-11-28T08:17:56Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
