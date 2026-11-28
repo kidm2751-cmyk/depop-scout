@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261128-031831",
- "finishedAt": "2026-11-28T03:19:23Z",
+ "requestId": "chk-20261128-031941",
+ "finishedAt": "2026-11-28T03:20:55Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "cocomnaps-apple-bottom-jeans-size-56-6a8e",
-   "key": "depop:cocomnaps-apple-bottom-jeans-size-56-6a8e",
-   "url": "https://www.depop.com/products/cocomnaps-apple-bottom-jeans-size-56-6a8e/",
-   "checkedAt": "2026-11-28T03:19:00Z",
+   "slug": "isaacstohed-vintage-independent-trucks-tank-top-aa51",
+   "key": "depop:isaacstohed-vintage-independent-trucks-tank-top-aa51",
+   "url": "https://www.depop.com/products/isaacstohed-vintage-independent-trucks-tank-top-aa51/",
+   "checkedAt": "2026-11-28T03:20:31Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
