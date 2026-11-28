@@ -1,7 +1,7 @@
 {
  "ok": true,
- "requestId": "chk-20261128-063804",
- "finishedAt": "2026-11-28T06:39:11Z",
+ "requestId": "chk-20261128-112635",
+ "finishedAt": "2026-11-28T11:27:09Z",
  "checked": 1,
  "items": [
   {
@@ -9,25 +9,25 @@
    "slug": "shawndeanhillu-cleveland-cavaliers-red-black-ba46",
    "key": "depop:shawndeanhillu-cleveland-cavaliers-red-black-ba46",
    "url": "https://www.depop.com/products/shawndeanhillu-cleveland-cavaliers-red-black-ba46/",
-   "checkedAt": "2026-11-28T06:38:38Z",
+   "checkedAt": "2026-11-28T11:27:07Z",
    "ok": true,
    "status": "ok",
    "sold": false,
    "inStock": true,
    "title": "Cleveland Cavaliers red + black jacket Size S #NBA...",
    "brand": "NBA",
-   "price": 11.2,
+   "price": 10.0,
    "shipping": 8.0,
    "shippingKnown": false,
-   "buyerFee": 1.56,
-   "tax": 1.24,
-   "totalCost": 22.0,
-   "size": "M",
+   "buyerFee": 1.5,
+   "tax": 1.12,
+   "totalCost": 20.62,
+   "size": "S",
    "condition": "Used",
    "seller": "shawndeanhill897",
    "photo": "https://media-photos.depop.com/b1/204440345/4071859487_72f6601980004898b9f5249ba2c459e7/P0.jpg",
    "max": 19.57,
-   "verdict": "TOO HIGH: 22.00 total is over your max 19.57"
+   "verdict": "TOO HIGH: 20.62 total is over your max 19.57"
   }
  ]
 }
