@@ -1,0 +1,58 @@
+{
+ "ok": false,
+ "requestId": "chk-20261128-055026",
+ "finishedAt": "2026-11-28T05:53:01Z",
+ "checked": 5,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "orbitalplus3time-brown-cable-knit-quarter-zip-ba9a",
+   "key": "depop:orbitalplus3time-brown-cable-knit-quarter-zip-ba9a",
+   "url": "https://www.depop.com/products/orbitalplus3time-brown-cable-knit-quarter-zip-ba9a/",
+   "checkedAt": "2026-11-28T05:51:22Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  },
+  {
+   "platform": "depop",
+   "slug": "1z_sells-vintage-disney-goofy-hoodie-good-707e",
+   "key": "depop:1z_sells-vintage-disney-goofy-hoodie-good-707e",
+   "url": "https://www.depop.com/products/1z_sells-vintage-disney-goofy-hoodie-good-707e/",
+   "checkedAt": "2026-11-28T05:51:44Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  },
+  {
+   "platform": "depop",
+   "slug": "avriepeck-salomon-orange-puffer-jacket-size-2f1d",
+   "key": "depop:avriepeck-salomon-orange-puffer-jacket-size-2f1d",
+   "url": "https://www.depop.com/products/avriepeck-salomon-orange-puffer-jacket-size-2f1d/",
+   "checkedAt": "2026-11-28T05:52:05Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  },
+  {
+   "platform": "depop",
+   "slug": "by_bxitneytf-aritzia-babaton-black-dress-in-4d2b",
+   "key": "depop:by_bxitneytf-aritzia-babaton-black-dress-in-4d2b",
+   "url": "https://www.depop.com/products/by_bxitneytf-aritzia-babaton-black-dress-in-4d2b/",
+   "checkedAt": "2026-11-28T05:52:25Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  },
+  {
+   "platform": "depop",
+   "slug": "icfuldbemid-nike-reversible-new-york-jets-b93a",
+   "key": "depop:icfuldbemid-nike-reversible-new-york-jets-b93a",
+   "url": "https://www.depop.com/products/icfuldbemid-nike-reversible-new-york-jets-b93a/",
+   "checkedAt": "2026-11-28T05:52:43Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  }
+ ]
+}
