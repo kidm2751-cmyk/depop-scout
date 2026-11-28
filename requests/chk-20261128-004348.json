@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "requestId": "chk-20261128-004348",
+ "finishedAt": "2026-11-28T00:44:36Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "isaacstohed-vintage-independent-trucks-tank-top-aa51",
+   "key": "depop:isaacstohed-vintage-independent-trucks-tank-top-aa51",
+   "url": "https://www.depop.com/products/isaacstohed-vintage-independent-trucks-tank-top-aa51/",
+   "checkedAt": "2026-11-28T00:44:12Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Vintage Independent trucks tank top \n#skate...",
+   "brand": "Other",
+   "price": 11.2,
+   "shipping": 6.0,
+   "shippingKnown": false,
+   "buyerFee": 1.56,
+   "tax": 1.24,
+   "totalCost": 20.0,
+   "size": "L",
+   "condition": "Used",
+   "seller": "isaacstoned",
+   "photo": "https://media-photos.depop.com/r1/16857177/5192500159_598840b5089e4574b9a2c2013bce7e6d/P0.jpg",
+   "max": 19.61,
+   "verdict": "TOO HIGH: 20.00 total is over your max 19.61"
+  }
+ ]
+}
