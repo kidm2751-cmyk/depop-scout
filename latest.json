@@ -6951,11 +6951,11 @@
  "depop:ma6as_hustle-bear-the-beams-gray-945b": {
   "brand": "Shoe the Bear",
   "buyerFee": 1.4,
-  "checkedAt": "2026-11-27T20:15:43Z",
+  "checkedAt": "2026-11-28T00:20:32Z",
   "condition": "Used",
   "inStock": true,
   "key": "depop:ma6as_hustle-bear-the-beams-gray-945b",
-  "max": 60.0,
+  "max": 15.09,
   "ok": true,
   "photo": "https://media-photos.depop.com/b1/209661158/5074356416_25dc895362de45c7ae79cf94b8b1b0b4/P0.jpg",
   "platform": "depop",
@@ -6971,7 +6971,7 @@
   "title": "Bear the Beams gray &amp; blue abstract wavy line...",
   "totalCost": 16.32,
   "url": "https://www.depop.com/products/ma6as_hustle-bear-the-beams-gray-945b/",
-  "verdict": "OK: 16.32 total is at or under your max 60.00"
+  "verdict": "TOO HIGH: 16.32 total is over your max 15.09"
  },
  "depop:makjylalevins-healing-hands-hh360-noah-cargo-e1a6": {
   "brand": "Healing Hands",
