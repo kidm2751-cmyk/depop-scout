@@ -1,0 +1,18 @@
+{
+ "ok": false,
+ "requestId": "chk-20261128-101836",
+ "finishedAt": "2026-11-28T10:19:33Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "paigearuz-travis-mathew-pink-tank-top-c89a",
+   "key": "depop:paigearuz-travis-mathew-pink-tank-top-c89a",
+   "url": "https://www.depop.com/products/paigearuz-travis-mathew-pink-tank-top-c89a/",
+   "checkedAt": "2026-11-28T10:19:11Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  }
+ ]
+}
