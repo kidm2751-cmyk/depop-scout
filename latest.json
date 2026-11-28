@@ -1177,7 +1177,7 @@
   "asin": "B07P5TMHD9",
   "boughtPastMonth": 10000,
   "brand": "Eclat Skincare",
-  "checkedAt": "2026-11-28T03:23:57Z",
+  "checkedAt": "2026-11-28T05:32:20Z",
   "coupon": null,
   "deal": "Black Friday Deal",
   "inStock": true,
@@ -1185,7 +1185,7 @@
   "listPrice": 9.98,
   "listPriceKind": "typical",
   "lowestIn30Days": false,
-  "max": 45.0,
+  "max": 9.98,
   "ok": true,
   "pctOff": 20.0,
   "photo": "https://m.media-amazon.com/images/I/71JhFNvHqxL._SL1500_.jpg",
@@ -1199,7 +1199,7 @@
   "status": "ok",
   "title": "Eclat Skincare Brightening Vitamin C Serum for Face with Vitamin E 1 Fl Oz",
   "url": "https://www.amazon.com/dp/B07P5TMHD9",
-  "verdict": "OK: 7.98 is at or under your max 45.00"
+  "verdict": "OK: 7.98 is at or under your max 9.98"
  },
  "B07QW3HMKF": {
   "asin": "B07QW3HMKF",
