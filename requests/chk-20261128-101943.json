@@ -1,0 +1,18 @@
+{
+ "ok": false,
+ "requestId": "chk-20261128-101943",
+ "finishedAt": "2026-11-28T10:20:57Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "danteahim14-needles-black-t-shirt-with-green-808d",
+   "key": "depop:danteahim14-needles-black-t-shirt-with-green-808d",
+   "url": "https://www.depop.com/products/danteahim14-needles-black-t-shirt-with-green-808d/",
+   "checkedAt": "2026-11-28T10:20:33Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  }
+ ]
+}
