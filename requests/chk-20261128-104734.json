@@ -1,0 +1,18 @@
+{
+ "ok": false,
+ "requestId": "chk-20261128-104734",
+ "finishedAt": "2026-11-28T10:48:33Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "jamesy_roy06-black-white-margaritaville-jimmy-59eb",
+   "key": "depop:jamesy_roy06-black-white-margaritaville-jimmy-59eb",
+   "url": "https://www.depop.com/products/jamesy_roy06-black-white-margaritaville-jimmy-59eb/",
+   "checkedAt": "2026-11-28T10:48:10Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  }
+ ]
+}
