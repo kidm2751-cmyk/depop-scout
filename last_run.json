@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261128-135703",
- "finishedAt": "2026-11-28T14:00:55Z",
- "checked": 9,
+ "requestId": "chk-20261128-141415",
+ "finishedAt": "2026-11-28T14:17:01Z",
+ "checked": 5,
  "items": [
   {
    "platform": "depop",
    "slug": "jace2mhm-y2k-burton-snowboard-graphic-shirt-6ef7",
    "key": "depop:jace2mhm-y2k-burton-snowboard-graphic-shirt-6ef7",
    "url": "https://www.depop.com/products/jace2mhm-y2k-burton-snowboard-graphic-shirt-6ef7/",
-   "checkedAt": "2026-11-28T13:58:01Z",
+   "checkedAt": "2026-11-28T14:15:19Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
@@ -19,7 +19,7 @@
    "slug": "cocomnaps-apple-bottom-jeans-size-56-6a8e",
    "key": "depop:cocomnaps-apple-bottom-jeans-size-56-6a8e",
    "url": "https://www.depop.com/products/cocomnaps-apple-bottom-jeans-size-56-6a8e/",
-   "checkedAt": "2026-11-28T13:58:26Z",
+   "checkedAt": "2026-11-28T14:15:44Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
@@ -29,7 +29,7 @@
    "slug": "orbitalplus3time-brown-cable-knit-quarter-zip-ba9a",
    "key": "depop:orbitalplus3time-brown-cable-knit-quarter-zip-ba9a",
    "url": "https://www.depop.com/products/orbitalplus3time-brown-cable-knit-quarter-zip-ba9a/",
-   "checkedAt": "2026-11-28T13:58:46Z",
+   "checkedAt": "2026-11-28T14:16:05Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
@@ -39,7 +39,7 @@
    "slug": "dinguo627-kith-classics-gray-workout-hoodie-a162",
    "key": "depop:dinguo627-kith-classics-gray-workout-hoodie-a162",
    "url": "https://www.depop.com/products/dinguo627-kith-classics-gray-workout-hoodie-a162/",
-   "checkedAt": "2026-11-28T13:59:06Z",
+   "checkedAt": "2026-11-28T14:16:25Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
@@ -49,47 +49,7 @@
    "slug": "1z_sells-vintage-disney-goofy-hoodie-good-707e",
    "key": "depop:1z_sells-vintage-disney-goofy-hoodie-good-707e",
    "url": "https://www.depop.com/products/1z_sells-vintage-disney-goofy-hoodie-good-707e/",
-   "checkedAt": "2026-11-28T13:59:24Z",
-   "ok": false,
-   "status": "not_found",
-   "error": "Couldn't read this listing (removed, or Depop changed its page)."
-  },
-  {
-   "platform": "depop",
-   "slug": "shawndeanhillu-cleveland-cavaliers-red-black-ba46",
-   "key": "depop:shawndeanhillu-cleveland-cavaliers-red-black-ba46",
-   "url": "https://www.depop.com/products/shawndeanhillu-cleveland-cavaliers-red-black-ba46/",
-   "checkedAt": "2026-11-28T13:59:42Z",
-   "ok": false,
-   "status": "not_found",
-   "error": "Couldn't read this listing (removed, or Depop changed its page)."
-  },
-  {
-   "platform": "depop",
-   "slug": "jamesy_roy06-black-white-margaritaville-jimmy-59eb",
-   "key": "depop:jamesy_roy06-black-white-margaritaville-jimmy-59eb",
-   "url": "https://www.depop.com/products/jamesy_roy06-black-white-margaritaville-jimmy-59eb/",
-   "checkedAt": "2026-11-28T14:00:00Z",
-   "ok": false,
-   "status": "not_found",
-   "error": "Couldn't read this listing (removed, or Depop changed its page)."
-  },
-  {
-   "platform": "depop",
-   "slug": "danteahim14-needles-black-t-shirt-with-green-808d",
-   "key": "depop:danteahim14-needles-black-t-shirt-with-green-808d",
-   "url": "https://www.depop.com/products/danteahim14-needles-black-t-shirt-with-green-808d/",
-   "checkedAt": "2026-11-28T14:00:18Z",
-   "ok": false,
-   "status": "not_found",
-   "error": "Couldn't read this listing (removed, or Depop changed its page)."
-  },
-  {
-   "platform": "depop",
-   "slug": "verungyte70-alo-yoga-black-airbrush-goddess-f120",
-   "key": "depop:verungyte70-alo-yoga-black-airbrush-goddess-f120",
-   "url": "https://www.depop.com/products/verungyte70-alo-yoga-black-airbrush-goddess-f120/",
-   "checkedAt": "2026-11-28T14:00:36Z",
+   "checkedAt": "2026-11-28T14:16:43Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
