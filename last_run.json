@@ -1,18 +1,33 @@
 {
- "ok": false,
- "requestId": "chk-20261128-112115",
- "finishedAt": "2026-11-28T11:22:07Z",
+ "ok": true,
+ "requestId": "chk-20261128-112219",
+ "finishedAt": "2026-11-28T11:22:47Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "ishi_bei-navy-gray-starter-michigan-e3a7",
-   "key": "depop:ishi_bei-navy-gray-starter-michigan-e3a7",
-   "url": "https://www.depop.com/products/ishi_bei-navy-gray-starter-michigan-e3a7/",
-   "checkedAt": "2026-11-28T11:21:45Z",
-   "ok": false,
-   "status": "not_found",
-   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+   "slug": "jace2mhm-y2k-burton-snowboard-graphic-shirt-6ef7",
+   "key": "depop:jace2mhm-y2k-burton-snowboard-graphic-shirt-6ef7",
+   "url": "https://www.depop.com/products/jace2mhm-y2k-burton-snowboard-graphic-shirt-6ef7/",
+   "checkedAt": "2026-11-28T11:22:46Z",
+   "ok": true,
+   "status": "ok",
+   "sold": false,
+   "inStock": true,
+   "title": "Y2K Burton snowboard shirt \nWoman\u2019s small \n\nFrom...",
+   "brand": "Burton",
+   "price": 21.7,
+   "shipping": 6.0,
+   "shippingKnown": false,
+   "buyerFee": 2.08,
+   "tax": 2.32,
+   "totalCost": 32.1,
+   "size": "L",
+   "condition": "Used",
+   "seller": "jace_mhm",
+   "photo": "https://media-photos.depop.com/b1/499933322/4609408539_97849c1a6ebe4796b76518a4c763697c/P0.jpg",
+   "max": 23.69,
+   "verdict": "TOO HIGH: 32.10 total is over your max 23.69"
   }
  ]
 }
