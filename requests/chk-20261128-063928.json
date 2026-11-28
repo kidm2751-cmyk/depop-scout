@@ -1,0 +1,18 @@
+{
+ "ok": false,
+ "requestId": "chk-20261128-063928",
+ "finishedAt": "2026-11-28T06:40:24Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "behrthrift-vintage-todd-black-bomber-snap-34b9",
+   "key": "depop:behrthrift-vintage-todd-black-bomber-snap-34b9",
+   "url": "https://www.depop.com/products/behrthrift-vintage-todd-black-bomber-snap-34b9/",
+   "checkedAt": "2026-11-28T06:40:00Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  }
+ ]
+}

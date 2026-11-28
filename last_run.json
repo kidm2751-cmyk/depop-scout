@@ -1,33 +1,18 @@
 {
- "ok": true,
- "requestId": "chk-20261128-063804",
- "finishedAt": "2026-11-28T06:39:11Z",
+ "ok": false,
+ "requestId": "chk-20261128-063928",
+ "finishedAt": "2026-11-28T06:40:24Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "shawndeanhillu-cleveland-cavaliers-red-black-ba46",
-   "key": "depop:shawndeanhillu-cleveland-cavaliers-red-black-ba46",
-   "url": "https://www.depop.com/products/shawndeanhillu-cleveland-cavaliers-red-black-ba46/",
-   "checkedAt": "2026-11-28T06:38:38Z",
-   "ok": true,
-   "status": "ok",
-   "sold": false,
-   "inStock": true,
-   "title": "Cleveland Cavaliers red + black jacket Size S #NBA...",
-   "brand": "NBA",
-   "price": 11.2,
-   "shipping": 8.0,
-   "shippingKnown": false,
-   "buyerFee": 1.56,
-   "tax": 1.24,
-   "totalCost": 22.0,
-   "size": "M",
-   "condition": "Used",
-   "seller": "shawndeanhill897",
-   "photo": "https://media-photos.depop.com/b1/204440345/4071859487_72f6601980004898b9f5249ba2c459e7/P0.jpg",
-   "max": 19.57,
-   "verdict": "TOO HIGH: 22.00 total is over your max 19.57"
+   "slug": "behrthrift-vintage-todd-black-bomber-snap-34b9",
+   "key": "depop:behrthrift-vintage-todd-black-bomber-snap-34b9",
+   "url": "https://www.depop.com/products/behrthrift-vintage-todd-black-bomber-snap-34b9/",
+   "checkedAt": "2026-11-28T06:40:00Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
   }
  ]
 }
