@@ -1,0 +1,18 @@
+{
+ "ok": false,
+ "requestId": "chk-20261128-111554",
+ "finishedAt": "2026-11-28T11:16:50Z",
+ "checked": 1,
+ "items": [
+  {
+   "platform": "depop",
+   "slug": "lamodamarket-grey-beavis-and-butthead-crewneck-1de9",
+   "key": "depop:lamodamarket-grey-beavis-and-butthead-crewneck-1de9",
+   "url": "https://www.depop.com/products/lamodamarket-grey-beavis-and-butthead-crewneck-1de9/",
+   "checkedAt": "2026-11-28T11:16:29Z",
+   "ok": false,
+   "status": "not_found",
+   "error": "Couldn't read this listing (removed, or Depop changed its page)."
+  }
+ ]
+}
