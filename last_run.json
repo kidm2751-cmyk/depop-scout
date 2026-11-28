@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261128-003429",
- "finishedAt": "2026-11-28T00:35:28Z",
+ "requestId": "chk-20261128-003540",
+ "finishedAt": "2026-11-28T00:36:54Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "tuekdougan-footjoy-vintage-navy-blue-sweatshirt-86a8",
-   "key": "depop:tuekdougan-footjoy-vintage-navy-blue-sweatshirt-86a8",
-   "url": "https://www.depop.com/products/tuekdougan-footjoy-vintage-navy-blue-sweatshirt-86a8/",
-   "checkedAt": "2026-11-28T00:35:07Z",
+   "slug": "hava_sxop-converse-x-neighborhood-black-hoodie-8e4b",
+   "key": "depop:hava_sxop-converse-x-neighborhood-black-hoodie-8e4b",
+   "url": "https://www.depop.com/products/hava_sxop-converse-x-neighborhood-black-hoodie-8e4b/",
+   "checkedAt": "2026-11-28T00:36:31Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
