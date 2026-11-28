@@ -1,15 +1,15 @@
 {
  "ok": false,
- "requestId": "chk-20261128-105031",
- "finishedAt": "2026-11-28T10:51:28Z",
+ "requestId": "chk-20261128-105136",
+ "finishedAt": "2026-11-28T10:52:34Z",
  "checked": 1,
  "items": [
   {
    "platform": "depop",
-   "slug": "danteahim14-needles-black-t-shirt-with-green-808d",
-   "key": "depop:danteahim14-needles-black-t-shirt-with-green-808d",
-   "url": "https://www.depop.com/products/danteahim14-needles-black-t-shirt-with-green-808d/",
-   "checkedAt": "2026-11-28T10:51:06Z",
+   "slug": "verungyte70-alo-yoga-black-airbrush-goddess-f120",
+   "key": "depop:verungyte70-alo-yoga-black-airbrush-goddess-f120",
+   "url": "https://www.depop.com/products/verungyte70-alo-yoga-black-airbrush-goddess-f120/",
+   "checkedAt": "2026-11-28T10:52:11Z",
    "ok": false,
    "status": "not_found",
    "error": "Couldn't read this listing (removed, or Depop changed its page)."
